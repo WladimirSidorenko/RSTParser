@@ -1,0 +1,127 @@
+(Root
+  (span 1 18)
+  (Nucleus (leaf 1) (rel2par other) (text _!Schlammspritzer_!))
+  (Nucleus
+    (span 2 18)
+    (rel2par other)
+    (Satellite
+      (span 2 3)
+      (rel2par background)
+      (Nucleus
+        (leaf 2)
+        (rel2par other)
+        (text
+          _!Dass Wahlen wie Freundschaftsspiele ablaufen , kann wohl niemand ernsthaft erwarten ._!))
+      (Nucleus
+        (leaf 3)
+        (rel2par other)
+        (text
+          _!Dass Auseinandersetzungen um die Besetzung eines so wichtigen Postens wie des Bürgermeisters mit Streicheleinheiten einher gehen , auch nicht ._!)))
+    (Nucleus
+      (span 4 18)
+      (rel2par span)
+      (Nucleus
+        (span 4 6)
+        (rel2par other)
+        (Nucleus
+          (span 4 5)
+          (rel2par other)
+          (Nucleus
+            (leaf 4)
+            (rel2par span)
+            (text
+              _!Und doch schien es vor dem ersten Wahltag auch in Velten so , als sei der Streit um die Sache am wichtigsten ,_!))
+          (Satellite
+            (leaf 5)
+            (rel2par other)
+            (text
+              _!nicht so sehr der Treffer am Mann oder an der Frau ._!)))
+        (Nucleus
+          (leaf 6)
+          (rel2par other)
+          (text _!Das hat sich gründlich geändert ._!)))
+      (Nucleus
+        (span 7 14)
+        (rel2par other)
+        (Nucleus
+          (span 7 8)
+          (rel2par span)
+          (Satellite
+            (leaf 7)
+            (rel2par other)
+            (text _!Was weniger an den Kandidaten selbst liegt ,_!))
+          (Nucleus
+            (leaf 8)
+            (rel2par span)
+            (text
+              _!sondern an denen , die hinter ihnen die Strippen ziehen ._!)))
+        (Satellite
+          (span 9 14)
+          (rel2par elaboration)
+          (Satellite
+            (leaf 9)
+            (rel2par other)
+            (text _!Das ganze Programm wird abgespielt ._!))
+          (Nucleus
+            (span 10 14)
+            (rel2par span)
+            (Nucleus
+              (span 10 12)
+              (rel2par other)
+              (Nucleus
+                (leaf 10)
+                (rel2par other)
+                (text
+                  _!Auf der einen Seite privatrechtliche Probleme auf einmal zur öffentlichen Angelegenheit hochstilisiert ,_!))
+              (Nucleus
+                (span 11 12)
+                (rel2par other)
+                (Nucleus
+                  (leaf 11)
+                  (rel2par span)
+                  (text
+                    _!auf der anderen Seite ein Lebenslauf auf eine Art durchleuchtet ,_!))
+                (Satellite
+                  (leaf 12)
+                  (rel2par other)
+                  (text
+                    _!die auch die Autoren in schlechtes Licht bringt ._!))))
+            (Nucleus
+              (span 13 14)
+              (rel2par other)
+              (Satellite
+                (leaf 13)
+                (rel2par cause)
+                (text
+                  _!Und es gibt Rechenkünstler , die das Wahlergebnis vom 11. November so ummodeln ,_!))
+              (Nucleus
+                (leaf 14)
+                (rel2par span)
+                (text
+                  _!dass am 2. Dezember der Sieg des eigenen Kandidaten herauskommt ._!))))))
+      (Nucleus
+        (span 15 18)
+        (rel2par other)
+        (Nucleus
+          (leaf 15)
+          (rel2par other)
+          (text
+            _!Und doch machen sich einige Veltener echt Sorgen um den Verfall der Sitten_!))
+        (Nucleus
+          (span 16 18)
+          (rel2par other)
+          (Nucleus
+            (leaf 16)
+            (rel2par span)
+            (text _!und wollen eine Entscheidung ,_!))
+          (Satellite
+            (span 17 18)
+            (rel2par other)
+            (Nucleus
+              (leaf 17)
+              (rel2par span)
+              (text _!die der Stadt hilft ._!))
+            (Satellite
+              (leaf 18)
+              (rel2par other)
+              (text _!Nicht dem Ego ._!))))))))
