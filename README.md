@@ -1,8 +1,8 @@
 # RST Parser
 
-This project is a fork of [Ji's Shift-Reduce RST
+This project is a fork of [Ji's shift-reduce RST
 parser](https://github.com/jiyfeng/DPLP), wrapped as a Python package
-abd adjusted to the peculiarities of German data.
+and adjusted to the peculiarities of German data.
 
 ## Modules ##
 
