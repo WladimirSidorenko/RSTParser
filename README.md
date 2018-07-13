@@ -1,20 +1,8 @@
-# RST Parser #
+# RST Parser
 
-**If you are looking for a RST paper which is ready to use, please check out [this repository](https://github.com/jiyfeng/DPLP)**
-
-**If you need a framework to develop your own RST parser, please keep reading :-)**
-
-## Basic Description ##
-
-RST parser for document-level discourse parsing. The parsing algorithm is shift-reduce parsing, and the parsing model is a offline trained multi-class classifier.
-
-To obtain a good performance, you can:
-- add more features into the feature generator (in [feature.py](feature.py))
-- tune the parameters in parsing model (in [model.py](model.py)). For now, I simply use [LinearSVC](http://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html) with default parameter setting.
-
-## Demo ##
-
-Start from "main.py" for a demo
+This project is a fork of [Ji's Shift-Reduce RST
+parser](https://github.com/jiyfeng/DPLP), wrapped as a Python package
+abd adjusted to the peculiarities of German data.
 
 ## Modules ##
 
@@ -38,7 +26,7 @@ Start from "main.py" for a demo
 - data: generate training data for offline training
 
 
-## Main Classes ##
+## Main Classes
 (For all the following functions, please refer to the code for more explanation)
 
 - RSTTree (in tree module):
@@ -63,6 +51,9 @@ Start from "main.py" for a demo
     - getvocab(): Get feature vocab
     - savevocab(fname): Save feature vocab and relation mapping (from relations to indices) into **fname**
 
-## Reference ##
+## Reference
 
-- Yangfeng Ji, Jacob Eisenstein, **[Representation Learning for Text-level Discourse Parsing](https://github.com/jiyfeng/jiyfeng.github.io/blob/master/papers/ji-acl-2014.pdf)**, Proceedings of ACL, 2014
+- Yangfeng Ji, Jacob Eisenstein, **[Representation Learning for
+  Text-level Discourse
+  Parsing](https://github.com/jiyfeng/jiyfeng.github.io/blob/master/papers/ji-acl-2014.pdf)**,
+  Proceedings of ACL, 2014
