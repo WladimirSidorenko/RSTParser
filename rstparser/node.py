@@ -3,6 +3,7 @@
 ## Date: 08-29-2013
 ## Time-stamp: <yangfeng 11/06/2014 14:40:27>
 
+
 class SpanNode(object):
     """ RST tree node
     """
@@ -31,22 +32,3 @@ class SpanNode(object):
         self.nodelist = []
         # Relation form: NN, NS, SN
         self.form = None
-        
-
-class ParseError(Exception):
-    """ Exception for parsing
-    """
-    def __init__(self, value):
-        self.value = value
-
-    def __str__(self):
-        return repr(self.value)
-
-class ActionError(Exception):
-    """ Exception for illegal parsing action
-    """
-    def __init__(self, value):
-        self.value = value
-
-    def __str__(self):
-        return repr(self.value)

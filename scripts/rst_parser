@@ -5,20 +5,24 @@
 # Imports
 from __future__ import absolute_import, print_function, unicode_literals
 
-from data import Data
-from model import ParsingModel
-from cPickle import load
-from util import reversedict
-from evalparser import evalparser
-import gzip
+from glob import iglob
+import codecs
+import logging
 import os
+import sys
+
+from rstparser.conll import CoNLLDoc
+from rstparser.tree import RSTTree
+from rstparser.utils import DFLT_ENCODING, LOGGER
+from rstparser.parser import RSTParser
+
 
 ##################################################################
 # Constants
 M_TRAIN = "train"
 M_TEST = "test"
 M_EVAL = "evauate"
-DFLT_MODEL_PATH = os.path.join(os.path.basename(__FILE__),
+DFLT_MODEL_PATH = os.path.join(os.path.basename(__file__),
                                "rstpaser.model")
 
 
@@ -38,40 +42,41 @@ def _add_cmn_options(parser):
     parser.add_argument("-m", "--model",
                         help="path to the main model (if different from"
                         " default)", type=str, default=DFLT_MODEL_PATH)
-    parser_train.add_argument(
-        "file", help="input files", nargs='+'
+    parser.add_argument(
+        "dis_dir",
+        help="directory containing files with RST trees in dis format"
+    )
+    parser.add_argument(
+        "conll_dir",
+        help="directory containing syntactic parse trees in CoNLL format"
     )
 
 
-def createdata(path):
-    """ Create training data by calling the Data class
+def read_data(dis_dir, conll_dir):
+    """Read RST tree for dis file and corresponding parse trees from CoNLL.
 
-    :type path: string
-    :param path: path to the training document folder
+    :param str dis_dir: path to the directoty containing dis files
+    :param str conll_dir: path to the directoty containing CoNLL files
+
     """
-    data = Data()
-    data.builddata(path)
-    # Change the threshold if you want to filter
-    #   out the low-frequency features
-    data.buildvocab(thresh=1)
-    data.buildmatrix()
-    data.savematrix("training-data.pickle.gz")
-    data.savevocab("vocab.pickle.gz")
-
-
-def trainmodel():
-    """ Training a model with data and save it into file
-    """
-    fvocab = "vocab.pickle.gz"
-    fdata = "training-data.pickle.gz"
-    D = load(gzip.open(fvocab))
-    vocab, labelidxmap = D['vocab'], D['labelidxmap']
-    D = load(gzip.open(fdata))
-    trnM, trnL  = D['matrix'], D['labels']
-    idxlabelmap = reversedict(labelidxmap)
-    pm = ParsingModel(vocab=vocab, idxlabelmap=idxlabelmap)
-    pm.train(trnM, trnL)
-    pm.savemodel("parsing-model.pickle.gz")
+    for dis_fname in iglob(os.path.join(dis_dir, "*.dis")):
+        LOGGER.debug("Analyzing dis file %s", dis_fname)
+        conll_fname = os.path.join(
+            conll_dir,
+            os.path.splitext(os.path.basename(dis_fname))[0] + ".conll"
+        )
+        if (not os.path.exists(conll_fname)
+                or not os.access(conll_fname, os.R_OK)):
+            LOGGER.debug("Cannot read CoNLLx file %s (skipping)", conll_fname)
+            continue
+        with codecs.open(conll_fname, 'r', DFLT_ENCODING) as ifile:
+            conll_doc = CoNLLDoc(ifile)
+        with codecs.open(dis_fname, 'r', DFLT_ENCODING) as ifile:
+            T = RSTTree(ifile.read(), conll_doc)
+        print(repr(T))
+        print(str(T))
+        print(repr(T.generate_samples()))
+    sys.exit(66)
 
 
 def main(argv):
@@ -89,6 +94,9 @@ def main(argv):
         description="Script for training and testing RST"
         " parser of Ji and Eisenstein (2014)"
     )
+    argparser.add_argument("-v", "--verbose",
+                           help="output debug information",
+                           action="store_true")
     subparsers = argparser.add_subparsers(
         help="type of operation to perform", dest="mode"
     )
@@ -97,26 +105,43 @@ def main(argv):
     )
     _add_cmn_options(parser_train)
     parser_test = subparsers.add_parser(
-        M_TEST, help="test trained model on the provided data"
+        M_TEST, help="test trained model on the supplied data"
     )
     _add_cmn_options(parser_test)
     parser_eval = subparsers.add_parser(
         M_EVAL, help="evaluate the results"
     )
-    args = argparser.aprse_args(argv)
+    parser_eval.add_argument("gold", help="file or directory containing gold"
+                             " data")
+    parser_eval.add_argument("predicted",
+                             help="file or directory containing automatically"
+                             " labeled data")
+    args = argparser.parse_args(argv)
+
+    if args.verbose:
+        log_lvl = logging.DEBUG
+        LOGGER.setLevel(log_lvl)
+        for handler_i in LOGGER.handlers:
+            handler_i.setLevel(log_lvl)
+
     if args.mode == M_TRAIN:
-        pass
+        LOGGER.debug("Training RST parser...")
+        parser = RSTParser([], [], None)
+        parser.train([rst_tree
+                      for rst_tree in read_data(args.dis_dir, args.conll_dir)])
+        parser.save(args.model)
+        LOGGER.debug("Training RST parser... done")
+    elif args.mode == M_TEST:
+        LOGGER.debug("Testing RST parser...")
+        parser = RSTParser(args.model)
+        parser.train(args.files)
+        parser.save(args.model)
+        LOGGER.debug("Testing RST parser... done")
+    else:
+        raise NotImplementedError
 
 
 ##################################################################
 # Main
 if __name__ == '__main__':
-    # Create data for offline training
-    print 'Create data ...'
-    createdata(path="./examples")
-    # Train a parsing model
-    print 'Training a parsing model ...'
-    trainmodel()
-    # Evaluate on dev/test documents
-    print 'Evaluating the parsing performance ...'
-    evalparser(path='./examples', report=True)
+    main(sys.argv[1:])

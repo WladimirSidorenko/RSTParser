@@ -7,6 +7,7 @@ from model import ParsingModel
 from tree import RSTTree
 from evaluation import Metrics
 
+
 def parse(pm, fedus):
     """ Parse one document using the given parsing model
 
@@ -14,7 +15,8 @@ def parse(pm, fedus):
     :param pm: an well-trained parsing model
 
     :type fedus: string
-    :param fedus: file name of an document (with segmented EDUs) 
+    :param fedus: file name of an document (with segmented EDUs)
+
     """
     with open(fedus) as fin:
         edus = fin.read().split('\n')

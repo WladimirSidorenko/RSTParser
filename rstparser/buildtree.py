@@ -1,11 +1,17 @@
-## buildtree.py
-## Author: Yangfeng Ji
-## Date: 09-10-2014
-## Time-stamp: <yangfeng 09/29/2014 15:15:23>
+#!/usr/bin/env python
+# -*- mode: python; coding: utf-8 -*-
 
-from datastructure import *
-from util import extractrelation
+##################################################################
+# Imports
+from __future__ import absolute_import, print_function, unicode_literals
 
+
+from .datastructure import SpanNode
+from .utils import extractrelation
+
+
+##################################################################
+# Class
 def BFT(tree):
     """ Breadth-first treavsal on general RST tree
 
@@ -40,7 +46,7 @@ def BFTbin(tree):
 
 
 def postorder_DFT(tree, nodelist):
-    """ Post order traversal on binary RST tree
+    """Post order traversal on binary RST tree.
 
     :type tree: SpanNode instance
     :param tree: an binary RST tree
@@ -97,12 +103,12 @@ def processtext(tokens):
             for _ in range(tok.count(identifier)):
                 within_text = not within_text
         if ('(' in tok) and (within_text):
-            tok = tok.replace('(','-LB-')
+            tok = tok.replace('(', '-LB-')
         if (')' in tok) and (within_text):
-            tok = tok.replace(')','-RB-')
+            tok = tok.replace(')', '-RB-')
         tokens[idx] = tok
     return tokens
-    
+
 
 def createnode(node, content):
     """ Assign value to an SpanNode instance
@@ -179,7 +185,7 @@ def buildtree(text):
                 endindex = int(content.pop(0))
                 stack.append(('span', beginindex, endindex))
             elif label == 'leaf':
-                # Merge 
+                # Merge
                 eduindex = int(content.pop(0))
                 checkcontent(label, content)
                 stack.append(('leaf', eduindex, eduindex))
@@ -202,75 +208,8 @@ def buildtree(text):
     # print 'stack[-1] = ', stack[-1].prop, stack[-1].eduspan
     # print 'stack[-2] = ', stack[-2].prop, stack[-2].eduspan
     return stack[-1]
-        
-
-def binarizetree(tree):
-    """ Convert a general RST tree to a binary RST tree
-
-    :type tree: instance of SpanNode
-    :param tree: a general RST tree
-    """
-    queue = [tree]
-    while queue:
-        node = queue.pop(0)
-        queue += node.nodelist
-        # Construct binary tree
-        if len(node.nodelist) == 2:
-            node.lnode = node.nodelist[0]
-            node.rnode = node.nodelist[1]
-            # Parent node
-            node.lnode.pnode = node
-            node.rnode.pnode = node
-        elif len(node.nodelist) > 2:
-            # Remove one node from the nodelist
-            node.lnode = node.nodelist.pop(0)
-            newnode = SpanNode(node.nodelist[0].prop)
-            newnode.nodelist += node.nodelist
-            # Right-branching
-            node.rnode = newnode
-            # Parent node
-            node.lnode.pnode = node
-            node.rnode.pnode = node
-            # Add to the head of the queue
-            # So the code will keep branching
-            # until the nodelist size is 2
-            queue.insert(0, newnode)
-        # Clear nodelist for the current node
-        node.nodelist = []
-    return tree
 
 
-def backprop(tree):
-    """ Starting from leaf node, propagating node
-        information back to root node
-
-    :type tree: SpanNode instance
-    :param tree: an binary RST tree
-    """
-    treenodes = BFTbin(tree)
-    treenodes.reverse()
-    for node in treenodes:
-        if (node.lnode is not None) and (node.rnode is not None):
-            # Non-leaf node
-            node.eduspan = __getspaninfo(node.lnode, node.rnode)
-            node.text = __gettextinfo(node.lnode, node.rnode)
-            if node.relation is None:
-                # If it is a new node
-                if node.prop == 'Root':
-                    pass
-                else:
-                    node.relation = __getrelationinfo(node.lnode, node.rnode)
-            node.form, node.nucspan = __getforminfo(node.lnode, node.rnode)
-        elif (node.lnode is None) and (node.rnode is not None):
-            # Illegal node
-            pass
-        elif (node.lnode is not None) and (node.rnode is None):
-            # Illegal node
-            pass
-        else:
-            # Leaf node
-            pass
-    return treenodes[-1]
 
 
 def __getspaninfo(lnode, rnode):
@@ -282,8 +221,8 @@ def __getspaninfo(lnode, rnode):
     try:
         eduspan = (lnode.eduspan[0], rnode.eduspan[1])
     except TypeError:
-        print lnode.prop, rnode.prop
-        print lnode.nucspan, rnode.nucspan
+        print(lnode.prop, rnode.prop)
+        print(lnode.nucspan, rnode.nucspan)
     return eduspan
 
 
@@ -293,13 +232,13 @@ def __getforminfo(lnode, rnode):
     :type lnode,rnode: SpanNode instance
     :param lnode,rnode: Left/Right children nodes
     """
-    if (lnode.prop=='Nucleus') and (rnode.prop=='Satellite'):
+    if (lnode.prop == 'Nucleus') and (rnode.prop == 'Satellite'):
         nucspan = lnode.eduspan
         form = 'NS'
-    elif (lnode.prop=='Satellite') and (rnode.prop=='Nucleus'):
+    elif (lnode.prop == 'Satellite') and (rnode.prop == 'Nucleus'):
         nucspan = rnode.eduspan
         form = 'SN'
-    elif (lnode.prop=='Nucleus') and (rnode.prop=='Nucleus'):
+    elif (lnode.prop == 'Nucleus') and (rnode.prop == 'Nucleus'):
         nucspan = (lnode.eduspan[0], rnode.eduspan[1])
         form = 'NN'
     else:
@@ -320,8 +259,10 @@ def __getrelationinfo(lnode, rnode):
     elif (lnode.prop=='Satellite') and (rnode.prop=='Nucleus'):
         relation = rnode.relation
     else:
-        print 'lnode.prop = {}, lnode.eduspan = {}'.format(lnode.prop, lnode.eduspan)
-        print 'rnode.prop = {}, lnode.eduspan = {}'.format(rnode.prop, rnode.eduspan)
+        print('lnode.prop = {}, lnode.eduspan = {}'.format(lnode.prop,
+                                                           lnode.eduspan))
+        print('rnode.prop = {}, lnode.eduspan = {}'.format(rnode.prop,
+                                                           rnode.eduspan))
         raise ValueError("Error when find relation for new node")
     return relation
 
@@ -336,48 +277,6 @@ def __gettextinfo(lnode, rnode):
     return text
 
 
-def decodeSRaction(tree):
-    """ Decoding Shift-reduce actions from an binary RST tree
-
-    :type tree: SpanNode instance
-    :param tree: an binary RST tree
-    """
-    # Start decoding
-    post_nodelist = postorder_DFT(tree, [])
-    # print len(post_nodelist)
-    actionlist = []
-    for node in post_nodelist:
-        if (node.lnode is None) and (node.rnode is None):
-            actionlist.append(('Shift', None, None))
-        elif (node.lnode is not None) and (node.rnode is not None):
-            form = node.form
-            if (form == 'NN') or (form == 'NS'):
-                relation = extractrelation(node.rnode.relation)
-            else:
-                relation = extractrelation(node.lnode.relation)
-            actionlist.append(('Reduce', form, relation))
-        else:
-            raise ValueError("Can not decode Shift-Reduce action")
-    return actionlist
-
-
-def getedunode(tree):
-    """ Get all left nodes. It can be used for generating training
-        examples from gold RST tree
-
-    :type tree: SpanNode instance
-    :param tree: an binary RST tree
-    """
-    # Post-order depth-first traversal
-    post_nodelist = postorder_DFT(tree, [])
-    # EDU list
-    edulist = []
-    for node in post_nodelist:
-        if (node.lnode is None) and (node.rnode is None):
-            edulist.append(node)
-    return edulist
-        
-        
 ## ========================================================
 def test():
     fname = "examples/wsj_0604.out.dis"
