@@ -1,6 +1,6 @@
 (Root
   (span 1 19)
-  (Nucleus (leaf 1) (rel2par other) (text _!Ä(E)hrenvoll_!))
+  (Nucleus (leaf 1) (rel2par other) (text _!Ä-LB-E-RB-hrenvoll_!))
   (Nucleus
     (span 2 19)
     (rel2par other)
@@ -136,4 +136,4 @@
     (Satellite
       (leaf 19)
       (rel2par other)
-      (text _!Ä(E)hre , wem Ä(E)hre gebührt ._!))))
+      (text _!Ä-LB-E-RB-hre , wem Ä-LB-E-RB-hre gebührt ._!))))

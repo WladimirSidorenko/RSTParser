@@ -3,7 +3,7 @@
   (Nucleus
     (leaf 1)
     (rel2par non-contrastive)
-    (text _!Ä(E)hrenvoll_!))
+    (text _!Ä-LB-E-RB-hrenvoll_!))
   (Nucleus
     (span 2 19)
     (rel2par non-contrastive)
@@ -139,4 +139,4 @@
     (Satellite
       (leaf 19)
       (rel2par non-contrastive)
-      (text _!Ä(E)hre , wem Ä(E)hre gebührt ._!))))
+      (text _!Ä-LB-E-RB-hre , wem Ä-LB-E-RB-hre gebührt ._!))))
