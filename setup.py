@@ -48,7 +48,8 @@ setup(
     packages=["rstparser"],
     package_data={"dsenser": DSENSER_DATA},
     install_requires=INSTALL_REQUIRES,
-    scripts=[path.join("scripts", "rst_parser")],
+    scripts=[path.join("scripts", f)
+             for f in ("rst_parser", "dis2edu")],
     entry_points={},
     classifiers=["Development Status :: 2 - Pre-Alpha",
                  "Environment :: Console",

@@ -1,0 +1,75 @@
+#!/usr/bin/env python
+# -*- mode: python; coding: utf-8 -*-
+
+"""Main script for converting dis files to lists of EDUs.
+
+"""
+
+##################################################################
+# Imports
+from __future__ import absolute_import, print_function, unicode_literals
+
+from glob import iglob
+import codecs
+import os
+import sys
+
+from rstparser.conll import CoNLLDoc
+from rstparser.tree import RSTTree
+from rstparser.utils import DFLT_ENCODING
+
+
+##################################################################
+# Methods
+def main(argv):
+    """Main method for converting dis files to lists of EDUs.
+
+    """
+    from argparse import ArgumentParser
+    argparser = ArgumentParser(
+        description="Script for converting DIS files to lists of EDU"
+    )
+    argparser.add_argument("-o", "--output-dir",
+                           help="output directory for storing EDU files ",
+                           type=str, default=os.getcwd())
+    argparser.add_argument("dis_dir",
+                           help="directory containing DIS files with RST trees")
+    argparser.add_argument(
+        "conll_dir",
+        help="directory containing syntactic parse trees in CoNLL format"
+    )
+    args = argparser.parse_args(argv)
+
+    for dis_fname in iglob(os.path.join(args.dis_dir, "*.dis")):
+        print("Processing file {:s}".format(dis_fname))
+        conll_fname = os.path.join(
+            args.conll_dir,
+            os.path.splitext(os.path.basename(dis_fname))[0] + ".conll"
+        )
+        if (not os.path.exists(conll_fname)
+                or not os.access(conll_fname, os.R_OK)):
+            print(
+                "Cannot read CoNLL file {:s} (skipping)".format(conll_fname),
+                file=sys.stderr
+            )
+            continue
+        with codecs.open(conll_fname, 'r', DFLT_ENCODING) as ifile:
+            conll_doc = CoNLLDoc(ifile)
+        with codecs.open(dis_fname, 'r', DFLT_ENCODING) as ifile:
+            rst_tree = RSTTree(ifile.read(), conll_doc)
+        tokendict = rst_tree.tokendict
+        edu_fname = os.path.join(
+            args.output_dir,
+            os.path.splitext(os.path.basename(dis_fname))[0] + ".edu"
+        )
+        with codecs.open(edu_fname, 'w', DFLT_ENCODING) as ofile:
+            for edu_i in rst_tree.get_edu_nodes():
+                print("(HS {:s} )".format(
+                    ' '.join([tokendict[t].word for t in edu_i.text])),
+                      file=ofile)
+
+
+##################################################################
+# Main
+if __name__ == "__main__":
+    main(sys.argv[1:])
