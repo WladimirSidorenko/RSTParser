@@ -105,10 +105,8 @@ class RSTParser(object):
 
         """
         LOGGER.debug("Loading model to %s", mpath)
-        self._mpath = mpath
-        self._model = load(mpath)
-        self._model.restore()
-        dump(mpath)
+        with open() as ifile:
+            self._model = load(ifile)
         self._model.restore()
         self._mpath = mpath
         LOGGER.debug("Model loaded")

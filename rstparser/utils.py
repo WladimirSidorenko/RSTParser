@@ -104,15 +104,15 @@ def getgrams(text, tokendict):
     grams = []
     # Get lower-case of words
     if n >= 1:
-        grams.append(tokendict[text[0]].word.lower())
-        grams.append(tokendict[text[-1]].word.lower())
+        grams.append(tokendict[text[0]].lemma.lower())
+        grams.append(tokendict[text[-1]].lemma.lower())
         grams.append(tokendict[text[0]].pos)
         grams.append(tokendict[text[-1]].pos)
     if n >= 2:
-        token = tokendict[text[0]].word.lower() \
-            + ' ' + tokendict[text[1]].word.lower()
+        token = tokendict[text[0]].lemma.lower() \
+            + ' ' + tokendict[text[1]].lemma.lower()
         grams.append(token)
-        token = tokendict[text[-2]].word.lower() \
-            + ' ' + tokendict[text[-1]].word.lower()
+        token = tokendict[text[-2]].lemma.lower() \
+            + ' ' + tokendict[text[-1]].lemma.lower()
         grams.append(token)
     return '-%-'.join(grams)

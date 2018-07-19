@@ -26,12 +26,13 @@ M_EVAL = "evauate"
 
 ##################################################################
 # Methods
-def _add_cmn_options(parser):
+def _add_cmn_options(parser, dis_dir="dis_dir",
+                     dis_dir_description="directory containing files"
+                     " with RST trees in dis format"):
     """Add common options to option subparser
 
-    Args:
-      parser (argparse.ArgumentParser):
-        option subparser to which new options should be added
+    :param argparse.ArgumentParser parser: option subparser to which
+      new options should be added
 
     Returns:
       void:
@@ -40,20 +41,17 @@ def _add_cmn_options(parser):
     parser.add_argument("-m", "--model",
                         help="path to the main model (if different from"
                         " default)", type=str, default=DFLT_MODEL_PATH)
-    parser.add_argument(
-        "dis_dir",
-        help="directory containing files with RST trees in dis format"
-    )
+    parser.add_argument(dis_dir, help=dis_dir_description)
     parser.add_argument(
         "conll_dir",
         help="directory containing syntactic parse trees in CoNLL format"
     )
 
 
-def read_data(dis_dir, conll_dir):
-    """Read RST tree for dis file and corresponding parse trees from CoNLL.
+def read_dis_data(dis_dir, conll_dir):
+    """Read RST tree from dis file and corresponding parse trees from CoNLL.
 
-    :param str dis_dir: path to the directoty containing dis files
+    :param str dis_dir: path to the directory containing dis files
     :param str conll_dir: path to the directoty containing CoNLL files
 
     """

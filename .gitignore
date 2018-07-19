@@ -4,3 +4,4 @@ venv/
 examples/
 *.pyc
 *.egg-info
+rstparser/data/rstpaser.model

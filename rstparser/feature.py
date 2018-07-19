@@ -35,23 +35,19 @@ class FeatureExtractor(object):
         # Status features (Basic features)
         cls.extract_status_feats(feats, stack_node1, stack_node2,
                                  queue_node, tree)
-        LOGGER.debug("status_feats: %r", feats)
         # Lexical features
         cls.extract_lex_feats(feats, stack_node1, stack_node2,
                               queue_node, tree)
-        LOGGER.debug("status + lex feats: %r", feats)
         # Structural features
         cls.extract_struct_feats(feats, stack_node1, stack_node2,
                                  queue_node, tree)
-        LOGGER.debug("status + lex + struct feats: %r", feats)
         # EDU features
         cls.extract_edu_feats(feats, stack_node1, stack_node2,
                               queue_node, tree)
-        LOGGER.debug("status + lex + struct + edu feats: %r", feats)
         # Distributional representation
         cls.extract_distrib_feats(feats, stack_node1, stack_node2,
                                   queue_node, tree)
-        LOGGER.debug("status + lex + struct + edu + distrib feats: %r", feats)
+        LOGGER.debug("feats: %r", feats)
         # No Brown clusters
         return feats
 
@@ -232,15 +228,15 @@ class FeatureExtractor(object):
         if stack_node1 is not None:
             eduidx = stack_node1.nucedu
             for gidx in edudict[eduidx]:
-                word = tokendict[gidx].word.lower()
+                word = tokendict[gidx].lemma.lower()
                 feats[('DisRep', 'Top1Span', word)] = 1
         if stack_node2 is not None:
             eduidx = stack_node2.nucedu
             for gidx in edudict[eduidx]:
-                word = tokendict[gidx].word.lower()
+                word = tokendict[gidx].lemma.lower()
                 feats[('DisRep', 'Top2Span', word)] = 1
         if queue_node is not None:
             eduidx = queue_node.nucedu
             for gidx in edudict[eduidx]:
-                word = tokendict[gidx].word.lower()
+                word = tokendict[gidx].lemma.lower()
                 feats[('DisRep', 'FirstSpan', word)] = 1

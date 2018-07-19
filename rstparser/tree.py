@@ -53,7 +53,7 @@ def preprocess(tokens):
 # Class
 class RSTTree(object):
     def __init__(self, dis, conll_doc=None):
-        """Class cosntructor.
+        """Class constructor.
 
         :param string dis: content of dis file
         :param CoNLLDoc conll_doc: corresponding document with CoNLL parses
@@ -392,9 +392,6 @@ class RSTTree(object):
         :type eduspan: tuple with two elements
         :param eduspan: start/end of EDU IN this span
         """
-        # text = lnode.text + " " + rnode.text
-        # LOGGER.debug("_gettextinfo: edudict: %r", edudict)
-        # LOGGER.debug("_gettextinfo: eduspan: %r", eduspan)
         text = []
         for idx in range(eduspan[0], eduspan[1]+1, 1):
             text += edudict[idx]
