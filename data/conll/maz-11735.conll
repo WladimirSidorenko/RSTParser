@@ -1,0 +1,203 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::4	5::3	9::11
+1	Frei	frei	frei	ADJD	ADJD	_	pos	-1	0	_	--	_	_
+2	und	und	und	KON	KON	_	_	-1	1	_	CD	_	_
+3	unbehelligt	unbehelligt	unbehelligt	ADJD	ADJD	_	pos	-1	2	_	CJ	_	_
+
+	sentence_start	0	69	326	400	472	568	621	741	818	919	967
+	token_offsets	sentence	0	offsets	0::4	5::4	10::4	15::1	17::7	25::8	34::11	46::3	50::4	55::2	58::7	66::1
+	token_offsets	sentence	1	offsets	69::6	76::3	80::4	85::6	92::1	94::2	97::3	101::3	105::15	121::5	127::3	131::11	143::15	159::9	169::4	174::1	176::3	180::4	185::3	189::3	193::11	205::5	211::4	216::2	219::6	226::6	233::11	245::1	247::9	257::5	263::10	274::3	278::3	282::12	295::3	299::12	312::10	323::1
+	token_offsets	sentence	2	offsets	326::4	331::3	335::4	340::16	357::3	361::3	365::4	370::4	375::5	381::1	383::4	388::8	397::1
+	token_offsets	sentence	3	offsets	400::3	404::12	417::10	428::5	434::4	439::10	450::1	452::5	458::4	463::5	469::1
+	token_offsets	sentence	4	offsets	472::9	482::5	488::3	492::7	500::10	511::1	513::9	523::10	534::9	544::5	550::14	565::1
+	token_offsets	sentence	5	offsets	568::7	576::5	582::4	587::3	591::11	603::7	611::6	618::1
+	token_offsets	sentence	6	offsets	621::4	626::4	631::3	635::3	639::9	649::3	653::3	657::8	666::9	676::1	678::4	683::5	689::4	694::10	705::3	709::9	719::3	723::8	732::5	738::1
+	token_offsets	sentence	7	offsets	741::3	745::3	749::13	763::5	769::6	776::4	781::5	787::12	800::14	815::1
+	token_offsets	sentence	8	offsets	818::4	823::3	827::1	829::4	834::3	838::3	842::3	846::6	853::10	864::7	872::1	874::3	878::5	884::3	888::3	892::5	898::4	903::6	910::5	916::1
+	token_offsets	sentence	9	offsets	919::4	924::4	929::6	936::4	941::2	944::5	950::6	957::6	964::1
+	token_offsets	sentence	10	offsets	967::3	971::7	979::5	985::11	997::1	999::2	1002::12	1015::5	1021::4	1026::5	1032::5	1038::11	1050::1	1052::4	1057::2	1060::2	1063::16	1080::4	1085::1	1087::11	1099::1
+1	Eine	eine	eine	ART	ART	_	nom|sg|fem	-1	3	_	NK	_	_
+2	gute	gut	gut	ADJA	ADJA	_	nom|sg|fem|pos	-1	3	_	NK	_	_
+3	Idee	Idee	Idee	NN	NN	_	nom|sg|fem	-1	0	_	--	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	künftig	künftig	künftig	ADJD	ADJD	_	pos	-1	11	_	MO	_	_
+6	weltweit	weltweit	weltweit	ADJD	ADJD	_	pos	-1	11	_	MO	_	_
+7	Terroristen	Terrorist	Terrorist	NN	NN	_	dat|pl|masc	-1	11	_	DA	_	_
+8	das	die	die	ART	ART	_	acc|sg|neut	-1	9	_	NK	_	_
+9	Geld	Geld	Geld	NN	NN	_	acc|sg|neut	-1	11	_	OA	_	_
+10	zu	zu	zu	PTKZU	PTKZU	_	_	-1	11	_	PM	_	_
+11	sperren	sperren	sperren	VVINF	VVINF	_	_	-1	3	_	OC	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Sowohl	sowohl	sowohl	KON	KON	_	_	-1	4	_	CD	_	_
+2	die	die	die	ART	ART	_	nom|sg|fem	-1	4	_	NK	_	_
+3	G-20	G-20	G-20	CARD	CARD	_	nom|sg|fem|pos	-1	4	_	NK	_	_
+4	Gruppe	Gruppe	Gruppe	NN	NN	_	nom|sg|fem	-1	22	_	OA	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	in	in	in	APPR	APPR	_	_	-1	14	_	MO	_	_
+7	der	die	die	PRELS	PRELS	_	dat|sg|fem	-1	6	_	NK	_	_
+8	die	die	die	ART	ART	_	nom|pl|neut	-1	9	_	NK	_	_
+9	Industrieländer	Industrieland	Industrieland	NN	NN	_	nom|pl|neut	-1	15	_	SB	_	_
+10	sowie	sowie	sowie	KON	KON	_	_	-1	9	_	CD	_	_
+11	die	die	die	ART	ART	_	nom|pl|neut	-1	13	_	NK	_	_
+12	mächtigsten	mächtig	mächtig	ADJA	ADJA	_	nom|pl|neut|pos	-1	13	_	NK	_	_
+13	Schwellenländer	Schwellenland	Schwellenland	NN	NN	_	nom|pl|neut	-1	10	_	CJ	_	_
+14	vertreten	vertreten	vertreten	VVPP	VVPP	_	_	-1	15	_	PD	_	_
+15	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	4	_	RC	_	_
+16	,	,	,	$,	$,	_	_	-1	15	_	--	_	_
+17	als	als	als	KOUS	KOUS	_	_	-1	22	_	CM	_	_
+18	auch	auch	auch	ADV	ADV	_	_	-1	21	_	MO	_	_
+19	die	die	die	ART	ART	_	nom|pl|masc	-1	21	_	NK	_	_
+20	183	@card@	@card@	CARD	CARD	_	_	-1	21	_	NK	_	_
+21	IWF-Staaten	IWF-Staaten	IWF-Staaten	NN	NN	_	nom|pl|masc	-1	22	_	SB	_	_
+22	haben	haben	haben	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+23	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	27	_	OA	_	_
+24	in	in	in	APPR	APPR	_	_	-1	27	_	MO	_	_
+25	Ottawa	Ottawa	Ottawa	NE	NE	_	dat|sg|neut	-1	24	_	NK	_	_
+26	darauf	darauf	darauf	PAV	PAV	_	_	-1	17	_	NK	_	_
+27	verständigt	verständigen	verständigen	VVPP	VVPP	_	_	-1	22	_	OC	_	_
+28	,	,	,	$,	$,	_	_	-1	27	_	--	_	_
+29	gemeinsam	gemeinsam	gemeinsam	ADJD	ADJD	_	pos	-1	37	_	MO	_	_
+30	gegen	gegen	gegen	APPR	APPR	_	_	-1	37	_	OP	_	_
+31	Geldwäsche	Geldwäsche	Geldwäsche	NN	NN	_	acc|sg|fem	-1	30	_	NK	_	_
+32	und	und	und	KON	KON	_	_	-1	31	_	CD	_	_
+33	die	die	die	ART	ART	_	acc|sg|fem	-1	34	_	NK	_	_
+34	Finanzierung	Finanzierung	Finanzierung	NN	NN	_	acc|sg|fem	-1	32	_	CJ	_	_
+35	von	von	von	APPR	APPR	_	_	-1	34	_	PG	_	_
+36	Terrornetzen	Terrornetzen	Terrornetzen	NN	NN	_	dat|pl|masc	-1	35	_	NK	_	_
+37	vorzugehen	vorgehen	vorgehen	VVIZU	VVIZU	_	_	-1	27	_	OC	_	_
+38	.	.	.	$.	$.	_	_	-1	37	_	--	_	_
+
+1	Mehr	mehr	mehr	ADV	ADV	_	_	-1	5	_	PD	_	_
+2	als	als	als	KOKOM	KOKOM	_	_	-1	4	_	CM	_	_
+3	eine	eine	eine	ART	ART	_	nom|sg|fem	-1	4	_	NK	_	_
+4	Willensbekundung	Willensbekundung	Willensbekundung	NN	NN	_	nom|sg|fem	-1	1	_	CC	_	_
+5	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+6	das	die	die	PDS	PDS	_	nom|sg|neut	-1	5	_	SB	_	_
+7	zwar	zwar	zwar	ADV	ADV	_	_	-1	5	_	MO	_	_
+8	noch	noch	noch	ADV	ADV	_	_	-1	9	_	MO	_	_
+9	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	5	_	NG	_	_
+10	-	-	-	$(	$(	_	_	-1	9	_	--	_	_
+11	aber	aber	aber	ADV	ADV	_	_	-1	9	_	MO	_	_
+12	immerhin	immerhin	immerhin	ADV	ADV	_	_	-1	5	_	MO	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	3	_	NK	_	_
+2	unbeteiligte	unbeteiligt	unbeteiligt	ADJA	ADJA	_	nom|sg|masc|pos	-1	3	_	NK	_	_
+3	Beobachter	Beobachter	Beobachter	NN	NN	_	nom|sg|masc	-1	4	_	SB	_	_
+4	fragt	fragen	fragen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	4	_	OA	_	_
+6	allerdings	allerdings	allerdings	ADV	ADV	_	_	-1	4	_	MO	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	warum	warum	warum	PWAV	PWAV	_	_	-1	10	_	MO	_	_
+9	erst	erst	erst	ADV	ADV	_	_	-1	10	_	MO	_	_
+10	jetzt	jetzt	jetzt	ADV	ADV	_	_	-1	4	_	SB	_	_
+11	?	?	?	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Jahrelang	jahrelang	jahrelang	ADJD	ADJD	_	pos	-1	5	_	MO	_	_
+2	wurde	werden	werden	VAFIN	VAFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+3	die	die	die	ART	ART	_	nom|sg|fem	-1	4	_	NK	_	_
+4	Ausrede	Ausrede	Ausrede	NN	NN	_	nom|sg|fem	-1	2	_	SB	_	_
+5	kultiviert	kultivieren	kultivieren	VVPP	VVPP	_	_	-1	2	_	OC	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	schärfere	scharf	scharf	ADJA	ADJA	_	acc|pl|fem|comp	-1	8	_	NK	_	_
+8	Kontrollen	Kontrolle	Kontrolle	NN	NN	_	acc|pl|fem	-1	9	_	SB	_	_
+9	schadeten	schaden	schaden	VVFIN	VVFIN	_	pl|3|past|ind	-1	2	_	CJ	_	_
+10	einem	eine	eine	ART	ART	_	dat|sg|masc	-1	11	_	NK	_	_
+11	Finanzstandort	Finanzstandort	Finanzstandort	NN	NN	_	dat|sg|masc	-1	9	_	DA	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Kapital	Kapital	Kapital	NN	NN	_	nom|sg|neut	-1	2	_	SB	_	_
+2	müsse	müssen	müssen	VMFIN	VMFIN	_	sg|3|pres|subj	-1	0	_	--	_	_
+3	frei	frei	frei	ADJD	ADJD	_	pos	-1	6	_	MO	_	_
+4	und	und	und	KON	KON	_	_	-1	3	_	CD	_	_
+5	unbehelligt	unbehelligt	unbehelligt	ADJD	ADJD	_	pos	-1	4	_	CJ	_	_
+6	fließen	fließen	fließen	VVINF	VVINF	_	_	-1	7	_	OC	_	_
+7	können	können	können	VMINF	VMINF	_	_	-1	2	_	OC	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+
+1	Erst	erst	erst	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	nach	nach	nach	APPR	APPR	_	_	-1	9	_	MO	_	_
+3	dem	die	die	ART	ART	_	dat|sg|masc	-1	5	_	NK	_	_
+4	11.	11.	11.	ADJA	ADJA	_	dat|sg|masc|pos	-1	5	_	NK	_	_
+5	September	September	September	NN	NN	_	dat|sg|masc	-1	2	_	NK	_	_
+6	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+7	man	man	man	PIS	PIS	_	nom|sg|*	-1	6	_	SB	_	_
+8	offenbar	offenbar	offenbar	ADJD	ADJD	_	pos	-1	9	_	MO	_	_
+9	begriffen	begreifen	begreifen	VVPP	VVPP	_	_	-1	6	_	OC	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	dass	dass	dass	KOUS	KOUS	_	_	-1	19	_	CP	_	_
+12	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	13	_	NG	_	_
+13	jede	jede	jede	PIAT	PIAT	_	nom|sg|fem	-1	14	_	NK	_	_
+14	Geldanlage	Geldanlage	Geldanlage	NN	NN	_	nom|sg|fem	-1	19	_	SB	_	_
+15	den	die	die	ART	ART	_	acc|sg|masc	-1	16	_	NK	_	_
+16	Wohlstand	Wohlstand	Wohlstand	NN	NN	_	acc|sg|masc	-1	19	_	OA	_	_
+17	der	die	die	ART	ART	_	gen|pl|fem	-1	18	_	NK	_	_
+18	Nationen	Nation	Nation	NN	NN	_	gen|pl|fem	-1	16	_	AG	_	_
+19	mehrt	mehren	mehren	VVFIN	VVFIN	_	sg|3|pres|ind	-1	9	_	MO	_	_
+20	.	.	.	$.	$.	_	_	-1	19	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|pl|*	-1	2	_	NK	_	_
+2	USA	USA	USA	NE	NE	_	nom|pl|*	-1	3	_	SB	_	_
+3	präsentierten	präsentieren	präsentieren	VVFIN	VVFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+4	sogar	sogar	sogar	ADV	ADV	_	_	-1	5	_	MO	_	_
+5	jüngst	jungüngst	jungüngst	ADJD	ADJD	_	_	-1	3	_	MO	_	_
+6	eine	eine	eine	ART	ART	_	acc|sg|fem	-1	7	_	NK	_	_
+7	Liste	Liste	Liste	NN	NN	_	acc|sg|fem	-1	3	_	OA	_	_
+8	verdächtiger	verdächtig	verdächtig	ADJA	ADJA	_	gen|pl|fem|pos	-1	9	_	NK	_	_
+9	Gesellschaften	Gesellschaft	Gesellschaft	NN	NN	_	gen|pl|fem	-1	7	_	AG	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+1	Dumm	dumm	dumm	ADJD	ADJD	_	pos	-1	10	_	MO	_	_
+2	nur	nur	nur	ADV	ADV	_	_	-1	10	_	MO	_	_
+3	,	,	,	$,	$,	_	_	-1	2	_	--	_	_
+4	dass	dass	dass	KOUS	KOUS	_	_	-1	10	_	CP	_	_
+5	auf	auf	auf	APPR	APPR	_	_	-1	10	_	MO	_	_
+6	der	die	die	ART	ART	_	dat|sg|fem	-1	7	_	NK	_	_
+7	die	die	die	PRELS	PRELS	_	acc|pl|fem	-1	5	_	NK	_	_
+8	selben	selb	selb	PDAT	PDAT	_	acc|pl|fem|pos	-1	9	_	NK	_	_
+9	Kandidaten	Kandidat	Kandidat	NN	NN	_	acc|pl|fem	-1	10	_	OA	_	_
+10	standen	stehen	stehen	VVFIN	VVFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	vor	vor	vor	APPR	APPR	_	_	-1	19	_	OP	_	_
+13	denen	die	die	PRELS	PRELS	_	dat|pl|neut	-1	12	_	NK	_	_
+14	die	die	die	ART	ART	_	nom|sg|fem	-1	15	_	NK	_	_
+15	Uno	Uno	Uno	NE	NE	_	nom|sg|fem	-1	19	_	SB	_	_
+16	schon	schon	schon	ADV	ADV	_	_	-1	17	_	MO	_	_
+17	seit	seit	seit	APPR	APPR	_	_	-1	19	_	MO	_	_
+18	Jahren	Jahr	Jahr	NN	NN	_	dat|pl|neut	-1	17	_	NK	_	_
+19	warnt	warnen	warnen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	9	_	RC	_	_
+20	.	.	.	$.	$.	_	_	-1	19	_	--	_	_
+
+1	Doch	doch	doch	KON	KON	_	_	-1	4	_	JU	_	_
+2	nach	nach	nach	APPR	APPR	_	_	-1	4	_	MO	_	_
+3	Ottawa	Ottawa	Ottawa	NE	NE	_	dat|sg|neut	-1	2	_	NK	_	_
+4	soll	sollen	sollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	ja	ja	ja	ADV	ADV	_	_	-1	4	_	MO	_	_
+6	alles	alle	alle	PIS	PIS	_	nom|sg|neut	-1	4	_	SB	_	_
+7	anders	anders	anders	ADV	ADV	_	_	-1	8	_	MO	_	_
+8	werden	werden	werden	VAINF	VAINF	_	_	-1	4	_	OC	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|pl|fem	-1	2	_	NK	_	_
+2	Staaten	Staat	Staat	NN	NN	_	nom|pl|fem	-1	3	_	SB	_	_
+3	haben	haben	haben	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+4	versprochen	versprechen	versprechen	VVPP	VVPP	_	_	-1	3	_	OC	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	12	_	MO	_	_
+7	Zweifelsfall	Zweifelsfall	Zweifelsfall	NN	NN	_	dat|sg|masc	-1	6	_	NK	_	_
+8	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	11	_	NG	_	_
+9	mehr	mehr	mehr	ADV	ADV	_	_	-1	8	_	MO	_	_
+10	beide	beide	beide	PIAT	PIAT	_	acc|pl|neut	-1	11	_	NK	_	_
+11	Augen	Auge	Auge	NN	NN	_	acc|pl|neut	-1	12	_	OA	_	_
+12	zuzudrücken	zudrücken	zudrücken	VVIZU	VVIZU	_	_	-1	4	_	OC	_	_
+13	,	,	,	$,	$,	_	_	-1	12	_	--	_	_
+14	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	18	_	CP	_	_
+15	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	18	_	EP	_	_
+16	um	um	um	APPR	APPR	_	_	-1	18	_	OP	_	_
+17	Standortvorteile	Standortvorteil	Standortvorteil	NN	NN	_	acc|pl|masc	-1	16	_	NK	_	_
+18	geht	gehen	gehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	12	_	MO	_	_
+19	-	-	-	$(	$(	_	_	-1	18	_	--	_	_
+20	hoffentlich	hoffentlich	hoffentlich	ADV	ADV	_	pos	-1	18	_	SVP	_	_
+21	.	.	.	$.	$.	_	_	-1	20	_	--	_	_
+

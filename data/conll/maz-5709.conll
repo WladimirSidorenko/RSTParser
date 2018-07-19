@@ -1,0 +1,203 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::7
+1	Bucklig	bucklig	bucklig	ADJD	ADJD	_	pos	-1	0	_	--	_	_
+
+	sentence_start	0	261
+	token_offsets	sentence	0	offsets	0::5	6::6	13::3	17::19	37::11	49::8	58::1	60::5	66::3	70::7	78::3	82::7	90::1	91::0	93::3	97::12	110::7	118::5	124::5	130::14	145::3	149::12	162::4	167::3	171::7	179::11	191::10	202::7	210::3	214::11	226::17	244::13	258::1
+	token_offsets	sentence	1	offsets	261::7	269::2	272::4	277::2	280::3	284::13	298::2	301::5	307::5	313::6	320::1	322::3	326::8	335::6	342::6	349::8	358::6	365::6	372::1	374::4	379::3	383::4	388::6	395::2	398::3	402::13	416::5	422::6	429::7	437::6	444::1	446::3	450::3	454::12	467::6	474::4	479::6	486::1
+1	Davon	davon	davon	PAV	PAV	_	_	-1	27	_	NK	_	_
+2	können	können	können	VMFIN	VMFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	die	die	die	ART	ART	_	nom|pl|fem	-1	5	_	NK	_	_
+4	bevölkerungsreichen	bevölkerungsreich	bevölkerungsreich	ADJA	ADJA	_	nom|pl|fem|pos	-1	5	_	NK	_	_
+5	Wohngebiete	Wohngebiet	Wohngebiet	NN	NN	_	nom|pl|fem	-1	2	_	SB	_	_
+6	Schlaatz	Schlaatz	Schlaatz	NN	NN	_	nom|sg|masc	-1	12	_	OA	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	Stern	Stern	Stern	NN	NN	_	nom|sg|masc	-1	6	_	CJ	_	_
+9	und	und	und	KON	KON	_	_	-1	8	_	CD	_	_
+10	Drewitz	Drewitz	Drewitz	NN	NN	_	nom|sg|masc	-1	9	_	CJ	_	_
+11	nur	nur	nur	ADV	ADV	_	_	-1	12	_	MO	_	_
+12	träumen	träumen	träumen	VVINF	VVINF	_	pl|3|pres|ind	-1	2	_	OC	_	_
+13	:	:	:	$.	$.	_	_	-1	12	_	--	_	_
+14	Der	die	die	ART	ART	_	nom|sg|masc	-1	15	_	NK	_	_
+15	Bauausschuss	Bauausschuss	Bauausschuss	NN	NN	_	nom|sg|masc	-1	16	_	SB	_	_
+16	widmete	widmen	widmen	VVFIN	VVFIN	_	sg|3|past|ind	-1	12	_	OC	_	_
+17	seine	sein	sein	PPOSAT	PPOSAT	_	acc|sg|fem	-1	19	_	NK	_	_
+18	ganze	ganz	ganz	ADJA	ADJA	_	acc|sg|fem|pos	-1	19	_	NK	_	_
+19	Aufmerksamkeit	Aufmerksamkeit	Aufmerksamkeit	NN	NN	_	acc|sg|fem	-1	16	_	OA	_	_
+20	zum	zu	zu	APPRART	APPRART	_	dat|sg|neut	-1	19	_	MNR	_	_
+21	wiederholten	wiederholt	wiederholt	ADJA	ADJA	_	dat|sg|neut|pos	-1	22	_	NK	_	_
+22	Male	Mal	Mal	NN	NN	_	dat|sg|neut	-1	20	_	NK	_	_
+23	und	und	und	KON	KON	_	_	-1	19	_	CD	_	_
+24	diesmal	diesmal	diesmal	ADV	ADV	_	_	-1	27	_	MO	_	_
+25	geschlagene	geschlagen	geschlagen	ADJA	ADJA	_	nom|sg|neut|pos	-1	27	_	NK	_	_
+26	anderthalb	anderthalb	anderthalb	ADJA	ADJA	_	nom|sg|neut|pos	-1	27	_	NK	_	_
+27	Stunden	Stunde|Stunden	Stunde|Stunden	NN	NN	_	acc|pl|fem	-1	23	_	CJ	_	_
+28	der	die	die	ART	ART	_	gen|sg|fem	-1	30	_	NK	_	_
+29	kuscheligen	kuschelig	kuschelig	ADJA	ADJA	_	gen|sg|fem|pos	-1	30	_	NK	_	_
+30	Eigenheimsiedlung	Eigenheimsiedlung	Eigenheimsiedlung	NN	NN	_	gen|sg|fem	-1	27	_	AG	_	_
+31	Parforceheide	Parforceheide	Parforceheide	NN	NN	_	nom|sg|fem	-1	30	_	NK	_	_
+32	.	.	.	$.	$.	_	_	-1	31	_	--	_	_
+
+1	Während	während	während	KOUS	KOUS	_	_	-1	10	_	CP	_	_
+2	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	10	_	EP	_	_
+3	rund	rund	rund	ADV	ADV	_	pos	-1	4	_	MO	_	_
+4	um	um	um	APPR	APPR	_	_	-1	10	_	OP	_	_
+5	die	die	die	ART	ART	_	acc|pl|fem	-1	6	_	NK	_	_
+6	Plattenbauten	Plattenbau	Plattenbau	NN	NN	_	acc|pl|fem	-1	4	_	NK	_	_
+7	an	an	an	APPR	APPR	_	_	-1	6	_	MNR	_	_
+8	allen	alle	alle	PIAT	PIAT	_	dat|pl|fem	-1	9	_	NK	_	_
+9	Ecken	Ecke	Ecke	NN	NN	_	dat|pl|fem	-1	7	_	NK	_	_
+10	hapert	hapern	hapern	VVFIN	VVFIN	_	sg|3|pres|ind	-1	20	_	MO	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	dem	die	die	ART	ART	_	dat|sg|masc	-1	13	_	NK	_	_
+13	Schlaatz	Schlaatz	Schlaatz	NN	NN	_	dat|sg|masc	-1	29	_	DA	_	_
+14	gerade	gerade	gerade	ADV	ADV	_	_	-1	15	_	MO	_	_
+15	Mittel	Mittel	Mittel	NN	NN	_	nom|sg|neut	-1	18	_	SB	_	_
+16	entzogen	entziehen	entziehen	VVPP	VVPP	_	_	-1	17	_	OC	_	_
+17	werden	werden	werden	VAINF	VAINF	_	_	-1	18	_	OC	_	_
+18	müssen	müssen	müssen	VMFIN	VMFIN	_	pl|3|pres|ind	-1	13	_	MNR	_	_
+19	,	,	,	$,	$,	_	_	-1	18	_	--	_	_
+20	soll	sollen	sollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+21	die	die	die	ART	ART	_	nom|sg|fem	-1	23	_	NK	_	_
+22	neue	neu	neu	ADJA	ADJA	_	nom|sg|fem|pos	-1	23	_	NK	_	_
+23	Straße	Straße	Straße	NN	NN	_	nom|sg|fem	-1	20	_	SB	_	_
+24	An	an	an	APPR	APPR	_	_	-1	23	_	MNR	_	_
+25	der	die	die	ART	ART	_	dat|sg|fem	-1	26	_	NK	_	_
+26	Parforceheide	Parforceheide	Parforceheide	NN	NN	_	dat|sg|fem	-1	24	_	NK	_	_
+27	durch	durch	durch	APPR	APPR	_	_	-1	29	_	MO	_	_
+28	Buckel	Buckel	Buckel	NN	NN	_	acc|sg|masc	-1	27	_	NK	_	_
+29	ergänzt	ergänzen	ergänzen	VVPP	VVPP	_	_	-1	30	_	OC	_	_
+30	werden	werden	werden	VAINF	VAINF	_	_	-1	20	_	OC	_	_
+31	,	,	,	$,	$,	_	_	-1	30	_	--	_	_
+32	die	die	die	PRELS	PRELS	_	nom|sg|fem	-1	37	_	SB	_	_
+33	den	die	die	ART	ART	_	acc|sg|masc	-1	34	_	NK	_	_
+34	Steuerzahler	Steuerzahler	Steuerzahler	NN	NN	_	acc|sg|masc	-1	37	_	OA	_	_
+35	40_000	40_000	40_000	ADJA	ADJA	_	_	-1	36	_	NK	_	_
+36	Mark	Mark	Mark	NN	NN	_	*|*|fem	-1	34	_	AG	_	_
+37	kosten	kosten	kosten	VVINF	VVINF	_	_	-1	15	_	RC	_	_
+38	.	.	.	$.	$.	_	_	-1	37	_	--	_	_
+
+	sentence_start	0	118	185	303	433	515	599
+	token_offsets	sentence	0	offsets	0::5	6::4	11::2	14::3	18::5	24::8	33::1	35::3	39::3	43::4	48::3	52::3	56::9	66::1	68::4	73::5	79::3	83::12	96::11	108::6	115::1
+	token_offsets	sentence	1	offsets	118::4	123::1	125::2	128::4	133::3	137::14	152::3	156::3	160::9	170::1	172::3	176::2	179::3	183::1
+	token_offsets	sentence	2	offsets	185::1	187::6	194::8	203::5	209::1	211::3	215::3	219::4	224::8	233::5	239::2	242::3	246::4	251::1	253::11	265::2	268::5	274::3	278::4	283::6	290::2	293::6	300::1
+	token_offsets	sentence	3	offsets	303::6	310::7	318::3	322::14	337::3	341::12	354::1	356::5	362::3	366::12	379::10	390::3	394::15	410::12	423::6	430::1
+	token_offsets	sentence	4	offsets	433::3	437::5	443::4	448::3	452::7	460::1	462::4	467::6	474::11	486::9	496::5	502::2	505::6	512::1
+	token_offsets	sentence	5	offsets	515::12	528::6	535::3	539::3	543::5	549::6	556::3	560::5	566::4	571::11	583::12	596::1
+	token_offsets	sentence	6	offsets	599::3	603::4	608::10	619::13	633::1	635::8	644::4	649::11	661::1
+1	Dabei	dabei	dabei	PAV	PAV	_	_	-1	6	_	NK	_	_
+2	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	SB	_	_
+4	vor	vor	vor	APPR	APPR	_	_	-1	6	_	MO	_	_
+5	allem	alle	alle	PIS	PIS	_	dat|sg|neut	-1	4	_	NK	_	_
+6	Anwohner	Anwohner	Anwohner	NN	NN	_	nom|pl|masc	-1	2	_	PD	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	die	die	die	PRELS	PRELS	_	nom|pl|masc	-1	20	_	SB	_	_
+9	mit	mit	mit	APPR	APPR	_	_	-1	20	_	MO	_	_
+10	mehr	mehr	mehr	ADV	ADV	_	*|*|*	-1	9	_	NK	_	_
+11	als	als	als	KOKOM	KOKOM	_	_	-1	15	_	CM	_	_
+12	den	die	die	ART	ART	_	acc|sg|masc	-1	15	_	NK	_	_
+13	erlaubten	erlaubt	erlaubt	ADJA	ADJA	_	acc|sg|masc|pos	-1	15	_	NK	_	_
+14	7	7	7	CARD	CARD	_	_	-1	15	_	NK	_	_
+15	km/h	km/h	km/h	NN	NN	_	acc|sg|masc	-1	10	_	CC	_	_
+16	durch	durch	durch	APPR	APPR	_	_	-1	20	_	MO	_	_
+17	die	die	die	ART	ART	_	acc|sg|fem	-1	19	_	NK	_	_
+18	ausgewiesene	ausgewiesen	ausgewiesen	ADJA	ADJA	_	acc|sg|fem|pos	-1	19	_	NK	_	_
+19	Spielstraße	Spielstraße	Spielstraße	NN	NN	_	acc|sg|fem	-1	16	_	NK	_	_
+20	fahren	fahren	fahren	VVINF	VVINF	_	_	-1	3	_	RE	_	_
+21	.	.	.	$.	$.	_	_	-1	20	_	--	_	_
+
+1	Hier	hier	hier	ADV	ADV	_	_	-1	6	_	RC	_	_
+2	,	,	,	$,	$,	_	_	-1	1	_	--	_	_
+3	wo	wo	wo	PWAV	PWAV	_	_	-1	6	_	MO	_	_
+4	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	6	_	OA	_	_
+5	die	die	die	ART	ART	_	nom|pl|masc	-1	6	_	NK	_	_
+6	Namensschilder	Namensschild	Namensschild	NN	NN	_	nom|pl|masc	-1	0	_	--	_	_
+7	wie	wie	wie	KOKOM	KOKOM	_	_	-1	9	_	CM	_	_
+8	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	9	_	NK	_	_
+9	Potsdamer	Potsdamer	Potsdamer	NN	NN	_	nom|sg|masc	-1	6	_	CC	_	_
+10	"	"	"	$(	$(	_	_	-1	9	_	--	_	_
+11	Who	Who	Who	FM	FM	_	_	-1	13	_	PNC	_	_
+12	is	is	is	FM	FM	_	_	-1	13	_	PNC	_	_
+13	who	who	who	NE	NE	_	_	-1	9	_	PAR	_	_
+14	?	?	?	$.	$.	_	_	-1	13	_	--	_	_
+
+1	"	"	"	$(	$(	_	_	-1	2	_	--	_	_
+2	kluger	klug	klug	ADJA	ADJA	_	gen|pl|masc|pos	-1	3	_	NK	_	_
+3	Menschen	Mensch	Mensch	NN	NN	_	gen|pl|masc	-1	4	_	OG	_	_
+4	lesen	lesen	lesen	VVINF	VVINF	_	pl|3|pres|ind	-1	6	_	SB	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+7	man	man	man	PIS	PIS	_	nom|sg|*	-1	6	_	SB	_	_
+8	aber	aber	aber	ADV	ADV	_	_	-1	6	_	MO	_	_
+9	offenbar	offenbar	offenbar	ADJD	ADJD	_	pos	-1	4	_	MO	_	_
+10	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	6	_	NG	_	_
+11	in	in	in	APPR	APPR	_	_	-1	6	_	MO	_	_
+12	der	die	die	ART	ART	_	dat|sg|fem	-1	13	_	NK	_	_
+13	Lage	Lage	Lage	NN	NN	_	dat|sg|fem	-1	11	_	NK	_	_
+14	,	,	,	$,	$,	_	_	-1	13	_	--	_	_
+15	miteinander	miteinander	miteinander	ADV	ADV	_	_	-1	17	_	MO	_	_
+16	zu	zu	zu	PTKZU	PTKZU	_	_	-1	17	_	PM	_	_
+17	reden	reden	reden	VVINF	VVINF	_	_	-1	13	_	OC	_	_
+18	und	und	und	KON	KON	_	_	-1	17	_	CD	_	_
+19	eine	eine	eine	ART	ART	_	acc|sg|fem	-1	20	_	NK	_	_
+20	Lösung	Lösung	Lösung	NN	NN	_	acc|sg|fem	-1	22	_	OA	_	_
+21	zu	zu	zu	PTKZU	PTKZU	_	_	-1	22	_	PM	_	_
+22	finden	finden	finden	VVINF	VVINF	_	_	-1	18	_	CJ	_	_
+23	.	.	.	$.	$.	_	_	-1	22	_	--	_	_
+
+1	Lieber	lieb	lieb	ADJD	ADJD	_	comp	-1	2	_	MO	_	_
+2	gründet	gründen	gründen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	man	man	man	PIS	PIS	_	nom|sg|*	-1	2	_	SB	_	_
+4	Bürgerbewegung	Bürgerbewegung	Bürgerbewegung	NN	NN	_	dat|sg|fem	-1	2	_	DA	_	_
+5	und	und	und	KON	KON	_	_	-1	4	_	CD	_	_
+6	Antibewegung	Antibewegung	Antibewegung	NN	NN	_	dat|sg|fem	-1	5	_	CJ	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	wobei	wobei	wobei	PWAV	PWAV	_	_	-1	14	_	MO	_	_
+9	die	die	die	ART	ART	_	nom|sg|fem	-1	10	_	NK	_	_
+10	Buckelgegner	Buckelgegner	Buckelgegner	NN	NN	_	nom|sg|fem	-1	15	_	SB	_	_
+11	öffentlich	öffentlich	öffentlich	ADJD	ADJD	_	pos	-1	14	_	MO	_	_
+12	als	als	als	KOKOM	KOKOM	_	_	-1	14	_	MO	_	_
+13	kinderfeindlich	kinderfeindlich	kinderfeindlich	ADJD	ADJD	_	pos	-1	12	_	NK	_	_
+14	gebrandmarkt	brandmarken	brandmarken	VVPP	VVPP	_	_	-1	15	_	OC	_	_
+15	werden	werden	werden	VAINF	VAINF	_	_	-1	4	_	RC	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Stadt	Stadt	Stadt	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+3	wäre	sein	sein	VAFIN	VAFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+4	gut	gut	gut	ADJD	ADJD	_	pos	-1	5	_	MO	_	_
+5	beraten	beraten	beraten	VVPP	VVPP	_	_	-1	3	_	PD	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	13	_	OA	_	_
+8	diesem	dies	dies	PDAT	PDAT	_	dat|sg|masc	-1	10	_	NK	_	_
+9	moralischen	moralisch	moralisch	ADJA	ADJA	_	dat|sg|masc|pos	-1	10	_	NK	_	_
+10	Imperativ	Imperativ	Imperativ	NN	NN	_	dat|sg|masc	-1	13	_	DA	_	_
+11	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	13	_	NG	_	_
+12	zu	zu	zu	PTKZU	PTKZU	_	_	-1	13	_	PM	_	_
+13	beugen	beugen	beugen	VVINF	VVINF	_	_	-1	5	_	OC	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Anderenfalls	anderenfalls	anderenfalls	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	müsste	müssen	müssen	VMFIN	VMFIN	_	nom|sg|fem|sup	-1	0	_	--	_	_
+3	sie	sie	sie	PPER	PPER	_	nom|sg|fem|3	-1	2	_	SB	_	_
+4	vor	vor	vor	APPR	APPR	_	_	-1	11	_	MO	_	_
+5	jeder	jede	jede	PIAT	PIAT	_	dat|sg|fem	-1	6	_	NK	_	_
+6	Schule	Schule	Schule	NN	NN	_	dat|sg|fem	-1	4	_	NK	_	_
+7	und	und	und	KON	KON	_	_	-1	6	_	CD	_	_
+8	jeder	jede	jede	PIAT	PIAT	_	dat|sg|fem	-1	9	_	NK	_	_
+9	Kita	Kita	Kita	NE	NE	_	*|*|*	-1	7	_	CJ	_	_
+10	Bremsbuckel	Bremsbuckel	Bremsbuckel	NN	NN	_	acc|pl|masc	-1	11	_	OA	_	_
+11	aufpflastern	aufpflastern	aufpflastern	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Das	die	die	PDS	PDS	_	nom|sg|neut	-1	2	_	SB	_	_
+2	wäre	sein	sein	VAFIN	VAFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+3	vielleicht	vielleicht	vielleicht	ADV	ADV	_	_	-1	2	_	MO	_	_
+4	wünschenswert	wünschenswert	wünschenswert	ADJD	ADJD	_	pos	-1	2	_	PD	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	zugleich	zugleich	zugleich	ADV	ADV	_	_	-1	8	_	MO	_	_
+7	aber	aber	aber	ADV	ADV	_	_	-1	8	_	MO	_	_
+8	unbezahlbar	unbezahlbar	unbezahlbar	ADJD	ADJD	_	pos	-1	4	_	CJ	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+

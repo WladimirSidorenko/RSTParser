@@ -1,0 +1,169 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::8	9::9
+1	Wichtige	wichtig	wichtig	ADJA	ADJA	_	nom|sg|fem|pos	-1	2	_	NK	_	_
+2	Botschaft	Botschaft	Botschaft	NN	NN	_	nom|sg|fem	-1	0	_	--	_	_
+
+	sentence_start	0	56	191	384	537	667	734
+	token_offsets	sentence	0	offsets	0::5	6::3	10::4	15::3	19::11	31::11	43::9	53::1
+	token_offsets	sentence	1	offsets	56::4	61::7	69::3	73::3	77::3	81::3	85::8	94::10	105::3	109::5	115::9	125::15	141::2	144::3	148::13	162::3	166::4	171::7	179::8	188::1
+	token_offsets	sentence	2	offsets	191::4	196::4	201::4	206::8	215::3	219::10	230::6	237::7	245::1	247::3	251::4	256::6	263::1	265::9	275::1	277::2	280::3	284::4	289::2	292::6	299::1	301::4	306::3	310::14	325::2	328::4	333::7	341::5	347::7	355::1	357::10	368::7	376::4	381::1
+	token_offsets	sentence	3	offsets	384::8	393::3	397::4	402::1	404::2	407::8	416::6	423::3	427::5	433::10	444::4	449::3	453::4	458::13	472::3	476::6	483::3	487::2	490::3	494::3	498::9	508::7	516::10	527::6	534::1
+	token_offsets	sentence	4	offsets	537::3	541::14	556::3	560::12	573::3	577::12	590::3	594::4	599::3	603::3	607::9	617::7	625::10	636::3	640::13	654::9	664::1
+	token_offsets	sentence	5	offsets	667::8	676::5	682::11	694::15	710::4	715::4	720::5	726::4	731::1
+	token_offsets	sentence	6	offsets	734::3	738::10	749::9	759::3	763::16	780::3	784::7	792::4	797::6	804::1	805::0	807::3	811::13	825::5	831::5	837::4	842::5	848::1	850::5	856::6	863::3	867::9	877::5	883::4	888::3	892::13	906::10	917::1	919::7	927::6	934::6	941::3	945::5	951::7	959::5	965::6	972::1
+1	Lange	Lange	Lange	NE	NE	_	nom|sg|*	-1	2	_	SB	_	_
+2	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	7	_	OA	_	_
+4	die	die	die	ART	ART	_	nom|sg|fem	-1	6	_	NK	_	_
+5	Europäische	europäisch	europäisch	ADJA	ADJA	_	nom|sg|fem|pos	-1	6	_	NK	_	_
+6	Zentralbank	Zentralbank	Zentralbank	NN	NN	_	nom|sg|fem	-1	2	_	SB	_	_
+7	gesträubt	sträuben	sträuben	VVPP	VVPP	_	_	-1	2	_	OC	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+
+1	Doch	doch	doch	KON	KON	_	_	-1	3	_	JU	_	_
+2	gestern	gestern	gestern	ADV	ADV	_	_	-1	19	_	MO	_	_
+3	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	sie	sie	sie	PPER	PPER	_	nom|sg|fem|3	-1	3	_	SB	_	_
+5	auf	auf	auf	APPR	APPR	_	_	-1	19	_	MO	_	_
+6	die	die	die	ART	ART	_	acc|sg|fem	-1	8	_	NK	_	_
+7	schwache	schwach	schwach	ADJA	ADJA	_	acc|sg|fem|pos	-1	8	_	NK	_	_
+8	Konjunktur	Konjunktur	Konjunktur	NN	NN	_	acc|sg|fem	-1	5	_	NK	_	_
+9	mit	mit	mit	APPR	APPR	_	_	-1	19	_	MO	_	_
+10	einer	eine	eine	ART	ART	_	dat|sg|fem	-1	12	_	NK	_	_
+11	kräftigen	kräftig	kräftig	ADJA	ADJA	_	dat|sg|fem|pos	-1	12	_	NK	_	_
+12	Leitzinssenkung	Leitzinssenkung	Leitzinssenkung	NN	NN	_	dat|sg|fem	-1	9	_	NK	_	_
+13	um	um	um	APPR	APPR	_	_	-1	19	_	MO	_	_
+14	0,5	0,5	0,5	CARD	CARD	_	_	-1	15	_	NK	_	_
+15	Prozentpunkte	Prozentpunkt	Prozentpunkt	NN	NN	_	acc|pl|masc	-1	13	_	NK	_	_
+16	auf	auf	auf	APPR	APPR	_	_	-1	19	_	MO	_	_
+17	3,25	@card@	@card@	CARD	CARD	_	_	-1	18	_	NK	_	_
+18	Prozent	Prozent	Prozent	NN	NN	_	*|*|neut	-1	16	_	NK	_	_
+19	reagiert	reagieren	reagieren	VVPP	VVPP	_	_	-1	3	_	OC	_	_
+20	.	.	.	$.	$.	_	_	-1	19	_	--	_	_
+
+1	Auch	auch	auch	ADV	ADV	_	_	-1	8	_	MO	_	_
+2	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	8	_	CP	_	_
+3	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	8	_	OA	_	_
+4	EZB-Chef	EZB-Chef	EZB-Chef	NN	NN	_	nom|sg|masc	-1	8	_	SB	_	_
+5	Wim	Wim	Wim	NE	NE	_	nom|sg|masc	-1	6	_	PNC	_	_
+6	Duisenberg	Duisenberg	Duisenberg	NE	NE	_	nom|sg|masc	-1	4	_	NK	_	_
+7	weiter	weiter	weiter	ADV	ADV	_	_	-1	8	_	MO	_	_
+8	weigert	weigern	weigern	VVFIN	VVFIN	_	sg|3|pres|ind	-1	31	_	MO	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	das	die	die	ART	ART	_	acc|sg|neut	-1	12	_	NK	_	_
+11	böse	böse	böse	ADJA	ADJA	_	acc|sg|neut|pos	-1	12	_	NK	_	_
+12	R-Wort	R-Wort	R-Wort	NN	NN	_	acc|sg|neut	-1	20	_	OA	_	_
+13	"	"	"	$(	$(	_	_	-1	12	_	--	_	_
+14	Rezession	Rezession	Rezession	NN	NN	_	nom|sg|fem	-1	12	_	APP	_	_
+15	"	"	"	$(	$(	_	_	-1	14	_	--	_	_
+16	in	in	in	APPR	APPR	_	_	-1	20	_	MO	_	_
+17	den	die	die	ART	ART	_	acc|sg|masc	-1	18	_	NK	_	_
+18	Mund	Mund	Mund	NN	NN	_	acc|sg|masc	-1	16	_	NK	_	_
+19	zu	zu	zu	PTKZU	PTKZU	_	_	-1	20	_	PM	_	_
+20	nehmen	nehmen	nehmen	VVINF	VVINF	_	_	-1	8	_	OC	_	_
+21	-	-	-	$(	$(	_	_	-1	20	_	--	_	_
+22	dass	dass	dass	KOUS	KOUS	_	_	-1	29	_	CP	_	_
+23	die	die	die	ART	ART	_	nom|sg|fem	-1	24	_	NK	_	_
+24	Weltwirtschaft	Weltwirtschaft	Weltwirtschaft	NN	NN	_	nom|sg|fem	-1	29	_	SB	_	_
+25	in	in	in	APPR	APPR	_	_	-1	29	_	MO	_	_
+26	eine	eine	eine	ART	ART	_	acc|sg|fem	-1	28	_	NK	_	_
+27	schwere	schwer	schwer	ADJA	ADJA	_	acc|sg|fem|pos	-1	28	_	NK	_	_
+28	Krise	Krise	Krise	NN	NN	_	acc|sg|fem	-1	25	_	NK	_	_
+29	rutscht	rutschen	rutschen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	8	_	SB	_	_
+30	,	,	,	$,	$,	_	_	-1	29	_	--	_	_
+31	bestreitet	bestreiten	bestreiten	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+32	niemand	niemand	niemand	PIS	PIS	_	nom|sg|masc	-1	31	_	SB	_	_
+33	mehr	mehr	mehr	ADV	ADV	_	_	-1	31	_	MO	_	_
+34	.	.	.	$.	$.	_	_	-1	33	_	--	_	_
+
+1	Fraglich	fraglich	fraglich	ADJD	ADJD	_	pos	-1	2	_	PD	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	aber	aber	aber	ADV	ADV	_	_	-1	2	_	MO	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	ob	ob	ob	KOUS	KOUS	_	_	-1	24	_	CP	_	_
+6	niedrige	niedrig	niedrig	ADJA	ADJA	_	nom|pl|masc|pos	-1	7	_	NK	_	_
+7	Zinsen	Zins	Zins	NN	NN	_	nom|pl|masc	-1	24	_	SB	_	_
+8	und	und	und	KON	KON	_	_	-1	7	_	CD	_	_
+9	damit	damit	damit	PAV	PAV	_	_	-1	11	_	NK	_	_
+10	billigeres	billig	billig	ADJA	ADJA	_	acc|sg|neut|comp	-1	11	_	NK	_	_
+11	Geld	Geld	Geld	NN	NN	_	acc|sg|neut	-1	8	_	CJ	_	_
+12	für	für	für	APPR	APPR	_	_	-1	24	_	OP	_	_
+13	mehr	mehr	mehr	PIAT	PIAT	_	*|*|*	-1	14	_	NK	_	_
+14	Investitionen	Investition	Investition	NN	NN	_	acc|pl|fem	-1	12	_	NK	_	_
+15	und	und	und	KON	KON	_	_	-1	14	_	CD	_	_
+16	Konsum	Konsum	Konsum	NN	NN	_	acc|sg|masc	-1	15	_	CJ	_	_
+17	und	und	und	KON	KON	_	_	-1	12	_	CD	_	_
+18	so	so	so	ADV	ADV	_	_	-1	19	_	MO	_	_
+19	für	für	für	APPR	APPR	_	_	-1	17	_	CJ	_	_
+20	den	die	die	ART	ART	_	acc|sg|masc	-1	23	_	NK	_	_
+21	erhofften	erhofft	erhofft	ADJA	ADJA	_	acc|sg|masc|pos	-1	23	_	NK	_	_
+22	raschen	rasch	rasch	ADJA	ADJA	_	acc|sg|masc|pos	-1	23	_	NK	_	_
+23	Aufschwung	Aufschwung	Aufschwung	NN	NN	_	acc|sg|masc	-1	19	_	NK	_	_
+24	sorgen	sorgen	sorgen	VVINF	VVINF	_	_	-1	2	_	SB	_	_
+25	.	.	.	$.	$.	_	_	-1	24	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Verunsicherung	Verunsicherung	Verunsicherung	NN	NN	_	nom|sg|fem	-1	7	_	SB	_	_
+3	von	von	von	APPR	APPR	_	_	-1	2	_	PG	_	_
+4	Verbrauchern	Verbraucher	Verbraucher	NN	NN	_	dat|pl|masc	-1	3	_	NK	_	_
+5	und	und	und	KON	KON	_	_	-1	4	_	CD	_	_
+6	Unternehmern	Unternehmer	Unternehmer	NN	NN	_	dat|pl|masc	-1	5	_	CJ	_	_
+7	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+8	seit	seit	seit	APPR	APPR	_	_	-1	7	_	MO	_	_
+9	dem	die	die	ART	ART	_	dat|sg|masc	-1	11	_	NK	_	_
+10	11.	11.	11.	ADJA	ADJA	_	dat|sg|masc|pos	-1	11	_	NK	_	_
+11	September	September	September	NN	NN	_	dat|sg|masc	-1	8	_	NK	_	_
+12	weniger	weniger	weniger	ADV	ADV	_	_	-1	13	_	MO	_	_
+13	ökonomisch	ökonomisch	ökonomisch	ADJD	ADJD	_	pos	-1	7	_	PD	_	_
+14	als	als	als	KOKOM	KOKOM	_	_	-1	16	_	MO	_	_
+15	psychologisch	psychologisch	psychologisch	ADJD	ADJD	_	pos	-1	14	_	NK	_	_
+16	begründet	begründen	begründen	VVPP	VVPP	_	_	-1	12	_	CC	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
+1	Außerdem	außerdem	außerdem	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	wirkt	wirken	wirken	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	Geldpolitik	Geldpolitik	Geldpolitik	NN	NN	_	nom|sg|fem	-1	2	_	SB	_	_
+4	erfahrungsgemäß	erfahrungsgemäß	erfahrungsgemäß	ADJD	ADJD	_	pos	-1	2	_	MO	_	_
+5	erst	erst	erst	ADV	ADV	_	_	-1	6	_	MO	_	_
+6	nach	nach	nach	APPR	APPR	_	_	-1	2	_	MO	_	_
+7	einem	eine	eine	ART	ART	_	dat|sg|masc	-1	8	_	NK	_	_
+8	Jahr	Jahr	Jahr	NN	NN	_	dat|sg|masc	-1	6	_	NK	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	3	_	NK	_	_
+2	wichtigste	wichtig	wichtig	ADJA	ADJA	_	nom|sg|fem|sup	-1	3	_	NK	_	_
+3	Botschaft	Botschaft	Botschaft	NN	NN	_	nom|sg|fem	-1	6	_	SB	_	_
+4	der	die	die	ART	ART	_	gen|sg|fem	-1	5	_	NK	_	_
+5	Zinsentscheidung	Zinsentscheidung	Zinsentscheidung	NN	NN	_	gen|sg|fem	-1	3	_	AG	_	_
+6	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+7	deshalb	deshalb	deshalb	PAV	PAV	_	_	-1	9	_	NK	_	_
+8	eine	eine	eine	ART	ART	_	acc|sg|fem	-1	9	_	NK	_	_
+9	andere	andere	andere	PIS	PIS	_	acc|sg|fem|pos	-1	6	_	PD	_	_
+10	:	:	:	$.	$.	_	_	-1	9	_	--	_	_
+11	Die	die	die	ART	ART	_	acc|pl|masc	-1	12	_	NK	_	_
+12	Währungshüter	Währungshüter	Währungshüter	NN	NN	_	acc|pl|masc	-1	13	_	SB	_	_
+13	haben	haben	haben	VAFIN	VAFIN	_	pl|3|pres|ind	-1	6	_	CJ	_	_
+14	ihren	ihr	ihr	PPOSAT	PPOSAT	_	acc|sg|masc	-1	15	_	NK	_	_
+15	Teil	Teil	Teil	NN	NN	_	acc|sg|masc	-1	16	_	OA	_	_
+16	getan	tun	tun	VVPP	VVPP	_	_	-1	13	_	OC	_	_
+17	,	,	,	$,	$,	_	_	-1	16	_	--	_	_
+18	jetzt	jetzt	jetzt	ADV	ADV	_	_	-1	19	_	MO	_	_
+19	können	können	können	VMFIN	VMFIN	_	pl|3|pres|ind	-1	6	_	CJ	_	_
+20	die	die	die	ART	ART	_	nom|pl|masc	-1	21	_	NK	_	_
+21	Politiker	Politiker	Politiker	NN	NN	_	nom|pl|masc	-1	19	_	SB	_	_
+22	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	19	_	NG	_	_
+23	mehr	mehr	mehr	ADV	ADV	_	_	-1	22	_	MO	_	_
+24	die	die	die	ART	ART	_	acc|sg|fem	-1	25	_	NK	_	_
+25	Verantwortung	Verantwortung	Verantwortung	NN	NN	_	acc|sg|fem	-1	26	_	OA	_	_
+26	abschieben	abschieben	abschieben	VVINF	VVINF	_	_	-1	19	_	OC	_	_
+27	,	,	,	$,	$,	_	_	-1	26	_	--	_	_
+28	sondern	sondern	sondern	KON	KON	_	_	-1	19	_	CD	_	_
+29	müssen	müssen	müssen	VMFIN	VMFIN	_	pl|3|pres|ind	-1	28	_	CJ	_	_
+30	selbst	selbst	selbst	ADV	ADV	_	_	-1	29	_	MO	_	_
+31	mit	mit	mit	APPR	APPR	_	_	-1	35	_	MO	_	_
+32	ihren	ihr	ihr	PPOSAT	PPOSAT	_	dat|pl|neut	-1	33	_	NK	_	_
+33	Mitteln	Mittel|Mitteln	Mittel|Mitteln	NN	NN	_	dat|pl|neut	-1	31	_	NK	_	_
+34	aktiv	aktiv	aktiv	ADJD	ADJD	_	pos	-1	35	_	PD	_	_
+35	werden	werden	werden	VAINF	VAINF	_	_	-1	29	_	OC	_	_
+36	.	.	.	$.	$.	_	_	-1	35	_	--	_	_
+

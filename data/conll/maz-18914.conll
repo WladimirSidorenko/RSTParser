@@ -1,0 +1,244 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::11
+1	Alarmsignal	Alarmsignal	Alarmsignal	NN	NN	_	nom|sg|neut	-1	0	_	--	_	_
+
+	sentence_start	0	85	195	239	283	341	410	516	590	669	716	784	845	1044	1145
+	token_offsets	sentence	0	offsets	0::3	4::5	10::5	16::8	25::4	30::3	34::12	47::14	62::3	66::5	72::3	76::5	82::1
+	token_offsets	sentence	1	offsets	85::3	89::6	96::3	100::17	118::8	127::5	133::3	137::11	149::12	162::5	168::4	173::4	178::6	185::6	192::1
+	token_offsets	sentence	2	offsets	195::3	199::4	204::1	206::3	210::3	214::7	222::5	228::7	236::1
+	token_offsets	sentence	3	offsets	239::3	243::10	254::6	261::6	268::5	274::5	280::1
+	token_offsets	sentence	4	offsets	283::3	287::1	289::2	292::3	296::2	299::6	306::1	308::2	311::9	321::4	326::3	330::4	335::3	339::1
+	token_offsets	sentence	5	offsets	341::2	344::4	349::5	355::9	365::1	367::4	372::7	380::3	384::8	393::6	400::6	407::1
+	token_offsets	sentence	6	offsets	410::12	423::2	426::3	430::7	438::14	453::9	463::4	468::3	472::5	478::3	482::16	499::13	513::1
+	token_offsets	sentence	7	offsets	516::3	520::4	525::2	528::5	534::4	539::1	541::3	545::4	550::3	554::14	569::3	573::3	577::5	583::3	587::1
+	token_offsets	sentence	8	offsets	590::3	594::6	601::5	607::3	611::5	617::6	624::3	628::9	638::3	642::3	646::7	654::2	657::3	661::4	666::1
+	token_offsets	sentence	9	offsets	669::3	673::11	685::3	689::3	693::5	699::13	713::1
+	token_offsets	sentence	10	offsets	716::3	720::5	726::4	731::3	735::7	743::6	750::1	752::4	757::3	761::4	766::2	769::7	777::3	781::1
+	token_offsets	sentence	11	offsets	784::7	792::1	794::3	798::12	811::2	814::3	818::12	831::6	838::3	842::1
+	token_offsets	sentence	12	offsets	845::8	854::1	856::3	860::11	872::11	884::4	889::3	893::1	895::2	898::2	901::3	905::5	911::5	917::6	924::2	927::3	931::4	936::3	940::1	942::4	947::3	951::2	954::4	959::7	967::1	969::8	978::3	982::11	994::9	1004::11	1016::6	1023::6	1030::10	1041::1
+	token_offsets	sentence	13	offsets	1044::8	1053::1	1055::2	1058::6	1065::3	1069::14	1084::8	1093::4	1098::3	1102::9	1112::6	1119::1	1121::6	1128::3	1132::9	1142::1
+	token_offsets	sentence	14	offsets	1145::2	1148::5	1154::4	1159::3	1163::12	1176::11	1188::10	1199::4	1204::4	1209::3	1213::5	1219::20	1240::4	1245::7	1253::1
+1	Mit	mit	mit	APPR	APPR	_	_	-1	4	_	MO	_	_
+2	Helga	Helga	Helga	NE	NE	_	dat|sg|neut	-1	3	_	AG	_	_
+3	Kaden	Kaden	Kaden	NN	NN	_	dat|sg|neut	-1	1	_	NK	_	_
+4	streicht	streichen	streichen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	eine	eine	eine	PIS	PIS	_	nom|sg|fem	-1	4	_	SB	_	_
+6	der	die	die	ART	ART	_	gen|pl|fem	-1	8	_	NK	_	_
+7	namhaftesten	namhaft	namhaft	ADJA	ADJA	_	gen|pl|fem|sup	-1	8	_	NK	_	_
+8	Geschäftsleute	Geschäftsleute	Geschäftsleute	NN	NN	_	gen|pl|fem	-1	5	_	AG	_	_
+9	der	die	die	ART	ART	_	gen|sg|fem	-1	10	_	NK	_	_
+10	Stadt	Stadt	Stadt	NN	NN	_	gen|sg|fem	-1	8	_	AG	_	_
+11	die	die	die	ART	ART	_	acc|sg|fem	-1	12	_	NK	_	_
+12	Segel	Segel	Segel	NN	NN	_	acc|sg|fem	-1	4	_	OA	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Sie	Sie	Sie	PPER	PPER	_	nom|sg|fem|3	-1	2	_	SB	_	_
+2	konnte	können	können	VMFIN	VMFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+3	ihr	ihr	ihr	PPOSAT	PPOSAT	_	acc|sg|neut	-1	5	_	NK	_	_
+4	traditionsreiches	traditionsreich	traditionsreich	ADJA	ADJA	_	acc|sg|neut|pos	-1	5	_	NK	_	_
+5	Geschäft	Geschäft	Geschäft	NN	NN	_	acc|sg|neut	-1	14	_	OA	_	_
+6	wegen	wegen	wegen	APPR	APPR	_	_	-1	5	_	MNR	_	_
+7	der	die	die	ART	ART	_	*|sg|fem	-1	9	_	NK	_	_
+8	anhaltenden	anhaltend	anhaltend	ADJA	ADJA	_	*|sg|fem|pos	-1	9	_	NK	_	_
+9	Kundenflaute	Kundenflaute	Kundenflaute	NN	NN	_	*|sg|fem	-1	6	_	NK	_	_
+10	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	2	_	NG	_	_
+11	mehr	mehr	mehr	ADV	ADV	_	_	-1	10	_	MO	_	_
+12	über	über	über	APPR	APPR	_	_	-1	14	_	MO	_	_
+13	Wasser	Wasser	Wasser	NN	NN	_	acc|sg|neut	-1	12	_	NK	_	_
+14	halten	halten	halten	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+1	Mag	mögen	mögen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+2	sein	sein	sein	VAINF	VAINF	_	_	-1	1	_	OC	_	_
+3	,	,	,	$,	$,	_	_	-1	2	_	--	_	_
+4	das	die	die	PRELS	PRELS	_	nom|sg|neut	-1	8	_	SB	_	_
+5	ihr	ihr	ihr	PPOSAT	PPOSAT	_	nom|sg|neut	-1	6	_	NK	_	_
+6	Konzept	Konzept	Konzept	NN	NN	_	nom|sg|neut	-1	8	_	SB	_	_
+7	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	8	_	NG	_	_
+8	aufging	aufgehen	aufgehen	VVFIN	VVFIN	_	sg|3|past|ind	-1	1	_	SB	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|pl|*	-1	3	_	NK	_	_
+2	exklusiven	exklusiv	exklusiv	ADJA	ADJA	_	nom|pl|*|pos	-1	3	_	NK	_	_
+3	Sachen	Sache	Sache	NN	NN	_	nom|pl|*	-1	4	_	SB	_	_
+4	hatten	haben	haben	VAFIN	VAFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+5	ihren	ihr	ihr	PPOSAT	PPOSAT	_	acc|sg|masc	-1	6	_	NK	_	_
+6	Preis	Preis	Preis	NN	NN	_	acc|sg|masc	-1	4	_	OA	_	_
+7	.	.	.	$.	$.	_	_	-1	6	_	--	_	_
+
+1	Nur	nur	nur	ADV	ADV	_	_	-1	4	_	MO	_	_
+2	-	-	-	$(	$(	_	_	-1	1	_	--	_	_
+3	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	4	_	EP	_	_
+4	gab	geben	geben	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+5	ja	ja	ja	ADV	ADV	_	_	-1	4	_	MO	_	_
+6	Zeiten	Zeit	Zeit	NN	NN	_	acc|pl|fem	-1	4	_	OA	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	da	da	da	ADV	ADV	_	_	-1	9	_	MO	_	_
+9	verkaufte	verkaufen	verkaufen	VVFIN	VVFIN	_	sg|3|past|ind	-1	4	_	CJ	_	_
+10	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	9	_	OA	_	_
+11	das	die	die	PDS	PDS	_	nom|sg|neut	-1	9	_	SB	_	_
+12	sehr	sehr	sehr	ADV	ADV	_	_	-1	13	_	MO	_	_
+13	gut	gut	gut	ADJD	ADJD	_	pos	-1	9	_	MO	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	SB	_	_
+2	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	schon	schon	schon	ADV	ADV	_	_	-1	4	_	MO	_	_
+4	gemunkelt	munkeln	munkeln	VVPP	VVPP	_	_	-1	2	_	OC	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	dass	dass	dass	KOUS	KOUS	_	_	-1	11	_	CP	_	_
+7	weitere	weit	weit	ADJA	ADJA	_	nom|pl|masc|comp	-1	11	_	SB	_	_
+8	dem	die	die	ART	ART	_	dat|sg|neut	-1	9	_	NK	_	_
+9	Beispiel	Beispiel	Beispiel	NN	NN	_	dat|sg|neut	-1	10	_	DA	_	_
+10	folgen	folgen	folgen	VVINF	VVINF	_	_	-1	11	_	OC	_	_
+11	werden	werden	werden	VAFIN	VAFIN	_	pl|3|pres|ind	-1	1	_	RE	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Ausgerechnet	ausgerechnet	ausgerechnet	ADJD	ADJD	_	_	-1	2	_	MO	_	_
+2	in	in	in	APPR	APPR	_	_	-1	6	_	MO	_	_
+3	der	die	die	ART	ART	_	dat|sg|fem	-1	5	_	NK	_	_
+4	schönen	schön	schön	ADJA	ADJA	_	dat|sg|fem|pos	-1	5	_	NK	_	_
+5	Weihnachtszeit	Weihnachtszeit	Weihnachtszeit	NN	NN	_	dat|sg|fem	-1	2	_	NK	_	_
+6	offenbart	offenbaren	offenbaren	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+7	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	6	_	OA	_	_
+8	das	die	die	ART	ART	_	nom|sg|neut	-1	9	_	NK	_	_
+9	Elend	Elend	Elend	NN	NN	_	nom|sg|neut	-1	6	_	SB	_	_
+10	des	die	die	ART	ART	_	gen|sg|neut	-1	12	_	NK	_	_
+11	innerstädtischen	innerstädtisch	innerstädtisch	ADJA	ADJA	_	gen|sg|neut|pos	-1	12	_	NK	_	_
+12	Einzelhandels	Einzelhandel	Einzelhandel	NN	NN	_	gen|sg|neut	-1	9	_	AG	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	3	_	JU	_	_
+2	zwar	zwar	zwar	ADV	ADV	_	_	-1	3	_	MO	_	_
+3	an	an	an	APPR	APPR	_	_	-1	0	_	--	_	_
+4	einer	eine	eine	ART	ART	_	dat|sg|fem	-1	5	_	NK	_	_
+5	Ecke	Ecke	Ecke	NN	NN	_	dat|sg|fem	-1	3	_	NK	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	die	die	die	PRELS	PRELS	_	nom|sg|fem	-1	14	_	SB	_	_
+8	eine	eine	eine	ART	ART	_	nom|sg|fem	-1	9	_	NK	_	_
+9	Art	Art	Art	NN	NN	_	nom|sg|fem	-1	14	_	SB	_	_
+10	Aushängeschild	Aushängeschild	Aushängeschild	NN	NN	_	nom|sg|neut	-1	14	_	PD	_	_
+11	für	für	für	APPR	APPR	_	_	-1	10	_	MNR	_	_
+12	die	die	die	ART	ART	_	acc|sg|fem	-1	13	_	NK	_	_
+13	Stadt	Stadt	Stadt	NN	NN	_	acc|sg|fem	-1	11	_	NK	_	_
+14	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	5	_	RC	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+1	Ein	eine	eine	ART	ART	_	nom|sg|masc	-1	3	_	NK	_	_
+2	leerer	leer	leer	ADJA	ADJA	_	nom|sg|masc|pos	-1	3	_	NK	_	_
+3	Laden	Laden	Laden	NN	NN	_	nom|sg|masc	-1	4	_	SB	_	_
+4	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	alles	alle	alle	PIS	PIS	_	nom|sg|neut	-1	4	_	SB	_	_
+6	andere	andere	andere	PIS	PIS	_	nom|sg|neut	-1	4	_	PD	_	_
+7	als	als	als	KOKOM	KOKOM	_	_	-1	8	_	CM	_	_
+8	einladend	einladend	einladend	ADJD	ADJD	_	pos	-1	6	_	CC	_	_
+9	für	für	für	APPR	APPR	_	_	-1	8	_	MO	_	_
+10	den	die	die	ART	ART	_	acc|sg|masc	-1	11	_	NK	_	_
+11	Schwenk	Schwenk	Schwenk	NN	NN	_	acc|sg|masc	-1	9	_	NK	_	_
+12	in	in	in	APPR	APPR	_	_	-1	11	_	MNR	_	_
+13	die	die	die	ART	ART	_	acc|sg|fem	-1	14	_	NK	_	_
+14	City	City	City	NN	NN	_	acc|sg|fem	-1	12	_	NK	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+1	Ein	eine	eine	ART	ART	_	nom|sg|neut	-1	2	_	NK	_	_
+2	Alarmsignal	Alarmsignal	Alarmsignal	NN	NN	_	nom|sg|neut	-1	0	_	--	_	_
+3	für	für	für	APPR	APPR	_	_	-1	2	_	MNR	_	_
+4	den	die	die	ART	ART	_	acc|sg|masc	-1	6	_	NK	_	_
+5	neuen	neu	neu	ADJA	ADJA	_	acc|sg|masc|pos	-1	6	_	NK	_	_
+6	Bürgermeister	Bürgermeister	Bürgermeister	NN	NN	_	acc|sg|masc	-1	3	_	NK	_	_
+7	.	.	.	$.	$.	_	_	-1	6	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Stadt	Stadt	Stadt	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+3	kann	können	können	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	nur	nur	nur	ADV	ADV	_	_	-1	5	_	MO	_	_
+5	bedingt	bedingt	bedingt	ADJD	ADJD	_	pos	-1	6	_	MO	_	_
+6	helfen	helfen	helfen	VVINF	VVINF	_	_	-1	3	_	OC	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	aber	aber	aber	KON	KON	_	_	-1	3	_	CD	_	_
+9	sie	sie	sie	PPER	PPER	_	nom|sg|fem|3	-1	10	_	SB	_	_
+10	muss	müssen	müssen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	8	_	CJ	_	_
+11	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	13	_	OA	_	_
+12	endlich	endlich	endlich	ADV	ADV	_	_	-1	10	_	MO	_	_
+13	tun	tun	tun	VVINF	VVINF	_	_	-1	10	_	OC	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Erstens	erstens	erstens	ADV	ADV	_	_	-1	8	_	MO	_	_
+2	:	:	:	$.	$.	_	_	-1	1	_	--	_	_
+3	Die	die	die	ART	ART	_	nom|pl|fem	-1	4	_	NK	_	_
+4	Parkgebühren	Parkgebühr	Parkgebühr	NN	NN	_	nom|pl|fem	-1	8	_	SB	_	_
+5	in	in	in	APPR	APPR	_	_	-1	4	_	MNR	_	_
+6	der	die	die	ART	ART	_	dat|sg|fem	-1	7	_	NK	_	_
+7	Einkaufszone	Einkaufszone	Einkaufszone	NN	NN	_	dat|sg|fem	-1	5	_	NK	_	_
+8	müssen	müssen	müssen	VMFIN	VMFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+9	weg	weg	weg	ADV	ADV	_	_	-1	8	_	MO	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+1	Zweitens	zweitens	zweitens	ADV	ADV	_	_	-1	6	_	MO	_	_
+2	:	:	:	$.	$.	_	_	-1	1	_	--	_	_
+3	Ein	eine	eine	ART	ART	_	nom|sg|masc	-1	5	_	NK	_	_
+4	anziehender	anziehend	anziehend	ADJA	ADJA	_	nom|sg|masc|pos	-1	5	_	NK	_	_
+5	Branchenmix	Branchenmix	Branchenmix	NN	NN	_	nom|sg|masc	-1	6	_	SB	_	_
+6	muss	müssen	müssen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+7	her	her	her	ADV	ADV	_	_	-1	6	_	MO	_	_
+8	-	-	-	$(	$(	_	_	-1	7	_	--	_	_
+9	wo	wo	wo	PWAV	PWAV	_	_	-1	18	_	MO	_	_
+10	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	18	_	SB	_	_
+11	die	die	die	ART	ART	_	acc|sg|fem	-1	12	_	NK	_	_
+12	Stadt	Stadt	Stadt	NN	NN	_	acc|sg|fem	-1	18	_	OA	_	_
+13	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	18	_	NG	_	_
+14	selbst	selbst	selbst	ADV	ADV	_	_	-1	18	_	MO	_	_
+15	in	in	in	APPR	APPR	_	_	-1	18	_	MO	_	_
+16	der	die	die	ART	ART	_	dat|sg|fem	-1	17	_	NK	_	_
+17	Hand	Hand	Hand	NN	NN	_	dat|sg|fem	-1	15	_	NK	_	_
+18	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	6	_	OC	_	_
+19	,	,	,	$,	$,	_	_	-1	18	_	--	_	_
+20	muss	müssen	müssen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	6	_	CJ	_	_
+21	sie	sie	sie	PPER	PPER	_	nom|sg|fem|3	-1	20	_	SB	_	_
+22	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	24	_	OA	_	_
+23	mehr	mehr	mehr	ADV	ADV	_	*|*|*	-1	24	_	MO	_	_
+24	fordern	fordern	fordern	VVINF	VVINF	_	pl|3|pres|ind	-1	20	_	OC	_	_
+25	,	,	,	$,	$,	_	_	-1	24	_	--	_	_
+26	notfalls	notfalls	notfalls	ADV	ADV	_	_	-1	33	_	MO	_	_
+27	den	die	die	ART	ART	_	dat|pl|masc	-1	28	_	NK	_	_
+28	Eigentümern	Eigentümer	Eigentümer	NN	NN	_	dat|pl|masc	-1	33	_	DA	_	_
+29	geeignete	geeignet	geeignet	ADJA	ADJA	_	nom|sg|fem|pos	-1	31	_	NK	_	_
+30	gewerbliche	gewerblich	gewerblich	ADJA	ADJA	_	nom|sg|fem|pos	-1	31	_	NK	_	_
+31	Mieter	Mieter	Mieter	NN	NN	_	nom|sg|fem	-1	33	_	OA	_	_
+32	selbst	selbst	selbst	ADV	ADV	_	_	-1	33	_	MO	_	_
+33	vermitteln	vermitteln	vermitteln	VVINF	VVINF	_	_	-1	20	_	MO	_	_
+34	.	.	.	$.	$.	_	_	-1	33	_	--	_	_
+
+1	Drittens	drittens	drittens	ADV	ADV	_	_	-1	8	_	MO	_	_
+2	:	:	:	$.	$.	_	_	-1	1	_	--	_	_
+3	Im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	11	_	MO	_	_
+4	Umgang	Umgang	Umgang	NN	NN	_	dat|sg|masc	-1	3	_	NK	_	_
+5	mit	mit	mit	APPR	APPR	_	_	-1	4	_	MNR	_	_
+6	hilfesuchenden	hilfesuchend	hilfesuchend	ADJA	ADJA	_	dat|pl|masc|pos	-1	7	_	NK	_	_
+7	Händlern	Händler	Händler	NN	NN	_	dat|pl|masc	-1	5	_	NK	_	_
+8	muss	müssen	müssen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+9	der	die	die	ART	ART	_	nom|sg|masc	-1	10	_	NK	_	_
+10	Grundsatz	Grundsatz	Grundsatz	NN	NN	_	nom|sg|masc	-1	8	_	SB	_	_
+11	gelten	gelten	gelten	VVINF	VVINF	_	_	-1	8	_	OC	_	_
+12	-	-	-	$(	$(	_	_	-1	11	_	--	_	_
+13	nichts	nichts	nichts	PIS	PIS	_	*|*|neut	-1	14	_	SB	_	_
+14	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	8	_	CJ	_	_
+15	unmöglich	unmöglich	unmöglich	ADJD	ADJD	_	pos	-1	14	_	PD	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+1	So	so	so	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	lässt	lassen	lassen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	14	_	OA	_	_
+4	das	die	die	ART	ART	_	nom|sg|neut	-1	6	_	NK	_	_
+5	schlingernde	schlingernd	schlingernd	ADJA	ADJA	_	nom|sg|neut|pos	-1	6	_	NK	_	_
+6	City-Schiff	City-Schiff	City-Schiff	NN	NN	_	nom|sg|neut	-1	2	_	SB	_	_
+7	vielleicht	vielleicht	vielleicht	ADV	ADV	_	_	-1	14	_	MO	_	_
+8	doch	doch	doch	ADV	ADV	_	_	-1	14	_	MO	_	_
+9	noch	noch	noch	ADV	ADV	_	_	-1	14	_	MO	_	_
+10	auf	auf	auf	APPR	APPR	_	_	-1	14	_	MO	_	_
+11	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	13	_	NK	_	_
+12	erfolgversprechenden	erfolgversprechend	erfolgversprechend	ADJA	ADJA	_	acc|sg|masc|pos	-1	13	_	NK	_	_
+13	Kurs	Kurs	Kurs	NN	NN	_	acc|sg|masc	-1	10	_	NK	_	_
+14	bringen	bringen	bringen	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+

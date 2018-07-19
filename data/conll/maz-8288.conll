@@ -1,0 +1,200 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::2	3::3	7::14
+1	In	in	in	APPR	APPR	_	_	-1	0	_	--	_	_
+2	der	die	die	ART	ART	_	dat|sg|fem	-1	3	_	NK	_	_
+3	Favoritenrolle	Favoritenrolle	Favoritenrolle	NN	NN	_	dat|sg|fem	-1	1	_	NK	_	_
+
+	sentence_start	0	74	161	269	478	548	615	721	859	944	984
+	token_offsets	sentence	0	offsets	0::7	8::6	15::3	19::21	41::3	45::3	49::14	64::3	68::2	71::1
+	token_offsets	sentence	1	offsets	74::2	77::5	83::4	88::5	94::13	108::3	112::10	123::4	128::6	135::2	138::3	142::6	149::8	158::1
+	token_offsets	sentence	2	offsets	161::2	164::3	168::17	186::3	190::5	196::13	210::6	217::3	221::14	236::9	246::4	251::14	266::1
+	token_offsets	sentence	3	offsets	269::7	277::4	282::9	292::3	296::10	307::6	314::4	319::5	325::3	329::16	346::4	351::3	355::3	359::10	370::8	379::3	383::7	391::3	395::13	409::7	417::3	421::1	423::4	428::9	438::3	442::6	449::14	464::10	475::1
+	token_offsets	sentence	4	offsets	478::3	482::3	486::16	503::5	509::3	513::10	524::8	533::2	536::8	545::1
+	token_offsets	sentence	5	offsets	548::5	554::4	559::5	565::4	570::3	574::4	579::5	585::4	590::11	602::9	612::1
+	token_offsets	sentence	6	offsets	615::14	630::8	639::3	643::11	655::9	665::4	670::7	678::1	680::4	685::2	688::2	691::3	695::17	713::4	718::1
+	token_offsets	sentence	7	offsets	721::3	725::3	729::7	737::4	742::6	749::2	752::10	763::3	767::8	776::10	787::1	789::3	793::12	806::3	810::3	814::8	823::7	831::5	837::3	841::7	849::6	856::1
+	token_offsets	sentence	8	offsets	859::8	868::7	876::5	882::11	894::6	901::4	906::3	910::9	920::3	924::5	930::10	941::1
+	token_offsets	sentence	9	offsets	944::3	948::11	960::3	964::4	969::2	972::8	981::1
+	token_offsets	sentence	10	offsets	984::5	990::6	997::3	1001::6	1008::3	1012::19	1032::17	1050::3	1054::14	1069::11	1081::1	1083::4	1088::2	1091::4	1096::9	1106::5	1112::1	1114::3	1118::10	1129::1	1131::3	1135::14	1150::6	1157::3	1161::13	1175::8	1184::6	1191::1
+1	Gestern	Gestern	Gestern	NN	NN	_	nom|pl|fem	-1	2	_	SB	_	_
+2	begann	beginnen	beginnen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+3	das	die	die	ART	ART	_	acc|sg|neut	-1	4	_	NK	_	_
+4	Raumordnungsverfahren	Raumordnungsverfahren	Raumordnungsverfahren	NN	NN	_	acc|sg|neut	-1	2	_	SB	_	_
+5	für	für	für	APPR	APPR	_	_	-1	4	_	MNR	_	_
+6	die	die	die	ART	ART	_	acc|sg|fem	-1	7	_	NK	_	_
+7	Autobahntrasse	Autobahntrasse	Autobahntrasse	NN	NN	_	acc|sg|fem	-1	5	_	NK	_	_
+8	zur	zu	zu	APPRART	APPRART	_	dat|sg|fem	-1	7	_	MNR	_	_
+9	A2	A2	A2	NN	NN	_	dat|sg|fem	-1	8	_	NK	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+1	Ab	ab	ab	ADV	ADV	_	_	-1	3	_	MO	_	_
+2	heute	heute	heute	ADV	ADV	_	_	-1	1	_	MO	_	_
+3	kann	können	können	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	jeder	jede	jede	PIAT	PIAT	_	nom|sg|masc	-1	5	_	NK	_	_
+5	Interessierte	Interessierte	Interessierte	NN	NN	_	nom|sg|masc	-1	3	_	SB	_	_
+6	die	die	die	ART	ART	_	acc|pl|fem	-1	7	_	NK	_	_
+7	Unterlagen	Unterlage	Unterlage	NN	NN	_	acc|pl|fem	-1	13	_	OA	_	_
+8	vier	vier	vier	CARD	CARD	_	_	-1	9	_	NK	_	_
+9	Wochen	Woche	Woche	NN	NN	_	acc|pl|fem	-1	10	_	MO	_	_
+10	in	in	in	APPR	APPR	_	_	-1	13	_	MO	_	_
+11	den	die	die	ART	ART	_	dat|pl|neut	-1	12	_	NK	_	_
+12	Ämtern	Amt	Amt	NN	NN	_	dat|pl|neut	-1	10	_	NK	_	_
+13	einsehen	einsehen	einsehen	VVINF	VVINF	_	_	-1	3	_	OC	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	In	in	in	APPR	APPR	_	_	-1	7	_	MO	_	_
+2	den	die	die	ART	ART	_	dat|pl|fem	-1	3	_	NK	_	_
+3	Planungsvarianten	Planungsvariante	Planungsvariante	NN	NN	_	dat|pl|fem	-1	1	_	NK	_	_
+4	für	für	für	APPR	APPR	_	_	-1	3	_	MNR	_	_
+5	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	6	_	NK	_	_
+6	A_2-Zubringer	A_2-Zubringer	A_2-Zubringer	NN	NN	_	acc|sg|masc	-1	4	_	NK	_	_
+7	spielt	spielen	spielen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+8	das	die	die	ART	ART	_	nom|sg|neut	-1	9	_	NK	_	_
+9	Havelstädtchen	Havelstädtchen	Havelstädtchen	NN	NN	_	nom|sg|neut	-1	7	_	SB	_	_
+10	Pritzerbe	Pritzerbe	Pritzerbe	NN	NN	_	nom|sg|neut	-1	9	_	NK	_	_
+11	eine	eine	eine	ART	ART	_	acc|sg|fem	-1	12	_	NK	_	_
+12	Schlüsselrolle	Schlüsselrolle	Schlüsselrolle	NN	NN	_	acc|sg|fem	-1	7	_	OA	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Während	während	während	KOUS	KOUS	_	_	-1	11	_	CP	_	_
+2	eine	eine	eine	ART	ART	_	nom|sg|fem	-1	3	_	NK	_	_
+3	Anbindung	Anbindung	Anbindung	NN	NN	_	nom|sg|fem	-1	11	_	SB	_	_
+4	der	die	die	ART	ART	_	gen|pl|masc	-1	5	_	NK	_	_
+5	Rathenower	Rathenower	Rathenower	NN	NN	_	gen|pl|masc	-1	3	_	AG	_	_
+6	Region	Region	Region	NN	NN	_	nom|sg|fem	-1	5	_	NK	_	_
+7	über	über	über	APPR	APPR	_	_	-1	5	_	MNR	_	_
+8	Milow	Milow	Milow	NE	NE	_	acc|sg|neut	-1	7	_	NK	_	_
+9	als	als	als	KOKOM	KOKOM	_	_	-1	11	_	MO	_	_
+10	unwahrscheinlich	unwahrscheinlich	unwahrscheinlich	ADJD	ADJD	_	pos	-1	9	_	NK	_	_
+11	gilt	gelten	gelten	VVFIN	VVFIN	_	sg|3|pres|ind	-1	23	_	MO	_	_
+12	und	und	und	KON	KON	_	_	-1	11	_	CD	_	_
+13	die	die	die	ART	ART	_	nom|sg|fem	-1	14	_	NK	_	_
+14	Döberitzer	Döberitzer	Döberitzer	NN	NN	_	acc|pl|masc	-1	21	_	SB	_	_
+15	Variante	Variante	Variante	NN	NN	_	acc|pl|masc	-1	14	_	NK	_	_
+16	aus	aus	aus	APPR	APPR	_	_	-1	14	_	MNR	_	_
+17	Gründen	Grund	Grund	NN	NN	_	dat|pl|masc	-1	16	_	NK	_	_
+18	des	die	die	ART	ART	_	gen|sg|masc	-1	19	_	NK	_	_
+19	Naturschutzes	Naturschutz	Naturschutz	NN	NN	_	gen|sg|masc	-1	17	_	AG	_	_
+20	abwegig	abwegig	abwegig	ADJD	ADJD	_	pos	-1	21	_	PD	_	_
+21	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	12	_	CJ	_	_
+22	,	,	,	$,	$,	_	_	-1	21	_	--	_	_
+23	muss	müssen	müssen	VMFIN	VMFIN	_	acc|pl|masc|pos	-1	0	_	--	_	_
+24	Pritzerbe	Pritzerbe	Pritzerbe	NN	NN	_	acc|pl|masc	-1	28	_	OA	_	_
+25	mit	mit	mit	APPR	APPR	_	_	-1	28	_	MO	_	_
+26	seiner	sein	sein	PPOSAT	PPOSAT	_	dat|sg|fem	-1	27	_	NK	_	_
+27	Favoritenrolle	Favoritenrolle	Favoritenrolle	NN	NN	_	dat|sg|fem	-1	25	_	NK	_	_
+28	klarkommen	klarkommen	klarkommen	VVINF	VVINF	_	_	-1	23	_	OC	_	_
+29	.	.	.	$.	$.	_	_	-1	28	_	--	_	_
+
+1	Für	für	für	APPR	APPR	_	_	-1	4	_	MO	_	_
+2	die	die	die	ART	ART	_	acc|pl|masc	-1	3	_	NK	_	_
+3	Stadtverordneten	Stadtverordnete	Stadtverordnete	NN	NN	_	acc|pl|masc	-1	1	_	NK	_	_
+4	heißt	heißen	heißen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	das	die	die	ART	ART	_	nom|sg|neut	-1	4	_	SB	_	_
+6	öffentlich	öffentlich	öffentlich	ADJD	ADJD	_	pos	-1	9	_	MO	_	_
+7	Position	Position	Position	NN	NN	_	acc|sg|fem	-1	9	_	OA	_	_
+8	zu	zu	zu	PTKZU	PTKZU	_	_	-1	9	_	PM	_	_
+9	beziehen	beziehen	beziehen	VVINF	VVINF	_	_	-1	4	_	OC	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+1	Diese	diese	diese	PDS	PDS	_	nom|sg|fem	-1	2	_	SB	_	_
+2	muss	müssen	müssen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	2	_	NG	_	_
+4	stur	stur	stur	ADJD	ADJD	_	pos	-1	10	_	MO	_	_
+5	für	für	für	APPR	APPR	_	_	-1	10	_	MO	_	_
+6	oder	oder	oder	KON	KON	_	_	-1	5	_	CD	_	_
+7	gegen	gegen	gegen	APPR	APPR	_	_	-1	6	_	CJ	_	_
+8	eine	eine	eine	ART	ART	_	acc|sg|fem	-1	9	_	NK	_	_
+9	Havelbrücke	Havelbrücke	Havelbrücke	NN	NN	_	acc|sg|fem	-1	5	_	NK	_	_
+10	ausfallen	ausfallen	ausfallen	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Diplomatisches	diplomatisch	diplomatisch	ADJA	ADJA	_	nom|sg|neut|pos	-1	2	_	NK	_	_
+2	Geschick	Geschick	Geschick	NN	NN	_	nom|sg|neut	-1	6	_	SB	_	_
+3	und	und	und	KON	KON	_	_	-1	2	_	CD	_	_
+4	politischer	politisch	politisch	ADJA	ADJA	_	gen|sg|fem|pos	-1	5	_	NK	_	_
+5	Weitblick	Weitblick	Weitblick	NN	NN	_	gen|sg|fem	-1	3	_	CJ	_	_
+6	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+7	gefragt	fragen	fragen	VVPP	VVPP	_	_	-1	6	_	PD	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	14	_	CP	_	_
+10	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	14	_	EP	_	_
+11	um	um	um	APPR	APPR	_	_	-1	14	_	OP	_	_
+12	die	die	die	ART	ART	_	acc|sg|fem	-1	13	_	NK	_	_
+13	Verhandlungsmasse	Verhandlungsmasse	Verhandlungsmasse	NN	NN	_	acc|sg|fem	-1	11	_	NK	_	_
+14	geht	gehen	gehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	7	_	MO	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+1	Was	was	was	PWS	PWS	_	acc|sg|neut	-1	10	_	OA	_	_
+2	die	die	die	ART	ART	_	nom|sg|fem	-1	3	_	NK	_	_
+3	Kommune	Kommune	Kommune	NN	NN	_	nom|sg|fem	-1	1	_	APP	_	_
+4	oder	oder	oder	KON	KON	_	_	-1	3	_	CD	_	_
+5	Bürger	Bürger	Bürger	NN	NN	_	nom|pl|masc	-1	4	_	CJ	_	_
+6	an	an	an	APPR	APPR	_	_	-1	1	_	MNR	_	_
+7	Anregungen	Anregung	Anregung	NN	NN	_	dat|pl|fem	-1	6	_	NK	_	_
+8	und	und	und	KON	KON	_	_	-1	7	_	CD	_	_
+9	Bedenken	Bedenken	Bedenken	NN	NN	_	dat|pl|neut	-1	8	_	CJ	_	_
+10	einreichen	einreichen	einreichen	VVINF	VVINF	_	pl|3|pres|ind	-1	12	_	SB	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+13	Auswirkungen	Auswirkung	Auswirkung	NN	NN	_	acc|pl|fem	-1	12	_	OA	_	_
+14	für	für	für	APPR	APPR	_	_	-1	13	_	MNR	_	_
+15	die	die	die	ART	ART	_	acc|pl|neut	-1	18	_	NK	_	_
+16	nächsten	nah	nah	ADJA	ADJA	_	acc|pl|neut|pos	-1	18	_	NK	_	_
+17	hundert	hundert	hundert	CARD	CARD	_	_	-1	18	_	NK	_	_
+18	Jahre	Jahr	Jahr	NN	NN	_	acc|pl|neut	-1	14	_	NK	_	_
+19	und	und	und	KON	KON	_	_	-1	12	_	CD	_	_
+20	darüber	darüber	darüber	PAV	PAV	_	_	-1	21	_	NK	_	_
+21	hinaus	hinaus	hinaus	PTKVZ	PTKVZ	_	_	-1	19	_	CJ	_	_
+22	.	.	.	$.	$.	_	_	-1	21	_	--	_	_
+
+1	Positive	positiv	positiv	ADJA	ADJA	_	acc|pl|masc|pos	-1	2	_	NK	_	_
+2	Effekte	Effekt	Effekt	NN	NN	_	acc|pl|masc	-1	5	_	SB	_	_
+3	einer	eine	eine	ART	ART	_	gen|sg|fem	-1	4	_	NK	_	_
+4	Havelbrücke	Havelbrücke	Havelbrücke	NN	NN	_	gen|sg|fem	-1	2	_	AG	_	_
+5	lassen	lassen	lassen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+6	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	11	_	OA	_	_
+7	für	für	für	APPR	APPR	_	_	-1	5	_	MO	_	_
+8	Pritzerbe	Pritzerbe	Pritzerbe	NN	NN	_	acc|pl|masc	-1	7	_	NK	_	_
+9	gar	gar	gar	ADV	ADV	_	_	-1	10	_	MO	_	_
+10	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	5	_	NG	_	_
+11	abschätzen	abschätzen	abschätzen	VVINF	VVINF	_	_	-1	5	_	OC	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Ein	eine	eine	ART	ART	_	nom|sg|neut	-1	2	_	NK	_	_
+2	Gewerbeboom	Gewerbeboom	Gewerbeboom	NN	NN	_	nom|sg|neut	-1	3	_	SB	_	_
+3	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	kaum	kaum	kaum	ADV	ADV	_	_	-1	6	_	MO	_	_
+5	zu	zu	zu	PTKZU	PTKZU	_	_	-1	6	_	PM	_	_
+6	erwarten	erwarten	erwarten	VVINF	VVINF	_	_	-1	3	_	OC	_	_
+7	.	.	.	$.	$.	_	_	-1	6	_	--	_	_
+
+1	Dafür	dafür	dafür	PAV	PAV	_	_	-1	23	_	NK	_	_
+2	könnte	können	können	VMFIN	VMFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+3	die	die	die	ART	ART	_	nom|sg|fem	-1	4	_	NK	_	_
+4	Region	Region	Region	NN	NN	_	nom|sg|fem	-1	2	_	SB	_	_
+5	vom	von	von	APPRART	APPRART	_	dat|sg|neut	-1	4	_	MNR	_	_
+6	Wirtschaftsstandort	Wirtschaftsstandort	Wirtschaftsstandort	NN	NN	_	dat|sg|neut	-1	5	_	NK	_	_
+7	Premnitz/Rathenow	Premnitz/Rathenow	Premnitz/Rathenow	NE	NE	_	nom|sg|neut	-1	6	_	NK	_	_
+8	mit	mit	mit	APPR	APPR	_	_	-1	4	_	MNR	_	_
+9	Arbeitsplätzen	Arbeitsplatz	Arbeitsplatz	NN	NN	_	dat|pl|masc	-1	8	_	NK	_	_
+10	profitieren	profitieren	profitieren	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+11	-	-	-	$(	$(	_	_	-1	10	_	--	_	_
+12	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	16	_	CP	_	_
+13	er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	16	_	SB	_	_
+14	denn	denn	denn	ADV	ADV	_	_	-1	16	_	MO	_	_
+15	überhaupt	überhaupt	überhaupt	ADV	ADV	_	_	-1	16	_	MO	_	_
+16	kommt	kommen	kommen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	2	_	MO	_	_
+17	,	,	,	$,	$,	_	_	-1	16	_	--	_	_
+18	der	die	die	ART	ART	_	dat|sg|fem	-1	19	_	NK	_	_
+19	Aufschwung	Aufschwung	Aufschwung	NN	NN	_	dat|sg|fem	-1	13	_	APP	_	_
+20	,	,	,	$,	$,	_	_	-1	19	_	--	_	_
+21	den	die	die	ART	ART	_	acc|sg|masc	-1	27	_	OA	_	_
+22	havelländische	havelländische	havelländische	ADJA	ADJA	_	nom|pl|fem|pos	-1	23	_	NK	_	_
+23	Firmen	Firma	Firma	NN	NN	_	nom|pl|fem	-1	27	_	OA	_	_
+24	vom	von	von	APPRART	APPRART	_	dat|sg|masc	-1	26	_	OP	_	_
+25	A_2-Zubringer	A_2-Zubringer	A_2-Zubringer	NN	NN	_	dat|sg|masc	-1	24	_	NK	_	_
+26	abhängig	abhängig	abhängig	ADJD	ADJD	_	pos	-1	27	_	MO	_	_
+27	machen	machen	machen	VVINF	VVINF	_	_	-1	19	_	RC	_	_
+28	.	.	.	$.	$.	_	_	-1	27	_	--	_	_
+

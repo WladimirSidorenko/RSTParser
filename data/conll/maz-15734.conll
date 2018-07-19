@@ -1,0 +1,240 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::15
+1	Unübersichtlich	unübersichtlich	unübersichtlich	ADJD	ADJD	_	pos	-1	0	_	--	_	_
+
+	sentence_start	0	56	118	191
+	token_offsets	sentence	0	offsets	0::3	4::3	8::8	17::3	21::5	27::4	32::1	34::4	39::3	43::9	53::1
+	token_offsets	sentence	1	offsets	56::8	65::5	71::3	75::2	78::3	82::12	95::9	105::3	109::5	115::1
+	token_offsets	sentence	2	offsets	118::3	122::3	126::4	131::3	135::3	139::12	152::2	155::5	161::1	163::2	166::9	176::6	183::4	188::1
+	token_offsets	sentence	3	offsets	191::9	201::3	205::9	215::6	222::10	233::3	237::6	244::6	251::7	259::6	266::1
+1	Wer	wer	wer	PWS	PWS	_	nom|sg|masc	-1	6	_	SB	_	_
+2	vom	von	von	APPRART	APPRART	_	dat|sg|masc	-1	10	_	MO	_	_
+3	Wursthof	Wursthof	Wursthof	NN	NN	_	dat|sg|masc	-1	2	_	NK	_	_
+4	zum	zu	zu	APPRART	APPRART	_	dat|sg|masc	-1	3	_	MNR	_	_
+5	Markt	Markt	Markt	NN	NN	_	dat|sg|masc	-1	4	_	NK	_	_
+6	will	wollen	wollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	8	_	SB	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	muss	müssen	müssen	VMFIN	VMFIN	_	nom|sg|*	-1	0	_	--	_	_
+9	gut	gut	gut	ADJD	ADJD	_	pos	-1	10	_	MO	_	_
+10	aufpassen	aufpassen	aufpassen	VVINF	VVINF	_	_	-1	8	_	OC	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Parkende	parkend	parkend	ADJA	ADJA	_	nom|pl|neut|pos	-1	2	_	NK	_	_
+2	Autos	Auto	Auto	NN	NN	_	nom|pl|neut	-1	7	_	SB	_	_
+3	bis	bis	bis	KON	KON	_	_	-1	4	_	AC	_	_
+4	an	an	an	APPR	APPR	_	_	-1	2	_	MNR	_	_
+5	die	die	die	ART	ART	_	acc|pl|fem	-1	6	_	NK	_	_
+6	Einmündungen	Einmündung	Einmündung	NN	NN	_	acc|pl|fem	-1	4	_	NK	_	_
+7	behindern	behindern	behindern	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+8	die	die	die	ART	ART	_	acc|sg|fem	-1	9	_	NK	_	_
+9	Sicht	Sicht	Sicht	NN	NN	_	acc|sg|fem	-1	7	_	OA	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+1	Oft	oft	oft	ADV	ADV	_	_	-1	8	_	MO	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	erst	erst	erst	ADV	ADV	_	_	-1	4	_	MO	_	_
+4	auf	auf	auf	APPR	APPR	_	_	-1	8	_	MO	_	_
+5	der	die	die	ART	ART	_	dat|sg|fem	-1	6	_	NK	_	_
+6	Straßenmitte	Straßenmitte	Straßenmitte	NN	NN	_	dat|sg|fem	-1	4	_	NK	_	_
+7	zu	zu	zu	PTKZU	PTKZU	_	_	-1	8	_	PM	_	_
+8	sehen	sehen	sehen	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	ob	ob	ob	KOUS	KOUS	_	_	-1	13	_	CP	_	_
+11	abgebogen	abbiegen	abbiegen	VVPP	VVPP	_	_	-1	12	_	OC	_	_
+12	werden	werden	werden	VAINF	VAINF	_	_	-1	13	_	OC	_	_
+13	kann	können	können	VMFIN	VMFIN	_	sg|3|pres|ind	-1	6	_	OC	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Fußgänger	Fußgänger	Fußgänger	NN	NN	_	nom|pl|masc	-1	4	_	SB	_	_
+2	und	und	und	KON	KON	_	_	-1	1	_	CD	_	_
+3	Radfahrer	Radfahrer	Radfahrer	NN	NN	_	nom|pl|masc	-1	2	_	CJ	_	_
+4	wuseln	wuseln	wuseln	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+5	dazwischen	dazwischen	dazwischen	PAV	PAV	_	_	-1	0	_	NK	_	_
+6	und	und	und	KON	KON	_	_	-1	4	_	CD	_	_
+7	sollen	sollen	sollen	VMFIN	VMFIN	_	pl|3|pres|ind	-1	6	_	CJ	_	_
+8	keinen	keine	keine	PIAT	PIAT	_	acc|sg|masc	-1	9	_	NK	_	_
+9	Schaden	Schaden	Schaden	NN	NN	_	acc|sg|masc	-1	10	_	OA	_	_
+10	nehmen	nehmen	nehmen	VVINF	VVINF	_	_	-1	7	_	OC	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+	sentence_start	0	58	126	304	409	455	539	574
+	token_offsets	sentence	0	offsets	0::2	3::3	7::2	10::3	14::1	16::4	21::5	27::4	32::7	40::7	48::6	55::1
+	token_offsets	sentence	1	offsets	58::3	62::4	67::7	75::3	79::10	90::2	93::5	99::10	110::3	114::8	123::1
+	token_offsets	sentence	2	offsets	126::6	133::3	137::2	140::3	144::9	154::8	163::1	165::4	170::3	174::10	185::3	189::3	193::7	201::2	204::5	210::10	221::5	227::10	238::4	243::4	248::6	255::1	257::2	260::2	263::4	268::2	271::6	278::7	286::3	290::5	296::4	301::1
+	token_offsets	sentence	3	offsets	304::4	309::2	312::3	316::8	325::3	329::2	332::3	336::7	344::6	351::5	357::3	361::9	371::4	376::5	382::6	389::3	393::3	397::8	406::1
+	token_offsets	sentence	4	offsets	409::4	414::3	418::4	423::2	426::2	429::9	439::5	445::6	452::1
+	token_offsets	sentence	5	offsets	455::3	459::3	463::12	476::3	480::5	486::2	489::7	497::3	501::3	505::7	513::7	521::2	524::11	536::1
+	token_offsets	sentence	6	offsets	539::4	544::3	548::4	553::17	571::1
+	token_offsets	sentence	7	offsets	574::3	578::6	585::3	589::6	596::11	608::4	613::2	616::3	620::7	628::13	642::3	646::5	652::1
+1	Da	da	da	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	SB	_	_
+4	gut	gut	gut	ADJD	ADJD	_	pos	-1	2	_	PD	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	dass	dass	dass	KOUS	KOUS	_	_	-1	11	_	CP	_	_
+7	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	8	_	NG	_	_
+8	alle	alle	alle	PIAT	PIAT	_	nom|pl|masc	-1	9	_	NK	_	_
+9	Wünsche	Wunsch	Wunsch	NN	NN	_	nom|pl|masc	-1	11	_	SB	_	_
+10	erfüllt	erfüllen	erfüllen	VVPP	VVPP	_	_	-1	11	_	OC	_	_
+11	werden	werden	werden	VAINF	VAINF	_	pl|3|pres|ind	-1	3	_	RE	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	0	_	--	_	_
+2	nach	nach	nach	APPR	APPR	_	_	-1	1	_	MNR	_	_
+3	Öffnung	Öffnung	Öffnung	NN	NN	_	dat|sg|fem	-1	2	_	NK	_	_
+4	des	die	die	ART	ART	_	gen|sg|neut	-1	5	_	NK	_	_
+5	Wursthofes	Wursthofes	Wursthofes	NN	NN	_	gen|sg|neut	-1	3	_	AG	_	_
+6	in	in	in	APPR	APPR	_	_	-1	3	_	MNR	_	_
+7	beide	beide	beide	PIAT	PIAT	_	dat|pl|fem	-1	8	_	NK	_	_
+8	Richtungen	Richtung	Richtung	NN	NN	_	dat|pl|fem	-1	6	_	NK	_	_
+9	zum	zu	zu	APPRART	APPRART	_	dat|sg|neut	-1	8	_	MNR	_	_
+10	Beispiel	Beispiel	Beispiel	NN	NN	_	dat|sg|neut	-1	9	_	NK	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Sicher	sicher	sicher	ADJD	ADJD	_	pos	-1	2	_	PD	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	SB	_	_
+4	ein	eine	eine	ART	ART	_	nom|sg|neut	-1	6	_	NK	_	_
+5	seltsames	seltsam	seltsam	ADJA	ADJA	_	nom|sg|neut|pos	-1	6	_	NK	_	_
+6	Argument	Argument	Argument	NN	NN	_	nom|sg|neut	-1	2	_	PD	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	dass	dass	dass	KOUS	KOUS	_	_	-1	21	_	CP	_	_
+9	die	die	die	ART	ART	_	nom|sg|fem	-1	10	_	NK	_	_
+10	Bordsteine	Bordstein	Bordstein	NN	NN	_	nom|sg|fem	-1	21	_	SB	_	_
+11	für	für	für	APPR	APPR	_	_	-1	10	_	MNR	_	_
+12	den	die	die	ART	ART	_	acc|sg|masc	-1	13	_	NK	_	_
+13	Verkehr	Verkehr	Verkehr	NN	NN	_	acc|sg|masc	-1	11	_	NK	_	_
+14	in	in	in	APPR	APPR	_	_	-1	13	_	MNR	_	_
+15	beide	beide	beide	PIAT	PIAT	_	acc|pl|masc	-1	16	_	NK	_	_
+16	Richtungen	Richtung	Richtung	NN	NN	_	dat|pl|fem	-1	14	_	NK	_	_
+17	zwölf	zwölf	zwölf	CARD	CARD	_	_	-1	18	_	NK	_	_
+18	Zentimeter	Zentimeter	Zentimeter	NN	NN	_	acc|pl|masc	-1	19	_	AMS	_	_
+19	hoch	hoch	hoch	ADJD	ADJD	_	pos	-1	20	_	PD	_	_
+20	sein	sein	sein	VAINF	VAINF	_	_	-1	21	_	OC	_	_
+21	sollen	sollen	sollen	VMFIN	VMFIN	_	pl|3|pres|ind	-1	2	_	MO	_	_
+22	,	,	,	$,	$,	_	_	-1	21	_	--	_	_
+23	wo	wo	wo	PWAV	PWAV	_	_	-1	31	_	MO	_	_
+24	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	31	_	EP	_	_
+25	doch	doch	doch	ADV	ADV	_	_	-1	31	_	MO	_	_
+26	in	in	in	APPR	APPR	_	_	-1	31	_	MO	_	_
+27	vielen	viele	viele	PIAT	PIAT	_	dat|pl|masc	-1	28	_	NK	_	_
+28	Straßen	Straße	Straße	NN	NN	_	dat|pl|masc	-1	26	_	NK	_	_
+29	gar	gar	gar	ADV	ADV	_	_	-1	30	_	MO	_	_
+30	keine	keine	keine	PIAT	PIAT	_	acc|sg|fem	-1	31	_	MO	_	_
+31	gibt	geben	geben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	3	_	RE	_	_
+32	.	.	.	$.	$.	_	_	-1	31	_	--	_	_
+
+1	Aber	aber	aber	KON	KON	_	_	-1	10	_	JU	_	_
+2	in	in	in	APPR	APPR	_	_	-1	10	_	MO	_	_
+3	der	die	die	ART	ART	_	dat|sg|fem	-1	4	_	NK	_	_
+4	Mönchen-	Mönchen-	Mönchen-	TRUNC	TRUNC	_	_	-1	2	_	NK	_	_
+5	und	und	und	KON	KON	_	_	-1	2	_	CD	_	_
+6	in	in	in	APPR	APPR	_	_	-1	5	_	CJ	_	_
+7	der	die	die	ART	ART	_	dat|sg|fem	-1	8	_	NK	_	_
+8	Zinnaer	Zinnaer	Zinnaer	NN	NN	_	dat|sg|fem	-1	6	_	NK	_	_
+9	Straße	Straße	Straße	NN	NN	_	nom|sg|fem	-1	8	_	NK	_	_
+10	tritt	treten	treten	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+11	der	die	die	ART	ART	_	nom|sg|masc	-1	12	_	NK	_	_
+12	Fußgänger	Fußgänger	Fußgänger	NN	NN	_	nom|sg|masc	-1	10	_	SB	_	_
+13	eben	eben	eben	ADV	ADV	_	_	-1	10	_	MO	_	_
+14	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	10	_	NG	_	_
+15	gleich	gleich	gleich	ADJD	ADJD	_	pos	-1	16	_	MO	_	_
+16	auf	auf	auf	APPR	APPR	_	_	-1	10	_	MO	_	_
+17	die	die	die	ART	ART	_	acc|sg|fem	-1	18	_	NK	_	_
+18	Fahrbahn	Fahrbahn	Fahrbahn	NN	NN	_	acc|sg|fem	-1	16	_	NK	_	_
+19	.	.	.	$.	$.	_	_	-1	18	_	--	_	_
+
+1	Erst	erst	erst	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	mal	mal	mal	ADV	ADV	_	_	-1	3	_	MO	_	_
+3	muss	müssen	müssen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	3	_	SB	_	_
+5	an	an	an	APPR	APPR	_	_	-1	3	_	MO	_	_
+6	parkenden	parkend	parkend	ADJA	ADJA	_	gen|sg|neut|pos	-1	7	_	NK	_	_
+7	Autos	Auto	Auto	NN	NN	_	gen|sg|neut	-1	5	_	NK	_	_
+8	vorbei	vorbei	vorbei	PTKVZ	PTKVZ	_	_	-1	3	_	MO	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	4	_	JU	_	_
+2	die	die	die	ART	ART	_	nom|sg|fem	-1	3	_	NK	_	_
+3	Mittelstraße	Mittelstraße	Mittelstraße	NN	NN	_	nom|sg|fem	-1	4	_	SB	_	_
+4	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	13	_	NG	_	_
+6	so	so	so	ADV	ADV	_	_	-1	7	_	MO	_	_
+7	einfach	einfach	einfach	ADJD	ADJD	_	pos	-1	13	_	MO	_	_
+8	mit	mit	mit	APPR	APPR	_	_	-1	13	_	OP	_	_
+9	den	die	die	ART	ART	_	dat|pl|fem	-1	11	_	NK	_	_
+10	anderen	andere	andere	PIAT	PIAT	_	dat|pl|fem	-1	11	_	NK	_	_
+11	Straßen	Straße	Straße	NN	NN	_	dat|pl|fem	-1	8	_	NK	_	_
+12	zu	zu	zu	PTKZU	PTKZU	_	_	-1	13	_	PM	_	_
+13	vergleichen	vergleichen	vergleichen	VVINF	VVINF	_	_	-1	4	_	OC	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Hier	hier	hier	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	kaum	kaum	kaum	ADV	ADV	_	_	-1	2	_	MO	_	_
+4	Durchgangsverkehr	Durchgangsverkehr	Durchgangsverkehr	NN	NN	_	nom|sg|masc	-1	2	_	PD	_	_
+5	.	.	.	$.	$.	_	_	-1	4	_	--	_	_
+
+1	Das	die	die	PDS	PDS	_	nom|sg|neut	-1	2	_	SB	_	_
+2	dürfte	dürfen	dürfen	VMFIN	VMFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+3	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	5	_	NK	_	_
+4	großer	groß	groß	ADJA	ADJA	_	nom|sg|masc|pos	-1	5	_	NK	_	_
+5	Unterschied	Unterschied	Unterschied	NN	NN	_	nom|sg|masc	-1	2	_	SB	_	_
+6	sein	sein	sein	PPOSAT	PPOSAT	_	nom|sg|masc	-1	10	_	NK	_	_
+7	zu	zu	zu	APPR	APPR	_	_	-1	5	_	MNR	_	_
+8	den	die	die	ART	ART	_	dat|pl|*	-1	10	_	NK	_	_
+9	anderen	andere	andere	PIAT	PIAT	_	dat|pl|*	-1	10	_	NK	_	_
+10	Verkehrsadern	Verkehrsader	Verkehrsader	NN	NN	_	dat|pl|neut	-1	7	_	NK	_	_
+11	der	die	die	ART	ART	_	gen|sg|fem	-1	12	_	NK	_	_
+12	Stadt	Stadt	Stadt	NN	NN	_	gen|sg|fem	-1	10	_	AG	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+	sentence_start	0	130	225
+	token_offsets	sentence	0	offsets	0::3	4::9	14::2	17::6	24::1	26::2	29::4	34::17	52::2	55::3	59::12	72::14	87::2	90::8	99::5	105::5	111::1	113::3	117::9	127::1
+	token_offsets	sentence	1	offsets	130::4	135::4	140::7	148::10	159::1	161::3	165::3	169::3	173::13	187::3	191::7	199::6	206::1	208::6	215::6	222::1
+	token_offsets	sentence	2	offsets	225::4	230::6	237::3	241::9	251::4	256::1
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	2	_	NK	_	_
+2	Vorschlag	Vorschlag	Vorschlag	NN	NN	_	nom|sg|masc	-1	18	_	SB	_	_
+3	zu	zu	zu	PTKZU	PTKZU	_	_	-1	4	_	PM	_	_
+4	prüfen	prüfen	prüfen	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	ob	ob	ob	KOUS	KOUS	_	_	-1	16	_	CP	_	_
+7	eine	eine	eine	ART	ART	_	nom|sg|fem	-1	8	_	NK	_	_
+8	Richtungsänderung	Richtungsänderung	Richtungsänderung	NN	NN	_	nom|sg|fem	-1	16	_	SB	_	_
+9	in	in	in	APPR	APPR	_	_	-1	16	_	MO	_	_
+10	den	die	die	ART	ART	_	dat|pl|neut	-1	12	_	NK	_	_
+11	vorhandenden	vorhandenden	vorhandenden	ADJA	ADJA	_	dat|pl|neut|pos	-1	12	_	NK	_	_
+12	Einbahnstraßen	Einbahnstraße	Einbahnstraße	NN	NN	_	dat|pl|neut	-1	9	_	NK	_	_
+13	zu	zu	zu	APPR	APPR	_	_	-1	16	_	MO	_	_
+14	kürzeren	kurz	kurz	ADJA	ADJA	_	dat|pl|neut|comp	-1	15	_	NK	_	_
+15	Wegen	Weg	Weg	NN	NN	_	dat|sg|masc	-1	13	_	NK	_	_
+16	führt	führen	führen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	4	_	OC	_	_
+17	,	,	,	$,	$,	_	_	-1	16	_	--	_	_
+18	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+19	brauchbar	brauchbar	brauchbar	ADJD	ADJD	_	pos	-1	18	_	PD	_	_
+20	.	.	.	$.	$.	_	_	-1	19	_	--	_	_
+
+1	Doch	doch	doch	KON	KON	_	_	-1	3	_	JU	_	_
+2	dann	dann	dann	ADV	ADV	_	_	-1	3	_	MO	_	_
+3	müssten	müssen	müssen	VMFIN	VMFIN	_	pl|3|past|subj	-1	0	_	--	_	_
+4	diejenigen	diejenigen	diejenigen	PDS	PDS	_	nom|pl|*	-1	3	_	SB	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	die	die	die	PRELS	PRELS	_	nom|pl|*	-1	15	_	SB	_	_
+7	aus	aus	aus	APPR	APPR	_	_	-1	15	_	MO	_	_
+8	der	die	die	ART	ART	_	dat|sg|fem	-1	9	_	NK	_	_
+9	Lessingstraße	Lessingstraße	Lessingstraße	NN	NN	_	dat|sg|fem	-1	7	_	NK	_	_
+10	ins	in	in	APPRART	APPRART	_	acc|sg|neut	-1	15	_	MO	_	_
+11	Zentrum	Zentrum	Zentrum	NN	NN	_	acc|sg|neut	-1	10	_	NK	_	_
+12	wollen	wollen	wollen	VMFIN	VMFIN	_	pl|3|pres|ind	-1	11	_	AG	_	_
+13	,	,	,	$,	$,	_	_	-1	12	_	--	_	_
+14	Umwege	Umweg	Umweg	NN	NN	_	acc|pl|masc	-1	11	_	CJ	_	_
+15	fahren	fahren	fahren	VVINF	VVINF	_	_	-1	4	_	RC	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+1	Alle	alle	alle	PIS	PIS	_	nom|pl|*	-1	2	_	SB	_	_
+2	werden	werden	werden	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	nie	nie	nie	ADV	ADV	_	_	-1	5	_	MO	_	_
+4	zufrieden	zufrieden	zufrieden	ADJD	ADJD	_	pos	-1	5	_	PD	_	_
+5	sein	sein	sein	VAINF	VAINF	_	_	-1	2	_	OC	_	_
+6	.	.	.	$.	$.	_	_	-1	5	_	--	_	_
+

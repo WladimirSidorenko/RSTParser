@@ -1,0 +1,199 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::8	9::3	13::3	17::8
+1	Zuschlag	Zuschlag	Zuschlag	NN	NN	_	nom|sg|masc	-1	0	_	--	_	_
+2	für	für	für	APPR	APPR	_	_	-1	1	_	MNR	_	_
+3	den	die	die	ART	ART	_	acc|sg|masc	-1	4	_	NK	_	_
+4	Besseren	gut	gut	ADJA	ADJA	_	acc|sg|masc|comp	-1	2	_	NK	_	_
+
+	sentence_start	0	68	193	323	392	640	797	873	1127
+	token_offsets	sentence	0	offsets	0::3	4::8	13::3	17::7	25::3	29::24	54::3	58::6	65::1
+	token_offsets	sentence	1	offsets	68::3	72::21	94::2	97::6	104::3	108::20	129::5	135::5	141::9	151::6	158::3	162::6	169::4	174::3	178::11	190::1
+	token_offsets	sentence	2	offsets	193::7	201::8	210::8	219::3	223::7	231::10	242::1	244::4	249::2	252::5	258::14	273::3	277::11	289::3	293::10	304::10	315::4	320::1
+	token_offsets	sentence	3	offsets	323::2	326::4	331::3	335::3	339::3	343::7	351::3	355::3	359::15	375::8	384::4	389::1
+	token_offsets	sentence	4	offsets	392::2	395::4	400::4	405::13	419::1	420::0	422::8	431::3	435::22	458::6	465::5	471::10	482::13	496::3	500::3	504::7	512::15	528::5	534::3	538::4	543::5	549::12	562::4	567::4	572::3	576::10	587::11	599::4	604::2	607::5	613::6	620::6	627::9	637::1
+	token_offsets	sentence	5	offsets	640::4	645::3	649::8	658::4	663::2	666::8	675::6	682::8	691::3	695::3	699::22	722::8	731::1	733::4	738::2	741::4	746::4	751::3	755::5	761::6	768::6	775::11	787::6	794::1
+	token_offsets	sentence	6	offsets	797::4	802::3	806::6	813::4	818::5	824::9	834::3	838::6	845::9	855::9	865::4	870::1
+	token_offsets	sentence	7	offsets	873::3	877::11	889::4	894::3	898::8	907::1	909::3	913::3	917::11	929::10	940::3	944::9	954::2	957::8	966::13	980::4	985::3	989::13	1003::3	1007::23	1031::3	1035::12	1048::8	1057::3	1061::24	1086::5	1092::3	1096::6	1103::7	1111::12	1124::1
+	token_offsets	sentence	8	offsets	1127::4	1132::3	1136::6	1143::6	1150::3	1154::6	1161::4	1166::3	1170::4	1175::10	1186::1	1188::4	1193::4	1198::2	1201::3	1205::11	1217::5	1223::1
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Anhörung	Anhörung	Anhörung	NN	NN	_	nom|sg|fem	-1	7	_	SB	_	_
+3	zur	zu	zu	APPRART	APPRART	_	dat|sg|fem	-1	2	_	MNR	_	_
+4	Zukunft	Zukunft	Zukunft	NN	NN	_	dat|sg|fem	-1	3	_	NK	_	_
+5	des	die	die	ART	ART	_	gen|sg|neut	-1	6	_	NK	_	_
+6	Paracelsus-Krankenhauses	Paracelsus-Krankenhauses	Paracelsus-Krankenhauses	NN	NN	_	gen|sg|neut	-1	4	_	AG	_	_
+7	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+8	vorbei	vorbei	vorbei	ADV	ADV	_	_	-1	7	_	MO	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|pl|fem	-1	2	_	NK	_	_
+2	Kreistagsabgeordneten	Kreistagsabgeordnete	Kreistagsabgeordnete	NN	NN	_	nom|pl|fem	-1	7	_	SB	_	_
+3	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	2	_	MNR	_	_
+4	Kreis-	Kreis-	Kreis-	TRUNC	TRUNC	_	_	-1	5	_	CJ	_	_
+5	und	und	und	KON	KON	_	_	-1	6	_	CD	_	_
+6	Krankenhausausschuss	Krankenhausausschuss	Krankenhausausschuss	NN	NN	_	gen|sg|neut	-1	3	_	NK	_	_
+7	haben	haben	haben	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+8	viele	viele	viele	PIAT	PIAT	_	acc|pl|neut	-1	9	_	NK	_	_
+9	Argumente	Argument	Argument	NN	NN	_	acc|pl|neut	-1	10	_	OA	_	_
+10	gehört	gehören	gehören	VVFIN	VVFIN	_	sg|3|pres|ind	-1	7	_	OC	_	_
+11	und	und	und	KON	KON	_	_	-1	10	_	CD	_	_
+12	müssen	müssen	müssen	VMFIN	VMFIN	_	pl|3|pres|ind	-1	11	_	CJ	_	_
+13	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	15	_	OA	_	_
+14	nun	nun	nun	ADV	ADV	_	_	-1	12	_	MO	_	_
+15	entscheiden	entscheiden	entscheiden	VVINF	VVINF	_	_	-1	12	_	OC	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+1	Landrat	Landrat	Landrat	NN	NN	_	nom|sg|masc	-1	4	_	SB	_	_
+2	Burkhard	Burkhard	Burkhard	NE	NE	_	nom|sg|masc	-1	3	_	PNC	_	_
+3	Schröder	Schröder	Schröder	NE	NE	_	nom|sg|masc	-1	1	_	NK	_	_
+4	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	bereits	bereits	bereits	ADV	ADV	_	_	-1	6	_	MO	_	_
+6	angedeutet	andeuten	andeuten	VVPP	VVPP	_	_	-1	4	_	OC	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	dass	dass	dass	KOUS	KOUS	_	_	-1	17	_	CP	_	_
+9	er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	17	_	SB	_	_
+10	diese	dies	dies	PDAT	PDAT	_	acc|pl|fem	-1	11	_	NK	_	_
+11	Entscheidungen	Entscheidung	Entscheidung	NN	NN	_	acc|pl|fem	-1	16	_	OA	_	_
+12	den	die	die	ART	ART	_	dat|pl|neut	-1	13	_	NK	_	_
+13	Mitgliedern	Mitglied	Mitglied	NN	NN	_	dat|pl|neut	-1	16	_	DA	_	_
+14	des	die	die	ART	ART	_	gen|sg|masc	-1	15	_	NK	_	_
+15	Kreistages	Kreistag	Kreistag	NN	NN	_	gen|sg|masc	-1	13	_	AG	_	_
+16	überlassen	überlassen	überlassen	VVINF	VVINF	_	_	-1	17	_	OC	_	_
+17	will	wollen	wollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	6	_	MO	_	_
+18	.	.	.	$.	$.	_	_	-1	17	_	--	_	_
+
+1	So	so	so	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	darf	dürfen	dürfen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	man	man	man	PIS	PIS	_	nom|sg|*	-1	2	_	SB	_	_
+4	auf	auf	auf	APPR	APPR	_	_	-1	10	_	MO	_	_
+5	die	die	die	ART	ART	_	acc|sg|fem	-1	6	_	NK	_	_
+6	Vorlage	Vorlage	Vorlage	NN	NN	_	acc|sg|fem	-1	4	_	NK	_	_
+7	aus	aus	aus	APPR	APPR	_	_	-1	6	_	MNR	_	_
+8	der	die	die	ART	ART	_	dat|sg|fem	-1	9	_	NK	_	_
+9	Kreisverwaltung	Kreisverwaltung	Kreisverwaltung	NN	NN	_	dat|sg|fem	-1	7	_	NK	_	_
+10	gespannt	spannen	spannen	VVPP	VVPP	_	_	-1	11	_	PD	_	_
+11	sein	sein	sein	VAINF	VAINF	_	_	-1	2	_	OC	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	EP	_	_
+2	gibt	geben	geben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	zwei	zwei	zwei	CARD	CARD	_	_	-1	4	_	NK	_	_
+4	Möglichkeiten	Möglichkeit	Möglichkeit	NN	NN	_	acc|pl|fem	-1	2	_	OA	_	_
+5	:	:	:	$.	$.	_	_	-1	4	_	--	_	_
+6	Entweder	entweder	entweder	KON	KON	_	_	-1	2	_	CD	_	_
+7	das	die	die	ART	ART	_	nom|sg|neut	-1	8	_	NK	_	_
+8	Paracelsus-Krankenhaus	Paracelsus-Krankenhaus	Paracelsus-Krankenhaus	NN	NN	_	nom|sg|neut	-1	9	_	SB	_	_
+9	bildet	bilden	bilden	VVFIN	VVFIN	_	sg|3|pres|ind	-1	6	_	CJ	_	_
+10	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	12	_	NK	_	_
+11	regionalen	regional	regional	ADJA	ADJA	_	acc|sg|masc|pos	-1	12	_	NK	_	_
+12	Klinikverbund	Klinikverbund	Klinikverbund	NN	NN	_	acc|sg|masc	-1	9	_	OA	_	_
+13	mit	mit	mit	APPR	APPR	_	_	-1	12	_	MNR	_	_
+14	der	die	die	ART	ART	_	dat|sg|fem	-1	16	_	NK	_	_
+15	Nauener	Nauener	Nauener	ADJA	ADJA	_	*|*|*|pos	-1	16	_	NK	_	_
+16	Havellandklinik	Havellandklinik	Havellandklinik	NN	NN	_	dat|sg|fem	-1	13	_	NK	_	_
+17	unter	unter	unter	APPR	APPR	_	_	-1	16	_	MNR	_	_
+18	dem	die	die	ART	ART	_	dat|sg|neut	-1	19	_	NK	_	_
+19	Dach	Dach	Dach	NN	NN	_	dat|sg|neut	-1	17	_	NK	_	_
+20	einer	eine	eine	ART	ART	_	gen|sg|fem	-1	22	_	NK	_	_
+21	kreiseigenen	kreiseigen	kreiseigen	ADJA	ADJA	_	gen|sg|fem|pos	-1	22	_	NK	_	_
+22	GmbH	GmbH	GmbH	NN	NN	_	gen|sg|fem	-1	19	_	AG	_	_
+23	oder	oder	oder	KON	KON	_	_	-1	9	_	CD	_	_
+24	das	die	die	ART	ART	_	nom|sg|neut	-1	25	_	NK	_	_
+25	Rathenower	Rathenower	Rathenower	NN	NN	_	nom|sg|neut	-1	27	_	SB	_	_
+26	Krankenhaus	Krankenhaus	Krankenhaus	NN	NN	_	nom|sg|neut	-1	25	_	NK	_	_
+27	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	23	_	CJ	_	_
+28	an	an	an	APPR	APPR	_	_	-1	32	_	MO	_	_
+29	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	31	_	NK	_	_
+30	Freien	frei	frei	ADJA	ADJA	_	acc|sg|masc|pos	-1	31	_	NK	_	_
+31	Träger	Träger	Träger	NN	NN	_	acc|sg|masc	-1	28	_	NK	_	_
+32	abgegeben	abgeben	abgeben	VVPP	VVPP	_	_	-1	27	_	OC	_	_
+33	.	.	.	$.	$.	_	_	-1	32	_	--	_	_
+
+1	Will	wollen	wollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+2	der	die	die	ART	ART	_	nom|sg|masc	-1	3	_	NK	_	_
+3	Kreistag	Kreistag	Kreistag	NN	NN	_	nom|sg|masc	-1	1	_	SB	_	_
+4	auch	auch	auch	ADV	ADV	_	_	-1	5	_	MO	_	_
+5	in	in	in	APPR	APPR	_	_	-1	12	_	MO	_	_
+6	Rathenow	Rathenow	Rathenow	NN	NN	_	acc|sg|masc	-1	5	_	NK	_	_
+7	seinen	sein	sein	PPOSAT	PPOSAT	_	acc|sg|masc	-1	8	_	NK	_	_
+8	Einfluss	Einfluss	Einfluss	NN	NN	_	acc|sg|masc	-1	12	_	OA	_	_
+9	auf	auf	auf	APPR	APPR	_	_	-1	12	_	MO	_	_
+10	die	die	die	ART	ART	_	acc|sg|fem	-1	11	_	NK	_	_
+11	Krankenhausentwicklung	Krankenhausentwicklung	Krankenhausentwicklung	NN	NN	_	acc|sg|fem	-1	9	_	NK	_	_
+12	behalten	behalten	behalten	VVINF	VVINF	_	pl|3|pres|ind	-1	1	_	OC	_	_
+13	,	,	,	$,	$,	_	_	-1	12	_	--	_	_
+14	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	1	_	CJ	_	_
+15	er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	14	_	SB	_	_
+16	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	22	_	OA	_	_
+17	kaum	kaum	kaum	ADV	ADV	_	_	-1	22	_	MO	_	_
+18	für	für	für	APPR	APPR	_	_	-1	22	_	MO	_	_
+19	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	21	_	NK	_	_
+20	Freien	frei	frei	ADJA	ADJA	_	acc|sg|masc|pos	-1	21	_	NK	_	_
+21	Träger	Träger	Träger	NN	NN	_	acc|sg|masc	-1	18	_	NK	_	_
+22	entscheiden	entscheiden	entscheiden	VVINF	VVINF	_	_	-1	23	_	OC	_	_
+23	können	können	können	VMINF	VMINF	_	_	-1	14	_	OC	_	_
+24	.	.	.	$.	$.	_	_	-1	23	_	--	_	_
+
+1	Doch	doch	doch	KON	KON	_	_	-1	4	_	JU	_	_
+2	das	die	die	PRELS	PRELS	_	nom|sg|neut	-1	4	_	SB	_	_
+3	allein	allein	allein	ADV	ADV	_	_	-1	4	_	MO	_	_
+4	darf	dürfen	dürfen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	4	_	NG	_	_
+6	Grundlage	Grundlage	Grundlage	NN	NN	_	nom|sg|fem	-1	11	_	PD	_	_
+7	für	für	für	APPR	APPR	_	_	-1	6	_	MNR	_	_
+8	diesen	dies	dies	PDAT	PDAT	_	acc|sg|masc	-1	10	_	NK	_	_
+9	wichtigen	wichtig	wichtig	ADJA	ADJA	_	acc|sg|masc|pos	-1	10	_	NK	_	_
+10	Beschluss	Beschluss	Beschluss	NN	NN	_	acc|sg|masc	-1	7	_	NK	_	_
+11	sein	sein	sein	VAINF	VAINF	_	_	-1	4	_	OC	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Das	die	die	ART	ART	_	nom|sg|neut	-1	2	_	NK	_	_
+2	Krankenhaus	Krankenhaus	Krankenhaus	NN	NN	_	nom|sg|neut	-1	3	_	SB	_	_
+3	soll	sollen	sollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	der	die	die	PDS	PDS	_	nom|sg|masc	-1	3	_	SB	_	_
+5	bekommen	bekommen	bekommen	VVINF	VVINF	_	_	-1	3	_	OC	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	der	die	die	PRELS	PRELS	_	nom|sg|masc	-1	16	_	SB	_	_
+8	die	die	die	ART	ART	_	acc|sg|fem	-1	10	_	NK	_	_
+9	wohnortnahe	wohnortnah	wohnortnah	ADJA	ADJA	_	acc|sg|fem|pos	-1	10	_	NK	_	_
+10	Versorgung	Versorgung	Versorgung	NN	NN	_	acc|sg|fem	-1	15	_	OA	_	_
+11	von	von	von	APPR	APPR	_	_	-1	10	_	PG	_	_
+12	Patienten	Patient	Patient	NN	NN	_	dat|pl|masc	-1	11	_	NK	_	_
+13	in	in	in	APPR	APPR	_	_	-1	10	_	MNR	_	_
+14	Rathenow	Rathenow	Rathenow	NN	NN	_	dat|sg|neut	-1	13	_	NK	_	_
+15	sicherstellen	sicherstellen	sicherstellen	VVINF	VVINF	_	_	-1	16	_	OC	_	_
+16	kann	können	können	VMFIN	VMFIN	_	sg|3|pres|ind	-1	3	_	CJ	_	_
+17	und	und	und	KON	KON	_	_	-1	16	_	CD	_	_
+18	darüberhinaus	darüberhinaus	darüberhinaus	ADV	ADV	_	_	-1	28	_	MO	_	_
+19	die	die	die	ART	ART	_	nom|sg|fem	-1	23	_	NK	_	_
+20	betriebswirtschaftliche	betriebswirtschaftlich	betriebswirtschaftlich	ADJA	ADJA	_	nom|sg|fem|pos	-1	23	_	NK	_	_
+21	und	und	und	KON	KON	_	_	-1	20	_	CD	_	_
+22	medizinische	medizinisch	medizinisch	ADJA	ADJA	_	nom|sg|fem|pos	-1	21	_	CJ	_	_
+23	Qualität	Qualität	Qualität	NN	NN	_	nom|sg|fem	-1	28	_	SB	_	_
+24	des	die	die	ART	ART	_	gen|sg|masc	-1	25	_	NK	_	_
+25	Paracelsus-Krankenhauses	Paracelsus-Krankenhauses	Paracelsus-Krankenhauses	NN	NN	_	gen|sg|masc	-1	23	_	AG	_	_
+26	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	27	_	NG	_	_
+27	nur	nur	nur	ADV	ADV	_	_	-1	28	_	MO	_	_
+28	erhält	erhalten	erhalten	VVFIN	VVFIN	_	sg|3|pres|ind	-1	17	_	CJ	_	_
+29	sondern	sondern	sondern	KON	KON	_	_	-1	28	_	CD	_	_
+30	stabilisiert	stabilisieren	stabilisieren	VVPP	VVPP	_	_	-1	29	_	CJ	_	_
+31	.	.	.	$.	$.	_	_	-1	30	_	--	_	_
+
+1	Wenn	wenn	wenn	KOUS	KOUS	_	_	-1	7	_	CP	_	_
+2	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	4	_	NK	_	_
+3	Freier	frei	frei	ADJA	ADJA	_	nom|sg|masc|pos	-1	4	_	NK	_	_
+4	Träger	Träger	Träger	NN	NN	_	nom|sg|masc	-1	7	_	SB	_	_
+5	das	die	die	PDS	PDS	_	acc|sg|neut	-1	17	_	OA	_	_
+6	besser	gut	gut	ADJD	ADJD	_	comp	-1	7	_	MO	_	_
+7	kann	können	können	VMFIN	VMFIN	_	sg|3|pres|ind	-1	12	_	RE	_	_
+8	als	als	als	KOKOM	KOKOM	_	_	-1	10	_	CM	_	_
+9	eine	eine	eine	ART	ART	_	nom|sg|fem	-1	10	_	NK	_	_
+10	Kreis-GmbH	Kreis-GmbH	Kreis-GmbH	NN	NN	_	nom|sg|fem	-1	6	_	CC	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	dann	dann	dann	ADV	ADV	_	_	-1	13	_	MO	_	_
+13	soll	sollen	sollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+14	er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	13	_	SB	_	_
+15	das	die	die	ART	ART	_	acc|sg|neut	-1	16	_	NK	_	_
+16	Krankenhaus	Krankenhaus	Krankenhaus	NN	NN	_	acc|sg|neut	-1	17	_	OA	_	_
+17	haben	haben	haben	VAINF	VAINF	_	_	-1	13	_	OC	_	_
+18	.	.	.	$.	$.	_	_	-1	17	_	--	_	_
+

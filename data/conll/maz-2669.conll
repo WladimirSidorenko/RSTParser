@@ -1,0 +1,204 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::6
+1	Gejagt	jagen	jagen	VVPP	VVPP	_	_	-1	0	_	--	_	_
+
+	sentence_start	0	155	407	648	882	1017	1087	1105
+	token_offsets	sentence	0	offsets	0::3	4::2	7::10	18::3	22::14	37::3	41::3	45::13	59::9	69::5	75::6	82::1	83::0	85::2	88::9	98::3	102::7	110::3	114::5	120::5	126::1	128::23	152::1
+	token_offsets	sentence	1	offsets	155::2	158::7	166::6	173::7	181::1	183::3	187::1	189::4	194::2	197::1	199::3	203::3	207::17	225::4	230::6	237::8	246::6	253::3	257::2	260::13	274::1	276::16	293::15	309::1	311::5	317::10	328::12	341::3	345::4	350::4	355::3	359::3	363::3	367::8	376::10	387::6	394::2	397::6	404::1
+	token_offsets	sentence	2	offsets	407::4	412::7	420::5	426::6	433::3	437::16	454::4	459::8	468::1	470::6	477::4	482::1	484::4	489::3	493::11	505::9	515::6	522::3	526::5	532::3	536::20	557::3	561::24	586::2	589::3	593::28	622::15	638::6	645::1
+	token_offsets	sentence	3	offsets	648::3	652::3	656::3	660::10	671::1	672::0	674::5	680::3	684::16	701::5	707::9	717::14	732::1	734::6	741::3	745::6	752::8	761::5	767::3	771::1	773::10	784::4	789::1	791::3	795::3	799::1	801::16	818::1	820::9	830::1	832::4	837::4	842::3	846::5	852::9	862::2	865::7	873::5	879::1
+	token_offsets	sentence	4	offsets	882::2	885::7	893::6	900::1	901::0	903::4	908::7	916::3	920::3	924::6	931::8	940::2	943::4	948::3	952::6	959::1	961::5	967::8	976::10	987::11	999::14	1014::1
+	token_offsets	sentence	5	offsets	1017::4	1022::7	1030::3	1034::13	1048::4	1053::3	1057::5	1063::1	1065::5	1071::2	1074::3	1078::5	1084::1
+	token_offsets	sentence	6	offsets	1087::3	1091::4	1096::5	1102::1
+	token_offsets	sentence	7	offsets	1105::3	1109::13	1123::3	1127::3	1131::5	1137::5	1143::5	1149::9	1159::7	1167::1	1169::3	1173::3	1177::2	1180::3	1184::14	1199::6	1206::1
+1	Wer	wer	wer	PWS	PWS	_	nom|sg|masc	-1	11	_	SB	_	_
+2	es	es	es	PPER	PPER	_	acc|sg|neut|3	-1	9	_	OA	_	_
+3	angesichts	angesichts	angesichts	APPR	APPR	_	_	-1	9	_	MO	_	_
+4	der	die	die	ART	ART	_	gen|pl|fem	-1	5	_	NK	_	_
+5	Festlichkeiten	Festlichkeit	Festlichkeit	NN	NN	_	gen|pl|fem	-1	3	_	NK	_	_
+6	zum	zu	zu	APPRART	APPRART	_	dat|sg|masc	-1	5	_	MNR	_	_
+7	40.	@ord@	@ord@	ADJA	ADJA	_	dat|sg|masc|pos	-1	8	_	NK	_	_
+8	Stadtjubiläum	Stadtjubiläum	Stadtjubiläum	NN	NN	_	dat|sg|masc	-1	6	_	NK	_	_
+9	vergessen	vergessen	vergessen	VVPP	VVPP	_	_	-1	10	_	OC	_	_
+10	haben	haben	haben	VAINF	VAINF	_	_	-1	11	_	OC	_	_
+11	sollte	sollen	sollen	VMFIN	VMFIN	_	sg|3|past|ind	-1	15	_	SB	_	_
+12	:	:	:	$.	$.	_	_	-1	11	_	--	_	_
+13	In	in	in	APPR	APPR	_	_	-1	15	_	MO	_	_
+14	Falkensee	Falkensee	Falkensee	NN	NN	_	dat|sg|fem	-1	13	_	NK	_	_
+15	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+16	derzeit	derzeit	derzeit	ADV	ADV	_	_	-1	15	_	MO	_	_
+17	vor	vor	vor	APPR	APPR	_	_	-1	21	_	MO	_	_
+18	allem	alle	alle	PIS	PIS	_	dat|sg|neut	-1	17	_	NK	_	_
+19	eines	eine	eine	ART	ART	_	gen|sg|neut	-1	21	_	NK	_	_
+20	-	-	-	$(	$(	_	_	-1	19	_	--	_	_
+21	Bürgermeister-Wahlkampf	Bürgermeister-Wahlkampf	Bürgermeister-Wahlkampf	NN	NN	_	nom|sg|masc	-1	15	_	SB	_	_
+22	.	.	.	$.	$.	_	_	-1	21	_	--	_	_
+
+1	Da	da	da	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	kündigt	kündigen	kündigen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	Jürgen	Jürgen	Jürgen	NE	NE	_	nom|sg|masc	-1	4	_	PNC	_	_
+4	Bigalke	Bigalke	Bigalke	NE	NE	_	nom|sg|masc	-1	2	_	SB	_	_
+5	(	(	(	$(	$(	_	_	-1	4	_	--	_	_
+6	SPD	SPD	SPD	NE	NE	_	nom|sg|fem	-1	4	_	PAR	_	_
+7	)	)	)	$(	$(	_	_	-1	6	_	--	_	_
+8	also	also	also	ADV	ADV	_	_	-1	2	_	MO	_	_
+9	an	an	an	PTKVZ	PTKVZ	_	_	-1	2	_	SVP	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	die	die	die	PRELS	PRELS	_	nom|pl|masc	-1	27	_	SB	_	_
+12	mit	mit	mit	APPR	APPR	_	_	-1	27	_	MO	_	_
+13	Finanzdezernentin	Finanzdezernentin	Finanzdezernentin	NN	NN	_	nom|sg|fem	-1	12	_	NK	_	_
+14	Ruth	Ruth	Ruth	NE	NE	_	nom|sg|fem	-1	15	_	PNC	_	_
+15	Schulz	Schulz	Schulz	NE	NE	_	nom|sg|fem	-1	13	_	NK	_	_
+16	besetzte	besetzen	besetzen	VVFIN	VVFIN	_	sg|3|past|ind	-1	27	_	MO	_	_
+17	Stelle	Stelle	Stelle	NN	NN	_	acc|sg|fem	-1	27	_	OA	_	_
+18	der	die	die	ART	ART	_	gen|sg|fem	-1	20	_	NK	_	_
+19	1.	1.	1.	ADJA	ADJA	_	gen|sg|fem|pos	-1	20	_	NK	_	_
+20	Beigeordneten	Beigeordnete	Beigeordnete	NN	NN	_	gen|sg|fem	-1	17	_	AG	_	_
+21	(	(	(	$(	$(	_	_	-1	20	_	--	_	_
+22	stellvertretende	stellvertretend	stellvertretend	ADJA	ADJA	_	nom|sg|fem|pos	-1	23	_	NK	_	_
+23	Bürgermeisterin	Bürgermeisterin	Bürgermeisterin	NN	NN	_	nom|sg|fem	-1	20	_	APP	_	_
+24	)	)	)	$(	$(	_	_	-1	23	_	--	_	_
+25	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	26	_	NG	_	_
+26	öffentlich	öffentlich	öffentlich	ADJD	ADJD	_	pos	-1	27	_	MO	_	_
+27	ausschreiben	ausschreiben	ausschreiben	VVINF	VVINF	_	_	-1	38	_	OC	_	_
+28	und	und	und	KON	KON	_	_	-1	27	_	CD	_	_
+29	dies	dies	dies	PDS	PDS	_	nom|sg|neut	-1	35	_	OA	_	_
+30	noch	noch	noch	ADV	ADV	_	_	-1	31	_	MO	_	_
+31	vor	vor	vor	APPR	APPR	_	_	-1	35	_	MO	_	_
+32	dem	die	die	ART	ART	_	dat|sg|masc	-1	34	_	NK	_	_
+33	11.	11.	11.	ADJA	ADJA	_	dat|sg|masc|pos	-1	34	_	NK	_	_
+34	November	November	November	NN	NN	_	dat|sg|masc	-1	31	_	NK	_	_
+35	bestätigen	bestätigen	bestätigen	VVINF	VVINF	_	_	-1	36	_	OC	_	_
+36	lassen	lassen	lassen	VVINF	VVINF	_	_	-1	28	_	CJ	_	_
+37	zu	zu	zu	PTKZU	PTKZU	_	_	-1	38	_	PM	_	_
+38	wollen	wollen	wollen	VMINF	VMINF	_	_	-1	2	_	OC	_	_
+39	.	.	.	$.	$.	_	_	-1	38	_	--	_	_
+
+1	Acht	acht	acht	CARD	CARD	_	_	-1	3	_	NK	_	_
+2	weitere	weit	weit	ADJA	ADJA	_	acc|pl|masc|comp	-1	3	_	NK	_	_
+3	Jahre	Jahr	Jahr	NN	NN	_	nom|pl|neut	-1	8	_	MO	_	_
+4	könnte	können	können	VMFIN	VMFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+5	die	die	die	ART	ART	_	nom|sg|fem	-1	6	_	NK	_	_
+6	Sozialdemokratin	Sozialdemokratin	Sozialdemokratin	NN	NN	_	nom|sg|fem	-1	4	_	SB	_	_
+7	dann	dann	dann	ADV	ADV	_	_	-1	4	_	MO	_	_
+8	amtieren	amtieren	amtieren	VVINF	VVINF	_	_	-1	4	_	OC	_	_
+9	-	-	-	$(	$(	_	_	-1	8	_	--	_	_
+10	selbst	selbst	selbst	ADV	ADV	_	_	-1	11	_	MO	_	_
+11	dann	dann	dann	ADV	ADV	_	_	-1	4	_	MO	_	_
+12	,	,	,	$,	$,	_	_	-1	11	_	--	_	_
+13	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	17	_	CP	_	_
+14	der	die	die	ART	ART	_	nom|sg|masc	-1	15	_	NK	_	_
+15	Rathauschef	Rathauschef	Rathauschef	NN	NN	_	nom|sg|masc	-1	17	_	SB	_	_
+16	abgewählt	abwählen	abwählen	VVPP	VVPP	_	_	-1	17	_	OC	_	_
+17	werden	werden	werden	VAFIN	VAFIN	_	_	-1	11	_	RE	_	_
+18	und	und	und	KON	KON	_	_	-1	17	_	CD	_	_
+19	damit	damit	damit	PAV	PAV	_	_	-1	28	_	NK	_	_
+20	die	die	die	ART	ART	_	acc|sg|fem	-1	21	_	NK	_	_
+21	Ein-Stimmen-Mehrheit	Ein-Stimmen-Mehrheit	Ein-Stimmen-Mehrheit	NN	NN	_	acc|sg|fem	-1	27	_	OA	_	_
+22	der	die	die	ART	ART	_	gen|sg|fem	-1	23	_	NK	_	_
+23	SPD/FDP-Zählgemeinschaft	SPD/FDP-Zählgemeinschaft	SPD/FDP-Zählgemeinschaft	NN	NN	_	gen|sg|fem	-1	21	_	AG	_	_
+24	in	in	in	APPR	APPR	_	_	-1	23	_	MNR	_	_
+25	der	die	die	ART	ART	_	dat|sg|fem	-1	26	_	NK	_	_
+26	Stadtverordenten-Versammlung	Stadtverordenten-Versammlung	Stadtverordenten-Versammlung	NN	NN	_	dat|sg|fem	-1	24	_	NK	_	_
+27	zusammenbrechen	zusammenbrechen	zusammenbrechen	VVINF	VVINF	_	_	-1	28	_	OC	_	_
+28	sollte	sollen	sollen	VMFIN	VMFIN	_	sg|3|past|subj	-1	18	_	CJ	_	_
+29	.	.	.	$.	$.	_	_	-1	28	_	--	_	_
+
+1	Das	die	die	PDS	PDS	_	nom|sg|neut	-1	2	_	SB	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	der	die	die	ART	ART	_	nom|sg|masc	-1	4	_	NK	_	_
+4	Knackpunkt	Knackpunkt	Knackpunkt	NN	NN	_	nom|sg|masc	-1	2	_	PD	_	_
+5	:	:	:	$.	$.	_	_	-1	4	_	--	_	_
+6	Grüne	Grüne	Grüne	NN	NN	_	nom|pl|*	-1	9	_	SB	_	_
+7	und	und	und	KON	KON	_	_	-1	6	_	CD	_	_
+8	Christdemokraten	Christdemokrat	Christdemokrat	NN	NN	_	nom|pl|masc	-1	7	_	CJ	_	_
+9	wären	sein	sein	VAFIN	VAFIN	_	pl|3|past|subj	-1	2	_	CJ	_	_
+10	schlechte	schlecht	schlecht	ADJA	ADJA	_	nom|pl|masc|pos	-1	11	_	NK	_	_
+11	Herausforderer	Herausforderer	Herausforderer	NN	NN	_	nom|pl|masc	-1	9	_	SB	_	_
+12	,	,	,	$,	$,	_	_	-1	11	_	--	_	_
+13	würden	werden	werden	VAFIN	VAFIN	_	pl|3|past|subj	-1	9	_	CJ	_	_
+14	sie	sie	sie	PPER	PPER	_	nom|pl|*|3	-1	13	_	SB	_	_
+15	dieses	dies	dies	PDAT	PDAT	_	gen|sg|masc	-1	16	_	NK	_	_
+16	Ansinnen	Ansinnen	Ansinnen	NN	NN	_	gen|sg|masc	-1	11	_	AG	_	_
+17	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	28	_	NG	_	_
+18	als	als	als	KOKOM	KOKOM	_	_	-1	28	_	CM	_	_
+19	"	"	"	$(	$(	_	acc|sg|masc	-1	18	_	--	_	_
+20	schlechten	schlecht	schlecht	ADJA	ADJA	_	acc|sg|masc|pos	-1	21	_	NK	_	_
+21	Stil	Stil	Stil	NN	NN	_	acc|sg|masc	-1	28	_	OA	_	_
+22	"	"	"	$(	$(	_	_	-1	21	_	--	_	_
+23	und	und	und	KON	KON	_	_	-1	21	_	CD	_	_
+24	als	als	als	KOKOM	KOKOM	_	_	-1	26	_	CM	_	_
+25	"	"	"	$(	$(	_	_	-1	26	_	--	_	_
+26	Erbhof-Sicherung	Erbhof-Sicherung	Erbhof-Sicherung	NN	NN	_	acc|sg|fem	-1	23	_	CJ	_	_
+27	"	"	"	$(	$(	_	_	-1	26	_	--	_	_
+28	zerreißen	zerreißen	zerreißen	VVINF	VVINF	_	_	-1	13	_	OC	_	_
+29	,	,	,	$,	$,	_	_	-1	28	_	--	_	_
+30	auch	auch	auch	ADV	ADV	_	_	-1	37	_	MO	_	_
+31	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	37	_	CP	_	_
+32	die	die	die	ART	ART	_	nom|sg|fem	-1	33	_	NK	_	_
+33	Sache	Sache	Sache	NN	NN	_	nom|sg|fem	-1	37	_	SB	_	_
+34	rechtlich	rechtlich	rechtlich	ADJD	ADJD	_	pos	-1	37	_	MO	_	_
+35	in	in	in	APPR	APPR	_	_	-1	37	_	CVC	_	_
+36	Ordnung	Ordnung	Ordnung	NN	NN	_	acc|sg|fem	-1	35	_	NK	_	_
+37	ginge	gehen	gehen	VVFIN	VVFIN	_	sg|3|past|subj	-1	28	_	MO	_	_
+38	.	.	.	$.	$.	_	_	-1	37	_	--	_	_
+
+1	So	so	so	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	bleiben	bleiben	bleiben	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	Fragen	Frage	Frage	NN	NN	_	nom|pl|fem	-1	2	_	SB	_	_
+4	:	:	:	$.	$.	_	_	-1	3	_	--	_	_
+5	Sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	2	_	CJ	_	_
+6	Bigalke	Bigalke	Bigalke	NE	NE	_	nom|pl|*	-1	5	_	SB	_	_
+7	und	und	und	KON	KON	_	_	-1	6	_	CD	_	_
+8	die	die	die	ART	ART	_	nom|pl|masc	-1	7	_	CJ	_	_
+9	Seinen	sein	sein	PPOSAT	PPOSAT	_	acc|sg|masc	-1	18	_	NK	_	_
+10	wirklich	wirklich	wirklich	ADJD	ADJD	_	pos	-1	12	_	MO	_	_
+11	so	so	so	ADV	ADV	_	_	-1	12	_	MO	_	_
+12	naiv	naiv	naiv	ADJD	ADJD	_	pos	-1	5	_	PD	_	_
+13	und	und	und	KON	KON	_	_	-1	5	_	CD	_	_
+14	denken	denken	denken	VVFIN	VVFIN	_	pl|3|pres|ind	-1	13	_	CJ	_	_
+15	,	,	,	$,	$,	_	_	-1	14	_	--	_	_
+16	diese	dies	dies	PDAT	PDAT	_	acc|sg|fem	-1	18	_	NK	_	_
+17	wichtige	wichtig	wichtig	ADJA	ADJA	_	acc|sg|fem|pos	-1	18	_	NK	_	_
+18	Personalie	Personalie	Personalie	NN	NN	_	acc|sg|fem	-1	20	_	OA	_	_
+19	geräuschlos	geräuschlos	geräuschlos	ADJD	ADJD	_	pos	-1	20	_	MO	_	_
+20	durchzukriegen	durchkriegen	durchkriegen	VVIZU	VVIZU	_	_	-1	14	_	OC	_	_
+21	?	?	?	$.	$.	_	_	-1	20	_	--	_	_
+
+1	Oder	oder	oder	KON	KON	_	_	-1	2	_	JU	_	_
+2	handeln	handeln	handeln	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	sie	sie	sie	PPER	PPER	_	nom|pl|*|3	-1	2	_	SB	_	_
+4	kaltschnäuzig	kaltschnäuzig	kaltschnäuzig	ADJD	ADJD	_	pos	-1	2	_	MO	_	_
+5	nach	nach	nach	APPR	APPR	_	_	-1	2	_	MO	_	_
+6	dem	die	die	ART	ART	_	dat|sg|neut	-1	7	_	NK	_	_
+7	Motto	Motto	Motto	NN	NN	_	dat|sg|neut	-1	5	_	NK	_	_
+8	:	:	:	$.	$.	_	_	-1	7	_	--	_	_
+9	Augen	Auge	Auge	NN	NN	_	nom|pl|neut	-1	10	_	SB	_	_
+10	zu	zu	zu	PTKVZ	PTKVZ	_	_	-1	2	_	MO	_	_
+11	und	und	und	KON	KON	_	_	-1	10	_	CD	_	_
+12	durch	durch	durch	ADV	ADV	_	_	-1	11	_	CJ	_	_
+13	?	?	?	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Wie	wie	wie	KOKOM	KOKOM	_	_	-1	0	_	NK	_	_
+2	auch	auch	auch	ADV	ADV	_	_	-1	1	_	MO	_	_
+3	immer	immer	immer	ADV	ADV	_	_	-1	1	_	MO	_	_
+4	.	.	.	$.	$.	_	_	-1	3	_	--	_	_
+
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	2	_	NK	_	_
+2	Bürgermeister	Bürgermeister	Bürgermeister	NN	NN	_	nom|sg|masc	-1	3	_	SB	_	_
+3	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	aus	aus	aus	APPR	APPR	_	_	-1	9	_	MO	_	_
+5	einer	eine	eine	ART	ART	_	dat|sg|fem	-1	6	_	NK	_	_
+6	Mücke	Mücke	Mücke	NN	NN	_	dat|sg|fem	-1	4	_	NK	_	_
+7	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	8	_	NK	_	_
+8	Elefanten	Elefant	Elefant	NN	NN	_	acc|sg|masc	-1	9	_	OA	_	_
+9	gemacht	machen	machen	VVPP	VVPP	_	_	-1	3	_	OC	_	_
+10	-	-	-	$(	$(	_	_	-1	9	_	--	_	_
+11	und	und	und	KON	KON	_	_	-1	9	_	CD	_	_
+12	ihn	er	er	PPER	PPER	_	acc|sg|masc|3	-1	16	_	OA	_	_
+13	in	in	in	APPR	APPR	_	_	-1	16	_	MO	_	_
+14	den	die	die	ART	ART	_	acc|sg|masc	-1	15	_	NK	_	_
+15	Porzellanladen	Porzellanladen	Porzellanladen	NN	NN	_	acc|sg|masc	-1	13	_	NK	_	_
+16	gejagt	jagen	jagen	VVPP	VVPP	_	_	-1	11	_	CJ	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+

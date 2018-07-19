@@ -1,0 +1,212 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::12	13::4	18::5
+1	Bauernregeln	Bauernregel	Bauernregel	NN	NN	_	nom|pl|masc	-1	2	_	SB	_	_
+2	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	passé	passé	passé	ADJD	ADJD	_	pos	-1	2	_	PD	_	_
+
+	sentence_start	0	163	253	470	583	709	775	938	991	1089	1131
+	token_offsets	sentence	0	offsets	0::5	6::1	8::6	15::3	19::9	29::4	34::5	40::3	44::3	48::7	56::1	58::8	67::3	71::13	85::9	95::1	97::6	104::5	110::3	114::6	121::1	123::6	130::3	134::3	138::7	146::4	151::3	155::4	160::1
+	token_offsets	sentence	1	offsets	163::5	169::3	173::3	177::3	181::1	183::3	187::4	192::11	204::3	208::10	219::4	224::7	232::3	236::1	238::3	242::7	250::1
+	token_offsets	sentence	2	offsets	253::3	257::14	272::6	279::2	282::11	294::1	296::5	302::3	306::5	312::23	336::4	341::3	345::5	351::1	353::4	358::5	364::5	370::9	380::16	397::3	401::1	403::3	407::7	415::6	422::5	428::8	437::3	441::17	459::7	467::1
+	token_offsets	sentence	3	offsets	470::5	476::5	482::3	486::5	492::2	495::4	500::3	504::3	508::15	524::2	527::1	529::3	533::3	537::7	545::3	549::21	571::8	580::1
+	token_offsets	sentence	4	offsets	583::2	586::7	594::3	598::6	605::12	618::4	623::4	628::7	636::3	640::11	652::3	656::14	671::7	679::18	698::7	706::1
+	token_offsets	sentence	5	offsets	709::7	717::6	724::6	731::3	735::16	752::3	756::10	767::4	772::1
+	token_offsets	sentence	6	offsets	775::2	778::6	785::3	789::3	793::6	800::10	811::6	818::4	823::8	832::1	834::4	839::3	843::4	848::9	858::17	876::9	886::3	890::6	897::25	923::11	935::1
+	token_offsets	sentence	7	offsets	938::5	944::3	948::7	956::1	958::6	965::3	969::10	980::7	988::1
+	token_offsets	sentence	8	offsets	991::4	996::2	999::3	1003::5	1009::6	1016::4	1021::12	1034::12	1047::1	1049::4	1054::3	1058::8	1067::7	1075::10	1086::1
+	token_offsets	sentence	9	offsets	1089::3	1093::6	1100::3	1104::12	1117::4	1122::5	1128::1
+	token_offsets	sentence	10	offsets	1131::5	1137::4	1142::10	1153::2	1156::10	1167::3	1171::19	1191::7	1199::7	1207::3	1211::10	1222::1
+1	Land-	Land-	Land-	TRUNC	TRUNC	_	_	-1	3	_	CJ	_	_
+2	,	,	,	$,	$,	_	_	-1	1	_	--	_	_
+3	Forst-	Forst-	Forst-	TRUNC	TRUNC	_	_	-1	4	_	CJ	_	_
+4	und	und	und	KON	KON	_	_	-1	5	_	CD	_	_
+5	Tierwirte	Tierwirte	Tierwirte	NN	NN	_	nom|pl|masc	-1	6	_	SB	_	_
+6	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+7	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	8	_	NG	_	_
+8	nur	nur	nur	ADV	ADV	_	_	-1	9	_	MO	_	_
+9	mit	mit	mit	APPR	APPR	_	_	-1	17	_	MO	_	_
+10	Kordhut	Kordhut	Kordhut	NN	NN	_	dat|sg|neut	-1	9	_	NK	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	Blaumann	Blaumann	Blaumann	NN	NN	_	dat|sg|*	-1	10	_	CJ	_	_
+13	und	und	und	KON	KON	_	_	-1	12	_	CD	_	_
+14	Gummistiefeln	Gummistiefel	Gummistiefel	NN	NN	_	dat|pl|masc	-1	13	_	CJ	_	_
+15	unterwegs	unterwegs	unterwegs	ADV	ADV	_	_	-1	6	_	MO	_	_
+16	,	,	,	$,	$,	_	_	-1	15	_	--	_	_
+17	fahren	fahren	fahren	VVFIN	VVFIN	_	pl|3|pres|ind	-1	6	_	CJ	_	_
+18	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	19	_	NG	_	_
+19	nur	nur	nur	ADV	ADV	_	_	-1	20	_	MO	_	_
+20	tagein	tagein	tagein	ADV	ADV	_	_	-1	17	_	MO	_	_
+21	,	,	,	$,	$,	_	_	-1	20	_	--	_	_
+22	tagaus	tagaus	tagaus	ADV	ADV	_	_	-1	23	_	MO	_	_
+23	mit	mit	mit	APPR	APPR	_	_	-1	17	_	MO	_	_
+24	dem	die	die	ART	ART	_	dat|sg|neut	-1	25	_	NK	_	_
+25	Traktor	Traktor	Traktor	NN	NN	_	dat|sg|neut	-1	23	_	NK	_	_
+26	über	über	über	APPR	APPR	_	_	-1	25	_	MNR	_	_
+27	das	die	die	ART	ART	_	acc|sg|neut	-1	28	_	NK	_	_
+28	Feld	Feld	Feld	NN	NN	_	acc|sg|neut	-1	26	_	NK	_	_
+29	.	.	.	$.	$.	_	_	-1	28	_	--	_	_
+
+1	Heute	heute	heute	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	ihr	ihr	ihr	PPOSAT	PPOSAT	_	nom|sg|masc	-1	4	_	NK	_	_
+4	Job	Job	Job	NN	NN	_	nom|sg|masc	-1	2	_	SB	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	der	die	die	PRELS	PRELS	_	nom|sg|masc	-1	13	_	SB	_	_
+7	kein	keine	keine	PIAT	PIAT	_	nom|sg|masc	-1	8	_	NK	_	_
+8	Berufszweig	Berufszweig	Berufszweig	NN	NN	_	nom|sg|masc	-1	13	_	PD	_	_
+9	für	für	für	APPR	APPR	_	_	-1	8	_	MNR	_	_
+10	Romantiker	Romantiker	Romantiker	NN	NN	_	acc|pl|masc	-1	9	_	NK	_	_
+11	ohne	ohne	ohne	APPR	APPR	_	_	-1	10	_	MNR	_	_
+12	Zukunft	Zukunft	Zukunft	NN	NN	_	acc|sg|fem	-1	11	_	NK	_	_
+13	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	4	_	RC	_	_
+14	,	,	,	$,	$,	_	_	-1	13	_	--	_	_
+15	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	16	_	NK	_	_
+16	anderer	andere	andere	PIS	PIS	_	nom|sg|masc	-1	2	_	PD	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Landwirtschaft	Landwirtschaft	Landwirtschaft	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+3	stellt	stellen	stellen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	in	in	in	APPR	APPR	_	_	-1	3	_	MO	_	_
+5	Brandenburg	Brandenburg	Brandenburg	NE	NE	_	dat|sg|neut	-1	4	_	NK	_	_
+6	-	-	-	$(	$(	_	_	-1	5	_	--	_	_
+7	trotz	trotz	trotz	APPR	APPR	_	_	-1	3	_	MO	_	_
+8	des	die	die	ART	ART	_	gen|sg|masc	-1	10	_	NK	_	_
+9	hohen	hoch	hoch	ADJA	ADJA	_	gen|sg|masc|pos	-1	10	_	NK	_	_
+10	Beschäftigungsrückgangs	Beschäftigungsrückgang	Beschäftigungsrückgang	NN	NN	_	gen|sg|masc	-1	7	_	NK	_	_
+11	nach	nach	nach	APPR	APPR	_	_	-1	10	_	MNR	_	_
+12	der	die	die	ART	ART	_	dat|sg|fem	-1	13	_	NK	_	_
+13	Wende	Wende	Wende	NN	NN	_	dat|sg|fem	-1	11	_	NK	_	_
+14	-	-	-	$(	$(	_	_	-1	13	_	--	_	_
+15	noch	noch	noch	ADV	ADV	_	_	-1	3	_	MO	_	_
+16	immer	immer	immer	ADV	ADV	_	_	-1	15	_	MO	_	_
+17	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	19	_	NK	_	_
+18	wichtigen	wichtig	wichtig	ADJA	ADJA	_	acc|sg|masc|pos	-1	19	_	NK	_	_
+19	Wirtschaftszweig	Wirtschaftszweig	Wirtschaftszweig	NN	NN	_	acc|sg|masc	-1	3	_	OA	_	_
+20	dar	dar	dar	PTKVZ	PTKVZ	_	_	-1	3	_	SVP	_	_
+21	,	,	,	$,	$,	_	_	-1	20	_	--	_	_
+22	der	die	die	ART	ART	_	nom|sg|masc	-1	29	_	SB	_	_
+23	darüber	darüber	darüber	PAV	PAV	_	_	-1	28	_	NK	_	_
+24	hinaus	hinaus	hinaus	ADV	ADV	_	_	-1	25	_	MO	_	_
+25	viele	viele	viele	PIAT	PIAT	_	nom|pl|*	-1	28	_	NK	_	_
+26	Arbeits-	Arbeits-	Arbeits-	TRUNC	TRUNC	_	_	-1	27	_	CJ	_	_
+27	und	und	und	KON	KON	_	_	-1	28	_	CD	_	_
+28	Ausbildungsplätze	Ausbildungsplatz	Ausbildungsplatz	NN	NN	_	acc|pl|masc	-1	29	_	OA	_	_
+29	schafft	schaffen	schaffen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	19	_	RC	_	_
+30	.	.	.	$.	$.	_	_	-1	29	_	--	_	_
+
+1	Jeder	jede	jede	PIAT	PIAT	_	nom|sg|masc	-1	3	_	NK	_	_
+2	achte	acht	acht	ADJA	ADJA	_	nom|sg|masc|pos	-1	3	_	NK	_	_
+3	Job	Job	Job	NN	NN	_	nom|sg|masc	-1	4	_	SB	_	_
+4	hängt	hängen	hängen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	4	_	MO	_	_
+6	Land	Land	Land	NN	NN	_	dat|sg|neut	-1	5	_	NK	_	_
+7	von	von	von	APPR	APPR	_	_	-1	4	_	OP	_	_
+8	der	die	die	ART	ART	_	dat|sg|fem	-1	9	_	NK	_	_
+9	Agrarwirtschaft	Agrarwirtschaft	Agrarwirtschaft	NN	NN	_	dat|sg|fem	-1	7	_	NK	_	_
+10	ab	ab	ab	PTKVZ	PTKVZ	_	_	-1	4	_	SVP	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	die	die	die	PRELS	PRELS	_	acc|sg|fem	-1	17	_	OA	_	_
+13	ein	eine	eine	ART	ART	_	nom|sg|neut	-1	14	_	NK	_	_
+14	Fünftel	Fünftel	Fünftel	NN	NN	_	nom|sg|neut	-1	17	_	SB	_	_
+15	des	die	die	ART	ART	_	gen|sg|masc	-1	16	_	NK	_	_
+16	Bruttosozialproduktes	Bruttosozialprodukt	Bruttosozialprodukt	NN	NN	_	gen|sg|masc	-1	14	_	AG	_	_
+17	erbringt	erbringen	erbringen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	9	_	RC	_	_
+18	.	.	.	$.	$.	_	_	-1	17	_	--	_	_
+
+1	80	80	80	CARD	CARD	_	_	-1	2	_	NK	_	_
+2	Prozent	Prozent	Prozent	NN	NN	_	*|*|neut	-1	6	_	SB	_	_
+3	der	die	die	ART	ART	_	nom|sg|masc	-1	4	_	NK	_	_
+4	Fläche	Fläche	Fläche	NN	NN	_	nom|sg|masc	-1	2	_	AG	_	_
+5	Brandenburgs	Brandenburg	Brandenburg	NE	NE	_	gen|sg|neut	-1	4	_	AG	_	_
+6	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+7	nach	nach	nach	APPR	APPR	_	_	-1	15	_	MO	_	_
+8	Angaben	Angabe	Angabe	NN	NN	_	dat|pl|fem	-1	7	_	NK	_	_
+9	des	die	die	ART	ART	_	gen|sg|neut	-1	10	_	NK	_	_
+10	Landesamtes	Landesamt	Landesamt	NN	NN	_	gen|sg|neut	-1	8	_	AG	_	_
+11	für	für	für	APPR	APPR	_	_	-1	10	_	MNR	_	_
+12	Agarwirtschaft	Agarwirtschaft	Agarwirtschaft	NN	NN	_	acc|sg|fem	-1	11	_	NK	_	_
+13	derzeit	derzeit	derzeit	ADV	ADV	_	_	-1	15	_	MO	_	_
+14	landwirtschaftlich	landwirtschaftlich	landwirtschaftlich	ADJD	ADJD	_	pos	-1	15	_	MO	_	_
+15	genutzt	nutzen	nutzen	VVPP	VVPP	_	_	-1	6	_	OC	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+1	Darüber	darüber	darüber	PAV	PAV	_	_	-1	2	_	NK	_	_
+2	hinaus	hinaus	hinaus	ADV	ADV	_	_	-1	3	_	MO	_	_
+3	belebt	beleben	beleben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	der	die	die	ART	ART	_	nom|sg|masc	-1	5	_	NK	_	_
+5	Wirtschaftszweig	Wirtschaftszweig	Wirtschaftszweig	NN	NN	_	nom|sg|masc	-1	3	_	SB	_	_
+6	den	die	die	ART	ART	_	acc|sg|masc	-1	8	_	NK	_	_
+7	dörflichen	dörflichen	dörflichen	ADJA	ADJA	_	acc|sg|masc|pos	-1	8	_	NK	_	_
+8	Raum	Raum	Raum	NN	NN	_	acc|sg|masc	-1	3	_	OA	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+1	In	in	in	APPR	APPR	_	_	-1	5	_	MO	_	_
+2	Zeiten	Zeit	Zeit	NN	NN	_	dat|pl|fem	-1	1	_	NK	_	_
+3	von	von	von	APPR	APPR	_	_	-1	2	_	PG	_	_
+4	BSE	BSE	BSE	NE	NE	_	dat|sg|neut	-1	3	_	NK	_	_
+5	müssen	müssen	müssen	VMFIN	VMFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+6	Agrarwirte	Agrarwirte	Agrarwirte	NN	NN	_	nom|pl|masc	-1	5	_	SB	_	_
+7	jedoch	jedoch	jedoch	ADV	ADV	_	_	-1	5	_	MO	_	_
+8	auch	auch	auch	ADV	ADV	_	_	-1	9	_	MO	_	_
+9	umdenken	umdenken	umdenken	VVINF	VVINF	_	_	-1	5	_	OC	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	16	_	OA	_	_
+12	auf	auf	auf	APPR	APPR	_	_	-1	16	_	OP	_	_
+13	neue	neu	neu	ADJA	ADJA	_	acc|pl|masc|pos	-1	15	_	NK	_	_
+14	extensive	extensiv	extensiv	ADJA	ADJA	_	nom|pl|fem|pos	-1	15	_	NK	_	_
+15	Produktionsformen	Produktionsform	Produktionsform	NN	NN	_	nom|pl|fem	-1	12	_	NK	_	_
+16	einlassen	einlassen	einlassen	VVINF	VVINF	_	_	-1	9	_	OC	_	_
+17	und	und	und	KON	KON	_	_	-1	16	_	CD	_	_
+18	andere	andere	andere	PIS	PIS	_	acc|pl|fem|pos	-1	19	_	NK	_	_
+19	Vermarktungsmöglichkeiten	Vermarktungsmöglichkeit	Vermarktungsmöglichkeit	NN	NN	_	acc|pl|fem	-1	20	_	OA	_	_
+20	erschließen	erschließen	erschließen	VVINF	VVINF	_	_	-1	17	_	CJ	_	_
+21	.	.	.	$.	$.	_	_	-1	20	_	--	_	_
+
+1	Damit	damit	damit	PAV	PAV	_	_	-1	2	_	NK	_	_
+2	das	die	die	PDS	PDS	_	nom|sg|neut	-1	3	_	SB	_	_
+3	gelingt	gelingen	gelingen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	8	_	OC	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	sollte	sollen	sollen	VMFIN	VMFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+6	die	die	die	ART	ART	_	nom|sg|fem	-1	7	_	NK	_	_
+7	Ausbildung	Ausbildung	Ausbildung	NN	NN	_	nom|sg|fem	-1	5	_	SB	_	_
+8	stimmen	stimmen	stimmen	VVINF	VVINF	_	_	-1	5	_	OC	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+1	Egal	egal	egal	ADJD	ADJD	_	pos	-1	8	_	MO	_	_
+2	ob	ob	ob	ADV	ADV	_	_	-1	8	_	MO	_	_
+3	mit	mit	mit	APPR	APPR	_	_	-1	8	_	MO	_	_
+4	einem	eine	eine	ART	ART	_	dat|sg|neut	-1	5	_	NK	_	_
+5	Diplom	Diplom	Diplom	NN	NN	_	dat|sg|neut	-1	3	_	NK	_	_
+6	oder	oder	oder	KON	KON	_	_	-1	5	_	CD	_	_
+7	Meisterbrief	Meisterbrief	Meisterbrief	NN	NN	_	dat|sg|neut	-1	6	_	CJ	_	_
+8	ausgestattet	ausstatten	ausstatten	VVPP	VVPP	_	_	-1	10	_	MO	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	muss	müssen	müssen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+11	ein	eine	eine	ART	ART	_	nom|sg|neut	-1	12	_	NK	_	_
+12	Landwirt	Landwirt	Landwirt	NN	NN	_	nom|sg|neut	-1	10	_	SB	_	_
+13	ständig	ständig	ständig	ADJD	ADJD	_	pos	-1	14	_	MO	_	_
+14	dazulernen	dazulernen	dazulernen	VVINF	VVINF	_	_	-1	10	_	OC	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|pl|fem	-1	2	_	NK	_	_
+2	Zeiten	Zeit	Zeit	NN	NN	_	nom|pl|fem	-1	5	_	SB	_	_
+3	der	die	die	ART	ART	_	gen|pl|fem	-1	4	_	NK	_	_
+4	Bauernregeln	Bauernregel	Bauernregel	NN	NN	_	gen|pl|fem	-1	2	_	AG	_	_
+5	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+6	passé	passé	passé	ADJD	ADJD	_	pos	-1	5	_	PD	_	_
+7	.	.	.	$.	$.	_	_	-1	6	_	--	_	_
+
+1	Heute	heute	heute	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	Kenntnisse	Kenntnis	Kenntnis	NN	NN	_	nom|pl|fem	-1	2	_	SB	_	_
+4	in	in	in	APPR	APPR	_	_	-1	2	_	MO	_	_
+5	Management	Management	Management	NN	NN	_	dat|sg|neut	-1	4	_	NK	_	_
+6	und	und	und	KON	KON	_	_	-1	5	_	CD	_	_
+7	Unternehmensführung	Unternehmensführung	Unternehmensführung	NN	NN	_	dat|sg|fem	-1	6	_	CJ	_	_
+8	genauso	genauso	genauso	ADV	ADV	_	_	-1	9	_	MO	_	_
+9	wichtig	wichtig	wichtig	ADJD	ADJD	_	pos	-1	2	_	PD	_	_
+10	wie	wie	wie	KOKOM	KOKOM	_	_	-1	11	_	CM	_	_
+11	Fachwissen	Fachwissen	Fachwissen	NN	NN	_	dat|pl|neut	-1	8	_	CC	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+

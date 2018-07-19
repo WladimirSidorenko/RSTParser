@@ -1,0 +1,190 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::11	12::9
+1	Siamesische	siamesisch	siamesisch	ADJA	ADJA	_	nom|pl|masc|pos	-1	2	_	NK	_	_
+2	Zwillinge	Zwilling	Zwilling	NN	NN	_	nom|pl|masc	-1	0	_	--	_	_
+
+	sentence_start	0	151	259	365	526	617	799	891	968
+	token_offsets	sentence	0	offsets	0::3	4::9	14::10	25::2	28::1	30::6	37::1	39::3	43::2	46::12	59::13	73::3	77::3	81::9	91::3	95::3	99::7	107::3	111::10	122::8	131::8	140::7	148::1
+	token_offsets	sentence	1	offsets	151::5	157::4	162::6	169::8	178::1	180::4	185::4	190::10	201::3	205::17	223::2	226::14	241::10	252::3	256::1
+	token_offsets	sentence	2	offsets	259::4	264::3	268::6	275::3	279::3	283::11	295::5	301::1	303::3	307::4	312::1	314::6	321::3	325::11	337::9	347::11	359::2	362::1
+	token_offsets	sentence	3	offsets	365::3	369::3	373::4	378::5	384::3	388::15	404::3	408::12	421::5	427::5	433::6	440::3	444::4	449::11	461::6	468::6	475::1	477::5	483::3	487::4	492::3	496::5	502::11	514::8	523::1
+	token_offsets	sentence	4	offsets	526::3	530::6	537::6	544::19	564::6	571::1	573::3	577::3	581::3	585::6	592::2	595::10	606::7	614::1
+	token_offsets	sentence	5	offsets	617::8	626::3	630::3	634::3	638::7	646::3	650::3	654::7	662::5	668::5	674::15	690::3	694::19	714::1	716::14	731::3	735::13	749::1	751::2	754::3	758::7	766::6	773::8	782::6	789::6	796::1
+	token_offsets	sentence	6	offsets	799::3	803::4	808::1	810::4	815::5	821::12	834::3	838::3	842::4	847::2	850::5	856::1	858::3	862::2	865::7	873::5	879::8	888::1
+	token_offsets	sentence	7	offsets	891::10	902::4	907::4	912::4	917::1	919::4	924::2	927::5	933::5	939::3	943::4	948::9	958::6	965::1
+	token_offsets	sentence	8	offsets	968::9	978::4	983::4	988::4	993::1	995::3	999::2	1002::5	1008::7	1016::3	1020::5	1026::3	1030::1
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Lausitzer	Lausitzer	Lausitzer	NN	NN	_	nom|sg|fem	-1	8	_	SB	_	_
+3	Braunkohle	Braunkohle	Braunkohle	NN	NN	_	nom|sg|fem	-1	2	_	NK	_	_
+4	AG	AG	AG	NN	NN	_	nom|sg|fem	-1	3	_	NK	_	_
+5	(	(	(	$(	$(	_	_	-1	4	_	--	_	_
+6	Laubag	Laubag	Laubag	NN	NN	_	nom|sg|masc	-1	2	_	PAR	_	_
+7	)	)	)	$(	$(	_	_	-1	6	_	--	_	_
+8	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+9	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	22	_	MO	_	_
+10	abgelaufenen	abgelaufen	abgelaufen	ADJA	ADJA	_	dat|sg|neut|pos	-1	11	_	NK	_	_
+11	Geschäftsjahr	Geschäftsjahr	Geschäftsjahr	NN	NN	_	dat|sg|neut	-1	9	_	NK	_	_
+12	mit	mit	mit	APPR	APPR	_	_	-1	22	_	MO	_	_
+13	der	die	die	ART	ART	_	dat|sg|fem	-1	14	_	NK	_	_
+14	Förderung	Förderung	Förderung	NN	NN	_	dat|sg|fem	-1	12	_	NK	_	_
+15	und	und	und	KON	KON	_	_	-1	14	_	CD	_	_
+16	dem	die	die	ART	ART	_	dat|sg|masc	-1	17	_	NK	_	_
+17	Verkauf	Verkauf	Verkauf	NN	NN	_	dat|sg|masc	-1	15	_	CJ	_	_
+18	von	von	von	APPR	APPR	_	_	-1	17	_	PG	_	_
+19	Braunkohle	Braunkohle	Braunkohle	NN	NN	_	dat|sg|fem	-1	18	_	NK	_	_
+20	erstmals	erstmals	erstmals	ADV	ADV	_	_	-1	22	_	MO	_	_
+21	Verluste	Verlust	Verlust	NN	NN	_	acc|pl|masc	-1	22	_	OA	_	_
+22	gemacht	machen	machen	VVPP	VVPP	_	_	-1	8	_	OC	_	_
+23	.	.	.	$.	$.	_	_	-1	22	_	--	_	_
+
+1	Damit	damit	damit	PAV	PAV	_	_	-1	12	_	NK	_	_
+2	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	erneut	erneut	erneut	ADJD	ADJD	_	pos	-1	4	_	MO	_	_
+4	deutlich	deutlich	deutlich	ADJD	ADJD	_	pos	-1	2	_	OC	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	dass	dass	dass	KOUS	KOUS	_	_	-1	14	_	CP	_	_
+7	eine	eine	eine	ART	ART	_	nom|sg|fem	-1	8	_	NK	_	_
+8	Neuordnung	Neuordnung	Neuordnung	NN	NN	_	nom|sg|fem	-1	14	_	SB	_	_
+9	der	die	die	ART	ART	_	gen|sg|fem	-1	10	_	NK	_	_
+10	Energiewirtschaft	Energiewirtschaft	Energiewirtschaft	NN	NN	_	gen|sg|fem	-1	8	_	AG	_	_
+11	in	in	in	APPR	APPR	_	_	-1	10	_	MNR	_	_
+12	Ostdeutschland	Ostdeutschland	Ostdeutschland	NE	NE	_	dat|sg|neut	-1	11	_	NK	_	_
+13	überfällig	überfällig	überfällig	ADJD	ADJD	_	pos	-1	14	_	PD	_	_
+14	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	2	_	MO	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+1	Denn	denn	denn	KON	KON	_	_	-1	12	_	JU	_	_
+2	die	die	die	ART	ART	_	nom|pl|*	-1	3	_	NK	_	_
+3	Laubag	Laubag	Laubag	NN	NN	_	nom|pl|*	-1	12	_	SB	_	_
+4	und	und	und	KON	KON	_	_	-1	3	_	CD	_	_
+5	ihr	ihr	ihr	PPOSAT	PPOSAT	_	nom|sg|masc	-1	7	_	NK	_	_
+6	wichtigster	wichtig	wichtig	ADJA	ADJA	_	nom|sg|masc|sup	-1	7	_	NK	_	_
+7	Kunde	Kunde	Kunde	NN	NN	_	nom|pl|masc	-1	4	_	CJ	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	die	die	die	ART	ART	_	nom|pl|masc	-1	10	_	NK	_	_
+10	Veag	Veag	Veag	NN	NN	_	nom|pl|masc	-1	7	_	APP	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	hängen	hängen	hängen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+13	wie	wie	wie	KOKOM	KOKOM	_	_	-1	15	_	CM	_	_
+14	siamesische	siamesisch	siamesisch	ADJA	ADJA	_	nom|pl|masc|pos	-1	15	_	NK	_	_
+15	Zwillinge	Zwilling	Zwilling	NN	NN	_	nom|pl|masc	-1	12	_	MO	_	_
+16	voneinander	voneinander	voneinander	ADV	ADV	_	_	-1	12	_	MO	_	_
+17	ab	ab	ab	PTKVZ	PTKVZ	_	_	-1	12	_	SVP	_	_
+18	.	.	.	$.	$.	_	_	-1	17	_	--	_	_
+
+1	Als	als	als	KOUS	KOUS	_	_	-1	11	_	CP	_	_
+2	die	die	die	ART	ART	_	nom|sg|fem	-1	3	_	NK	_	_
+3	Veag	Veag	Veag	NN	NN	_	nom|sg|fem	-1	11	_	SB	_	_
+4	wegen	wegen	wegen	APPR	APPR	_	_	-1	11	_	MO	_	_
+5	der	die	die	ART	ART	_	*|sg|fem	-1	6	_	NK	_	_
+6	Liberalisierung	Liberalisierung	Liberalisierung	NN	NN	_	*|sg|fem	-1	4	_	NK	_	_
+7	des	die	die	ART	ART	_	gen|sg|masc	-1	8	_	NK	_	_
+8	Strommarktes	Strommarkt	Strommarkt	NN	NN	_	gen|sg|masc	-1	6	_	AG	_	_
+9	unter	unter	unter	APPR	APPR	_	_	-1	11	_	CVC	_	_
+10	Druck	Druck	Druck	NN	NN	_	acc|sg|masc	-1	9	_	NK	_	_
+11	geriet	geraten	geraten	VVFIN	VVFIN	_	sg|3|past|ind	-1	18	_	MO	_	_
+12	und	und	und	KON	KON	_	_	-1	11	_	CD	_	_
+13	ihre	ihr	ihr	PPOSAT	PPOSAT	_	acc|pl|masc	-1	14	_	NK	_	_
+14	Strompreise	Strompreis	Strompreis	NN	NN	_	acc|pl|masc	-1	15	_	OA	_	_
+15	senken	senken	senken	VVINF	VVINF	_	_	-1	16	_	OC	_	_
+16	musste	müssen	müssen	VMFIN	VMFIN	_	sg|3|past|ind	-1	12	_	CJ	_	_
+17	,	,	,	$,	$,	_	_	-1	16	_	--	_	_
+18	hielt	halten	halten	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+19	sie	sie	sie	PPER	PPER	_	nom|sg|fem|3	-1	18	_	SB	_	_
+20	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	18	_	OA	_	_
+21	bei	bei	bei	APPR	APPR	_	_	-1	18	_	MO	_	_
+22	ihrem	ihr	ihr	PPOSAT	PPOSAT	_	dat|sg|masc	-1	23	_	NK	_	_
+23	Lieferanten	Lieferant	Lieferant	NN	NN	_	dat|sg|masc	-1	21	_	NK	_	_
+24	schadlos	schadlos	schadlos	ADJD	ADJD	_	pos	-1	18	_	MO	_	_
+25	.	.	.	$.	$.	_	_	-1	24	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Laubag	Laubag	Laubag	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+3	musste	müssen	müssen	VMFIN	VMFIN	_	nom|sg|fem|sup	-1	0	_	--	_	_
+4	Preiszugeständnisse	Preiszugeständnis	Preiszugeständnis	NN	NN	_	acc|pl|neut	-1	5	_	OA	_	_
+5	machen	machen	machen	VVINF	VVINF	_	_	-1	3	_	OC	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	die	die	die	PRELS	PRELS	_	acc|pl|neut	-1	13	_	OA	_	_
+8	sie	sie	sie	PPER	PPER	_	nom|pl|masc|3	-1	13	_	SB	_	_
+9	nun	nun	nun	ADV	ADV	_	_	-1	13	_	MO	_	_
+10	selbst	selbst	selbst	ADV	ADV	_	_	-1	13	_	MO	_	_
+11	in	in	in	APPR	APPR	_	_	-1	13	_	CVC	_	_
+12	Bedrängnis	Bedrängnis	Bedrängnis	NN	NN	_	dat|sg|fem	-1	11	_	NK	_	_
+13	bringen	bringen	bringen	VVINF	VVINF	_	_	-1	4	_	RC	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Einziger	einzig	einzig	ADJA	ADJA	_	nom|sg|masc|pos	-1	2	_	NK	_	_
+2	Weg	Weg	Weg	NN	NN	_	nom|sg|masc	-1	6	_	PD	_	_
+3	aus	aus	aus	APPR	APPR	_	_	-1	2	_	MNR	_	_
+4	dem	die	die	ART	ART	_	dat|sg|neut	-1	5	_	NK	_	_
+5	Dilemma	Dilemma	Dilemma	NN	NN	_	dat|sg|neut	-1	3	_	NK	_	_
+6	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+7	die	die	die	ART	ART	_	nom|sg|fem	-1	8	_	NK	_	_
+8	Bildung	Bildung	Bildung	NN	NN	_	nom|sg|fem	-1	6	_	SB	_	_
+9	eines	eine	eine	ART	ART	_	gen|sg|neut	-1	11	_	NK	_	_
+10	neuen	neu	neu	ADJA	ADJA	_	gen|sg|neut|pos	-1	11	_	NK	_	_
+11	Energiekonzerns	Energiekonzern	Energiekonzern	NN	NN	_	gen|sg|neut	-1	8	_	AG	_	_
+12	aus	aus	aus	APPR	APPR	_	_	-1	11	_	MNR	_	_
+13	Rohstofflieferanten	Rohstofflieferant	Rohstofflieferant	NN	NN	_	dat|pl|masc	-1	12	_	NK	_	_
+14	,	,	,	$,	$,	_	_	-1	13	_	--	_	_
+15	Stromerzeugern	Stromerzeuger	Stromerzeuger	NN	NN	_	dat|pl|masc	-1	13	_	CJ	_	_
+16	und	und	und	KON	KON	_	_	-1	15	_	CD	_	_
+17	Endversorgern	Endversorgern	Endversorgern	NN	NN	_	dat|pl|masc	-1	16	_	CJ	_	_
+18	,	,	,	$,	$,	_	_	-1	17	_	--	_	_
+19	in	in	in	APPR	APPR	_	_	-1	25	_	MO	_	_
+20	dem	die	die	ART	ART	_	dat|sg|neut	-1	21	_	NK	_	_
+21	Risiken	Risiko	Risiko	NN	NN	_	dat|sg|neut	-1	19	_	NK	_	_
+22	besser	gut	gut	ADJD	ADJD	_	comp	-1	23	_	MO	_	_
+23	verteilt	verteilen	verteilen	VVPP	VVPP	_	_	-1	24	_	OC	_	_
+24	werden	werden	werden	VAINF	VAINF	_	_	-1	25	_	OC	_	_
+25	können	können	können	VMFIN	VMFIN	_	pl|3|pres|ind	-1	11	_	RC	_	_
+26	.	.	.	$.	$.	_	_	-1	25	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Idee	Idee	Idee	NN	NN	_	nom|sg|fem	-1	13	_	SB	_	_
+3	,	,	,	$,	$,	_	_	-1	2	_	--	_	_
+4	auch	auch	auch	ADV	ADV	_	_	-1	11	_	MO	_	_
+5	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	6	_	NK	_	_
+6	Gasversorger	Gasversorger	Gasversorger	NN	NN	_	acc|sg|masc	-1	11	_	OA	_	_
+7	mit	mit	mit	APPR	APPR	_	_	-1	11	_	MO	_	_
+8	ins	in	in	APPRART	APPRART	_	acc|sg|neut	-1	11	_	MO	_	_
+9	Boot	Boot	Boot	NN	NN	_	acc|sg|neut	-1	8	_	NK	_	_
+10	zu	zu	zu	PTKZU	PTKZU	_	_	-1	11	_	PM	_	_
+11	holen	holen	holen	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+12	,	,	,	$,	$,	_	_	-1	11	_	--	_	_
+13	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+14	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	13	_	MO	_	_
+15	Prinzip	Prinzip	Prinzip	NN	NN	_	dat|sg|neut	-1	14	_	NK	_	_
+16	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	13	_	NG	_	_
+17	schlecht	schlecht	schlecht	ADJD	ADJD	_	pos	-1	13	_	PD	_	_
+18	.	.	.	$.	$.	_	_	-1	17	_	--	_	_
+
+1	Allerdings	allerdings	allerdings	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	gilt	gelten	gelten	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	auch	auch	auch	ADV	ADV	_	_	-1	4	_	MO	_	_
+4	hier	hier	hier	ADV	ADV	_	_	-1	2	_	MO	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	dass	dass	dass	KOUS	KOUS	_	_	-1	13	_	CP	_	_
+7	zu	zu	zu	APPR	APPR	_	_	-1	13	_	MO	_	_
+8	viele	viele	viele	PIAT	PIAT	_	dat|pl|*	-1	9	_	NK	_	_
+9	Köche	Koch	Koch	NN	NN	_	dat|pl|*|pos	-1	7	_	NK	_	_
+10	den	die	die	ART	ART	_	dat|pl|*	-1	11	_	NK	_	_
+11	Brei	Brei	Brei	NN	NN	_	acc|sg|masc	-1	12	_	OA	_	_
+12	verderben	verderben	verderben	VVINF	VVINF	_	_	-1	13	_	OC	_	_
+13	können	können	können	VMINF	VMINF	_	_	-1	2	_	SB	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Zumindest	zumindest	zumindest	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	muss	müssen	müssen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	klar	klar	klar	ADJD	ADJD	_	pos	-1	4	_	PD	_	_
+4	sein	sein	sein	VAINF	VAINF	_	_	-1	2	_	OC	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	wer	wer	wer	PWS	PWS	_	nom|sg|masc	-1	12	_	SB	_	_
+7	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	12	_	MO	_	_
+8	neuen	neu	neu	ADJA	ADJA	_	dat|sg|neut|pos	-1	9	_	NK	_	_
+9	Konzern	Konzern	Konzern	NN	NN	_	dat|sg|neut	-1	7	_	NK	_	_
+10	das	die	die	ART	ART	_	acc|sg|neut	-1	11	_	NK	_	_
+11	Sagen	Sage|Sagen	Sage|Sagen	NN	NN	_	acc|sg|neut	-1	12	_	OA	_	_
+12	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	2	_	SB	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+

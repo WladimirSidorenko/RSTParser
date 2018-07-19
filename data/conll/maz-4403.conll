@@ -1,0 +1,200 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::15
+1	Scheibchenweise	scheibchenweise	scheibchenweise	ADJA	ADJA	_	_	-1	0	_	--	_	_
+
+	sentence_start	0	283	461
+	token_offsets	sentence	0	offsets	0::2	3::3	7::4	12::11	24::5	30::1	31::0	33::2	36::10	47::11	59::5	65::6	72::3	76::19	96::3	100::3	104::14	119::5	125::13	139::2	142::7	150::1	152::7	160::8	169::4	174::15	190::2	193::3	197::5	203::8	212::1	214::5	220::4	225::2	228::12	241::3	245::23	269::8	278::3
+	token_offsets	sentence	1	offsets	283::2	286::10	297::1	299::5	305::4	310::3	314::7	322::10	333::7	341::3	345::18	364::2	367::3	371::9	381::6	388::7	396::2	399::3	403::13	417::9	427::26	454::3	458::1
+	token_offsets	sentence	2	offsets	461::3	465::3	469::3	473::14	488::5	494::1
+1	Es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	SB	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	eine	eine	eine	ART	ART	_	nom|sg|fem	-1	5	_	NK	_	_
+4	erfreuliche	erfreulich	erfreulich	ADJA	ADJA	_	nom|sg|fem|pos	-1	5	_	NK	_	_
+5	Serie	Serie	Serie	NN	NN	_	nom|sg|fem	-1	2	_	PD	_	_
+6	:	:	:	$.	$.	_	_	-1	5	_	--	_	_
+7	Am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	11	_	MO	_	_
+8	Donnerstag	Donnerstag	Donnerstag	NN	NN	_	dat|sg|masc	-1	7	_	NK	_	_
+9	vergangener	vergangen	vergangen	ADJA	ADJA	_	gen|sg|fem|pos	-1	10	_	NK	_	_
+10	Woche	Woche	Woche	NN	NN	_	gen|sg|fem	-1	8	_	AG	_	_
+11	nahmen	nehmen	nehmen	VVFIN	VVFIN	_	pl|3|past|ind	-1	2	_	CJ	_	_
+12	die	die	die	ART	ART	_	acc|sg|fem	-1	13	_	NK	_	_
+13	Klimafolgenforscher	Klimafolgenforscher	Klimafolgenforscher	NN	NN	_	acc|sg|fem	-1	11	_	OA	_	_
+14	auf	auf	auf	APPR	APPR	_	_	-1	11	_	MO	_	_
+15	dem	die	die	ART	ART	_	dat|sg|masc	-1	16	_	NK	_	_
+16	Telegrafenberg	Telegrafenberg	Telegrafenberg	NN	NN	_	dat|sg|masc	-1	14	_	NK	_	_
+17	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	18	_	NK	_	_
+18	Supercomputer	Supercomputer	Supercomputer	NN	NN	_	acc|sg|masc	-1	11	_	OA	_	_
+19	in	in	in	APPR	APPR	_	_	-1	11	_	CVC	_	_
+20	Betrieb	Betrieb	Betrieb	NN	NN	_	acc|sg|masc	-1	19	_	NK	_	_
+21	,	,	,	$,	$,	_	_	-1	20	_	--	_	_
+22	gestern	gestern	gestern	ADV	ADV	_	_	-1	23	_	MO	_	_
+23	startete	starten	starten	VVFIN	VVFIN	_	sg|3|past|ind	-1	11	_	CJ	_	_
+24	eine	eine	eine	ART	ART	_	nom|sg|fem	-1	25	_	NK	_	_
+25	Hightech-Anlage	Hightech-Anlage	Hightech-Anlage	NN	NN	_	nom|sg|fem	-1	23	_	SB	_	_
+26	in	in	in	APPR	APPR	_	_	-1	23	_	MO	_	_
+27	den	die	die	ART	ART	_	dat|pl|neut	-1	29	_	NK	_	_
+28	Roten	rot	rot	ADJA	ADJA	_	dat|pl|neut|pos	-1	29	_	NK	_	_
+29	Kasernen	Kaserne	Kaserne	NN	NN	_	dat|pl|neut	-1	26	_	NK	_	_
+30	,	,	,	$,	$,	_	_	-1	29	_	--	_	_
+31	heute	heute	heute	ADV	ADV	_	_	-1	37	_	MO	_	_
+32	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	23	_	CJ	_	_
+33	am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	37	_	MO	_	_
+34	Griebnitzsee	Griebnitzsee	Griebnitzsee	NN	NN	_	dat|sg|masc	-1	33	_	NK	_	_
+35	das	die	die	ART	ART	_	nom|sg|neut	-1	36	_	NK	_	_
+36	Hasso-Plattner-Institut	Hasso-Plattner-Institut	Hasso-Plattner-Institut	NN	NN	_	nom|sg|neut	-1	32	_	SB	_	_
+37	eröffnet	eröffnen	eröffnen	VVPP	VVPP	_	_	-1	32	_	OC	_	_
+38	...	...	...	$.	$.	_	_	-1	37	_	--	_	_
+
+1	So	so	so	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	betrachtet	betrachten	betrachten	VVPP	VVPP	_	_	-1	4	_	MO	_	_
+3	,	,	,	$,	$,	_	_	-1	2	_	--	_	_
+4	reiht	reihen	reihen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	4	_	OA	_	_
+6	das	die	die	ART	ART	_	nom|sg|neut	-1	9	_	NK	_	_
+7	gestern	gestern	gestern	ADV	ADV	_	_	-1	8	_	MO	_	_
+8	gestartete	gestartet	gestartet	ADJA	ADJA	_	nom|sg|neut|pos	-1	9	_	NK	_	_
+9	Projekt	Projekt	Projekt	NN	NN	_	nom|sg|neut	-1	4	_	SB	_	_
+10	der	die	die	ART	ART	_	gen|sg|fem	-1	11	_	NK	_	_
+11	PanMedium-Stiftung	PanMedium-Stiftung	PanMedium-Stiftung	NN	NN	_	gen|sg|fem	-1	9	_	AG	_	_
+12	in	in	in	APPR	APPR	_	_	-1	4	_	MO	_	_
+13	der	die	die	ART	ART	_	dat|sg|fem	-1	15	_	NK	_	_
+14	Nedlitzer	Nedlitzer	Nedlitzer	NE	NE	_	*|*|*|pos	-1	15	_	NK	_	_
+15	Straße	Straße	Straße	NN	NN	_	dat|sg|fem	-1	12	_	NK	_	_
+16	nahtlos	nahtlos	nahtlos	ADJD	ADJD	_	pos	-1	4	_	MO	_	_
+17	in	in	in	APPR	APPR	_	_	-1	4	_	MO	_	_
+18	die	die	die	ART	ART	_	acc|sg|fem	-1	20	_	NK	_	_
+19	expandierende	expandierend	expandierend	ADJA	ADJA	_	acc|sg|fem|pos	-1	20	_	NK	_	_
+20	Potsdamer	Potsdamer	Potsdamer	NN	NN	_	acc|sg|fem	-1	17	_	NK	_	_
+21	Hochtechnologie-Landschaft	Hochtechnologie-Landschaft	Hochtechnologie-Landschaft	NN	NN	_	acc|sg|fem	-1	20	_	NK	_	_
+22	ein	ein	ein	PTKVZ	PTKVZ	_	_	-1	4	_	SVP	_	_
+23	.	.	.	$.	$.	_	_	-1	22	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	2	_	JU	_	_
+2	das	die	die	PDS	PDS	_	nom|sg|neut	-1	0	_	--	_	_
+3	auf	auf	auf	APPR	APPR	_	_	-1	2	_	MNR	_	_
+4	hoffnungsvolle	hoffnungsvoll	hoffnungsvoll	ADJA	ADJA	_	acc|pl|masc|pos	-1	5	_	NK	_	_
+5	Weise	Weise	Weise	NN	NN	_	acc|pl|masc	-1	3	_	NK	_	_
+6	.	.	.	$.	$.	_	_	-1	5	_	--	_	_
+
+	sentence_start	0	170	299	463	559
+	token_offsets	sentence	0	offsets	0::3	4::2	7::3	11::3	15::3	19::7	27::2	30::3	34::7	42::14	57::27	85::2	88::10	99::1	100::0	102::3	106::9	116::1	118::3	122::4	127::3	131::3	135::20	156::6	163::3	167::1
+	token_offsets	sentence	1	offsets	170::2	173::9	183::3	187::17	205::2	208::3	212::11	224::3	228::3	232::21	254::4	259::3	263::6	270::2	273::12	286::9	296::1
+	token_offsets	sentence	2	offsets	299::5	305::3	309::3	313::3	317::9	327::1	329::4	334::5	340::2	343::9	353::4	358::3	362::5	368::17	386::3	390::2	393::5	399::3	403::9	413::1	415::1	417::4	422::2	425::7	433::4	438::9	448::6	455::4	460::1
+	token_offsets	sentence	3	offsets	463::3	467::8	476::7	484::2	487::15	503::7	511::6	518::1	520::6	527::4	532::3	536::15	552::3	556::1
+	token_offsets	sentence	4	offsets	559::3	563::6	570::5	576::3	580::9	590::8	599::1	601::3	605::4	610::3	614::10	625::4	630::10	641::8	650::3	654::8	663::1	665::4	670::5	676::20	697::3	701::3	705::2	708::2	711::7	719::1
+1	Nur	nur	nur	ADV	ADV	_	_	-1	3	_	MO	_	_
+2	zu	zu	zu	PTKA	PTKA	_	_	-1	3	_	MO	_	_
+3	gut	gut	gut	ADJD	ADJD	_	pos	-1	4	_	MO	_	_
+4	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	das	die	die	ART	ART	_	nom|sg|neut	-1	6	_	NK	_	_
+6	Debakel	Debakel	Debakel	NN	NN	_	nom|sg|neut	-1	4	_	SB	_	_
+7	um	um	um	APPR	APPR	_	_	-1	6	_	MNR	_	_
+8	ein	eine	eine	ART	ART	_	acc|sg|neut	-1	11	_	NK	_	_
+9	ähnlich	ähnlich	ähnlich	ADJD	ADJD	_	pos	-1	10	_	MO	_	_
+10	hochgestecktes	hochgesteckt	hochgesteckt	ADJA	ADJA	_	acc|sg|neut|pos	-1	11	_	NK	_	_
+11	Wirtschafts-Computerprojekt	Wirtschafts-Computerprojekt	Wirtschafts-Computerprojekt	NN	NN	_	acc|sg|neut	-1	7	_	NK	_	_
+12	in	in	in	APPR	APPR	_	_	-1	11	_	MNR	_	_
+13	Erinnerung	Erinnerung	Erinnerung	NN	NN	_	dat|sg|fem	-1	12	_	NK	_	_
+14	:	:	:	$.	$.	_	_	-1	13	_	--	_	_
+15	Das	die	die	ART	ART	_	nom|sg|neut	-1	16	_	NK	_	_
+16	FX-Center	FX-Center	FX-Center	NE	NE	_	nom|sg|neut	-1	11	_	APP	_	_
+17	,	,	,	$,	$,	_	_	-1	16	_	--	_	_
+18	das	die	die	PRELS	PRELS	_	nom|sg|neut	-1	24	_	SB	_	_
+19	kaum	kaum	kaum	ADV	ADV	_	_	-1	24	_	MO	_	_
+20	aus	aus	aus	APPR	APPR	_	_	-1	24	_	MO	_	_
+21	den	die	die	ART	ART	_	dat|pl|masc	-1	22	_	NK	_	_
+22	Negativ-Schlagzeilen	Negativ-Schlagzeile	Negativ-Schlagzeile	NN	NN	_	dat|pl|masc	-1	20	_	NK	_	_
+23	heraus	heraus	heraus	ADV	ADV	_	_	-1	20	_	MO	_	_
+24	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	11	_	RC	_	_
+25	.	.	.	$.	$.	_	_	-1	24	_	--	_	_
+
+1	Im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	16	_	MO	_	_
+2	Vergleich	Vergleich	Vergleich	NN	NN	_	dat|sg|masc	-1	1	_	NK	_	_
+3	zum	zu	zu	APPRART	APPRART	_	dat|sg|masc	-1	2	_	MNR	_	_
+4	Hightech-Kollegen	Hightech-Kollegen	Hightech-Kollegen	NN	NN	_	dat|sg|masc	-1	3	_	NK	_	_
+5	in	in	in	APPR	APPR	_	_	-1	4	_	MNR	_	_
+6	der	die	die	ART	ART	_	dat|sg|fem	-1	7	_	NK	_	_
+7	Medienstadt	Medienstadt	Medienstadt	NN	NN	_	dat|sg|fem	-1	5	_	NK	_	_
+8	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+9	das	die	die	ART	ART	_	nom|sg|neut	-1	10	_	NK	_	_
+10	PanMedium-Unternehmen	PanMedium-Unternehmen	PanMedium-Unternehmen	NN	NN	_	nom|sg|neut	-1	8	_	SB	_	_
+11	aber	aber	aber	ADV	ADV	_	_	-1	16	_	MO	_	_
+12	von	von	von	APPR	APPR	_	_	-1	16	_	MO	_	_
+13	Anfang	Anfang	Anfang	NN	NN	_	dat|sg|masc	-1	12	_	NK	_	_
+14	an	an	an	APPR	APPR	_	_	-1	12	_	AC	_	_
+15	bescheidener	bescheiden	bescheiden	ADJD	ADJD	_	comp	-1	16	_	MO	_	_
+16	ausgelegt	auslegen	auslegen	VVPP	VVPP	_	_	-1	8	_	OC	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
+1	Nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	2	_	NG	_	_
+2	nur	nur	nur	ADV	ADV	_	_	-1	3	_	MO	_	_
+3	bei	bei	bei	APPR	APPR	_	_	-1	25	_	MO	_	_
+4	der	die	die	ART	ART	_	dat|sg|fem	-1	5	_	NK	_	_
+5	Förderung	Förderung	Förderung	NN	NN	_	dat|sg|fem	-1	3	_	NK	_	_
+6	(	(	(	$(	$(	_	_	-1	5	_	--	_	_
+7	19,5	@card@	@card@	CARD	CARD	_	_	-1	5	_	PAR	_	_
+8	statt	statt	statt	APPR	APPR	_	_	-1	7	_	MNR	_	_
+9	93	93	93	CARD	CARD	_	_	-1	10	_	NMC	_	_
+10	Millionen	Million	Million	NN	NN	_	acc|pl|fem	-1	8	_	NK	_	_
+11	Mark	Mark	Mark	NN	NN	_	*|*|fem	-1	10	_	NK	_	_
+12	bei	bei	bei	APPR	APPR	_	_	-1	7	_	MNR	_	_
+13	einer	eine	eine	ART	ART	_	dat|sg|fem	-1	14	_	NK	_	_
+14	Gesamtinvestition	Gesamtinvestition	Gesamtinvestition	NN	NN	_	dat|sg|fem	-1	12	_	NK	_	_
+15	von	von	von	APPR	APPR	_	_	-1	14	_	MNR	_	_
+16	29	@card@	@card@	CARD	CARD	_	_	-1	15	_	NK	_	_
+17	statt	statt	statt	APPR	APPR	_	_	-1	14	_	MNR	_	_
+18	104	@card@	@card@	CARD	CARD	_	_	-1	19	_	NMC	_	_
+19	Millionen	Million	Million	NN	NN	_	nom|pl|fem	-1	17	_	NK	_	_
+20	)	)	)	$(	$(	_	_	-1	19	_	--	_	_
+21	,	,	,	$,	$,	_	_	-1	20	_	--	_	_
+22	auch	auch	auch	ADV	ADV	_	_	-1	23	_	MO	_	_
+23	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	25	_	MO	_	_
+24	Konzept	Konzept	Konzept	NN	NN	_	dat|sg|masc	-1	23	_	NK	_	_
+25	geht	gehen	gehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+26	PanMedium	PanMedium	PanMedium	NN	NN	_	nom|sg|neut	-1	25	_	SB	_	_
+27	andere	andere	andere	PIAT	PIAT	_	acc|pl|masc	-1	28	_	NK	_	_
+28	Wege	Weg	Weg	NN	NN	_	acc|pl|masc	-1	25	_	OA	_	_
+29	.	.	.	$.	$.	_	_	-1	28	_	--	_	_
+
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	2	_	NK	_	_
+2	Computer	Computer	Computer	NN	NN	_	nom|sg|masc	-1	3	_	SB	_	_
+3	startet	starten	starten	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	in	in	in	APPR	APPR	_	_	-1	3	_	MO	_	_
+5	verhältnismäßig	verhältnismäßig	verhältnismäßig	ADJD	ADJD	_	pos	-1	6	_	MO	_	_
+6	kleinem	klein	klein	ADJA	ADJA	_	dat|sg|masc	-1	7	_	NK	_	_
+7	Umfang	Umfang	Umfang	NN	NN	_	dat|sg|masc	-1	4	_	NK	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	wächst	wachsen	wachsen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	3	_	CJ	_	_
+10	aber	aber	aber	ADV	ADV	_	_	-1	9	_	MO	_	_
+11	bei	bei	bei	APPR	APPR	_	_	-1	9	_	MO	_	_
+12	Kundennachfrage	Kundennachfrage	Kundennachfrage	NN	NN	_	dat|sg|fem	-1	11	_	NK	_	_
+13	mit	mit	mit	PTKVZ	PTKVZ	_	_	-1	9	_	SVP	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Das	die	die	PDS	PDS	_	nom|sg|neut	-1	2	_	SB	_	_
+2	klingt	klingen	klingen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	4	_	NG	_	_
+4	nur	nur	nur	ADV	ADV	_	_	-1	2	_	MO	_	_
+5	technisch	technisch	technisch	ADJD	ADJD	_	pos	-1	6	_	MO	_	_
+6	sinnvoll	sinnvoll	sinnvoll	ADJD	ADJD	_	pos	-1	2	_	MO	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	das	die	die	PDS	PDS	_	acc|sg|neut	-1	9	_	OA	_	_
+9	gibt	geben	geben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	2	_	CJ	_	_
+10	der	die	die	ART	ART	_	dat|sg|fem	-1	11	_	NK	_	_
+11	Wirtschaft	Wirtschaft	Wirtschaft	NN	NN	_	dat|sg|fem	-1	9	_	DA	_	_
+12	auch	auch	auch	ADV	ADV	_	_	-1	13	_	MO	_	_
+13	finanziell	finanziell	finanziell	ADJD	ADJD	_	pos	-1	9	_	MO	_	_
+14	halbwegs	halbwegs	halbwegs	ADV	ADV	_	_	-1	9	_	MO	_	_
+15	die	die	die	ART	ART	_	acc|sg|fem	-1	16	_	NK	_	_
+16	Garantie	Garantie	Garantie	NN	NN	_	acc|sg|fem	-1	9	_	OA	_	_
+17	,	,	,	$,	$,	_	_	-1	16	_	--	_	_
+18	kein	keine	keine	PIAT	PIAT	_	acc|sg|neut	-1	20	_	NK	_	_
+19	neues	neu	neu	ADJA	ADJA	_	acc|sg|neut|pos	-1	20	_	NK	_	_
+20	Dienstleister-Fiasko	Dienstleister-Fiasko	Dienstleister-Fiasko	NN	NN	_	acc|sg|neut	-1	25	_	OA	_	_
+21	wie	wie	wie	KOKOM	KOKOM	_	_	-1	22	_	CM	_	_
+22	bei	bei	bei	APPR	APPR	_	_	-1	25	_	MO	_	_
+23	FX	fx	fx	NE	NE	_	dat|sg|neut	-1	22	_	NK	_	_
+24	zu	zu	zu	PTKZU	PTKZU	_	_	-1	25	_	PM	_	_
+25	erleben	erleben	erleben	VVINF	VVINF	_	_	-1	16	_	OC	_	_
+26	.	.	.	$.	$.	_	_	-1	25	_	--	_	_
+

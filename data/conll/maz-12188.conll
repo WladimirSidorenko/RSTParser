@@ -1,0 +1,223 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::9
+1	Weitsicht	Weitsicht	Weitsicht	NN	NN	_	nom|sg|fem	-1	0	_	--	_	_
+
+	sentence_start	0	21	109	247	341	415	497	667	751	930	1092
+	token_offsets	sentence	0	offsets	0::3	4::4	9::8	18::1
+	token_offsets	sentence	1	offsets	21::3	25::4	30::12	43::13	57::5	63::8	72::1	74::3	78::4	83::2	86::7	94::3	98::7	106::1
+	token_offsets	sentence	2	offsets	109::4	114::3	118::4	123::4	128::3	132::7	140::3	144::2	147::9	157::2	160::10	171::8	180::4	185::3	189::1	191::6	198::4	203::3	207::4	212::4	217::6	224::4	229::6	236::4	241::3	245::1
+	token_offsets	sentence	3	offsets	247::3	251::3	255::3	259::3	263::8	272::14	287::8	296::4	301::1	303::3	307::11	319::8	328::2	331::6	338::1
+	token_offsets	sentence	4	offsets	341::4	346::3	350::17	368::5	374::2	377::5	383::5	389::1	391::3	395::4	400::6	407::4	412::1
+	token_offsets	sentence	5	offsets	415::13	429::1	431::3	435::4	440::6	447::6	454::7	462::1	464::4	469::3	473::5	479::5	485::8	494::1
+	token_offsets	sentence	6	offsets	497::3	501::9	511::1	513::3	517::3	521::10	532::5	538::3	542::16	559::12	572::4	577::1	579::4	584::10	595::5	601::4	606::3	610::9	620::3	624::4	629::16	646::8	655::8	664::1
+	token_offsets	sentence	7	offsets	667::3	671::5	677::4	682::3	686::3	690::6	697::3	701::5	707::18	726::7	734::13	748::1
+	token_offsets	sentence	8	offsets	751::5	757::3	761::12	774::3	778::1	780::5	786::3	790::7	798::3	802::6	809::8	818::1	820::7	828::3	832::6	839::4	844::1	846::10	857::3	861::18	880::1	882::2	885::10	896::10	907::9	917::2	920::6	927::1
+	token_offsets	sentence	9	offsets	930::2	933::2	936::7	944::6	951::3	955::6	962::4	967::3	971::23	995::11	1007::7	1015::4	1020::1	1022::5	1028::4	1033::3	1037::3	1041::11	1053::3	1057::10	1068::17	1086::2	1089::1
+	token_offsets	sentence	10	offsets	1092::3	1096::10	1107::1	1109::3	1113::4	1118::3	1122::3	1126::14	1141::3	1145::4	1150::5	1156::1	1158::5	1164::9	1174::2	1177::3	1181::4	1186::4	1191::5	1197::11	1209::8	1218::8	1227::1
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Idee	Idee	Idee	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+3	besticht	bestechen	bestechen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	.	.	.	$.	$.	_	_	-1	3	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|pl|masc	-1	3	_	NK	_	_
+2	drei	drei	drei	CARD	CARD	_	_	-1	3	_	NK	_	_
+3	Grundschulen	Grundschule	Grundschule	NN	NN	_	nom|pl|fem	-1	5	_	SB	_	_
+4	Hohenstückens	Hohenstückens	Hohenstückens	NN	NN	_	gen|sg|neut	-1	3	_	NK	_	_
+5	gehen	gehen	gehen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+6	zusammen	zusammen	zusammen	PTKVZ	PTKVZ	_	_	-1	5	_	SVP	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	und	und	und	KON	KON	_	_	-1	5	_	CD	_	_
+9	zwar	zwar	zwar	ADV	ADV	_	_	-1	11	_	MO	_	_
+10	so	so	so	ADV	ADV	_	_	-1	11	_	MO	_	_
+11	schnell	schnell	schnell	ADJD	ADJD	_	pos	-1	8	_	CJ	_	_
+12	wie	wie	wie	KOKOM	KOKOM	_	_	-1	13	_	CM	_	_
+13	möglich	möglich	möglich	ADJD	ADJD	_	pos	-1	10	_	CC	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Weil	weil	weil	KOUS	KOUS	_	_	-1	14	_	CP	_	_
+2	für	für	für	APPR	APPR	_	_	-1	14	_	MO	_	_
+3	dann	dann	dann	ADV	ADV	_	_	-1	5	_	MO	_	_
+4	rund	rund	rund	ADV	ADV	_	pos	-1	5	_	MO	_	_
+5	500	500	500	CARD	CARD	_	_	-1	6	_	NK	_	_
+6	Schüler	Schüler	Schüler	NN	NN	_	acc|pl|masc	-1	2	_	NK	_	_
+7	nur	nur	nur	ADV	ADV	_	_	-1	8	_	MO	_	_
+8	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	14	_	MO	_	_
+9	Schulhaus	Schulhaus	Schulhaus	NN	NN	_	dat|sg|neut	-1	8	_	NK	_	_
+10	am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	9	_	MNR	_	_
+11	Marktplatz	Marktplatz	Marktplatz	NN	NN	_	dat|sg|masc	-1	10	_	NK	_	_
+12	genügend	genügend	genügend	ADJD	ADJD	_	pos	-1	14	_	MO	_	_
+13	Raum	Raum	Raum	NN	NN	_	dat|sg|masc	-1	14	_	PD	_	_
+14	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	16	_	MO	_	_
+15	,	,	,	$,	$,	_	_	-1	14	_	--	_	_
+16	nistet	nisten	nisten	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+17	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	16	_	OA	_	_
+18	die	die	die	ART	ART	_	nom|sg|fem	-1	21	_	NK	_	_
+19	dann	dann	dann	ADV	ADV	_	_	-1	20	_	MO	_	_
+20	neue	neu	neu	ADJA	ADJA	_	nom|sg|fem|pos	-1	21	_	NK	_	_
+21	Schule	Schule	Schule	NN	NN	_	nom|sg|fem	-1	16	_	SB	_	_
+22	erst	erst	erst	ADV	ADV	_	_	-1	23	_	MO	_	_
+23	einmal	einmal	einmal	ADV	ADV	_	_	-1	16	_	MO	_	_
+24	dort	dort	dort	ADV	ADV	_	_	-1	16	_	MO	_	_
+25	ein	ein	ein	PTKVZ	PTKVZ	_	_	-1	16	_	SVP	_	_
+26	.	.	.	$.	$.	_	_	-1	25	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	3	_	JU	_	_
+2	nun	nun	nun	ADV	ADV	_	_	-1	14	_	MO	_	_
+3	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	die	die	die	ART	ART	_	nom|sg|fem	-1	6	_	NK	_	_
+5	künftige	künftig	künftig	ADJA	ADJA	_	nom|sg|fem|pos	-1	6	_	NK	_	_
+6	Schulkonferenz	Schulkonferenz	Schulkonferenz	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+7	genügend	genügend	genügend	ADJD	ADJD	_	pos	-1	3	_	MO	_	_
+8	Zeit	Zeit	Zeit	NN	NN	_	nom|sg|fem	-1	3	_	OA	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	den	die	die	ART	ART	_	acc|sg|masc	-1	12	_	NK	_	_
+11	endgültigen	endgültig	endgültig	ADJA	ADJA	_	acc|sg|masc|pos	-1	12	_	NK	_	_
+12	Standort	Standort	Standort	NN	NN	_	acc|sg|masc	-1	14	_	OA	_	_
+13	zu	zu	zu	PTKZU	PTKZU	_	_	-1	14	_	PM	_	_
+14	wählen	wählen	wählen	VVINF	VVINF	_	_	-1	8	_	OC	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+1	Dass	dass	dass	KOUS	KOUS	_	_	-1	7	_	CP	_	_
+2	die	die	die	ART	ART	_	nom|sg|fem	-1	3	_	NK	_	_
+3	Marktplatz-Schule	Marktplatz-Schule	Marktplatz-Schule	NN	NN	_	nom|sg|fem	-1	7	_	SB	_	_
+4	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	7	_	NG	_	_
+5	in	in	in	APPR	APPR	_	_	-1	7	_	CVC	_	_
+6	Frage	Frage	Frage	NN	NN	_	acc|sg|fem	-1	5	_	NK	_	_
+7	kommt	kommen	kommen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	9	_	SB	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+10	seit	seit	seit	APPR	APPR	_	_	-1	9	_	MO	_	_
+11	Jahren	Jahr	Jahr	NN	NN	_	dat|pl|neut	-1	10	_	NK	_	_
+12	klar	klar	klar	ADJD	ADJD	_	pos	-1	9	_	PD	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Doppelschulen	Doppelschulen	Doppelschulen	NN	NN	_	nom|pl|fem	-1	13	_	SB	_	_
+2	,	,	,	$,	$,	_	_	-1	1	_	--	_	_
+3	und	und	und	KON	KON	_	_	-1	1	_	CD	_	_
+4	dazu	dazu	dazu	PAV	PAV	_	_	-1	5	_	NK	_	_
+5	gehört	gehören	gehören	VVFIN	VVFIN	_	sg|3|pres|ind	-1	3	_	CJ	_	_
+6	dieses	dies	dies	PDAT	PDAT	_	nom|sg|neut	-1	7	_	NK	_	_
+7	Gebäude	Gebäude	Gebäude	NN	NN	_	nom|sg|neut	-1	5	_	SB	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	will	wollen	wollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+10	die	die	die	ART	ART	_	acc|sg|fem	-1	11	_	NK	_	_
+11	Stadt	Stadt	Stadt	NN	NN	_	acc|sg|fem	-1	13	_	OA	_	_
+12	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	9	_	NG	_	_
+13	sanieren	sanieren	sanieren	VVINF	VVINF	_	_	-1	9	_	OC	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	2	_	NK	_	_
+2	Vorschlag	Vorschlag	Vorschlag	NN	NN	_	nom|sg|masc	-1	13	_	SB	_	_
+3	,	,	,	$,	$,	_	_	-1	2	_	--	_	_
+4	den	die	die	PRELS	PRELS	_	acc|sg|masc	-1	10	_	OA	_	_
+5	die	die	die	ART	ART	_	nom|sg|fem	-1	6	_	NK	_	_
+6	Verwaltung	Verwaltung	Verwaltung	NN	NN	_	nom|sg|fem	-1	11	_	SB	_	_
+7	jetzt	jetzt	jetzt	ADV	ADV	_	_	-1	11	_	MO	_	_
+8	den	die	die	ART	ART	_	acc|sg|masc	-1	9	_	NK	_	_
+9	Stadtverordneten	Stadtverordnete	Stadtverordnete	NN	NN	_	acc|sg|masc	-1	10	_	OA	_	_
+10	unterbreiten	unterbreiten	unterbreiten	VVINF	VVINF	_	_	-1	11	_	OC	_	_
+11	will	wollen	wollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	2	_	RC	_	_
+12	,	,	,	$,	$,	_	_	-1	11	_	--	_	_
+13	wäre	sein	sein	VAFIN	VAFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+14	allerdings	allerdings	allerdings	ADV	ADV	_	_	-1	23	_	MO	_	_
+15	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	23	_	NG	_	_
+16	ohne	ohne	ohne	APPR	APPR	_	_	-1	23	_	MO	_	_
+17	die	die	die	ART	ART	_	acc|sg|fem	-1	18	_	NK	_	_
+18	Weitsicht	Weitsicht	Weitsicht	NN	NN	_	acc|sg|fem	-1	16	_	NK	_	_
+19	der	die	die	ART	ART	_	gen|pl|masc	-1	21	_	NK	_	_
+20	drei	drei	drei	CARD	CARD	_	_	-1	21	_	NK	_	_
+21	Schulkonferenzen	Schulkonferenz	Schulkonferenz	NN	NN	_	gen|pl|masc	-1	18	_	AG	_	_
+22	zustande	zustande	zustande	ADV	ADV	_	_	-1	23	_	MO	_	_
+23	gekommen	kommen	kommen	VVPP	VVPP	_	_	-1	13	_	OC	_	_
+24	.	.	.	$.	$.	_	_	-1	23	_	--	_	_
+
+1	Sie	Sie	Sie	PPER	PPER	_	nom|pl|*|3	-1	2	_	SB	_	_
+2	haben	haben	haben	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	11	_	OA	_	_
+4	für	für	für	APPR	APPR	_	_	-1	11	_	MO	_	_
+5	die	die	die	ART	ART	_	acc|sg|fem	-1	6	_	NK	_	_
+6	Fusion	Fusion	Fusion	NN	NN	_	acc|sg|fem	-1	4	_	NK	_	_
+7	und	und	und	KON	KON	_	_	-1	6	_	CD	_	_
+8	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	10	_	NK	_	_
+9	schnellstmöglichen	schnellstmöglich	schnellstmöglich	ADJA	ADJA	_	acc|sg|masc|pos	-1	10	_	NK	_	_
+10	Vollzug	Vollzug	Vollzug	NN	NN	_	acc|sg|masc	-1	7	_	CJ	_	_
+11	ausgesprochen	aussprechen	aussprechen	VVPP	VVPP	_	_	-1	2	_	OC	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Gehen	gehen	gehen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	11	_	MO	_	_
+2	die	die	die	ART	ART	_	nom|pl|*	-1	3	_	NK	_	_
+3	Abgeordneten	Abgeordnete	Abgeordnete	NN	NN	_	nom|pl|*	-1	1	_	SB	_	_
+4	mit	mit	mit	PTKVZ	PTKVZ	_	_	-1	1	_	SVP	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	haben	haben	haben	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+7	die	die	die	ART	ART	_	nom|pl|masc	-1	8	_	NK	_	_
+8	Schüler	Schüler	Schüler	NN	NN	_	nom|pl|masc	-1	6	_	SB	_	_
+9	und	und	und	KON	KON	_	_	-1	8	_	CD	_	_
+10	Lehrer	Lehrer	Lehrer	NN	NN	_	nom|pl|masc	-1	9	_	CJ	_	_
+11	gewonnen	gewinnen	gewinnen	VVPP	VVPP	_	_	-1	6	_	OC	_	_
+12	-	-	-	$(	$(	_	_	-1	11	_	--	_	_
+13	nämlich	nämlich	nämlich	ADV	ADV	_	_	-1	16	_	MO	_	_
+14	die	die	die	ART	ART	_	acc|sg|fem	-1	16	_	NK	_	_
+15	nötige	nötig	nötig	ADJA	ADJA	_	acc|sg|fem|pos	-1	16	_	NK	_	_
+16	Ruhe	Ruhe	Ruhe	NN	NN	_	acc|sg|fem	-1	3	_	APP	_	_
+17	,	,	,	$,	$,	_	_	-1	16	_	--	_	_
+18	Zuversicht	Zuversicht	Zuversicht	NN	NN	_	acc|sg|fem	-1	16	_	CJ	_	_
+19	und	und	und	KON	KON	_	_	-1	18	_	CD	_	_
+20	Planungssicherheit	Planungssicherheit	Planungssicherheit	NN	NN	_	acc|sg|fem	-1	19	_	CJ	_	_
+21	,	,	,	$,	$,	_	_	-1	20	_	--	_	_
+22	um	um	um	KOUI	KOUI	_	_	-1	27	_	CP	_	_
+23	Unterricht	Unterricht	Unterricht	NN	NN	_	acc|sg|neut	-1	25	_	OA	_	_
+24	vernünftig	vernünftig	vernünftig	ADJD	ADJD	_	pos	-1	25	_	MO	_	_
+25	gestalten	gestalten	gestalten	VVINF	VVINF	_	_	-1	27	_	OC	_	_
+26	zu	zu	zu	PTKZU	PTKZU	_	_	-1	27	_	PM	_	_
+27	können	können	können	VMINF	VMINF	_	_	-1	11	_	MO	_	_
+28	.	.	.	$.	$.	_	_	-1	27	_	--	_	_
+
+1	Ob	ob	ob	KOUS	KOUS	_	_	-1	12	_	CP	_	_
+2	in	in	in	APPR	APPR	_	_	-1	12	_	MO	_	_
+3	wenigen	wenige	wenige	PIAT	PIAT	_	dat|pl|neut	-1	4	_	NK	_	_
+4	Jahren	Jahr	Jahr	NN	NN	_	dat|pl|neut	-1	2	_	NK	_	_
+5	die	die	die	ART	ART	_	acc|sg|fem	-1	11	_	NK	_	_
+6	Grimm-	Grimm-	Grimm-	TRUNC	TRUNC	_	_	-1	7	_	CJ	_	_
+7	oder	oder	oder	KON	KON	_	_	-1	9	_	CD	_	_
+8	die	die	die	ART	ART	_	acc|sg|fem	-1	9	_	NK	_	_
+9	Vierjahreszeiten-Schule	Vierjahreszeiten-Schule	Vierjahreszeiten-Schule	NN	NN	_	acc|sg|fem	-1	10	_	AMS	_	_
+10	endgültiges	endgültig	endgültig	ADJA	ADJA	_	acc|sg|neut|pos	-1	11	_	NK	_	_
+11	Domizil	Domizil	Domizil	NN	NN	_	acc|sg|neut	-1	12	_	SB	_	_
+12	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	14	_	SB	_	_
+13	,	,	,	$,	$,	_	_	-1	12	_	--	_	_
+14	hängt	hängen	hängen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+15	auch	auch	auch	ADV	ADV	_	_	-1	16	_	MO	_	_
+16	von	von	von	APPR	APPR	_	_	-1	14	_	OP	_	_
+17	der	die	die	ART	ART	_	dat|sg|fem	-1	18	_	NK	_	_
+18	Entwicklung	Entwicklung	Entwicklung	NN	NN	_	dat|sg|fem	-1	16	_	NK	_	_
+19	der	die	die	ART	ART	_	gen|sg|fem	-1	21	_	NK	_	_
+20	jeweiligen	jeweilig	jeweilig	ADJA	ADJA	_	gen|sg|fem|pos	-1	21	_	NK	_	_
+21	Gebäude-Mitnutzer	Gebäude-Mitnutzer	Gebäude-Mitnutzer	NN	NN	_	gen|sg|fem	-1	18	_	AG	_	_
+22	ab	ab	ab	PTKVZ	PTKVZ	_	_	-1	14	_	SVP	_	_
+23	.	.	.	$.	$.	_	_	-1	22	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Realschule	Realschule	Realschule	NN	NN	_	nom|sg|fem	-1	13	_	SB	_	_
+3	,	,	,	$,	$,	_	_	-1	2	_	--	_	_
+4	die	die	die	PRELS	PRELS	_	nom|sg|fem	-1	11	_	SB	_	_
+5	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	11	_	OA	_	_
+6	mit	mit	mit	APPR	APPR	_	_	-1	11	_	MO	_	_
+7	den	die	die	ART	ART	_	dat|pl|masc	-1	8	_	NK	_	_
+8	Grimm-Schülern	Grimm-Schülern	Grimm-Schülern	NN	NN	_	dat|pl|masc	-1	6	_	NK	_	_
+9	das	die	die	ART	ART	_	acc|sg|neut	-1	10	_	NK	_	_
+10	Haus	Haus	Haus	NN	NN	_	acc|sg|neut	-1	11	_	OA	_	_
+11	teilt	teilen	teilen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	2	_	RC	_	_
+12	,	,	,	$,	$,	_	_	-1	11	_	--	_	_
+13	sieht	sehen	sehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+14	zumindest	zumindest	zumindest	ADV	ADV	_	_	-1	15	_	MO	_	_
+15	ab	ab	ab	APPR	APPR	_	_	-1	13	_	MO	_	_
+16	dem	die	die	ART	ART	_	dat|sg|masc	-1	17	_	NK	_	_
+17	Jahr	Jahr	Jahr	NN	NN	_	dat|sg|masc	-1	15	_	NK	_	_
+18	2004	@card@	@card@	CARD	CARD	_	_	-1	17	_	NK	_	_
+19	einer	eine	eine	ART	ART	_	dat|sg|fem	-1	21	_	NK	_	_
+20	gefährdeten	gefährdet	gefährdet	ADJA	ADJA	_	dat|sg|fem|pos	-1	21	_	NK	_	_
+21	Existenz	Existenz	Existenz	NN	NN	_	dat|sg|fem	-1	17	_	AG	_	_
+22	entgegen	entgegen	entgegen	PTKVZ	PTKVZ	_	_	-1	13	_	SVP	_	_
+23	.	.	.	$.	$.	_	_	-1	22	_	--	_	_
+

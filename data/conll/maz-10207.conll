@@ -1,0 +1,216 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::5	6::4	11::5
+1	Alles	alle	alle	PIS	PIS	_	nom|sg|neut	-1	0	_	--	_	_
+2	beim	bei	bei	APPRART	APPRART	_	dat|sg|masc	-1	1	_	MNR	_	_
+3	Alten	alt	alt	ADJA	ADJA	_	dat|sg|masc|pos	-1	2	_	NK	_	_
+
+	sentence_start	0	143	280	310	472	617	666	802	936	1061
+	token_offsets	sentence	0	offsets	0::3	4::3	8::2	11::6	18::1	19::0	21::3	25::5	31::3	35::10	46::1	48::2	51::6	58::4	63::2	66::3	70::17	88::3	92::6	99::9	109::3	113::9	123::5	129::4	134::5	140::1
+	token_offsets	sentence	1	offsets	143::3	147::11	159::4	164::5	170::2	173::6	180::8	189::2	192::5	198::6	205::9	215::6	222::1	224::11	236::2	239::5	245::4	250::9	260::4	265::3	269::3	273::3	277::1
+	token_offsets	sentence	2	offsets	280::3	284::6	291::3	295::2	298::8	307::1
+	token_offsets	sentence	3	offsets	310::9	320::2	323::9	333::5	339::3	343::11	355::5	361::7	369::9	379::9	389::1	391::3	395::6	402::10	413::6	420::10	431::4	436::5	442::9	452::16	469::1
+	token_offsets	sentence	4	offsets	472::4	477::3	481::14	496::7	504::5	510::3	514::7	522::1	524::10	535::8	544::9	554::5	560::11	572::6	579::3	583::7	591::3	595::5	601::12	614::1
+	token_offsets	sentence	5	offsets	617::3	621::5	627::3	631::2	634::9	644::7	652::2	655::7	663::1
+	token_offsets	sentence	6	offsets	666::10	677::6	684::4	689::3	693::4	698::3	702::5	708::14	723::6	730::6	737::5	743::13	757::7	765::5	771::8	780::7	788::10	799::1
+	token_offsets	sentence	7	offsets	802::3	806::4	811::8	820::1	822::4	827::3	831::6	838::4	843::11	855::7	863::1	865::4	870::3	874::5	880::7	888::1	890::6	897::2	900::1	902::4	907::5	913::13	927::5	933::1
+	token_offsets	sentence	8	offsets	936::10	947::3	951::4	956::5	962::4	967::4	972::7	980::5	986::2	989::3	993::9	1003::1	1005::3	1009::2	1012::4	1017::7	1025::8	1034::4	1039::4	1044::8	1053::4	1058::1
+	token_offsets	sentence	9	offsets	1061::6	1068::2	1071::6	1078::4	1083::4	1088::3	1092::3	1096::5	1102::5	1108::3	1112::10	1123::7	1131::4	1136::4	1141::1	1143::3	1147::6	1154::14	1169::5	1175::9	1185::1
+1	Nun	nun	nun	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	11	_	RE	_	_
+3	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	SB	_	_
+4	heraus	heraus	heraus	ADV	ADV	_	_	-1	2	_	MO	_	_
+5	:	:	:	$.	$.	_	_	-1	4	_	--	_	_
+6	Wie	wie	wie	KOKOM	KOKOM	_	_	-1	4	_	UC	_	_
+7	schon	schon	schon	ADV	ADV	_	_	-1	8	_	MO	_	_
+8	auf	auf	auf	APPR	APPR	_	_	-1	2	_	MO	_	_
+9	Kreisebene	Kreisebene	Kreisebene	NN	NN	_	dat|sg|fem	-1	8	_	NK	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	so	so	so	ADV	ADV	_	_	-1	12	_	MO	_	_
+12	bleibt	bleiben	bleiben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+13	auch	auch	auch	ADV	ADV	_	_	-1	14	_	MO	_	_
+14	an	an	an	APPR	APPR	_	_	-1	12	_	MO	_	_
+15	der	die	die	ART	ART	_	dat|sg|fem	-1	16	_	NK	_	_
+16	Verwaltungsspitze	Verwaltungsspitze	Verwaltungsspitze	NN	NN	_	dat|sg|fem	-1	14	_	NK	_	_
+17	der	die	die	ART	ART	_	gen|pl|fem	-1	18	_	NK	_	_
+18	Städte	Stadt	Stadt	NN	NN	_	gen|pl|fem	-1	16	_	AG	_	_
+19	Perleberg	Perleberg	Perleberg	NN	NN	_	nom|sg|neut	-1	18	_	NK	_	_
+20	und	und	und	KON	KON	_	_	-1	19	_	CD	_	_
+21	Pritzwalk	Pritzwalk	Pritzwalk	NN	NN	_	nom|sg|neut	-1	20	_	CJ	_	_
+22	alles	alle	alle	PIS	PIS	_	nom|sg|neut	-1	12	_	SB	_	_
+23	beim	bei	bei	APPRART	APPRART	_	dat|sg|masc	-1	12	_	MO	_	_
+24	Alten	Alte	Alte	NN	NN	_	dat|sg|masc	-1	23	_	NK	_	_
+25	.	.	.	$.	$.	_	_	-1	24	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|pl|masc	-1	2	_	NK	_	_
+2	Amtsinhaber	Amtsinhaber	Amtsinhaber	NN	NN	_	nom|pl|masc	-1	3	_	SB	_	_
+3	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+4	beide	beide	beide	PIS	PIS	_	nom|pl|masc	-1	3	_	SB	_	_
+5	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	11	_	MO	_	_
+6	ersten	erst	erst	ADJA	ADJA	_	dat|sg|masc|pos	-1	7	_	NK	_	_
+7	Wahlgang	Wahlgang	Wahlgang	NN	NN	_	dat|sg|masc	-1	5	_	NK	_	_
+8	in	in	in	APPR	APPR	_	_	-1	11	_	MO	_	_
+9	ihren	ihr	ihr	PPOSAT	PPOSAT	_	dat|pl|neut	-1	10	_	NK	_	_
+10	Ämtern	Amt	Amt	NN	NN	_	dat|pl|neut	-1	8	_	NK	_	_
+11	bestätigt	bestätigen	bestätigen	VVPP	VVPP	_	_	-1	12	_	OC	_	_
+12	worden	werden	werden	VAPP	VAPP	_	_	-1	3	_	OC	_	_
+13	-	-	-	$(	$(	_	_	-1	12	_	--	_	_
+14	Gratulation	Gratulation	Gratulation	NN	NN	_	acc|sg|fem	-1	11	_	OA	_	_
+15	an	an	an	APPR	APPR	_	_	-1	14	_	MNR	_	_
+16	beide	beide	beide	PIS	PIS	_	acc|pl|*	-1	15	_	NK	_	_
+17	dazu	dazu	dazu	PAV	PAV	_	_	-1	15	_	NK	_	_
+18	natürlich	natürlich	natürlich	ADV	ADV	_	_	-1	15	_	MO	_	_
+19	auch	auch	auch	ADV	ADV	_	_	-1	20	_	MO	_	_
+20	von	von	von	APPR	APPR	_	_	-1	14	_	CJ	_	_
+21	der	die	die	ART	ART	_	dat|sg|fem	-1	22	_	NK	_	_
+22	MAZ	MAZ	MAZ	NE	NE	_	dat|sg|fem	-1	20	_	NK	_	_
+23	.	.	.	$.	$.	_	_	-1	22	_	--	_	_
+
+1	Das	die	die	PDS	PDS	_	acc|sg|neut	-1	5	_	OA	_	_
+2	konnte	können	können	VMFIN	VMFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+3	man	man	man	PIS	PIS	_	nom|sg|*	-1	2	_	SB	_	_
+4	so	so	so	ADV	ADV	_	_	-1	5	_	MO	_	_
+5	erwarten	erwarten	erwarten	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+6	.	.	.	$.	$.	_	_	-1	5	_	--	_	_
+
+1	Lediglich	lediglich	lediglich	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	in	in	in	APPR	APPR	_	_	-1	10	_	MO	_	_
+3	Pritzwalk	Pritzwalk	Pritzwalk	NN	NN	_	dat|sg|neut	-1	2	_	NK	_	_
+4	hatte	haben	haben	VAFIN	VAFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+5	die	die	die	ART	ART	_	nom|sg|fem	-1	6	_	NK	_	_
+6	Möglichkeit	Möglichkeit	Möglichkeit	NN	NN	_	nom|sg|fem	-1	4	_	SB	_	_
+7	eines	eine	eine	ART	ART	_	gen|sg|masc	-1	9	_	NK	_	_
+8	zweiten	zweit	zweit	ADJA	ADJA	_	gen|sg|masc|pos	-1	9	_	NK	_	_
+9	Wahlgangs	Wahlgang	Wahlgang	NN	NN	_	gen|sg|masc	-1	6	_	AG	_	_
+10	bestanden	bestehen	bestehen	VVPP	VVPP	_	_	-1	4	_	OC	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	sie	sie	sie	PPER	PPER	_	nom|pl|*|3	-1	13	_	SB	_	_
+13	schien	scheinen	scheinen	VVFIN	VVFIN	_	sg|3|past|ind	-1	4	_	CJ	_	_
+14	angesichts	angesichts	angesichts	APPR	APPR	_	_	-1	13	_	MO	_	_
+15	dreier	dreier	dreier	ADJA	ADJA	_	gen|pl|fem|pos	-1	16	_	NK	_	_
+16	Kandidaten	Kandidat	Kandidat	NN	NN	_	gen|pl|fem	-1	14	_	NK	_	_
+17	auch	auch	auch	ADV	ADV	_	_	-1	19	_	MO	_	_
+18	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	19	_	NG	_	_
+19	unbedingt	unbedingt	unbedingt	ADJD	ADJD	_	pos	-1	20	_	MO	_	_
+20	unwahrscheinlich	unwahrscheinlich	unwahrscheinlich	ADJD	ADJD	_	pos	-1	13	_	MO	_	_
+21	.	.	.	$.	$.	_	_	-1	20	_	--	_	_
+
+1	Doch	doch	doch	KON	KON	_	_	-1	4	_	JU	_	_
+2	die	die	die	ART	ART	_	nom|pl|masc	-1	3	_	NK	_	_
+3	Dömnitzstädter	Dömnitzstädter	Dömnitzstädter	NN	NN	_	nom|pl|masc	-1	4	_	SB	_	_
+4	setzten	setzen	setzen	VVFIN	VVFIN	_	pl|3|past|ind	-1	9	_	OC	_	_
+5	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	7	_	NG	_	_
+6	auf	auf	auf	APPR	APPR	_	_	-1	4	_	MO	_	_
+7	Wechsel	Wechsel	Wechsel	NN	NN	_	acc|sg|masc	-1	6	_	NK	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	bescherten	bescheren	bescheren	VVFIN	VVFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+10	Wolfgang	Wolfgang	Wolfgang	NE	NE	_	nom|sg|masc	-1	11	_	PNC	_	_
+11	Brockmann	Brockmann	Brockmann	NE	NE	_	nom|sg|masc	-1	9	_	SB	_	_
+12	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	14	_	NK	_	_
+13	großartigen	großartig	großartig	ADJA	ADJA	_	acc|sg|masc|pos	-1	14	_	NK	_	_
+14	Erfolg	Erfolg	Erfolg	NN	NN	_	acc|sg|masc	-1	9	_	OA	_	_
+15	und	und	und	KON	KON	_	_	-1	9	_	CD	_	_
+16	sorgten	sorgen	sorgen	VVFIN	VVFIN	_	pl|3|past|ind	-1	15	_	CJ	_	_
+17	für	für	für	APPR	APPR	_	_	-1	16	_	OP	_	_
+18	klare	klar	klar	ADJA	ADJA	_	acc|pl|masc|pos	-1	19	_	NK	_	_
+19	Verhältnisse	Verhältnis	Verhältnis	NN	NN	_	acc|pl|masc	-1	17	_	NK	_	_
+20	.	.	.	$.	$.	_	_	-1	19	_	--	_	_
+
+1	Mit	mit	mit	APPR	APPR	_	_	-1	8	_	MO	_	_
+2	denen	die	die	PDS	PDS	_	dat|pl|*	-1	1	_	NK	_	_
+3	war	sein	sein	VAFIN	VAFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+4	in	in	in	APPR	APPR	_	_	-1	8	_	MO	_	_
+5	Perleberg	Perleberg	Perleberg	NE	NE	_	dat|sg|neut	-1	4	_	NK	_	_
+6	sowieso	sowieso	sowieso	ADV	ADV	_	_	-1	8	_	MO	_	_
+7	zu	zu	zu	PTKZU	PTKZU	_	_	-1	8	_	PM	_	_
+8	rechnen	rechnen	rechnen	VVINF	VVINF	_	_	-1	3	_	OC	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+1	Angesichts	angesichts	angesichts	APPR	APPR	_	_	-1	17	_	MO	_	_
+2	dessen	die	die	PDAT	PDAT	_	gen|sg|masc	-1	1	_	NK	_	_
+3	aber	aber	aber	ADV	ADV	_	_	-1	1	_	MO	_	_
+4	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	17	_	OA	_	_
+6	der	die	die	ART	ART	_	nom|sg|masc	-1	8	_	NK	_	_
+7	junge	jung	jung	ADJA	ADJA	_	nom|sg|masc|pos	-1	8	_	NK	_	_
+8	Herausforderer	Herausforderer	Herausforderer	NN	NN	_	nom|sg|masc	-1	4	_	SB	_	_
+9	Thomas	Thomas	Thomas	NE	NE	_	nom|sg|masc	-1	10	_	PNC	_	_
+10	Domres	Domres	Domres	NE	NE	_	nom|sg|masc	-1	8	_	NK	_	_
+11	gegen	gegen	gegen	APPR	APPR	_	_	-1	8	_	MNR	_	_
+12	Bürgermeister	Bürgermeister	Bürgermeister	NN	NN	_	nom|sg|masc	-1	11	_	NK	_	_
+13	Dietmar	Dietmar	Dietmar	NE	NE	_	nom|sg|masc	-1	14	_	PNC	_	_
+14	Zigan	Zigan	Zigan	NE	NE	_	nom|sg|masc	-1	12	_	NK	_	_
+15	durchaus	durchaus	durchaus	ADV	ADV	_	_	-1	17	_	MO	_	_
+16	achtbar	achtbar	achtbar	ADJD	ADJD	_	pos	-1	17	_	MO	_	_
+17	geschlagen	schlagen	schlagen	VVPP	VVPP	_	_	-1	4	_	OC	_	_
+18	.	.	.	$.	$.	_	_	-1	17	_	--	_	_
+
+1	Das	die	die	PDS	PDS	_	nom|sg|neut	-1	2	_	SB	_	_
+2	kann	können	können	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	bedeuten	bedeuten	bedeuten	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	dass	dass	dass	KOUS	KOUS	_	_	-1	23	_	CP	_	_
+6	die	die	die	ART	ART	_	nom|pl|masc	-1	7	_	NK	_	_
+7	Bürger	Bürger	Bürger	NN	NN	_	nom|pl|masc	-1	23	_	SB	_	_
+8	zwar	zwar	zwar	ADV	ADV	_	_	-1	9	_	MO	_	_
+9	Kontinuität	Kontinuität	Kontinuität	NN	NN	_	acc|sg|fem	-1	10	_	OA	_	_
+10	wollten	wollen	wollen	VMFIN	VMFIN	_	pl|3|past|ind	-1	7	_	RC	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	aber	aber	aber	ADV	ADV	_	_	-1	22	_	MO	_	_
+13	mit	mit	mit	APPR	APPR	_	_	-1	22	_	MO	_	_
+14	einem	eine	eine	ART	ART	_	dat|sg|masc	-1	17	_	NK	_	_
+15	simplen	simpel	simpel	ADJA	ADJA	_	dat|sg|masc|pos	-1	17	_	NK	_	_
+16	"	"	"	$(	$(	_	_	-1	15	_	--	_	_
+17	Weiter	Weite|Weiter	Weite|Weiter	NN	NN	_	dat|sg|masc	-1	13	_	NK	_	_
+18	so	so	so	ADV	ADV	_	_	-1	22	_	MO	_	_
+19	"	"	"	$(	$(	_	_	-1	18	_	--	_	_
+20	eben	eben	eben	ADV	ADV	_	_	-1	22	_	MO	_	_
+21	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	22	_	NG	_	_
+22	einverstanden	einverstehen	einverstehen	VVPP	VVPP	_	_	-1	23	_	OC	_	_
+23	wären	sein	sein	VAFIN	VAFIN	_	pl|3|past|subj	-1	2	_	MO	_	_
+24	.	.	.	$.	$.	_	_	-1	23	_	--	_	_
+
+1	Gleichwohl	gleichwohl	gleichwohl	ADV	ADV	_	_	-1	11	_	MO	_	_
+2	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	auch	auch	auch	ADV	ADV	_	_	-1	4	_	MO	_	_
+4	Zigan	Zigan	Zigan	NN	NN	_	nom|sg|fem	-1	2	_	SB	_	_
+5	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	11	_	DA	_	_
+6	acht	acht	acht	ADJD	ADJD	_	_	-1	8	_	NK	_	_
+7	weitere	weit	weit	ADJA	ADJA	_	acc|pl|neut|comp	-1	8	_	NK	_	_
+8	Jahre	Jahr	Jahr	NN	NN	_	acc|pl|neut	-1	11	_	MO	_	_
+9	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	11	_	MO	_	_
+10	Amt	Amt	Amt	NN	NN	_	dat|sg|neut	-1	9	_	NK	_	_
+11	gesichert	sichern	sichern	VVPP	VVPP	_	_	-1	2	_	OC	_	_
+12	,	,	,	$,	$,	_	_	-1	11	_	--	_	_
+13	die	die	die	PRELS	PRELS	_	acc|sg|fem	-1	20	_	OA	_	_
+14	er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	21	_	SB	_	_
+15	nach	nach	nach	APPR	APPR	_	_	-1	21	_	MO	_	_
+16	eigenem	eigen	eigen	ADJA	ADJA	_	dat|sg|masc|pos	-1	17	_	NK	_	_
+17	Bekunden	Bekunden	Bekunden	NN	NN	_	dat|sg|masc	-1	15	_	NK	_	_
+18	auch	auch	auch	ADV	ADV	_	_	-1	21	_	MO	_	_
+19	voll	voll	voll	ADJD	ADJD	_	pos	-1	20	_	MO	_	_
+20	erfüllen	erfüllen	erfüllen	VVINF	VVINF	_	_	-1	21	_	OC	_	_
+21	will	wollen	wollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	8	_	RC	_	_
+22	.	.	.	$.	$.	_	_	-1	21	_	--	_	_
+
+1	Bleibt	bleiben	bleiben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	3	_	MO	_	_
+2	zu	zu	zu	ADV	ADV	_	_	-1	1	_	MO	_	_
+3	hoffen	hoffen	hoffen	VVFIN	VVFIN	_	_	-1	0	_	--	_	_
+4	dass	dass	dass	KOUS	KOUS	_	_	-1	20	_	CP	_	_
+5	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	20	_	OA	_	_
+6	mit	mit	mit	APPR	APPR	_	_	-1	20	_	MO	_	_
+7	den	die	die	ART	ART	_	dat|pl|neut	-1	9	_	NK	_	_
+8	alten	alt	alt	ADJA	ADJA	_	dat|pl|neut|pos	-1	9	_	NK	_	_
+9	Namen	Name	Name	NN	NN	_	dat|pl|neut	-1	6	_	NK	_	_
+10	der	die	die	ART	ART	_	gen|pl|masc	-1	11	_	NK	_	_
+11	Amtsträger	Amtsträger	Amtsträger	NN	NN	_	gen|pl|masc	-1	9	_	AG	_	_
+12	künftig	künftig	künftig	ADJD	ADJD	_	pos	-1	1	_	MO	_	_
+13	auch	auch	auch	ADV	ADV	_	_	-1	19	_	MO	_	_
+14	neue	neu	neu	ADJA	ADJA	_	nom|pl|masc|pos	-1	19	_	NK	_	_
+15	,	,	,	$,	$,	_	_	-1	14	_	--	_	_
+16	die	die	die	ART	ART	_	acc|sg|fem	-1	17	_	NK	_	_
+17	Region	Region	Region	NN	NN	_	acc|sg|fem	-1	18	_	OA	_	_
+18	weiterführende	weiterführend	weiterführend	ADJA	ADJA	_	acc|pl|fem|pos	-1	14	_	CJ	_	_
+19	Ideen	Idee	Idee	NN	NN	_	acc|pl|fem	-1	20	_	OA	_	_
+20	verbinden	verbinden	verbinden	VVINF	VVINF	_	_	-1	3	_	OC	_	_
+21	.	.	.	$.	$.	_	_	-1	20	_	--	_	_
+

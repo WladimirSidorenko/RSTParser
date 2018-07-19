@@ -1,0 +1,218 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::6	7::3	11::7
+1	Anders	Anders	Anders	NE	NE	_	_	-1	0	_	--	_	_
+2	als	als	als	KOKOM	KOKOM	_	_	-1	3	_	CM	_	_
+3	gedacht	denken|gedenken	denken|gedenken	VVPP	VVPP	_	_	-1	1	_	OC	_	_
+
+	sentence_start	0	96	318	453	527	575	609	697	715	862	1091
+	token_offsets	sentence	0	offsets	0::2	3::5	9::3	13::9	23::3	27::10	38::1	40::7	48::3	52::6	59::2	62::7	70::3	74::4	79::5	85::2	88::4	93::1
+	token_offsets	sentence	1	offsets	96::4	101::4	106::4	111::5	117::11	129::3	133::8	142::4	147::2	150::10	161::3	165::12	178::3	182::3	186::6	193::3	197::12	210::7	218::1	220::5	226::4	231::1	233::7	241::11	253::5	259::5	265::11	277::10	288::10	299::10	310::4	315::1
+	token_offsets	sentence	2	offsets	318::3	322::8	331::7	339::4	344::8	353::11	365::11	377::1	379::4	384::3	388::6	395::2	398::7	406::2	409::3	413::11	425::3	429::12	442::7	450::1
+	token_offsets	sentence	3	offsets	453::3	457::3	461::4	466::16	483::7	491::4	496::1	498::7	506::4	511::3	515::8	524::1
+	token_offsets	sentence	4	offsets	527::2	530::3	534::6	541::3	545::1	547::3	551::2	554::4	559::7	567::3	571::3
+	token_offsets	sentence	5	offsets	575::1	577::3	581::15	597::8	606::1
+	token_offsets	sentence	6	offsets	609::6	616::5	622::8	631::3	635::5	641::3	645::8	654::6	661::1	663::7	671::3	675::3	679::6	686::2	689::4	694::1
+	token_offsets	sentence	7	offsets	697::3	701::3	705::3	709::2	712::1
+	token_offsets	sentence	8	offsets	715::6	722::2	725::6	732::1	734::4	739::4	744::5	750::3	754::3	758::12	771::12	784::9	794::5	800::8	809::3	813::8	822::7	830::3	834::12	847::11	859::1
+	token_offsets	sentence	9	offsets	862::14	877::7	885::10	896::3	900::8	909::3	913::6	920::2	923::10	934::8	943::2	946::9	956::10	967::7	975::4	980::2	983::8	992::3	996::7	1004::4	1009::13	1023::2	1026::3	1030::3	1034::13	1048::10	1059::2	1062::3	1066::7	1074::13	1088::1
+	token_offsets	sentence	10	offsets	1091::4	1096::3	1100::10	1111::7	1119::5	1125::2	1128::11	1140::7	1148::5	1154::4	1159::11	1171::5	1177::6	1184::1	1186::3	1190::3	1194::14	1209::1
+1	So	so	so	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	träge	träge	träge	ADJD	ADJD	_	pos	-1	17	_	PD	_	_
+3	wie	wie	wie	KOKOM	KOKOM	_	_	-1	6	_	CM	_	_
+4	allgemein	allgemein	allgemein	ADJD	ADJD	_	pos	-1	6	_	MO	_	_
+5	oft	oft	oft	ADV	ADV	_	_	-1	6	_	MO	_	_
+6	angenommen	annehmen	annehmen	VVPP	VVPP	_	_	-1	1	_	CC	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	scheint	scheinen	scheinen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+9	die	die	die	ART	ART	_	acc|sg|fem	-1	10	_	NK	_	_
+10	Jugend	Jugend	Jugend	NN	NN	_	acc|sg|fem	-1	8	_	SB	_	_
+11	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	10	_	MNR	_	_
+12	Fläming	Fläming	Fläming	NN	NN	_	dat|sg|masc	-1	11	_	NK	_	_
+13	nun	nun	nun	ADV	ADV	_	_	-1	8	_	MO	_	_
+14	doch	doch	doch	ADV	ADV	_	_	-1	8	_	MO	_	_
+15	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	17	_	NG	_	_
+16	zu	zu	zu	PTKZU	PTKZU	_	_	-1	17	_	PM	_	_
+17	sein	sein	sein	VAINF	VAINF	_	_	-1	8	_	OC	_	_
+18	.	.	.	$.	$.	_	_	-1	17	_	--	_	_
+
+1	Denn	denn	denn	KON	KON	_	_	-1	18	_	JU	_	_
+2	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	5	_	CP	_	_
+3	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	5	_	OA	_	_
+4	jetzt	jetzt	jetzt	ADV	ADV	_	_	-1	5	_	MO	_	_
+5	unterstützt	unterstützen	unterstützen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	18	_	MO	_	_
+6	von	von	von	APPR	APPR	_	_	-1	18	_	SBP	_	_
+7	Schülern	Schüler	Schüler	NN	NN	_	dat|pl|masc	-1	6	_	NK	_	_
+8	auch	auch	auch	ADV	ADV	_	_	-1	9	_	MO	_	_
+9	in	in	in	APPR	APPR	_	_	-1	18	_	MO	_	_
+10	Wiesenburg	Wiesenburg	Wiesenburg	NN	NN	_	dat|sg|neut	-1	9	_	NK	_	_
+11	ein	eine	eine	ART	ART	_	acc|sg|neut	-1	12	_	NK	_	_
+12	Förderverein	Förderverein	Förderverein	NN	NN	_	acc|sg|neut	-1	18	_	OA	_	_
+13	für	für	für	APPR	APPR	_	_	-1	12	_	MNR	_	_
+14	die	die	die	ART	ART	_	acc|pl|*	-1	17	_	NK	_	_
+15	Grund-	Grund-	Grund-	TRUNC	TRUNC	_	_	-1	16	_	CJ	_	_
+16	und	und	und	KON	KON	_	_	-1	17	_	CD	_	_
+17	Gesamtschule	Gesamtschule	Gesamtschule	NN	NN	_	acc|pl|*	-1	13	_	NK	_	_
+18	gründet	gründen	gründen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	20	_	SB	_	_
+19	,	,	,	$,	$,	_	_	-1	18	_	--	_	_
+20	zeigt	zeigen	zeigen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+21	dies	dies	dies	PDS	PDS	_	nom|sg|neut	-1	20	_	SB	_	_
+22	,	,	,	$,	$,	_	_	-1	21	_	--	_	_
+23	welchen	welche	welche	PWAT	PWAT	_	acc|sg|masc	-1	24	_	NK	_	_
+24	Stellenwert	Stellenwert	Stellenwert	NN	NN	_	acc|sg|masc	-1	31	_	SB	_	_
+25	einer	eine	eine	ART	ART	_	gen|sg|fem	-1	28	_	NK	_	_
+26	guten	gut	gut	ADJA	ADJA	_	gen|sg|fem|pos	-1	28	_	NK	_	_
+27	schulischen	schulisch	schulisch	ADJA	ADJA	_	gen|sg|fem|pos	-1	28	_	NK	_	_
+28	Ausbildung	Ausbildung	Ausbildung	NN	NN	_	gen|sg|fem	-1	24	_	AG	_	_
+29	inzwischen	inzwischen	inzwischen	ADV	ADV	_	_	-1	30	_	MO	_	_
+30	eingeräumt	einräumen	einräumen	VVPP	VVPP	_	_	-1	31	_	OC	_	_
+31	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	20	_	OC	_	_
+32	.	.	.	$.	$.	_	_	-1	31	_	--	_	_
+
+1	Wie	wie	wie	KOKOM	KOKOM	_	_	-1	7	_	MO	_	_
+2	anderswo	anderswo	anderswo	ADV	ADV	_	_	-1	7	_	MO	_	_
+3	bereits	bereits	bereits	ADV	ADV	_	_	-1	7	_	MO	_	_
+4	seit	seit	seit	APPR	APPR	_	_	-1	7	_	MO	_	_
+5	längerem	lang	lang	ADJA	ADJA	_	dat|sg|neut|comp	-1	4	_	NK	_	_
+6	erfolgreich	erfolgreich	erfolgreich	ADJD	ADJD	_	pos	-1	7	_	MO	_	_
+7	praktiziert	praktizieren	praktizieren	VVPP	VVPP	_	_	-1	19	_	MO	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+10	die	die	die	ART	ART	_	nom|sg|fem	-1	11	_	NK	_	_
+11	Schule	Schule	Schule	NN	NN	_	nom|sg|fem	-1	9	_	SB	_	_
+12	so	so	so	ADV	ADV	_	_	-1	13	_	MO	_	_
+13	stärker	stark	stark	ADJD	ADJD	_	comp	-1	19	_	MO	_	_
+14	in	in	in	APPR	APPR	_	_	-1	19	_	MO	_	_
+15	den	die	die	ART	ART	_	acc|sg|masc	-1	16	_	NK	_	_
+16	Mittelpunkt	Mittelpunkt	Mittelpunkt	NN	NN	_	acc|sg|masc	-1	14	_	NK	_	_
+17	der	die	die	ART	ART	_	gen|sg|fem	-1	18	_	NK	_	_
+18	Gesellschaft	Gesellschaft	Gesellschaft	NN	NN	_	gen|sg|fem	-1	16	_	AG	_	_
+19	gerückt	rücken	rücken	VVPP	VVPP	_	_	-1	9	_	OC	_	_
+20	.	.	.	$.	$.	_	_	-1	19	_	--	_	_
+
+1	Sie	Sie	Sie	PPER	PPER	_	nom|sg|fem|3	-1	2	_	SB	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	kein	keine	keine	PIAT	PIAT	_	acc|sg|neut	-1	5	_	NK	_	_
+4	abgeschottetetes	abgeschottetetes	abgeschottetetes	ADJA	ADJA	_	acc|sg|neut|pos	-1	5	_	NK	_	_
+5	Gebilde	Gebilde	Gebilde	NN	NN	_	acc|sg|neut	-1	2	_	PD	_	_
+6	mehr	mehr	mehr	ADV	ADV	_	_	-1	5	_	MO	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	sondern	sondern	sondern	KON	KON	_	_	-1	5	_	CD	_	_
+9	Teil	Teil	Teil	NN	NN	_	nom|sg|masc	-1	8	_	CJ	_	_
+10	der	die	die	ART	ART	_	gen|pl|fem	-1	11	_	NK	_	_
+11	Kommunen	Kommune	Kommune	NN	NN	_	gen|pl|fem	-1	9	_	AG	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	An	an	an	APPR	APPR	_	_	-1	9	_	MO	_	_
+2	die	die	die	ART	ART	_	acc|sg|fem	-1	3	_	NK	_	_
+3	Stelle	Stelle	Stelle	NN	NN	_	acc|sg|fem	-1	1	_	NK	_	_
+4	von	von	von	APPR	APPR	_	_	-1	3	_	PG	_	_
+5	"	"	"	$(	$(	_	_	-1	4	_	--	_	_
+6	die	die	die	ART	ART	_	acc|sg|fem	-1	8	_	NK	_	_
+7	da	da	da	ADV	ADV	_	_	-1	8	_	MO	_	_
+8	oben	oben	oben	ADV	ADV	_	_	-1	4	_	NK	_	_
+9	müssten	müssen	müssen	VMFIN	VMFIN	_	acc|sg|masc|sup	-1	0	_	--	_	_
+10	mal	mal	mal	ADV	ADV	_	_	-1	9	_	MO	_	_
+11	...	...	...	$.	$.	_	_	-1	10	_	--	_	_
+
+1	"	"	"	$(	$(	_	_	-1	2	_	--	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	Eigeninitiative	Eigeninitiative	Eigeninitiative	NN	NN	_	nom|sg|fem	-1	2	_	SB	_	_
+4	getreten	treten	treten	VVPP	VVPP	_	_	-1	2	_	PD	_	_
+5	.	.	.	$.	$.	_	_	-1	4	_	--	_	_
+
+1	Selbst	selbst	selbst	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	etwas	etwas	etwas	PIS	PIS	_	*|*|neut	-1	3	_	OA	_	_
+3	anpacken	anpacken	anpacken	VVINF	VVINF	_	_	-1	15	_	OC	_	_
+4	und	und	und	KON	KON	_	_	-1	3	_	CD	_	_
+5	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	8	_	NG	_	_
+6	auf	auf	auf	APPR	APPR	_	_	-1	8	_	OP	_	_
+7	Allmosen	Allmosen	Allmosen	NN	NN	_	acc|pl|fem	-1	6	_	NK	_	_
+8	warten	warten	warten	VVINF	VVINF	_	_	-1	4	_	CJ	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	scheint	scheinen	scheinen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+11	nun	nun	nun	ADV	ADV	_	_	-1	10	_	MO	_	_
+12	die	die	die	ART	ART	_	nom|sg|fem	-1	13	_	NK	_	_
+13	Devise	Devise	Devise	NN	NN	_	nom|sg|fem	-1	10	_	SB	_	_
+14	zu	zu	zu	PTKZU	PTKZU	_	_	-1	15	_	PM	_	_
+15	sein	sein	sein	VAINF	VAINF	_	_	-1	10	_	OC	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+1	Das	die	die	PDS	PDS	_	nom|sg|neut	-1	2	_	SB	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	gut	gut	gut	ADJD	ADJD	_	pos	-1	2	_	PD	_	_
+4	so	so	so	ADV	ADV	_	_	-1	2	_	MO	_	_
+5	.	.	.	$.	$.	_	_	-1	4	_	--	_	_
+
+1	Bleibt	bleiben	bleiben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+2	zu	zu	zu	PTKZU	PTKZU	_	_	-1	3	_	PM	_	_
+3	hoffen	hoffen	hoffen	VVINF	VVINF	_	_	-1	1	_	OC	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	dass	dass	dass	KOUS	KOUS	_	_	-1	20	_	CP	_	_
+6	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	20	_	OA	_	_
+7	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	8	_	NG	_	_
+8	nur	nur	nur	ADV	ADV	_	_	-1	11	_	MO	_	_
+9	dem	die	die	ART	ART	_	dat|sg|masc	-1	11	_	NK	_	_
+10	Wiesenburger	Wiesenburger	Wiesenburger	NE	NE	_	dat|sg|masc	-1	11	_	PNC	_	_
+11	Förderverein	Förderverein	Förderverein	NN	NN	_	nom|sg|masc	-1	20	_	SB	_	_
+12	möglichst	möglichst	möglichst	ADV	ADV	_	_	-1	13	_	MO	_	_
+13	viele	viele	viele	PIAT	PIAT	_	acc|pl|masc	-1	14	_	NK	_	_
+14	Menschen	Mensch	Mensch	NN	NN	_	acc|pl|masc	-1	20	_	OA	_	_
+15	aus	aus	aus	APPR	APPR	_	_	-1	20	_	MO	_	_
+16	diversen	divers	divers	ADJA	ADJA	_	dat|pl|masc|pos	-1	17	_	NK	_	_
+17	Gruppen	Gruppe	Gruppe	NN	NN	_	dat|pl|masc	-1	15	_	NK	_	_
+18	der	die	die	ART	ART	_	gen|sg|fem	-1	19	_	NK	_	_
+19	Gesellschaft	Gesellschaft	Gesellschaft	NN	NN	_	gen|sg|fem	-1	17	_	AG	_	_
+20	anschließen	anschließen	anschließen	VVINF	VVINF	_	_	-1	3	_	MO	_	_
+21	.	.	.	$.	$.	_	_	-1	20	_	--	_	_
+
+1	Beispielsweise	beispielsweise	beispielsweise	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	könnten	können	können	VMFIN	VMFIN	_	pl|3|past|subj	-1	0	_	--	_	_
+3	Handwerker	Handwerker	Handwerker	NN	NN	_	nom|pl|masc	-1	2	_	SB	_	_
+4	und	und	und	KON	KON	_	_	-1	3	_	CD	_	_
+5	Betriebe	Betrieb	Betrieb	NN	NN	_	nom|pl|masc	-1	4	_	CJ	_	_
+6	der	die	die	ART	ART	_	gen|sg|fem	-1	7	_	NK	_	_
+7	Region	Region	Region	NN	NN	_	gen|sg|fem	-1	3	_	AG	_	_
+8	so	so	so	ADV	ADV	_	_	-1	9	_	MO	_	_
+9	frühzeitig	frühzeitig	frühzeitig	ADJD	ADJD	_	pos	-1	14	_	MO	_	_
+10	Kontakte	Kontakt	Kontakt	NN	NN	_	acc|pl|masc	-1	14	_	OA	_	_
+11	zu	zu	zu	APPR	APPR	_	_	-1	10	_	MNR	_	_
+12	künftigen	künftig	künftig	ADJA	ADJA	_	dat|pl|fem|pos	-1	13	_	NK	_	_
+13	Lehrlingen	Lehrling	Lehrling	NN	NN	_	dat|pl|fem	-1	11	_	NK	_	_
+14	knüpfen	knüpfen	knüpfen	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+15	oder	oder	oder	KON	KON	_	_	-1	14	_	CD	_	_
+16	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	30	_	MO	_	_
+17	Gespräch	Gespräch	Gespräch	NN	NN	_	dat|sg|neut	-1	16	_	NK	_	_
+18	mit	mit	mit	APPR	APPR	_	_	-1	17	_	OP	_	_
+19	Lehrern	Lehrer	Lehrer	NN	NN	_	dat|pl|masc	-1	18	_	NK	_	_
+20	ihre	ihr	ihr	PPOSAT	PPOSAT	_	acc|pl|fem	-1	21	_	NK	_	_
+21	Anforderungen	Anforderung	Anforderung	NN	NN	_	acc|pl|fem	-1	30	_	OA	_	_
+22	an	an	an	APPR	APPR	_	_	-1	21	_	MNR	_	_
+23	die	die	die	ART	ART	_	acc|sg|fem	-1	26	_	NK	_	_
+24	oft	oft	oft	ADV	ADV	_	_	-1	25	_	MO	_	_
+25	krititisierte	krititisierte	krititisierte	ADJA	ADJA	_	acc|sg|fem|pos	-1	26	_	NK	_	_
+26	Ausbildung	Ausbildung	Ausbildung	NN	NN	_	acc|sg|fem	-1	22	_	NK	_	_
+27	in	in	in	APPR	APPR	_	_	-1	26	_	MNR	_	_
+28	den	die	die	ART	ART	_	dat|pl|fem	-1	29	_	NK	_	_
+29	Schulen	Schule	Schule	NN	NN	_	dat|pl|fem	-1	27	_	NK	_	_
+30	verdeutlichen	verdeutlichen	verdeutlichen	VVINF	VVINF	_	_	-1	15	_	CJ	_	_
+31	.	.	.	$.	$.	_	_	-1	30	_	--	_	_
+
+1	Dass	dass	dass	KOUS	KOUS	_	_	-1	13	_	CP	_	_
+2	für	für	für	APPR	APPR	_	_	-1	13	_	MO	_	_
+3	eigentlich	eigentlich	eigentlich	ADV	ADV	_	_	-1	4	_	MO	_	_
+4	normale	normal	normal	ADJA	ADJA	_	acc|pl|neut|pos	-1	5	_	NK	_	_
+5	Dinge	Ding	Ding	NN	NN	_	acc|pl|neut	-1	2	_	NK	_	_
+6	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	5	_	MNR	_	_
+7	Schulalltag	Schulalltag	Schulalltag	NN	NN	_	dat|sg|masc	-1	6	_	NK	_	_
+8	dennoch	dennoch	dennoch	ADV	ADV	_	_	-1	13	_	MO	_	_
+9	immer	immer	immer	ADV	ADV	_	_	-1	10	_	MO	_	_
+10	auch	auch	auch	ADV	ADV	_	_	-1	11	_	MO	_	_
+11	Spendengeld	Spendengeld	Spendengeld	NN	NN	_	acc|sg|neut	-1	13	_	SB	_	_
+12	nötig	nötig	nötig	ADJD	ADJD	_	pos	-1	13	_	PD	_	_
+13	bleibt	bleiben	bleiben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	15	_	SB	_	_
+14	,	,	,	$,	$,	_	_	-1	13	_	--	_	_
+15	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+16	ein	eine	eine	ART	ART	_	nom|sg|neut	-1	17	_	NK	_	_
+17	Wermutstropfen	Wermutstropfen	Wermutstropfen	NN	NN	_	nom|sg|neut	-1	15	_	PD	_	_
+18	.	.	.	$.	$.	_	_	-1	17	_	--	_	_
+

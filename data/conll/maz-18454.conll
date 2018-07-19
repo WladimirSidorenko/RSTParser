@@ -1,0 +1,256 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::16
+1	Bürger-Entscheid	Bürger-Entscheid	Bürger-Entscheid	NN	NN	_	nom|sg|masc	-1	0	_	--	_	_
+
+	sentence_start	0	128	226	258	354	407	489	597	695	774	893	965	1053	1217
+	token_offsets	sentence	0	offsets	0::4	5::3	9::13	23::1	25::2	28::3	32::6	39::7	47::2	50::3	54::13	68::8	77::1	79::8	88::11	100::4	105::2	108::8	117::7	125::1
+	token_offsets	sentence	1	offsets	128::2	131::7	139::3	143::5	149::3	153::1	155::2	158::6	165::3	169::11	181::4	186::6	193::1	195::4	200::3	204::7	212::2	215::7	223::1
+	token_offsets	sentence	2	offsets	226::4	231::12	244::10	255::1
+	token_offsets	sentence	3	offsets	258::3	262::4	267::1	269::3	273::8	282::8	291::7	299::1	301::3	305::2	308::5	314::8	323::1	325::3	329::9	339::11	351::1
+	token_offsets	sentence	4	offsets	354::5	360::4	365::11	377::10	388::5	394::9	404::1
+	token_offsets	sentence	5	offsets	407::3	411::6	418::13	432::8	441::8	450::3	454::3	458::4	463::3	467::7	475::3	479::6	486::1
+	token_offsets	sentence	6	offsets	489::3	493::5	499::7	507::1	509::3	513::4	518::4	523::1	525::2	528::4	533::12	546::1	548::3	552::2	555::8	564::9	574::13	588::5	594::1
+	token_offsets	sentence	7	offsets	597::3	601::12	614::2	617::6	624::6	631::5	637::3	641::7	649::8	658::3	662::7	670::3	674::9	684::7	692::1
+	token_offsets	sentence	8	offsets	695::5	701::7	709::11	721::4	726::2	729::6	736::1	738::5	744::4	749::8	758::6	765::5	771::1
+	token_offsets	sentence	9	offsets	774::3	778::6	785::3	789::4	794::6	801::2	804::5	810::3	814::1	816::4	821::1	823::5	829::3	833::7	841::1	843::1	845::3	849::9	859::3	863::3	867::9	877::3	881::2	884::5	890::1
+	token_offsets	sentence	10	offsets	893::6	900::5	906::1	908::6	915::19	935::1	937::4	942::2	945::5	951::10	962::1
+	token_offsets	sentence	11	offsets	965::6	972::6	979::5	985::10	996::7	1004::2	1007::1	1009::3	1013::7	1021::1	1023::3	1027::7	1035::7	1043::6	1050::1
+	token_offsets	sentence	12	offsets	1053::2	1056::4	1061::5	1067::6	1074::3	1078::3	1082::6	1089::7	1097::1	1099::7	1107::3	1111::3	1115::4	1120::11	1132::6	1139::1	1140::0	1142::6	1149::3	1153::7	1161::4	1166::2	1169::1	1171::3	1175::4	1180::3	1184::4	1189::4	1194::5	1200::4	1205::8	1214::1
+	token_offsets	sentence	13	offsets	1217::4	1222::3	1226::5	1232::3	1236::6	1243::1	1245::4	1250::3	1254::6	1261::4	1266::3	1270::5	1276::11	1288::1
+1	Soll	Soll	Soll	NN	NN	_	sg|3|pres|ind	-1	5	_	RE	_	_
+2	das	die	die	ART	ART	_	acc|sg|neut	-1	3	_	NK	_	_
+3	Stadtteilfest	Stadtteilfest	Stadtteilfest	NN	NN	_	acc|sg|neut	-1	1	_	OA	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	so	so	so	ADV	ADV	_	_	-1	7	_	MO	_	_
+6	der	die	die	ART	ART	_	nom|sg|masc	-1	7	_	NK	_	_
+7	Streit	Streit	Streit	NN	NN	_	nom|sg|masc	-1	0	_	--	_	_
+8	derzeit	derzeit	derzeit	ADV	ADV	_	_	-1	7	_	MO	_	_
+9	in	in	in	APPR	APPR	_	_	-1	7	_	PD	_	_
+10	der	die	die	ART	ART	_	dat|sg|fem	-1	12	_	NK	_	_
+11	Brandenburger	Brandenburger	Brandenburger	NN	NN	_	*|*|*|pos	-1	12	_	NK	_	_
+12	Vorstadt	Vorstadt	Vorstadt	NN	NN	_	dat|sg|fem	-1	9	_	NK	_	_
+13	,	,	,	$,	$,	_	_	-1	12	_	--	_	_
+14	jährlich	jährlich	jährlich	ADJD	ADJD	_	pos	-1	15	_	MO	_	_
+15	stattfinden	stattfinden	stattfinden	VVINF	VVINF	_	_	-1	12	_	CJ	_	_
+16	oder	oder	oder	KON	KON	_	_	-1	9	_	CD	_	_
+17	in	in	in	APPR	APPR	_	_	-1	16	_	CJ	_	_
+18	größerem	groß	groß	ADJA	ADJA	_	dat|sg|masc|pos	-1	19	_	NK	_	_
+19	Abstand	Abstand	Abstand	NN	NN	_	dat|sg|masc	-1	17	_	NK	_	_
+20	?	?	?	$.	$.	_	_	-1	19	_	--	_	_
+
+1	So	so	so	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	einfach	einfach	einfach	ADJD	ADJD	_	pos	-1	5	_	PD	_	_
+3	die	die	die	ART	ART	_	nom|sg|fem	-1	4	_	NK	_	_
+4	Frage	Frage	Frage	NN	NN	_	nom|sg|fem	-1	5	_	SB	_	_
+5	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	7	_	RE	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	so	so	so	ADV	ADV	_	_	-1	8	_	MO	_	_
+8	laufen	laufen	laufen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+9	die	die	die	ART	ART	_	nom|pl|fem	-1	10	_	NK	_	_
+10	Beteiligten	Beteiligte	Beteiligte	NN	NN	_	nom|pl|fem	-1	8	_	SB	_	_
+11	doch	doch	doch	KON	KON	_	_	-1	10	_	CD	_	_
+12	Gefahr	Gefahr	Gefahr	NN	NN	_	acc|sg|fem	-1	11	_	CJ	_	_
+13	,	,	,	$,	$,	_	_	-1	12	_	--	_	_
+14	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	18	_	OA	_	_
+15	vor	vor	vor	APPR	APPR	_	_	-1	18	_	MO	_	_
+16	Gericht	Gericht	Gericht	NN	NN	_	dat|sg|neut	-1	15	_	NK	_	_
+17	zu	zu	zu	PTKZU	PTKZU	_	_	-1	18	_	PM	_	_
+18	treffen	treffen	treffen	VVINF	VVINF	_	_	-1	8	_	OC	_	_
+19	.	.	.	$.	$.	_	_	-1	18	_	--	_	_
+
+1	Eine	eine	eine	ART	ART	_	nom|sg|fem	-1	3	_	NK	_	_
+2	bedauerliche	bedauerlich	bedauerlich	ADJA	ADJA	_	nom|sg|fem|pos	-1	3	_	NK	_	_
+3	Eskalation	Eskalation	Eskalation	NN	NN	_	nom|sg|fem	-1	0	_	--	_	_
+4	.	.	.	$.	$.	_	_	-1	3	_	--	_	_
+
+1	Das	die	die	ART	ART	_	nom|sg|neut	-1	2	_	NK	_	_
+2	Fest	Fest	Fest	NN	NN	_	nom|sg|neut	-1	9	_	SB	_	_
+3	,	,	,	$,	$,	_	_	-1	2	_	--	_	_
+4	das	die	die	ART	ART	_	acc|sg|neut	-1	7	_	SB	_	_
+5	tausende	<UNKNOWN>	<UNKNOWN>	ADJA	ADJA	_	acc|sg|neut|pos	-1	6	_	NK	_	_
+6	Besucher	Besucher	Besucher	NN	NN	_	acc|sg|neut	-1	7	_	OA	_	_
+7	anlockt	anlocken	anlocken	VVFIN	VVFIN	_	sg|3|pres|ind	-1	2	_	RC	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+10	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	12	_	OA	_	_
+11	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	12	_	NG	_	_
+12	verdient	verdienen	verdienen	VVPP	VVPP	_	pos	-1	9	_	OC	_	_
+13	,	,	,	$,	$,	_	_	-1	12	_	--	_	_
+14	als	als	als	KOKOM	KOKOM	_	_	-1	16	_	MO	_	_
+15	Zankapfel	Zankapfel	Zankapfel	NN	NN	_	nom|sg|masc	-1	14	_	NK	_	_
+16	herzuhalten	herhalten	herhalten	VVIZU	VVIZU	_	_	-1	10	_	RE	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
+1	Zumal	zumal	zumal	ADV	ADV	_	_	-1	3	_	MO	_	_
+2	alle	alle	alle	PIAT	PIAT	_	nom|pl|neut	-1	3	_	NK	_	_
+3	Beteiligten	Beteiligte	Beteiligte	NN	NN	_	nom|pl|neut	-1	6	_	SB	_	_
+4	ehrenwerte	ehrenwert	ehrenwert	ADJA	ADJA	_	nom|pl|neut|pos	-1	5	_	NK	_	_
+5	Ziele	Ziel	Ziel	NN	NN	_	nom|pl|neut	-1	6	_	OA	_	_
+6	verfolgen	verfolgen	verfolgen	VVINF	VVINF	_	pl|3|pres|ind	-1	0	_	--	_	_
+7	.	.	.	$.	$.	_	_	-1	6	_	--	_	_
+
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	2	_	NK	_	_
+2	Verein	Verein	Verein	NN	NN	_	nom|sg|masc	-1	5	_	SB	_	_
+3	Brandenburger	Brandenburger	Brandenburger	NN	NN	_	*|*|*|pos	-1	4	_	NK	_	_
+4	Vorstadt	Vorstadt	Vorstadt	NN	NN	_	nom|sg|neut	-1	2	_	NK	_	_
+5	plädiert	plädieren	plädieren	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+6	für	für	für	APPR	APPR	_	_	-1	5	_	MO	_	_
+7	ein	eine	eine	ART	ART	_	acc|sg|neut	-1	8	_	NK	_	_
+8	Fest	Fest	Fest	NN	NN	_	acc|sg|neut	-1	6	_	NK	_	_
+9	von	von	von	APPR	APPR	_	_	-1	8	_	PG	_	_
+10	Bürgern	Bürger	Bürger	NN	NN	_	dat|pl|masc	-1	9	_	NK	_	_
+11	für	für	für	APPR	APPR	_	_	-1	10	_	MNR	_	_
+12	Bürger	Bürger	Bürger	NN	NN	_	acc|pl|masc	-1	11	_	NK	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Ein	eine	eine	ART	ART	_	nom|sg|neut	-1	3	_	NK	_	_
+2	gutes	gut	gut	ADJA	ADJA	_	nom|sg|neut|pos	-1	3	_	NK	_	_
+3	Konzept	Konzept	Konzept	NN	NN	_	nom|sg|neut	-1	0	_	--	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	das	die	die	PRELS	PRELS	_	nom|sg|neut	-1	17	_	OA	_	_
+6	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	17	_	OA	_	_
+7	aber	aber	aber	ADV	ADV	_	_	-1	17	_	MO	_	_
+8	-	-	-	$(	$(	_	_	-1	7	_	--	_	_
+9	da	da	da	ADV	ADV	_	_	-1	11	_	MO	_	_
+10	rein	rein	rein	ADV	ADV	_	_	-1	11	_	MO	_	_
+11	ehrenamtlich	ehrenamtlich	ehrenamtlich	ADJD	ADJD	_	pos	-1	7	_	CJ	_	_
+12	-	-	-	$(	$(	_	_	-1	11	_	--	_	_
+13	nur	nur	nur	ADV	ADV	_	_	-1	14	_	MO	_	_
+14	in	in	in	APPR	APPR	_	_	-1	17	_	MO	_	_
+15	größeren	groß	groß	ADJA	ADJA	_	dat|pl|masc|comp	-1	16	_	NK	_	_
+16	Abständen	Abstand	Abstand	NN	NN	_	dat|pl|masc	-1	14	_	NK	_	_
+17	verwirklichen	verwirklichen	verwirklichen	VVINF	VVINF	_	_	-1	18	_	OC	_	_
+18	lässt	lassen	lassen	VVFIN	VVFIN	_	_	-1	3	_	RC	_	_
+19	.	.	.	$.	$.	_	_	-1	18	_	--	_	_
+
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	2	_	NK	_	_
+2	Aktionskreis	Aktionskreis	Aktionskreis	NN	NN	_	nom|sg|masc	-1	6	_	SB	_	_
+3	um	um	um	APPR	APPR	_	_	-1	2	_	MNR	_	_
+4	Martin	Martin	Martin	NE	NE	_	nom|sg|masc	-1	5	_	PNC	_	_
+5	Zühlke	Zühlke	Zühlke	NE	NE	_	nom|sg|masc	-1	3	_	NK	_	_
+6	zieht	zeihen|ziehen	zeihen|ziehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+7	die	die	die	ART	ART	_	acc|pl|fem	-1	8	_	NK	_	_
+8	Grenzen	Grenze	Grenze	NN	NN	_	acc|pl|fem	-1	6	_	OA	_	_
+9	lockerer	locker	locker	ADJD	ADJD	_	comp	-1	6	_	MO	_	_
+10	und	und	und	KON	KON	_	_	-1	6	_	CD	_	_
+11	votiert	votieren	votieren	VVFIN	VVFIN	_	sg|3|pres|ind	-1	10	_	CJ	_	_
+12	für	für	für	APPR	APPR	_	_	-1	11	_	MO	_	_
+13	jährliche	jährlich	jährlich	ADJA	ADJA	_	acc|pl|fem|pos	-1	14	_	NK	_	_
+14	Termine	Termin	Termin	NN	NN	_	acc|pl|fem	-1	12	_	NK	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+1	Beide	beide	beide	PIAT	PIAT	_	acc|pl|masc	-1	2	_	NK	_	_
+2	Ansätze	Ansatz	Ansatz	NN	NN	_	acc|pl|masc	-1	3	_	SB	_	_
+3	orientieren	orientieren	orientieren	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+4	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	3	_	OA	_	_
+5	am	an	an	APPRART	APPRART	_	dat|sg|neut	-1	3	_	MO	_	_
+6	Bürger	Bürger	Bürger	NN	NN	_	nom|pl|masc	-1	5	_	NK	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	worin	worin	worin	PWAV	PWAV	_	_	-1	12	_	MO	_	_
+9	eine	eine	eine	ART	ART	_	nom|sg|fem	-1	11	_	NK	_	_
+10	mögliche	möglich	möglich	ADJA	ADJA	_	nom|sg|fem|pos	-1	11	_	NK	_	_
+11	Lösung	Lösung	Lösung	NN	NN	_	nom|sg|fem	-1	12	_	SB	_	_
+12	liegt	liegen	liegen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	3	_	MO	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	2	_	NK	_	_
+2	Verein	Verein	Verein	NN	NN	_	nom|sg|masc	-1	3	_	SB	_	_
+3	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	zwar	zwar	zwar	ADV	ADV	_	_	-1	3	_	MO	_	_
+5	Rechte	Recht|Rechte	Recht|Rechte	NN	NN	_	acc|pl|neut	-1	3	_	OA	_	_
+6	am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	5	_	MNR	_	_
+7	Namen	Name	Name	NN	NN	_	dat|sg|masc	-1	6	_	NK	_	_
+8	von	von	von	APPR	APPR	_	_	-1	7	_	PG	_	_
+9	"	"	"	$(	$(	_	_	-1	8	_	--	_	_
+10	Affe	Affe	Affe	NN	NN	_	dat|sg|masc	-1	8	_	NK	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	Schaf	Schaf	Schaf	NN	NN	_	dat|sg|masc	-1	10	_	CJ	_	_
+13	und	und	und	KON	KON	_	_	-1	12	_	CD	_	_
+14	Känguru	Känguruh	Känguruh	NN	NN	_	dat|sg|masc	-1	13	_	CJ	_	_
+15	"	"	"	$(	$(	_	_	-1	14	_	--	_	_
+16	,	,	,	$,	$,	_	_	-1	15	_	--	_	_
+17	das	die	die	ART	ART	_	nom|sg|neut	-1	18	_	NK	_	_
+18	Hausrecht	Hausrecht	Hausrecht	NN	NN	_	nom|sg|neut	-1	22	_	SB	_	_
+19	für	für	für	APPR	APPR	_	_	-1	18	_	MNR	_	_
+20	den	die	die	ART	ART	_	acc|sg|masc	-1	21	_	NK	_	_
+21	Stadtteil	Stadtteil	Stadtteil	NN	NN	_	acc|sg|masc	-1	19	_	NK	_	_
+22	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	3	_	CJ	_	_
+23	er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	22	_	SB	_	_
+24	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	22	_	NG	_	_
+25	.	.	.	$.	$.	_	_	-1	24	_	--	_	_
+
+1	Andere	andere	andere	PIAT	PIAT	_	nom|pl|neut	-1	2	_	NK	_	_
+2	Feste	Fest	Fest	NN	NN	_	nom|pl|neut	-1	10	_	OA	_	_
+3	(	(	(	$(	$(	_	_	-1	2	_	--	_	_
+4	selbst	selbst	selbst	ADV	ADV	_	_	-1	5	_	MO	_	_
+5	semi-professionelle	semi-professionelle	semi-professionelle	ADJA	ADJA	_	acc|sg|fem|pos	-1	2	_	APP	_	_
+6	)	)	)	$(	$(	_	_	-1	5	_	--	_	_
+7	kann	können	können	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+8	er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	7	_	SB	_	_
+9	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	7	_	NG	_	_
+10	untersagen	untersagen	untersagen	VVINF	VVINF	_	_	-1	7	_	OC	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Zühlke	Zühlke	Zühlke	NE	NE	_	nom|sg|*	-1	2	_	SB	_	_
+2	bietet	bieten	bieten	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	5	_	NK	_	_
+4	jährlichen	jährlich	jährlich	ADJA	ADJA	_	acc|sg|masc|pos	-1	5	_	NK	_	_
+5	Wechsel	Wechsel	Wechsel	NN	NN	_	acc|sg|masc	-1	2	_	OA	_	_
+6	an	an	an	PTKVZ	PTKVZ	_	_	-1	2	_	SVP	_	_
+7	-	-	-	$(	$(	_	_	-1	6	_	--	_	_
+8	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	9	_	NK	_	_
+9	Schnitt	Schnitt	Schnitt	NN	NN	_	nom|sg|masc	-1	2	_	CJ	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	der	die	die	ART	ART	_	nom|sg|masc	-1	14	_	SB	_	_
+12	Frieden	Frieden	Frieden	NN	NN	_	nom|sg|masc	-1	13	_	OA	_	_
+13	bringen	bringen	bringen	VVINF	VVINF	_	_	-1	14	_	OC	_	_
+14	könnte	können	können	VMFIN	VMFIN	_	sg|3|past|subj	-1	9	_	RC	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+1	Da	da	da	KOUS	KOUS	_	_	-1	8	_	CP	_	_
+2	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	8	_	OA	_	_
+3	beide	beide	beide	PIAT	PIAT	_	nom|pl|fem	-1	4	_	NK	_	_
+4	Seiten	Seite	Seite	NN	NN	_	nom|pl|fem	-1	15	_	SB	_	_
+5	auf	auf	auf	APPR	APPR	_	_	-1	8	_	OP	_	_
+6	die	die	die	ART	ART	_	acc|pl|masc	-1	7	_	NK	_	_
+7	Bürger	Bürger	Bürger	NN	NN	_	acc|pl|masc	-1	5	_	NK	_	_
+8	berufen	berufen	berufen	VVPP	VVPP	_	_	-1	10	_	MO	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	sollten	sollen	sollen	VMFIN	VMFIN	_	pl|3|past|subj	-1	0	_	--	_	_
+11	sie	sie	sie	PPER	PPER	_	nom|pl|*|3	-1	10	_	SB	_	_
+12	die	die	die	PRELS	PRELS	_	acc|sg|fem	-1	14	_	OA	_	_
+13	auch	auch	auch	ADV	ADV	_	_	-1	14	_	MO	_	_
+14	entscheiden	entscheiden	entscheiden	VVINF	VVINF	_	_	-1	15	_	OC	_	_
+15	lassen	lassen	lassen	VVINF	VVINF	_	_	-1	10	_	OC	_	_
+16	:	:	:	$.	$.	_	_	-1	15	_	--	_	_
+17	Lehnen	lehnen	lehnen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	15	_	OC	_	_
+18	sie	sie	sie	PPER	PPER	_	nom|pl|*|3	-1	17	_	SB	_	_
+19	Zühlkes	Zühlkes	Zühlkes	NE	NE	_	gen|sg|neut	-1	20	_	AG	_	_
+20	Fest	Fest	Fest	NN	NN	_	pos	-1	17	_	OA	_	_
+21	ab	ab	ab	PTKVZ	PTKVZ	_	_	-1	17	_	SVP	_	_
+22	,	,	,	$,	$,	_	_	-1	21	_	--	_	_
+23	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	17	_	CJ	_	_
+24	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	30	_	OA	_	_
+25	der	die	die	ART	ART	_	nom|sg|masc	-1	26	_	NK	_	_
+26	Spaß	Spaß	Spaß	NN	NN	_	nom|sg|masc	-1	23	_	SB	_	_
+27	nach	nach	nach	APPR	APPR	_	_	-1	30	_	MO	_	_
+28	einem	eine	eine	ART	ART	_	dat|sg|neut	-1	29	_	NK	_	_
+29	Jahr	Jahr	Jahr	NN	NN	_	dat|sg|neut	-1	27	_	NK	_	_
+30	erledigt	erledigen	erledigen	VVPP	VVPP	_	_	-1	23	_	OC	_	_
+31	.	.	.	$.	$.	_	_	-1	30	_	--	_	_
+
+1	Wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	7	_	MO	_	_
+2	die	die	die	ART	ART	_	nom|sg|fem	-1	3	_	NK	_	_
+3	Sache	Sache	Sache	NN	NN	_	nom|sg|fem	-1	1	_	SB	_	_
+4	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	5	_	NK	_	_
+5	Erfolg	Erfolg	Erfolg	NN	NN	_	nom|sg|masc	-1	1	_	PD	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	muss	müssen	müssen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+8	der	die	die	ART	ART	_	nom|sg|masc	-1	9	_	NK	_	_
+9	Verein	Verein	Verein	NN	NN	_	nom|sg|masc	-1	7	_	SB	_	_
+10	dies	dies	dies	PDS	PDS	_	acc|sg|neut	-1	13	_	OA	_	_
+11	als	als	als	KOKOM	KOKOM	_	_	-1	13	_	MO	_	_
+12	Votum	Votum	Votum	NN	NN	_	acc|sg|neut	-1	11	_	NK	_	_
+13	akzeptieren	akzeptieren	akzeptieren	VVINF	VVINF	_	_	-1	7	_	OC	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+

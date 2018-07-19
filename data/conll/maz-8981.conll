@@ -1,0 +1,217 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::10
+1	Überfällig	überfällig	überfällig	ADJD	ADJD	_	pos	-1	0	_	--	_	_
+
+	sentence_start	0	103
+	token_offsets	sentence	0	offsets	0::14	15::3	19::3	23::18	42::7	50::3	54::7	62::3	66::4	71::3	75::24	100::1
+	token_offsets	sentence	1	offsets	103::5	109::6	116::2	119::5	125::3	129::9	139::14	154::3	158::4	163::17	181::12	194::4	199::3	203::12	216::6	223::3	227::9	237::3	241::13	255::6	262::1
+1	Frischluftfans	Frischluftfan	Frischluftfan	NN	NN	_	nom|sg|masc	-1	2	_	SB	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	der	die	die	ART	ART	_	nom|sg|masc	-1	4	_	NK	_	_
+4	Donau-Radwanderweg	Donau-Radwanderweg	Donau-Radwanderweg	NN	NN	_	nom|sg|masc	-1	2	_	SB	_	_
+5	genauso	genauso	genauso	ADV	ADV	_	_	-1	7	_	MO	_	_
+6	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	7	_	NK	_	_
+7	Begriff	Begriff	Begriff	NN	NN	_	nom|sg|masc	-1	2	_	PD	_	_
+8	wie	wie	wie	KOKOM	KOKOM	_	_	-1	11	_	CM	_	_
+9	auch	auch	auch	ADV	ADV	_	_	-1	11	_	MO	_	_
+10	der	die	die	ART	ART	_	nom|sg|masc	-1	11	_	NK	_	_
+11	Münsterland-Radwanderweg	Münsterland-Radwanderweg	Münsterland-Radwanderweg	NN	NN	_	nom|sg|masc	-1	5	_	CC	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Warum	warum	warum	PWAV	PWAV	_	_	-1	2	_	MO	_	_
+2	sollte	sollen	sollen	VMFIN	VMFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+3	da	da	da	ADV	ADV	_	_	-1	2	_	MO	_	_
+4	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	2	_	NG	_	_
+5	der	die	die	ART	ART	_	nom|sg|masc	-1	6	_	NK	_	_
+6	Landkreis	Landkreis	Landkreis	NN	NN	_	nom|sg|masc	-1	2	_	SB	_	_
+7	Teltow-Fläming	Teltow-Fläming	Teltow-Fläming	NE	NE	_	nom|sg|masc	-1	6	_	NK	_	_
+8	für	für	für	APPR	APPR	_	_	-1	6	_	MNR	_	_
+9	alle	alle	alle	PIAT	PIAT	_	acc|pl|fem	-1	10	_	NK	_	_
+10	Sportbegeisterten	Sportbegeisterte	Sportbegeisterte	NN	NN	_	acc|pl|fem	-1	8	_	NK	_	_
+11	Brandenburgs	Brandenburg	Brandenburg	NE	NE	_	gen|sg|neut	-1	10	_	AG	_	_
+12	oder	oder	oder	KON	KON	_	_	-1	11	_	CD	_	_
+13	gar	gar	gar	ADV	ADV	_	_	-1	14	_	MO	_	_
+14	Deutschlands	Deutschland	Deutschland	NE	NE	_	gen|sg|neut	-1	12	_	CJ	_	_
+15	einmal	einmal	einmal	ADV	ADV	_	_	-1	20	_	MO	_	_
+16	der	die	die	ART	ART	_	nom|sg|masc	-1	17	_	NK	_	_
+17	Inbegriff	Inbegriff	Inbegriff	NN	NN	_	nom|sg|masc	-1	20	_	PD	_	_
+18	für	für	für	APPR	APPR	_	_	-1	17	_	MNR	_	_
+19	Inline-Skaten	Inline-Skaten	Inline-Skaten	NN	NN	_	acc|pl|neut	-1	18	_	NK	_	_
+20	werden	werden	werden	VAINF	VAINF	_	_	-1	2	_	OC	_	_
+21	?	?	?	$.	$.	_	_	-1	20	_	--	_	_
+
+	sentence_start	0	48	164	256
+	token_offsets	sentence	0	offsets	0::6	7::8	16::7	24::5	30::1	32::4	37::1	39::5	45::1
+	token_offsets	sentence	1	offsets	48::3	52::5	58::6	65::5	71::3	75::4	80::3	84::9	94::6	101::4	106::3	110::9	120::2	123::5	129::3	133::7	141::5	147::5	153::7	161::1
+	token_offsets	sentence	2	offsets	164::8	173::6	180::6	187::5	193::5	199::7	207::3	211::7	219::6	226::2	229::5	235::10	246::6	253::1
+	token_offsets	sentence	3	offsets	256::4	261::6	268::8	277::6	284::13	298::3	302::5	308::14	323::4	328::3	332::7	340::6	347::9	357::6	364::1	366::2	369::6	376::3	380::6	387::3	391::7	399::13	413::6	420::10	431::1	433::2	436::5	442::8	451::3	455::4	460::12	473::10	484::10	495::1
+1	Dieser	dies	dies	PDAT	PDAT	_	nom|sg|masc	-1	2	_	NK	_	_
+2	Anspruch	Anspruch	Anspruch	NN	NN	_	nom|sg|masc	-1	3	_	SB	_	_
+3	besteht	bestehen	bestehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	jetzt	jetzt	jetzt	ADV	ADV	_	_	-1	3	_	MO	_	_
+5	(	(	(	$(	$(	_	_	-1	4	_	--	_	_
+6	noch	noch	noch	ADV	ADV	_	_	-1	8	_	MO	_	_
+7	)	)	)	$(	$(	_	_	-1	8	_	--	_	_
+8	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	3	_	NG	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+1	Zum	zu	zu	APPRART	APPRART	_	dat|sg|neut	-1	19	_	MO	_	_
+2	einen	eine	eine	PIS	PIS	_	dat|sg|neut	-1	1	_	NK	_	_
+3	würden	werden	werden	VAFIN	VAFIN	_	pl|3|past|subj	-1	0	_	--	_	_
+4	dafür	dafür	dafür	PAV	PAV	_	_	-1	12	_	NK	_	_
+5	die	die	die	ART	ART	_	nom|pl|neut	-1	12	_	NK	_	_
+6	rund	rund	rund	ADV	ADV	_	pos	-1	7	_	MO	_	_
+7	100	100	100	CARD	CARD	_	_	-1	8	_	NK	_	_
+8	Kilometer	Kilometer	Kilometer	NN	NN	_	acc|pl|masc	-1	9	_	AMS	_	_
+9	langen	lang	lang	ADJA	ADJA	_	dat|sg|masc|pos	-1	12	_	NK	_	_
+10	Rad-	Rad-	Rad-	TRUNC	TRUNC	_	_	-1	11	_	CJ	_	_
+11	und	und	und	KON	KON	_	_	-1	12	_	CD	_	_
+12	Skatewege	Skatewege	Skatewege	NN	NN	_	acc|pl|masc	-1	3	_	SB	_	_
+13	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	12	_	MNR	_	_
+14	Süden	Süden	Süden	NN	NN	_	dat|sg|masc	-1	13	_	NK	_	_
+15	des	die	die	ART	ART	_	gen|sg|masc	-1	16	_	NK	_	_
+16	Kreises	Kreis	Kreis	NN	NN	_	gen|sg|masc	-1	14	_	AG	_	_
+17	lange	lange	lange	ADV	ADV	_	_	-1	19	_	MO	_	_
+18	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	19	_	NG	_	_
+19	reichen	reichen	reichen	VVINF	VVINF	_	_	-1	3	_	OC	_	_
+20	.	.	.	$.	$.	_	_	-1	19	_	--	_	_
+
+1	Außerdem	außerdem	außerdem	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	müsste	müssen	müssen	VMFIN	VMFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+3	hinter	hinter	hinter	APPR	APPR	_	_	-1	2	_	MO	_	_
+4	solch	solche	solche	PIAT	PIAT	_	*|*|*	-1	5	_	MO	_	_
+5	einem	eine	eine	ART	ART	_	dat|sg|neut	-1	6	_	NK	_	_
+6	Angebot	Angebot	Angebot	NN	NN	_	dat|sg|neut	-1	3	_	NK	_	_
+7	die	die	die	ART	ART	_	acc|sg|fem	-1	9	_	NK	_	_
+8	gesamte	gesamt	gesamt	ADJA	ADJA	_	acc|sg|fem|pos	-1	9	_	NK	_	_
+9	Region	Region	Region	NN	NN	_	acc|sg|fem	-1	2	_	SB	_	_
+10	in	in	in	APPR	APPR	_	_	-1	13	_	MO	_	_
+11	aller	alle	alle	PIAT	PIAT	_	dat|sg|fem	-1	12	_	NK	_	_
+12	Konsequenz	Konsequenz	Konsequenz	NN	NN	_	dat|sg|fem	-1	10	_	NK	_	_
+13	stehen	stehen	stehen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	2	_	OC	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Denn	denn	denn	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	sollte	sollen	sollen	VMFIN	VMFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+3	wirklich	wirklich	wirklich	ADJD	ADJD	_	pos	-1	2	_	MO	_	_
+4	einmal	einmal	einmal	ADV	ADV	_	_	-1	2	_	MO	_	_
+5	Inline-Skaten	Inline-Skaten	Inline-Skaten	NN	NN	_	nom|pl|masc	-1	14	_	SB	_	_
+6	den	die	die	ART	ART	_	acc|sg|masc	-1	7	_	NK	_	_
+7	Kreis	Kreis	Kreis	NN	NN	_	acc|sg|masc	-1	14	_	OA	_	_
+8	Teltow-Fläming	Teltow-Fläming	Teltow-Fläming	NE	NE	_	nom|sg|neut	-1	7	_	NK	_	_
+9	über	über	über	APPR	APPR	_	_	-1	14	_	MO	_	_
+10	die	die	die	ART	ART	_	acc|pl|fem	-1	11	_	NK	_	_
+11	Grenzen	Grenze	Grenze	NN	NN	_	acc|pl|fem	-1	9	_	NK	_	_
+12	hinaus	hinaus	hinaus	ADV	ADV	_	_	-1	9	_	AC	_	_
+13	anziehend	anziehend	anziehend	ADJD	ADJD	_	pos	-1	14	_	MO	_	_
+14	machen	machen	machen	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+15	,	,	,	$,	$,	_	_	-1	14	_	--	_	_
+16	so	so	so	ADV	ADV	_	_	-1	17	_	MO	_	_
+17	müsste	müssen	müssen	VMFIN	VMFIN	_	sg|3|past|ind	-1	2	_	CJ	_	_
+18	man	man	man	PIS	PIS	_	nom|sg|*	-1	17	_	SB	_	_
+19	vorher	vorher	vorher	ADV	ADV	_	_	-1	17	_	MO	_	_
+20	die	die	die	ART	ART	_	acc|sg|fem	-1	22	_	NK	_	_
+21	gesamte	gesamt	gesamt	ADJA	ADJA	_	acc|sg|fem|pos	-1	22	_	NK	_	_
+22	Infrastruktur	Infrastruktur	Infrastruktur	NN	NN	_	acc|sg|fem	-1	24	_	OA	_	_
+23	darauf	darauf	darauf	PAV	PAV	_	_	-1	7	_	NK	_	_
+24	ausrichten	ausrichten	ausrichten	VVINF	VVINF	_	_	-1	17	_	OC	_	_
+25	,	,	,	$,	$,	_	_	-1	24	_	--	_	_
+26	um	um	um	KOUI	KOUI	_	_	-1	33	_	CP	_	_
+27	diese	dies	dies	PDAT	PDAT	_	acc|sg|fem	-1	28	_	NK	_	_
+28	Sportart	Sportart	Sportart	NN	NN	_	acc|sg|fem	-1	33	_	OA	_	_
+29	als	als	als	KOKOM	KOKOM	_	_	-1	33	_	CM	_	_
+30	eine	eine	eine	ART	ART	_	nom|sg|fem	-1	32	_	NK	_	_
+31	touristische	touristisch	touristisch	ADJA	ADJA	_	nom|sg|fem|pos	-1	32	_	NK	_	_
+32	Attraktion	Attraktion	Attraktion	NN	NN	_	nom|sg|fem	-1	33	_	OA	_	_
+33	anzubieten	anbieten	anbieten	VVIZU	VVIZU	_	_	-1	17	_	MO	_	_
+34	.	.	.	$.	$.	_	_	-1	33	_	--	_	_
+
+	sentence_start	0	132	223	316	366
+	token_offsets	sentence	0	offsets	0::2	3::6	10::6	17::3	21::4	26::4	31::6	38::4	43::3	47::9	57::8	66::2	69::6	76::6	83::1	85::7	93::2	96::7	104::3	108::3	112::5	118::2	121::7	129::1
+	token_offsets	sentence	1	offsets	132::3	136::4	141::6	148::10	159::3	163::6	170::3	174::10	185::7	193::3	197::6	204::8	213::6	220::1
+	token_offsets	sentence	2	offsets	223::4	228::5	234::4	239::12	252::3	256::9	266::4	271::4	276::11	288::6	295::1	297::3	301::3	305::3	309::3	313::1
+	token_offsets	sentence	3	offsets	316::4	321::2	324::4	329::10	340::4	345::6	352::3	356::6	363::1
+	token_offsets	sentence	4	offsets	366::3	370::7	378::5	384::1	386::2	389::8	398::7	406::1	408::4	413::2	416::8	425::4	430::6	437::8	446::1
+1	Im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	3	_	MO	_	_
+2	Moment	Moment	Moment	NN	NN	_	dat|sg|masc	-1	1	_	NK	_	_
+3	sollte	sollen	sollen	VMFIN	VMFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+4	man	man	man	PIS	PIS	_	nom|sg|*	-1	3	_	SB	_	_
+5	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	14	_	OA	_	_
+6	erst	erst	erst	ADV	ADV	_	_	-1	7	_	MO	_	_
+7	einmal	einmal	einmal	ADV	ADV	_	_	-1	3	_	MO	_	_
+8	über	über	über	APPR	APPR	_	_	-1	14	_	OP	_	_
+9	die	die	die	ART	ART	_	acc|pl|fem	-1	11	_	NK	_	_
+10	zaghaften	zaghaft	zaghaft	ADJA	ADJA	_	acc|pl|fem|pos	-1	11	_	NK	_	_
+11	Versuche	Versuch	Versuch	NN	NN	_	acc|pl|fem	-1	8	_	NK	_	_
+12	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	11	_	MNR	_	_
+13	Norden	Norden	Norden	NN	NN	_	dat|sg|masc	-1	12	_	NK	_	_
+14	freuen	freuen	freuen	VVINF	VVINF	_	_	-1	3	_	OC	_	_
+15	,	,	,	$,	$,	_	_	-1	14	_	--	_	_
+16	Radwege	Radweg	Radweg	NN	NN	_	acc|pl|masc	-1	23	_	OA	_	_
+17	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	23	_	MO	_	_
+18	Verbund	Verbund	Verbund	NN	NN	_	dat|sg|masc	-1	17	_	NK	_	_
+19	auf	auf	auf	APPR	APPR	_	_	-1	23	_	MO	_	_
+20	die	die	die	ART	ART	_	acc|sg|fem	-1	21	_	NK	_	_
+21	Reihe	Reihe	Reihe	NN	NN	_	acc|sg|fem	-1	19	_	NK	_	_
+22	zu	zu	zu	PTKZU	PTKZU	_	_	-1	23	_	PM	_	_
+23	bringen	bringen	bringen	VVINF	VVINF	_	_	-1	14	_	OC	_	_
+24	.	.	.	$.	$.	_	_	-1	23	_	--	_	_
+
+1	Die	die	die	PDS	PDS	_	nom|pl|*	-1	2	_	SB	_	_
+2	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	längst	längst	längst	ADV	ADV	_	_	-1	4	_	MO	_	_
+4	überfällig	überfällig	überfällig	ADJD	ADJD	_	pos	-1	2	_	PD	_	_
+5	und	und	und	KON	KON	_	_	-1	2	_	CD	_	_
+6	würden	werden	werden	VAFIN	VAFIN	_	pl|3|past|subj	-1	5	_	CJ	_	_
+7	den	die	die	ART	ART	_	dat|pl|masc	-1	8	_	NK	_	_
+8	Einwohnern	Einwohner	Einwohner	NN	NN	_	dat|pl|masc	-1	13	_	DA	_	_
+9	endlich	endlich	endlich	ADV	ADV	_	_	-1	13	_	MO	_	_
+10	den	die	die	ART	ART	_	acc|sg|masc	-1	11	_	NK	_	_
+11	Alltag	Alltag	Alltag	NN	NN	_	acc|sg|masc	-1	13	_	OA	_	_
+12	leichter	leicht	leicht	ADJD	ADJD	_	comp	-1	13	_	MO	_	_
+13	machen	machen	machen	VVINF	VVINF	_	_	-1	6	_	OC	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Wenn	wenn	wenn	KOUS	KOUS	_	_	-1	10	_	CP	_	_
+2	damit	damit	damit	PAV	PAV	_	_	-1	10	_	NK	_	_
+3	auch	auch	auch	ADV	ADV	_	_	-1	9	_	MO	_	_
+4	gleichzeitig	gleichzeitig	gleichzeitig	ADJD	ADJD	_	pos	-1	9	_	MO	_	_
+5	den	die	die	ART	ART	_	acc|sg|masc	-1	6	_	NK	_	_
+6	Touristen	Tourist	Tourist	NN	NN	_	dat|pl|masc	-1	9	_	DA	_	_
+7	mehr	mehr	mehr	PIAT	PIAT	_	*|*|*	-1	8	_	NK	_	_
+8	Wege	Weg	Weg	NN	NN	_	acc|pl|masc	-1	9	_	OA	_	_
+9	erschlossen	erschließen	erschließen	VVPP	VVPP	_	_	-1	10	_	OC	_	_
+10	werden	werden	werden	VAINF	VAINF	_	pl|3|pres|ind	-1	12	_	MO	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+13	das	die	die	PDS	PDS	_	nom|sg|neut	-1	12	_	SB	_	_
+14	nur	nur	nur	ADV	ADV	_	_	-1	15	_	MO	_	_
+15	gut	gut	gut	ADJD	ADJD	_	pos	-1	12	_	PD	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+1	Denn	denn	denn	KON	KON	_	_	-1	3	_	JU	_	_
+2	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	3	_	SB	_	_
+3	wäre	sein	sein	VAFIN	VAFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+4	wenigstens	wenigstens	wenigstens	ADV	ADV	_	_	-1	3	_	MO	_	_
+5	erst	erst	erst	ADV	ADV	_	_	-1	6	_	MO	_	_
+6	einmal	einmal	einmal	ADV	ADV	_	_	-1	3	_	MO	_	_
+7	ein	eine	eine	ART	ART	_	_	-1	8	_	NK	_	_
+8	Anfang	Anfang	Anfang	NN	NN	_	*|sg|masc	-1	3	_	PD	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+1	Ein	eine	eine	ART	ART	_	nom|sg|masc	-1	3	_	NK	_	_
+2	kleiner	klein	klein	ADJA	ADJA	_	nom|sg|masc|pos	-1	3	_	NK	_	_
+3	Stein	Stein	Stein	NN	NN	_	nom|sg|masc	-1	9	_	SB	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	in	in	in	APPR	APPR	_	_	-1	7	_	CVC	_	_
+6	Bewegung	Bewegung	Bewegung	NN	NN	_	acc|sg|fem	-1	5	_	NK	_	_
+7	gesetzt	setzen	setzen	VVPP	VVPP	_	_	-1	3	_	PAR	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	kann	können	können	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+10	ja	ja	ja	ADV	ADV	_	_	-1	9	_	MO	_	_
+11	durchaus	durchaus	durchaus	ADV	ADV	_	_	-1	9	_	MO	_	_
+12	eine	eine	eine	ART	ART	_	nom|sg|fem	-1	13	_	NK	_	_
+13	Lawine	Lawine	Lawine	NN	NN	_	nom|sg|fem	-1	14	_	OA	_	_
+14	auslösen	auslösen	auslösen	VVINF	VVINF	_	_	-1	9	_	OC	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+

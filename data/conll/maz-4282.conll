@@ -1,0 +1,217 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::9
+1	Steilpass	Steilpass	Steilpass	NN	NN	_	nom|sg|masc	-1	0	_	--	_	_
+
+	sentence_start	0	31	150
+	token_offsets	sentence	0	offsets	0::6	7::4	12::2	15::5	21::6	28::1
+	token_offsets	sentence	1	offsets	31::4	36::7	44::3	48::9	58::17	76::2	79::8	88::3	92::7	100::3	104::3	108::8	117::11	129::3	133::13	147::1
+	token_offsets	sentence	2	offsets	150::3	154::4	159::5	165::3	169::3	173::5	179::5	185::3	189::11	201::9	211::1	213::3	217::3	221::3	225::5	231::1	233::4	238::3	242::9	252::4	257::15	273::10	284::3	288::9	298::6	305::1
+1	Wunder	Wunder	Wunder	NN	NN	_	acc|sg|neut	-1	2	_	OA	_	_
+2	gibt	geben	geben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	EP	_	_
+4	immer	immer	immer	ADV	ADV	_	_	-1	5	_	MO	_	_
+5	wieder	wieder	wieder	ADV	ADV	_	_	-1	2	_	MO	_	_
+6	!	!	!	$.	$.	_	_	-1	5	_	--	_	_
+
+1	Erst	erst	erst	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	spielen	spielen	spielen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	die	die	die	ART	ART	_	nom|pl|*	-1	4	_	NK	_	_
+4	Dallgower	Dallgower	Dallgower	NN	NN	_	nom|pl|*	-1	2	_	SB	_	_
+5	Gemeindevertreter	Gemeindevertreter	Gemeindevertreter	NN	NN	_	nom|pl|masc	-1	2	_	OA	_	_
+6	so	so	so	ADV	ADV	_	_	-1	7	_	MO	_	_
+7	statisch	statisch	statisch	ADJD	ADJD	_	pos	-1	2	_	MO	_	_
+8	und	und	und	KON	KON	_	_	-1	2	_	CD	_	_
+9	verzagt	verzagen	verzagen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	8	_	CJ	_	_
+10	wie	wie	wie	KOKOM	KOKOM	_	_	-1	13	_	CM	_	_
+11	die	die	die	ART	ART	_	nom|sg|fem	-1	13	_	NK	_	_
+12	deutsche	deutsch	deutsch	ADJA	ADJA	_	nom|sg|fem|pos	-1	13	_	NK	_	_
+13	Abwehrreihe	Abwehrreihe	Abwehrreihe	NN	NN	_	nom|sg|fem	-1	6	_	CC	_	_
+14	der	die	die	ART	ART	_	gen|pl|masc	-1	15	_	NK	_	_
+15	Fußballkicker	Fußballkicker	Fußballkicker	NN	NN	_	gen|pl|masc	-1	13	_	AG	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	3	_	JU	_	_
+2	dann	dann	dann	ADV	ADV	_	_	-1	3	_	MO	_	_
+3	kommt	kommen	kommen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	aus	aus	aus	APPR	APPR	_	_	-1	3	_	MO	_	_
+5	der	die	die	ART	ART	_	dat|sg|fem	-1	6	_	NK	_	_
+6	Tiefe	Tiefe	Tiefe	NN	NN	_	dat|sg|fem	-1	4	_	NK	_	_
+7	solch	solche	solche	PIAT	PIAT	_	*|*|*	-1	10	_	NK	_	_
+8	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	10	_	NK	_	_
+9	fulminanter	fulminant	fulminant	ADJA	ADJA	_	nom|sg|masc|pos	-1	10	_	NK	_	_
+10	Steilpass	Steilpass	Steilpass	NN	NN	_	nom|sg|masc	-1	3	_	SB	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	von	von	von	APPR	APPR	_	_	-1	15	_	OP	_	_
+13	dem	die	die	PRELS	PRELS	_	dat|sg|masc	-1	12	_	NK	_	_
+14	man	man	man	PIS	PIS	_	nom|sg|*	-1	15	_	SB	_	_
+15	hofft	hoffen	hoffen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	10	_	RC	_	_
+16	,	,	,	$,	$,	_	_	-1	15	_	--	_	_
+17	dass	dass	dass	KOUS	KOUS	_	_	-1	25	_	CP	_	_
+18	die	die	die	ART	ART	_	nom|sg|fem	-1	19	_	NK	_	_
+19	Seeburger	Seeburger	Seeburger	NE	NE	_	nom|sg|fem	-1	25	_	NK	_	_
+20	oder	oder	oder	KON	KON	_	_	-1	19	_	CD	_	_
+21	Groß-Glienicker	Groß-Glienicker	Groß-Glienicker	NE	NE	_	nom|sg|masc	-1	20	_	CJ	_	_
+22	Mitspieler	Mitspieler	Mitspieler	NN	NN	_	dat|sg|masc	-1	24	_	OA	_	_
+23	ihn	er	er	PPER	PPER	_	acc|sg|masc|3	-1	24	_	OA	_	_
+24	aufnehmen	aufnehmen	aufnehmen	VVINF	VVINF	_	_	-1	25	_	OC	_	_
+25	können	können	können	VMINF	VMINF	_	pl|3|pres|ind	-1	15	_	MO	_	_
+26	.	.	.	$.	$.	_	_	-1	25	_	--	_	_
+
+	sentence_start	0	102	224	280
+	token_offsets	sentence	0	offsets	0::3	4::16	21::3	25::2	28::10	39::5	45::1	47::4	52::2	55::7	63::5	69::6	76::4	81::9	91::3	95::3	99::1
+	token_offsets	sentence	1	offsets	102::3	106::9	116::3	120::6	127::15	143::5	149::3	153::4	158::4	163::14	178::3	182::4	187::2	190::2	193::10	204::6	211::9	221::1
+	token_offsets	sentence	2	offsets	224::3	228::6	235::3	239::6	246::1	248::3	252::3	256::3	260::6	267::9	277::1
+	token_offsets	sentence	3	offsets	280::4	285::10	296::1	298::2	301::7	309::3	313::13	327::6	334::4	339::1	341::4	346::2	349::3	353::8	362::14	377::10	388::1
+1	Ein	eine	eine	ART	ART	_	nom|sg|masc	-1	2	_	NK	_	_
+2	Befreiungsschlag	Befreiungsschlag	Befreiungsschlag	NN	NN	_	nom|sg|masc	-1	3	_	PD	_	_
+3	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	3	_	SB	_	_
+5	allerdings	allerdings	allerdings	ADV	ADV	_	_	-1	3	_	MO	_	_
+6	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	3	_	NG	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	weil	weil	weil	KOUS	KOUS	_	_	-1	16	_	CP	_	_
+9	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	16	_	EP	_	_
+10	vorerst	vorerst	vorerst	ADV	ADV	_	_	-1	16	_	MO	_	_
+11	keine	keine	keine	PIAT	PIAT	_	acc|sg|fem	-1	12	_	NK	_	_
+12	Gefahr	Gefahr	Gefahr	NN	NN	_	acc|sg|fem	-1	16	_	OA	_	_
+13	fürs	fürs	fürs	APPRART	APPRART	_	acc|sg|neut	-1	12	_	MNR	_	_
+14	Dallgower	Dallgower	Dallgower	NN	NN	_	acc|sg|neut	-1	13	_	NK	_	_
+15	Tor	Tor	Tor	NN	NN	_	acc|sg|neut	-1	14	_	NK	_	_
+16	gab	geben	geben	VVFIN	VVFIN	_	sg|3|past|ind	-1	3	_	MO	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Seeburger	Seeburger	Seeburger	NE	NE	_	nom|sg|fem	-1	6	_	SB	_	_
+3	und	und	und	KON	KON	_	_	-1	2	_	CD	_	_
+4	einige	einige	einige	PIAT	PIAT	_	acc|pl|masc	-1	5	_	NK	_	_
+5	Groß-Glienicker	Groß-Glienicker	Groß-Glienicker	NN	NN	_	acc|pl|masc	-1	3	_	CJ	_	_
+6	haben	haben	haben	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+7	den	die	die	ART	ART	_	acc|sg|masc	-1	8	_	NK	_	_
+8	Ball	Ball	Ball	NN	NN	_	acc|sg|masc	-1	10	_	OA	_	_
+9	erst	erst	erst	ADV	ADV	_	_	-1	10	_	MO	_	_
+10	zurückgespielt	zurückspielen	zurückspielen	VVPP	VVPP	_	_	-1	6	_	OC	_	_
+11	und	und	und	KON	KON	_	_	-1	10	_	CD	_	_
+12	dann	dann	dann	ADV	ADV	_	_	-1	17	_	MO	_	_
+13	um	um	um	APPR	APPR	_	_	-1	14	_	AVC	_	_
+14	so	so	so	ADV	ADV	_	_	-1	15	_	MO	_	_
+15	drängender	drängender	drängender	ADJD	ADJD	_	comp	-1	17	_	MO	_	_
+16	wieder	wieder	wieder	ADV	ADV	_	_	-1	17	_	MO	_	_
+17	gefordert	fordern	fordern	VVPP	VVPP	_	_	-1	11	_	CJ	_	_
+18	.	.	.	$.	$.	_	_	-1	17	_	--	_	_
+
+1	Nun	nun	nun	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	sollen	sollen	sollen	VMFIN	VMFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	sie	sie	sie	PPER	PPER	_	nom|pl|*|3	-1	2	_	SB	_	_
+4	zeigen	zeigen	zeigen	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	wie	wie	wie	KOUS	KOUS	_	_	-1	10	_	CP	_	_
+7	sie	sie	sie	PPER	PPER	_	nom|sg|fem|3	-1	10	_	SB	_	_
+8	die	die	die	ART	ART	_	acc|sg|fem	-1	9	_	NK	_	_
+9	Chance	Chance	Chance	NN	NN	_	acc|sg|fem	-1	10	_	OA	_	_
+10	verwerten	verwerten	verwerten	VVINF	VVINF	_	_	-1	4	_	MO	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Eine	eine	eine	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Diskussion	Diskussion	Diskussion	NN	NN	_	nom|sg|fem	-1	11	_	SB	_	_
+3	,	,	,	$,	$,	_	_	-1	2	_	--	_	_
+4	wo	wo	wo	PWAV	PWAV	_	_	-1	5	_	MO	_	_
+5	künftig	künftig	künftig	ADJD	ADJD	_	pos	-1	8	_	MO	_	_
+6	die	die	die	ART	ART	_	nom|sg|fem	-1	7	_	NK	_	_
+7	Trainerkabine	Trainerkabine	Trainerkabine	NN	NN	_	nom|sg|fem	-1	9	_	SB	_	_
+8	stehen	stehen	stehen	VVINF	VVINF	_	_	-1	9	_	OC	_	_
+9	soll	sollen	sollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	2	_	RC	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	wäre	sein	sein	VAFIN	VAFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+12	in	in	in	APPR	APPR	_	_	-1	11	_	MO	_	_
+13	der	die	die	ART	ART	_	dat|sg|fem	-1	15	_	NK	_	_
+14	jetzigen	jetzig	jetzig	ADJA	ADJA	_	dat|sg|fem|pos	-1	15	_	NK	_	_
+15	Spielsituation	Spielsituation	Spielsituation	NN	NN	_	dat|sg|fem	-1	12	_	NK	_	_
+16	verheerend	verheerend	verheerend	ADJD	ADJD	_	pos	-1	11	_	MO	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
+	sentence_start	0	74	250	301	465
+	token_offsets	sentence	0	offsets	0::3	4::4	9::9	19::2	22::3	26::9	36::15	52::4	57::2	60::5	66::4	71::1
+	token_offsets	sentence	1	offsets	74::4	79::4	84::3	88::7	96::3	100::3	104::13	118::8	127::17	145::4	150::1	152::3	156::6	163::4	168::5	174::8	183::1	185::4	190::3	194::3	198::2	201::5	207::10	218::1	220::10	231::5	237::1	239::7	247::1
+	token_offsets	sentence	2	offsets	250::3	254::3	258::5	264::9	274::3	278::5	284::13	298::1
+	token_offsets	sentence	3	offsets	301::11	313::3	317::3	321::11	333::1	335::11	347::4	352::9	362::3	366::4	371::5	377::4	382::9	392::8	401::11	413::2	416::12	429::1	431::4	436::13	450::11	462::1
+	token_offsets	sentence	4	offsets	465::7	473::10	484::9	494::1
+1	Und	und	und	KON	KON	_	_	-1	8	_	JU	_	_
+2	eine	eine	eine	ART	ART	_	nom|sg|fem	-1	3	_	NK	_	_
+3	Parallele	Parallele	Parallele	NN	NN	_	nom|sg|fem	-1	8	_	OA	_	_
+4	zu	zu	zu	APPR	APPR	_	_	-1	3	_	MNR	_	_
+5	den	die	die	ART	ART	_	dat|pl|masc	-1	7	_	NK	_	_
+6	deutschen	deutsch	deutsch	ADJA	ADJA	_	dat|pl|masc|pos	-1	7	_	NK	_	_
+7	Grotten-Kickern	Grotten-Kickern	Grotten-Kickern	NN	NN	_	dat|pl|masc	-1	4	_	NK	_	_
+8	gibt	geben	geben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+9	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	8	_	EP	_	_
+10	immer	immer	immer	ADV	ADV	_	_	-1	11	_	MO	_	_
+11	noch	noch	noch	ADV	ADV	_	_	-1	8	_	MO	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Auch	auch	auch	ADV	ADV	_	_	-1	10	_	MO	_	_
+2	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	10	_	CP	_	_
+3	die	die	die	ART	ART	_	nom|pl|masc	-1	4	_	NK	_	_
+4	Spieler	Spieler	Spieler	NN	NN	_	nom|pl|masc	-1	10	_	SB	_	_
+5	aus	aus	aus	APPR	APPR	_	_	-1	9	_	MO	_	_
+6	den	die	die	ART	ART	_	dat|pl|fem	-1	8	_	NK	_	_
+7	verschiedenen	verschieden	verschieden	ADJA	ADJA	_	dat|pl|fem|pos	-1	8	_	NK	_	_
+8	Vereinen	Verein|Vereinen	Verein|Vereinen	NN	NN	_	dat|pl|fem	-1	5	_	NK	_	_
+9	zusammengewürfelt	zusammenwürfeln	zusammenwürfeln	VVPP	VVPP	_	_	-1	10	_	OC	_	_
+10	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	16	_	MO	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	sie	sie	sie	PPER	PPER	_	nom|pl|*|3	-1	13	_	SB	_	_
+13	müssen	müssen	müssen	VMFIN	VMFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+14	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	16	_	OA	_	_
+15	daran	daran	daran	PAV	PAV	_	_	-1	16	_	NK	_	_
+16	gewöhnen	gewöhnen	gewöhnen	VVFIN	VVFIN	_	_	-1	13	_	OC	_	_
+17	,	,	,	$,	$,	_	_	-1	16	_	--	_	_
+18	dass	dass	dass	KOUS	KOUS	_	_	-1	28	_	CP	_	_
+19	sie	sie	sie	PPER	PPER	_	nom|pl|masc|3	-1	28	_	SB	_	_
+20	nun	nun	nun	ADV	ADV	_	_	-1	28	_	MO	_	_
+21	in	in	in	APPR	APPR	_	_	-1	28	_	MO	_	_
+22	einer	eine	eine	ART	ART	_	dat|sg|fem	-1	23	_	NK	_	_
+23	Mannschaft	Mannschaft	Mannschaft	NN	NN	_	dat|sg|fem	-1	21	_	NK	_	_
+24	"	"	"	$(	$(	_	_	-1	23	_	--	_	_
+25	Döberitzer	Döberitzer	Döberitzer	NN	NN	_	nom|sg|fem	-1	23	_	PAR	_	_
+26	Heide	Heide	Heide	NE	NE	_	nom|sg|fem	-1	25	_	NK	_	_
+27	"	"	"	$(	$(	_	_	-1	26	_	--	_	_
+28	spielen	spielen	spielen	VVINF	VVINF	_	_	-1	13	_	MO	_	_
+29	.	.	.	$.	$.	_	_	-1	28	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	3	_	JU	_	_
+2	das	die	die	PDS	PDS	_	nom|sg|neut	-1	3	_	SB	_	_
+3	heißt	heißen	heißen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	gemeinsam	gemeinsam	gemeinsam	ADJD	ADJD	_	pos	-1	3	_	MO	_	_
+5	und	und	und	KON	KON	_	_	-1	4	_	CD	_	_
+6	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	5	_	CJ	_	_
+7	gegeneinander	gegeneinander	gegeneinander	PTKVZ	PTKVZ	_	_	-1	3	_	SVP	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+
+1	Ermahnungen	Ermahnung	Ermahnung	NN	NN	_	nom|pl|fem	-1	8	_	OA	_	_
+2	von	von	von	APPR	APPR	_	_	-1	1	_	MNR	_	_
+3	der	die	die	ART	ART	_	dat|sg|fem	-1	4	_	NK	_	_
+4	Seitenlinie	Seitenlinie	Seitenlinie	NN	NN	_	dat|sg|fem	-1	2	_	NK	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	miteinander	miteinander	miteinander	ADV	ADV	_	_	-1	7	_	MO	_	_
+7	fair	fair	fair	ADJD	ADJD	_	pos	-1	8	_	MO	_	_
+8	umzugehen	umgehen	umgehen	VVIZU	VVIZU	_	_	-1	19	_	SB	_	_
+9	und	und	und	KON	KON	_	_	-1	8	_	CD	_	_
+10	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	17	_	OA	_	_
+11	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	17	_	NG	_	_
+12	beim	bei	bei	APPRART	APPRART	_	dat|sg|masc	-1	17	_	MO	_	_
+13	kleinsten	klein	klein	ADJA	ADJA	_	dat|sg|masc|sup	-1	14	_	NK	_	_
+14	Schubser	Schubser	Schubser	NN	NN	_	dat|sg|masc	-1	12	_	NK	_	_
+15	gegenseitig	gegenseitig	gegenseitig	ADJD	ADJD	_	pos	-1	17	_	MO	_	_
+16	zu	zu	zu	PTKZU	PTKZU	_	_	-1	17	_	PM	_	_
+17	zerfleischen	zerfleischen	zerfleischen	VVINF	VVINF	_	_	-1	9	_	CJ	_	_
+18	,	,	,	$,	$,	_	_	-1	17	_	--	_	_
+19	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+20	normalerweise	normalerweise	normalerweise	ADV	ADV	_	_	-1	19	_	MO	_	_
+21	überflüssig	überflüssig	überflüssig	ADJD	ADJD	_	pos	-1	19	_	PD	_	_
+22	.	.	.	$.	$.	_	_	-1	21	_	--	_	_
+
+1	Vorerst	vorerst	vorerst	ADV	ADV	_	_	-1	3	_	MO	_	_
+2	allerdings	allerdings	allerdings	ADV	ADV	_	_	-1	3	_	MO	_	_
+3	hilfreich	hilfreich	hilfreich	ADJD	ADJD	_	pos	-1	0	_	--	_	_
+4	.	.	.	$.	$.	_	_	-1	3	_	--	_	_
+

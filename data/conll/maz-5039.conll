@@ -1,0 +1,217 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::3	4::5	10::10
+1	Ein	eine	eine	ART	ART	_	nom|sg|neut	-1	3	_	NK	_	_
+2	übles	übel	übel	ADJA	ADJA	_	nom|sg|neut|pos	-1	3	_	NK	_	_
+3	Verbrechen	Verbrechen	Verbrechen	NN	NN	_	nom|sg|neut	-1	0	_	--	_	_
+
+	sentence_start	0	47	141
+	token_offsets	sentence	0	offsets	0::5	6::4	11::3	15::5	21::3	25::8	34::9	44::1
+	token_offsets	sentence	1	offsets	47::5	53::2	56::7	64::3	68::3	72::8	81::1	83::5	89::1	91::7	99::3	103::17	121::2	124::6	131::6	138::1
+	token_offsets	sentence	2	offsets	141::5	147::4	152::2	155::8	164::10	175::1	177::4	182::2	185::7	193::11	205::17	223::10	234::3	238::4	243::4	248::9	258::3	262::12	275::5	281::2	284::5	290::9	300::9	310::9	320::6	327::1
+1	Angst	Angst	Angst	NN	NN	_	nom|sg|fem	-1	2	_	SB	_	_
+2	kann	können	können	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	das	die	die	ART	ART	_	acc|sg|neut	-1	4	_	NK	_	_
+4	Leben	Leben	Leben	NN	NN	_	acc|sg|neut	-1	7	_	OA	_	_
+5	von	von	von	APPR	APPR	_	_	-1	4	_	PG	_	_
+6	Menschen	Mensch	Mensch	NN	NN	_	dat|pl|masc	-1	5	_	NK	_	_
+7	zerstören	zerstören	zerstören	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+
+1	Angst	Angst	Angst	NN	NN	_	nom|sg|fem	-1	3	_	OA	_	_
+2	zu	zu	zu	PTKZU	PTKZU	_	_	-1	3	_	PM	_	_
+3	schüren	schüren	schüren	VVINF	VVINF	_	_	-1	4	_	SB	_	_
+4	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	die	die	die	ART	ART	_	nom|sg|fem	-1	10	_	NK	_	_
+6	makabere	makaber	makaber	ADJA	ADJA	_	nom|sg|fem|pos	-1	10	_	NK	_	_
+7	"	"	"	$(	$(	_	_	-1	6	_	--	_	_
+8	coole	cool	cool	ADJA	ADJA	_	nom|sg|fem|pos	-1	10	_	NK	_	_
+9	"	"	"	$(	$(	_	_	-1	8	_	--	_	_
+10	Absicht	Absicht	Absicht	NN	NN	_	nom|sg|fem	-1	4	_	SB	_	_
+11	von	von	von	APPR	APPR	_	_	-1	10	_	PG	_	_
+12	Trittbrettfahrern	Trittbrettfahrer	Trittbrettfahrer	NN	NN	_	dat|pl|masc	-1	11	_	NK	_	_
+13	in	in	in	APPR	APPR	_	_	-1	12	_	MNR	_	_
+14	diesen	dies	dies	PDAT	PDAT	_	dat|pl|fem	-1	15	_	NK	_	_
+15	Wochen	Woche	Woche	NN	NN	_	dat|pl|fem	-1	13	_	NK	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+1	Denen	die	die	PDS	PDS	_	dat|pl|*	-1	24	_	DA	_	_
+2	muss	müssen	müssen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	SB	_	_
+4	offenbar	offenbar	offenbar	ADJD	ADJD	_	pos	-1	5	_	MO	_	_
+5	imponieren	imponieren	imponieren	VVINF	VVINF	_	_	-1	3	_	RE	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	dass	dass	dass	KOUS	KOUS	_	_	-1	12	_	CP	_	_
+8	in	in	in	APPR	APPR	_	_	-1	12	_	MO	_	_
+9	Amerika	Amerika	Amerika	NE	NE	_	dat|sg|neut	-1	8	_	NK	_	_
+10	gefährliche	gefährlich	gefährlich	ADJA	ADJA	_	nom|sg|masc|pos	-1	11	_	NK	_	_
+11	Krankheitserreger	Krankheitserreger	Krankheitserreger	NN	NN	_	nom|sg|masc	-1	12	_	OA	_	_
+12	eingetütet	eintüten	eintüten	VVPP	VVPP	_	_	-1	25	_	OC	_	_
+13	und	und	und	KON	KON	_	_	-1	12	_	CD	_	_
+14	ohne	ohne	ohne	APPR	APPR	_	_	-1	24	_	MO	_	_
+15	jede	jede	jede	PIAT	PIAT	_	acc|sg|fem	-1	16	_	NK	_	_
+16	Ehrfurcht	Ehrfurcht	Ehrfurcht	NN	NN	_	acc|sg|fem	-1	14	_	NK	_	_
+17	vor	vor	vor	APPR	APPR	_	_	-1	24	_	MO	_	_
+18	menschlichem	menschlich	menschlich	ADJA	ADJA	_	dat|sg|neut|pos	-1	19	_	NK	_	_
+19	Leben	Leben	Leben	NN	NN	_	dat|sg|neut	-1	17	_	NK	_	_
+20	in	in	in	APPR	APPR	_	_	-1	24	_	MO	_	_
+21	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	23	_	NK	_	_
+22	tödlichen	tödlich	tödlich	ADJA	ADJA	_	acc|sg|masc|pos	-1	23	_	NK	_	_
+23	Kreislauf	Kreislauf	Kreislauf	NN	NN	_	acc|sg|masc	-1	20	_	NK	_	_
+24	geschickt	schicken	schicken	VVPP	VVPP	_	_	-1	13	_	CJ	_	_
+25	werden	werden	werden	VAINF	VAINF	_	_	-1	2	_	OC	_	_
+26	.	.	.	$.	$.	_	_	-1	25	_	--	_	_
+
+	sentence_start	0	98
+	token_offsets	sentence	0	offsets	0::4	5::11	17::4	22::2	25::8	34::1	36::3	40::6	47::4	52::5	58::2	61::8	70::4	75::10	86::8	95::1
+	token_offsets	sentence	1	offsets	98::10	109::6	116::3	120::4	125::2	128::3	132::4	137::3	141::1	143::4	148::3	152::6	159::8	168::6	175::3	179::9	189::10	200::1	202::2	205::11	217::20	238::7	246::1
+1	Auch	auch	auch	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	hierzulande	hierzulande	hierzulande	ADV	ADV	_	_	-1	3	_	MO	_	_
+3	gibt	geben	geben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	's	es	es	PPER	PPER	_	nom|sg|neut|3	-1	3	_	EP	_	_
+5	Menschen	Mensch	Mensch	NN	NN	_	acc|pl|masc	-1	3	_	OA	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	die	die	die	ART	ART	_	nom|pl|masc	-1	15	_	SB	_	_
+8	Pulver	Pulver	Pulver	NN	NN	_	nom|pl|masc	-1	15	_	OA	_	_
+9	oder	oder	oder	KON	KON	_	_	-1	8	_	CD	_	_
+10	Puder	Puder	Puder	NN	NN	_	nom|sg|masc	-1	9	_	CJ	_	_
+11	an	an	an	APPR	APPR	_	_	-1	15	_	MO	_	_
+12	Bekannte	Bekannte	Bekannte	NN	NN	_	dat|sg|fem	-1	11	_	NK	_	_
+13	oder	oder	oder	KON	KON	_	_	-1	12	_	CD	_	_
+14	Ungeliebte	Ungeliebte	Ungeliebte	NN	NN	_	dat|sg|fem	-1	13	_	CJ	_	_
+15	schicken	schicken	schicken	VVINF	VVINF	_	_	-1	5	_	RC	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+1	Vielleicht	vielleicht	vielleicht	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	stehen	stehen	stehen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	sie	sie	sie	PPER	PPER	_	nom|pl|*|3	-1	2	_	SB	_	_
+4	ganz	ganz	ganz	ADV	ADV	_	_	-1	5	_	MO	_	_
+5	in	in	in	APPR	APPR	_	_	-1	2	_	MO	_	_
+6	der	die	die	ART	ART	_	dat|sg|fem	-1	7	_	NK	_	_
+7	Nähe	Nähe	Nähe	NN	NN	_	dat|sg|fem	-1	5	_	NK	_	_
+8	rum	rum	rum	PTKVZ	PTKVZ	_	_	-1	2	_	SVP	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	14	_	CP	_	_
+11	die	die	die	ART	ART	_	nom|sg|fem	-1	12	_	NK	_	_
+12	Briefe	Brief	Brief	NN	NN	_	nom|sg|fem	-1	14	_	SB	_	_
+13	geöffnet	öffnen	öffnen	VVPP	VVPP	_	_	-1	14	_	OC	_	_
+14	werden	werden	werden	VAFIN	VAFIN	_	_	-1	2	_	MO	_	_
+15	und	und	und	KON	KON	_	_	-1	14	_	CD	_	_
+16	Schrecken	Schrecken	Schrecken	NN	NN	_	acc|sg|masc	-1	17	_	OA	_	_
+17	verbreiten	verbreiten	verbreiten	VVINF	VVINF	_	pl|3|pres|ind	-1	15	_	CJ	_	_
+18	,	,	,	$,	$,	_	_	-1	17	_	--	_	_
+19	zu	zu	zu	APPR	APPR	_	_	-1	22	_	OP	_	_
+20	aufwändigen	aufwendig	aufwendig	ADJA	ADJA	_	dat|pl|neut|pos	-1	21	_	NK	_	_
+21	Sicherheitsmaßnahmen	Sicherheitsmaßnahme	Sicherheitsmaßnahme	NN	NN	_	dat|pl|neut	-1	19	_	NK	_	_
+22	zwingen	zwingen	zwingen	VVINF	VVINF	_	_	-1	16	_	OC	_	_
+23	.	.	.	$.	$.	_	_	-1	22	_	--	_	_
+
+	sentence_start	0	45	257	313	353	510
+	token_offsets	sentence	0	offsets	0::3	4::5	10::7	18::5	24::3	28::3	32::9	42::1
+	token_offsets	sentence	1	offsets	45::9	55::9	65::7	73::12	86::4	91::3	95::11	107::3	111::13	125::13	139::1	141::4	146::3	150::6	157::3	161::12	174::11	186::1	188::10	199::7	207::4	212::7	220::14	235::6	242::11	254::1
+	token_offsets	sentence	2	offsets	257::6	264::5	270::2	273::11	285::16	302::2	305::4	310::1
+	token_offsets	sentence	3	offsets	313::5	319::5	325::5	331::2	334::7	342::7	350::1
+	token_offsets	sentence	4	offsets	353::3	357::6	364::6	371::1	373::3	377::5	383::5	389::2	392::3	396::5	402::4	407::1	409::2	412::3	416::8	425::3	429::5	435::5	441::1	443::8	452::3	456::10	467::13	481::5	487::6	494::1	496::10	507::1
+	token_offsets	sentence	5	offsets	510::8	519::4	524::2	527::3	531::5	537::1	539::4	544::6	551::8	560::2	563::5	569::2	572::9	582::1	584::3	588::3	592::3	596::5	602::10	613::1
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Angst	Angst	Angst	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+3	erfasst	erfassen	erfassen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	5	_	NG	_	_
+5	nur	nur	nur	ADV	ADV	_	_	-1	7	_	MO	_	_
+6	die	die	die	ART	ART	_	acc|pl|masc	-1	7	_	NK	_	_
+7	Empfänger	Empfänger	Empfänger	NN	NN	_	acc|pl|masc	-1	3	_	OA	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+
+1	Zumindest	zumindest	zumindest	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	gemischte	gemischt	gemischt	ADJA	ADJA	_	nom|pl|neut|pos	-1	3	_	NK	_	_
+3	Gefühle	Gefühl	Gefühl	NN	NN	_	nom|pl|neut	-1	4	_	SB	_	_
+4	beschleichen	beschleichen	beschleichen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+5	auch	auch	auch	ADV	ADV	_	_	-1	7	_	MO	_	_
+6	die	die	die	ART	ART	_	nom|pl|neut	-1	7	_	NK	_	_
+7	Mitarbeiter	Mitarbeiter	Mitarbeiter	NN	NN	_	nom|pl|neut	-1	4	_	SB	_	_
+8	des	die	die	ART	ART	_	gen|sg|masc	-1	10	_	NK	_	_
+9	Hennigsdorfer	Hennigsdorfer	Hennigsdorfer	NN	NN	_	*|*|*|pos	-1	10	_	NK	_	_
+10	Briefzentrums	Briefzentrums	Briefzentrums	NN	NN	_	gen|sg|masc	-1	7	_	AG	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	25	_	CP	_	_
+13	sie	sie	sie	PPER	PPER	_	nom|sg|fem|3	-1	25	_	SB	_	_
+14	Briefe	Brief	Brief	NN	NN	_	acc|pl|masc	-1	25	_	OA	_	_
+15	mit	mit	mit	APPR	APPR	_	_	-1	14	_	MNR	_	_
+16	merkwürdigen	merkwürdig	merkwürdig	ADJA	ADJA	_	dat|pl|fem|pos	-1	17	_	NK	_	_
+17	Anschriften	Anschrift	Anschrift	NN	NN	_	dat|pl|fem	-1	15	_	NK	_	_
+18	,	,	,	$,	$,	_	_	-1	17	_	--	_	_
+19	arabischen	arabisch	arabisch	ADJA	ADJA	_	dat|pl|*|pos	-1	20	_	NK	_	_
+20	Lettern	Letter	Letter	NN	NN	_	dat|pl|*	-1	17	_	CJ	_	_
+21	oder	oder	oder	KON	KON	_	_	-1	20	_	CD	_	_
+22	fühlbar	fühlbar	fühlbar	ADJD	ADJD	_	pos	-1	23	_	MO	_	_
+23	ungewöhnlichem	ungewöhnlich	ungewöhnlich	ADJA	ADJA	_	dat|sg|neut|pos	-1	24	_	NK	_	_
+24	Inhalt	Inhalt	Inhalt	NN	NN	_	dat|sg|neut	-1	21	_	CJ	_	_
+25	feststellen	feststellen	feststellen	VVINF	VVINF	_	_	-1	4	_	MO	_	_
+26	.	.	.	$.	$.	_	_	-1	25	_	--	_	_
+
+1	Bisher	bisher	bisher	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	waren	sein	sein	VAFIN	VAFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+3	in	in	in	APPR	APPR	_	_	-1	2	_	MO	_	_
+4	Deutschland	Deutschland	Deutschland	NE	NE	_	dat|sg|neut	-1	3	_	NK	_	_
+5	Trittbrettfahrer	Trittbrettfahrer	Trittbrettfahrer	NN	NN	_	nom|pl|masc	-1	2	_	SB	_	_
+6	am	an	an	APPRART	APPRART	_	dat|sg|neut	-1	2	_	MO	_	_
+7	Werk	Werk	Werk	NN	NN	_	dat|sg|neut	-1	6	_	NK	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+
+1	Einer	eine	eine	ART	ART	_	nom|sg|masc	-1	3	_	SB	_	_
+2	davon	davon	davon	PAV	PAV	_	_	-1	1	_	NK	_	_
+3	wurde	werden	werden	VAFIN	VAFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+4	in	in	in	APPR	APPR	_	_	-1	6	_	MO	_	_
+5	München	München	München	NE	NE	_	dat|sg|neut	-1	4	_	NK	_	_
+6	gefasst	fassen	fassen	VVPP	VVPP	_	_	-1	3	_	OC	_	_
+7	.	.	.	$.	$.	_	_	-1	6	_	--	_	_
+
+1	Ein	eine	eine	ART	ART	_	nom|sg|masc	-1	3	_	NK	_	_
+2	junger	jung	jung	ADJA	ADJA	_	nom|sg|masc|pos	-1	3	_	NK	_	_
+3	Mensch	Mensch	Mensch	NN	NN	_	nom|sg|masc	-1	0	_	--	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	der	die	die	PRELS	PRELS	_	nom|sg|masc	-1	11	_	SB	_	_
+6	viele	viele	viele	PIAT	PIAT	_	acc|pl|neut	-1	7	_	NK	_	_
+7	Jahre	Jahr	Jahr	NN	NN	_	acc|pl|neut	-1	9	_	MO	_	_
+8	zu	zu	zu	PTKZU	PTKZU	_	_	-1	9	_	PM	_	_
+9	tun	tun	tun	VVINF	VVINF	_	_	-1	10	_	OC	_	_
+10	haben	haben	haben	VAFIN	VAFIN	_	_	-1	11	_	OC	_	_
+11	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	3	_	RC	_	_
+12	,	,	,	$,	$,	_	_	-1	11	_	--	_	_
+13	um	um	um	KOUI	KOUI	_	_	-1	27	_	CP	_	_
+14	die	die	die	ART	ART	_	acc|sg|fem	-1	15	_	NK	_	_
+15	Rechnung	Rechnung	Rechnung	NN	NN	_	acc|sg|fem	-1	27	_	OA	_	_
+16	für	für	für	APPR	APPR	_	_	-1	15	_	MNR	_	_
+17	seine	sein	sein	PPOSAT	PPOSAT	_	acc|sg|fem	-1	18	_	NK	_	_
+18	Untat	Untat	Untat	NN	NN	_	acc|sg|fem	-1	16	_	NK	_	_
+19	,	,	,	$,	$,	_	_	-1	18	_	--	_	_
+20	immerhin	immerhin	immerhin	ADV	ADV	_	_	-1	25	_	MO	_	_
+21	ein	eine	eine	ART	ART	_	nom|sg|neut	-1	25	_	NK	_	_
+22	mindestens	mindestens	mindestens	ADV	ADV	_	_	-1	23	_	MO	_	_
+23	fünfstelliger	fünfstellig	fünfstellig	ADJA	ADJA	_	nom|sg|masc|pos	-1	25	_	NK	_	_
+24	hoher	hoch	hoch	ADJA	ADJA	_	nom|sg|masc|pos	-1	25	_	NK	_	_
+25	Betrag	Betrag	Betrag	NN	NN	_	nom|sg|masc	-1	18	_	APP	_	_
+26	,	,	,	$,	$,	_	_	-1	25	_	--	_	_
+27	abzuzahlen	abzahlen	abzahlen	VVIZU	VVIZU	_	_	-1	9	_	MO	_	_
+28	.	.	.	$.	$.	_	_	-1	27	_	--	_	_
+
+1	Abgelten	abgelten	abgelten	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+2	kann	können	können	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	2	_	SB	_	_
+4	sie	sie	sie	PPER	PPER	_	acc|*|*|3	-1	13	_	OA	_	_
+5	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	13	_	NG	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	denn	denn	denn	KON	KON	_	_	-1	13	_	CP	_	_
+8	andere	andere	andere	PIAT	PIAT	_	acc|pl|masc|pos	-1	9	_	NK	_	_
+9	Menschen	Mensch	Mensch	NN	NN	_	acc|pl|masc	-1	13	_	OA	_	_
+10	in	in	in	APPR	APPR	_	_	-1	13	_	MO	_	_
+11	Angst	Angst	Angst	NN	NN	_	acc|sg|fem	-1	10	_	NK	_	_
+12	zu	zu	zu	PTKZU	PTKZU	_	_	-1	13	_	PM	_	_
+13	versetzen	versetzen	versetzen	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+14	,	,	,	$,	$,	_	_	-1	13	_	--	_	_
+15	das	die	die	PDS	PDS	_	nom|sg|neut	-1	16	_	SB	_	_
+16	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	2	_	CJ	_	_
+17	ein	eine	eine	ART	ART	_	nom|sg|neut	-1	19	_	NK	_	_
+18	übles	übel	übel	ADJA	ADJA	_	nom|sg|neut|pos	-1	19	_	NK	_	_
+19	Verbrechen	Verbrechen	Verbrechen	NN	NN	_	nom|sg|neut	-1	16	_	PD	_	_
+20	.	.	.	$.	$.	_	_	-1	19	_	--	_	_
+

@@ -1,0 +1,209 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::9	10::9
+1	Stadtkern	Stadtkern	Stadtkern	NN	NN	_	nom|pl|masc	-1	2	_	SB	_	_
+2	aufwerten	aufwerten	aufwerten	VVFIN	VVFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+
+	sentence_start	0	139	242	310
+	token_offsets	sentence	0	offsets	0::2	3::6	10::8	19::3	23::5	29::9	39::3	43::3	47::19	67::6	74::3	78::13	92::4	97::11	109::5	115::6	122::4	127::8	136::1
+	token_offsets	sentence	1	offsets	139::9	149::4	154::2	157::7	165::6	172::4	177::3	181::11	193::4	198::1	200::4	205::8	214::9	224::3	228::10	239::1
+	token_offsets	sentence	2	offsets	242::9	252::6	259::2	262::3	266::19	286::4	291::4	296::10	307::1
+	token_offsets	sentence	3	offsets	310::3	314::4	319::4	324::7	332::7	340::3	344::1	346::4	351::4	356::5	362::4	367::10	378::1	380::4	385::3	389::4	394::3	398::3	402::7	410::5	416::1
+1	Im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	18	_	MO	_	_
+2	Streit	Streit	Streit	NN	NN	_	dat|sg|masc	-1	1	_	NK	_	_
+3	zwischen	zwischen	zwischen	APPR	APPR	_	_	-1	2	_	MNR	_	_
+4	der	die	die	ART	ART	_	dat|sg|fem	-1	5	_	NK	_	_
+5	Stadt	Stadt	Stadt	NN	NN	_	dat|sg|fem	-1	3	_	NK	_	_
+6	Wittstock	Wittstock	Wittstock	NN	NN	_	nom|sg|neut	-1	5	_	NK	_	_
+7	und	und	und	KON	KON	_	_	-1	5	_	CD	_	_
+8	dem	die	die	ART	ART	_	dat|sg|neut	-1	9	_	NK	_	_
+9	Landesstraßenbauamt	Landesstraßenbauamt	Landesstraßenbauamt	NN	NN	_	dat|sg|neut	-1	7	_	CJ	_	_
+10	Kyritz	Kyritz	Kyritz	NE	NE	_	nom|sg|masc	-1	9	_	NK	_	_
+11	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+12	Bürgermeister	Bürgermeister	Bürgermeister	NN	NN	_	nom|sg|masc	-1	11	_	SB	_	_
+13	Lutz	Lutz	Lutz	NE	NE	_	nom|sg|masc	-1	14	_	PNC	_	_
+14	Scheidemann	Scheidemann	Scheidemann	NE	NE	_	nom|sg|masc	-1	12	_	NK	_	_
+15	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	17	_	NK	_	_
+16	klaren	klar	klar	ADJA	ADJA	_	acc|sg|masc|pos	-1	17	_	NK	_	_
+17	Sieg	Sieg	Sieg	NN	NN	_	acc|sg|masc	-1	18	_	OA	_	_
+18	errungen	erringen	erringen	VVPP	VVPP	_	_	-1	11	_	OC	_	_
+19	.	.	.	$.	$.	_	_	-1	18	_	--	_	_
+
+1	Wittstock	Wittstock	Wittstock	NN	NN	_	nom|sg|masc	-1	2	_	SB	_	_
+2	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	in	in	in	APPR	APPR	_	_	-1	9	_	MO	_	_
+4	einigen	einige	einige	PIAT	PIAT	_	dat|pl|neut	-1	5	_	NK	_	_
+5	Jahren	Jahr	Jahr	NN	NN	_	dat|pl|neut	-1	3	_	NK	_	_
+6	frei	frei	frei	ADJD	ADJD	_	pos	-1	9	_	PD	_	_
+7	von	von	von	APPR	APPR	_	_	-1	6	_	MO	_	_
+8	Lkw-Verkehr	Lkw-Verkehr	Lkw-Verkehr	NN	NN	_	dat|sg|masc	-1	7	_	NK	_	_
+9	sein	sein	sein	VAINF	VAINF	_	_	-1	2	_	OC	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	eine	eine	eine	ART	ART	_	acc|sg|fem	-1	12	_	NK	_	_
+12	Umgehung	Umgehung	Umgehung	NN	NN	_	acc|sg|fem	-1	13	_	SB	_	_
+13	entlastet	entlasten	entlasten	VVFIN	VVFIN	_	sg|3|pres|ind	-1	2	_	CJ	_	_
+14	die	die	die	ART	ART	_	nom|sg|fem	-1	15	_	NK	_	_
+15	Innenstadt	Innenstadt	Innenstadt	NN	NN	_	nom|sg|fem	-1	13	_	SB	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+1	Klirrende	klirrend	klirrend	ADJA	ADJA	_	nom|pl|masc|pos	-1	2	_	NK	_	_
+2	Gläser	Glas	Glas	NN	NN	_	nom|pl|masc	-1	6	_	SB	_	_
+3	in	in	in	APPR	APPR	_	_	-1	2	_	MNR	_	_
+4	den	die	die	ART	ART	_	dat|pl|neut	-1	5	_	NK	_	_
+5	Wohnzimmerschränken	Wohnzimmerschränken	Wohnzimmerschränken	NN	NN	_	dat|pl|neut	-1	3	_	NK	_	_
+6	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+7	dann	dann	dann	ADV	ADV	_	_	-1	6	_	MO	_	_
+8	Geschichte	Geschichte	Geschichte	NN	NN	_	nom|sg|fem	-1	6	_	PD	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+1	Wer	wer	wer	PWS	PWS	_	nom|sg|masc	-1	6	_	SB	_	_
+2	sein	sein	sein	PPOSAT	PPOSAT	_	acc|sg|neut	-1	3	_	NK	_	_
+3	Haus	Haus	Haus	NN	NN	_	acc|sg|neut	-1	5	_	OA	_	_
+4	bereits	bereits	bereits	ADV	ADV	_	_	-1	5	_	MO	_	_
+5	saniert	sanieren	sanieren	VVPP	VVPP	_	_	-1	6	_	OC	_	_
+6	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	8	_	SB	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	muss	müssen	müssen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+9	auch	auch	auch	ADV	ADV	_	_	-1	8	_	MO	_	_
+10	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	8	_	NG	_	_
+11	mehr	mehr	mehr	ADV	ADV	_	_	-1	10	_	MO	_	_
+12	befürchten	befürchten	befürchten	VVINF	VVINF	_	_	-1	8	_	OC	_	_
+13	,	,	,	$,	$,	_	_	-1	12	_	--	_	_
+14	dass	dass	dass	KOUS	KOUS	_	_	-1	20	_	CP	_	_
+15	der	die	die	ART	ART	_	nom|sg|masc	-1	16	_	NK	_	_
+16	Putz	Putz	Putz	NN	NN	_	nom|sg|masc	-1	20	_	SB	_	_
+17	von	von	von	APPR	APPR	_	_	-1	20	_	MO	_	_
+18	der	die	die	ART	ART	_	dat|sg|fem	-1	19	_	NK	_	_
+19	Fassade	Fassade	Fassade	NN	NN	_	dat|sg|fem	-1	17	_	NK	_	_
+20	fällt	fallen|fällen	fallen|fällen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	8	_	MO	_	_
+21	.	.	.	$.	$.	_	_	-1	20	_	--	_	_
+
+	sentence_start	0	81	177	291	372	484	547	637
+	token_offsets	sentence	0	offsets	0::3	4::3	8::8	17::5	23::4	28::3	32::3	36::11	48::4	53::5	59::15	75::2	78::1
+	token_offsets	sentence	1	offsets	81::3	85::4	90::12	103::1	105::4	110::4	115::1	117::9	127::15	143::2	146::3	150::10	161::12	174::1
+	token_offsets	sentence	2	offsets	177::3	181::17	199::3	203::3	207::5	213::4	218::2	221::3	225::8	234::5	240::1	242::4	247::4	252::9	262::5	268::4	273::2	276::5	282::5	288::1
+	token_offsets	sentence	3	offsets	291::2	294::7	302::4	307::4	312::4	317::13	331::3	335::5	341::6	348::8	357::2	360::8	369::1
+	token_offsets	sentence	4	offsets	372::3	376::7	384::3	388::10	399::1	401::3	405::4	410::5	416::10	427::8	436::2	439::17	457::17	475::5	481::1
+	token_offsets	sentence	5	offsets	484::4	489::13	503::2	506::3	510::11	522::8	531::4	536::7	544::1
+	token_offsets	sentence	6	offsets	547::4	552::4	557::11	569::4	574::2	577::7	585::6	592::1	594::3	598::11	610::4	615::6	622::4	627::6	634::1
+	token_offsets	sentence	7	offsets	637::7	645::6	652::4	657::5	663::3	667::1	669::2	672::3	676::11	688::8	697::12	710::2	713::6	720::1
+1	Mit	mit	mit	APPR	APPR	_	_	-1	4	_	MO	_	_
+2	der	die	die	ART	ART	_	dat|sg|fem	-1	3	_	NK	_	_
+3	Einigung	Einigung	Einigung	NN	NN	_	dat|sg|fem	-1	1	_	NK	_	_
+4	kommt	kommen	kommen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	aber	aber	aber	ADV	ADV	_	_	-1	4	_	MO	_	_
+6	auf	auf	auf	APPR	APPR	_	_	-1	4	_	MO	_	_
+7	die	die	die	ART	ART	_	acc|pl|masc	-1	8	_	NK	_	_
+8	Wittstocker	Wittstocker	Wittstocker	NN	NN	_	acc|pl|masc	-1	6	_	NK	_	_
+9	eine	eine	eine	ART	ART	_	acc|sg|fem	-1	11	_	NK	_	_
+10	große	groß	groß	ADJA	ADJA	_	acc|sg|fem|pos	-1	11	_	NK	_	_
+11	Herausforderung	Herausforderung	Herausforderung	NN	NN	_	acc|sg|fem	-1	4	_	SB	_	_
+12	zu	zu	zu	PTKVZ	PTKVZ	_	_	-1	4	_	SVP	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Sie	Sie	Sie	PPER	PPER	_	nom|pl|*|3	-1	2	_	SB	_	_
+2	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	aufgefordert	auffordern	auffordern	VVPP	VVPP	_	_	-1	2	_	PD	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	über	über	über	APPR	APPR	_	_	-1	13	_	OP	_	_
+6	neue	neu	neu	ADJA	ADJA	_	acc|sg|fem|pos	-1	9	_	NK	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	sinnvolle	sinnvoll	sinnvoll	ADJA	ADJA	_	acc|sg|fem|pos	-1	6	_	CJ	_	_
+9	Verkehrsabläufe	Verkehrsablauf	Verkehrsablauf	NN	NN	_	acc|sg|fem	-1	5	_	NK	_	_
+10	in	in	in	APPR	APPR	_	_	-1	13	_	MO	_	_
+11	der	die	die	ART	ART	_	dat|sg|fem	-1	12	_	NK	_	_
+12	Innenstadt	Innenstadt	Innenstadt	NN	NN	_	dat|sg|fem	-1	10	_	NK	_	_
+13	nachzudenken	nachdenken	nachdenken	VVIZU	VVIZU	_	_	-1	3	_	OC	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Entlastungsstraße	Entlastungsstraße	Entlastungsstraße	NN	NN	_	nom|sg|fem	-1	5	_	SB	_	_
+3	für	für	für	APPR	APPR	_	_	-1	2	_	MNR	_	_
+4	Lkw	Lkw	Lkw	NN	NN	_	acc|pl|masc	-1	3	_	NK	_	_
+5	führt	führen	führen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+6	zwar	zwar	zwar	ADV	ADV	_	_	-1	5	_	MO	_	_
+7	um	um	um	APPR	APPR	_	_	-1	5	_	MO	_	_
+8	die	die	die	ART	ART	_	acc|sg|fem	-1	9	_	NK	_	_
+9	Altstadt	Altstadt	Altstadt	NN	NN	_	acc|sg|fem	-1	7	_	NK	_	_
+10	herum	herum	herum	PTKVZ	PTKVZ	_	_	-1	5	_	SVP	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	doch	doch	doch	KON	KON	_	_	-1	5	_	CD	_	_
+13	eine	eine	eine	ART	ART	_	nom|sg|fem	-1	15	_	NK	_	_
+14	autofreie	autofrei	autofrei	ADJA	ADJA	_	nom|sg|fem|pos	-1	15	_	NK	_	_
+15	Stadt	Stadt	Stadt	NN	NN	_	nom|sg|fem	-1	16	_	SB	_	_
+16	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	12	_	CJ	_	_
+17	es	es	es	PPER	PPER	_	acc|sg|neut|3	-1	19	_	OA	_	_
+18	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	19	_	NG	_	_
+19	geben	geben	geben	VVINF	VVINF	_	_	-1	16	_	OC	_	_
+20	.	.	.	$.	$.	_	_	-1	19	_	--	_	_
+
+1	So	so	so	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	braucht	brauchen	brauchen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	12	_	OA	_	_
+4	auch	auch	auch	ADV	ADV	_	_	-1	6	_	MO	_	_
+5	kein	keine	keine	PIAT	PIAT	_	nom|sg|masc	-1	6	_	NK	_	_
+6	Geschäftsmann	Geschäftsmann	Geschäftsmann	NN	NN	_	nom|sg|masc	-1	2	_	SB	_	_
+7	vor	vor	vor	APPR	APPR	_	_	-1	12	_	OP	_	_
+8	einer	eine	eine	ART	ART	_	dat|sg|fem	-1	10	_	NK	_	_
+9	leeren	leer	leer	ADJA	ADJA	_	dat|sg|fem|pos	-1	10	_	NK	_	_
+10	Altstadt	Altstadt	Altstadt	NN	NN	_	dat|sg|fem	-1	7	_	NK	_	_
+11	zu	zu	zu	PTKZU	PTKZU	_	_	-1	12	_	PM	_	_
+12	fürchten	fürchten	fürchten	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Gut	gut	gut	ADJD	ADJD	_	pos	-1	2	_	MO	_	_
+2	beraten	beraten	beraten	VVINF	VVINF	_	_	-1	3	_	PD	_	_
+3	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	allerdings	allerdings	allerdings	ADV	ADV	_	_	-1	3	_	MO	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	wer	wer	wer	PWS	PWS	_	nom|sg|masc	-1	14	_	SB	_	_
+7	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	14	_	DA	_	_
+8	jetzt	jetzt	jetzt	ADV	ADV	_	_	-1	14	_	MO	_	_
+9	ernsthafte	ernsthaft	ernsthaft	ADJA	ADJA	_	acc|pl|masc|pos	-1	10	_	NK	_	_
+10	Gedanken	Gedanke	Gedanke	NN	NN	_	acc|pl|masc	-1	14	_	OA	_	_
+11	um	um	um	APPR	APPR	_	_	-1	10	_	OP	_	_
+12	kundenfreundliche	kundenfreundlich	kundenfreundlich	ADJA	ADJA	_	acc|pl|fem|pos	-1	13	_	NK	_	_
+13	Parkmöglichkeiten	Parkmöglichkeit	Parkmöglichkeit	NN	NN	_	acc|pl|fem	-1	11	_	NK	_	_
+14	macht	machen	machen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	3	_	SB	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+1	Auch	auch	auch	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	Flaniermeilen	Flaniermeilen	Flaniermeilen	NN	NN	_	nom|pl|fem	-1	7	_	SB	_	_
+3	in	in	in	APPR	APPR	_	_	-1	2	_	MNR	_	_
+4	der	die	die	ART	ART	_	dat|sg|fem	-1	5	_	NK	_	_
+5	Wittstocker	Wittstocker	Wittstocker	NN	NN	_	dat|sg|fem	-1	3	_	NK	_	_
+6	Altstadt	Altstadt	Altstadt	NN	NN	_	nom|sg|neut	-1	5	_	NK	_	_
+7	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+8	gefragt	fragen	fragen	VVPP	VVPP	_	_	-1	7	_	PD	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+1	Denn	denn	denn	KON	KON	_	_	-1	4	_	JU	_	_
+2	ohne	ohne	ohne	APPR	APPR	_	_	-1	7	_	MO	_	_
+3	Lkw-Verkehr	Lkw-Verkehr	Lkw-Verkehr	NN	NN	_	dat|sg|masc	-1	2	_	NK	_	_
+4	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	4	_	EP	_	_
+6	ruhiger	ruhig	ruhig	ADJD	ADJD	_	comp	-1	7	_	PD	_	_
+7	werden	werden	werden	VAINF	VAINF	_	_	-1	4	_	OC	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	der	die	die	ART	ART	_	nom|sg|masc	-1	10	_	NK	_	_
+10	Stadtbummel	Stadtbummel	Stadtbummel	NN	NN	_	nom|sg|masc	-1	11	_	SB	_	_
+11	kann	können	können	VMFIN	VMFIN	_	sg|3|pres|ind	-1	4	_	CJ	_	_
+12	wieder	wieder	wieder	ADV	ADV	_	_	-1	11	_	MO	_	_
+13	Spaß	Spaß	Spaß	NN	NN	_	acc|sg|masc	-1	14	_	OA	_	_
+14	machen	machen	machen	VVINF	VVINF	_	_	-1	11	_	OC	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+1	Deshalb	deshalb	deshalb	PAV	PAV	_	_	-1	10	_	NK	_	_
+2	müssen	müssen	müssen	VMFIN	VMFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	neue	neu	neu	ADJA	ADJA	_	acc|pl|fem|pos	-1	4	_	NK	_	_
+4	Ideen	Idee	Idee	NN	NN	_	acc|pl|fem	-1	2	_	SB	_	_
+5	her	her	her	PTKVZ	PTKVZ	_	_	-1	2	_	MO	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	um	um	um	KOUI	KOUI	_	_	-1	13	_	CP	_	_
+8	die	die	die	ART	ART	_	acc|pl|masc	-1	9	_	NK	_	_
+9	Wittstocker	Wittstocker	Wittstocker	NN	NN	_	acc|pl|masc	-1	13	_	OA	_	_
+10	Altstadt	Altstadt	Altstadt	NN	NN	_	acc|pl|masc	-1	9	_	NK	_	_
+11	lebenswerter	lebenswert	lebenswert	ADJD	ADJD	_	comp	-1	13	_	MO	_	_
+12	zu	zu	zu	PTKZU	PTKZU	_	_	-1	13	_	PM	_	_
+13	machen	machen	machen	VVINF	VVINF	_	_	-1	2	_	MO	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+

@@ -1,0 +1,243 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::6	7::2	10::11
+1	Schnee	Schnee	Schnee	NN	NN	_	nom|sg|masc	-1	0	_	--	_	_
+2	zu	zu	zu	APPR	APPR	_	_	-1	1	_	MNR	_	_
+3	Heiligabend	Heiligabend	Heiligabend	NN	NN	_	dat|sg|masc	-1	2	_	NK	_	_
+
+	sentence_start	0	106	175
+	token_offsets	sentence	0	offsets	0::3	4::5	10::6	17::8	26::3	30::3	34::6	41::9	51::3	55::7	63::2	66::3	70::8	79::9	89::4	94::8	103::1
+	token_offsets	sentence	1	offsets	106::4	111::2	114::11	126::6	133::4	138::3	142::10	153::2	156::3	160::11	172::1
+	token_offsets	sentence	2	offsets	175::3	179::4	184::4	189::2	192::3	196::6	203::10	214::3	218::8	227::6	234::3	238::6	245::3	249::1	251::2	254::7	262::4	267::3	271::5	277::3	281::6	288::4	293::3	297::14	312::4	317::7	325::5	331::1
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	2	_	NK	_	_
+2	Traum	Traum	Traum	NN	NN	_	nom|sg|masc	-1	9	_	SB	_	_
+3	vieler	viele	viele	PIAT	PIAT	_	gen|pl|masc	-1	4	_	NK	_	_
+4	Menschen	Mensch	Mensch	NN	NN	_	gen|pl|masc	-1	2	_	AG	_	_
+5	von	von	von	APPR	APPR	_	_	-1	2	_	OP	_	_
+6	der	die	die	ART	ART	_	gen|pl|masc	-1	8	_	NK	_	_
+7	weißen	weiß	weiß	ADJA	ADJA	_	gen|pl|masc|pos	-1	8	_	NK	_	_
+8	Weihnacht	Weihnacht	Weihnacht	NN	NN	_	gen|pl|masc	-1	5	_	NK	_	_
+9	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+10	diesmal	diesmal	diesmal	ADV	ADV	_	_	-1	16	_	MO	_	_
+11	in	in	in	APPR	APPR	_	_	-1	16	_	MO	_	_
+12	der	die	die	ART	ART	_	dat|sg|fem	-1	13	_	NK	_	_
+13	Prignitz	Prignitz	Prignitz	NN	NN	_	dat|sg|fem	-1	11	_	NK	_	_
+14	teilweise	teilweise	teilweise	ADV	ADV	_	_	-1	15	_	MO	_	_
+15	wahr	wahr	wahr	ADJD	ADJD	_	pos	-1	16	_	PD	_	_
+16	geworden	werden	werden	VAPP	VAPP	_	_	-1	9	_	OC	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
+1	Denn	denn	denn	KON	KON	_	_	-1	4	_	JU	_	_
+2	an	an	an	APPR	APPR	_	_	-1	4	_	MO	_	_
+3	Heiligabend	Heiligabend	Heiligabend	NN	NN	_	dat|sg|masc	-1	2	_	NK	_	_
+4	hüllte	hüllen	hüllen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+5	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	4	_	OA	_	_
+6	die	die	die	ART	ART	_	nom|sg|fem	-1	7	_	NK	_	_
+7	Landschaft	Landschaft	Landschaft	NN	NN	_	nom|sg|fem	-1	4	_	SB	_	_
+8	in	in	in	APPR	APPR	_	_	-1	4	_	MO	_	_
+9	ein	eine	eine	ART	ART	_	acc|sg|neut	-1	10	_	NK	_	_
+10	Schneekleid	Schneekleid	Schneekleid	NN	NN	_	acc|sg|neut	-1	8	_	NK	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	13	_	JU	_	_
+2	auch	auch	auch	ADV	ADV	_	_	-1	13	_	MO	_	_
+3	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	13	_	CP	_	_
+4	an	an	an	APPR	APPR	_	_	-1	12	_	MO	_	_
+5	den	die	die	ART	ART	_	dat|pl|masc	-1	7	_	NK	_	_
+6	beiden	beide	beide	PIAT	PIAT	_	dat|pl|masc	-1	7	_	NK	_	_
+7	Feiertagen	Feiertag	Feiertag	NN	NN	_	dat|pl|masc	-1	4	_	NK	_	_
+8	ein	eine	eine	ART	ART	_	acc|sg|neut	-1	9	_	NK	_	_
+9	Großteil	Großteil	Großteil	NN	NN	_	acc|sg|neut	-1	13	_	SB	_	_
+10	wieder	wieder	wieder	ADV	ADV	_	_	-1	12	_	MO	_	_
+11	weg	weg	weg	ADV	ADV	_	_	-1	12	_	MO	_	_
+12	getaut	tauen	tauen	VVPP	VVPP	_	_	-1	13	_	PD	_	_
+13	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	15	_	RE	_	_
+14	,	,	,	$,	$,	_	_	-1	13	_	--	_	_
+15	so	so	so	ADV	ADV	_	_	-1	16	_	MO	_	_
+16	dürften	dürfen	dürfen	VMFIN	VMFIN	_	pl|3|past|subj	-1	0	_	--	_	_
+17	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	26	_	OA	_	_
+18	vor	vor	vor	APPR	APPR	_	_	-1	21	_	MO	_	_
+19	allem	alle	alle	PIS	PIS	_	dat|sg|neut	-1	18	_	NK	_	_
+20	die	die	die	ART	ART	_	nom|pl|fem	-1	21	_	NK	_	_
+21	Kinder	Kind	Kind	NN	NN	_	nom|pl|neut	-1	16	_	SB	_	_
+22	über	über	über	APPR	APPR	_	_	-1	26	_	OP	_	_
+23	ein	eine	eine	ART	ART	_	acc|sg|neut	-1	25	_	NK	_	_
+24	standesgemäßes	standesgemäß	standesgemäß	ADJA	ADJA	_	acc|sg|neut|pos	-1	25	_	NK	_	_
+25	Fest	Fest	Fest	NN	NN	_	acc|sg|neut	-1	22	_	NK	_	_
+26	gefreut	freuen	freuen	VVPP	VVPP	_	_	-1	27	_	OC	_	_
+27	haben	haben	haben	VAFIN	VAFIN	_	pl|3|pres|ind	-1	16	_	OC	_	_
+28	.	.	.	$.	$.	_	_	-1	27	_	--	_	_
+
+	sentence_start	0	41	225	340	392	470	564	659	752	823
+	token_offsets	sentence	0	offsets	0::8	9::3	13::7	21::3	25::12	38::1
+	token_offsets	sentence	1	offsets	41::4	46::3	50::8	59::4	64::5	70::2	73::3	77::14	92::2	95::7	103::1	105::3	109::11	121::3	125::4	130::3	134::8	143::9	153::3	157::5	163::4	168::3	172::9	182::6	189::3	193::4	198::16	215::6	222::1
+	token_offsets	sentence	2	offsets	225::2	228::4	233::4	238::5	244::4	249::5	255::4	260::1	262::4	267::3	271::5	277::9	287::3	291::8	300::3	304::1	306::3	310::3	314::13	328::8	337::1
+	token_offsets	sentence	3	offsets	340::2	343::6	350::4	355::7	363::3	367::3	371::4	376::2	379::3	383::5	389::1
+	token_offsets	sentence	4	offsets	392::6	399::3	403::8	412::3	416::3	420::4	425::6	432::1	434::4	439::4	444::3	448::2	451::4	456::5	462::4	467::1
+	token_offsets	sentence	5	offsets	470::8	479::8	488::4	493::3	497::4	502::5	508::3	512::9	522::5	528::8	537::1	539::13	553::3	557::3	561::1
+	token_offsets	sentence	6	offsets	564::8	573::7	581::3	585::8	594::2	597::6	604::8	613::3	617::14	632::3	636::3	640::7	648::7	656::1
+	token_offsets	sentence	7	offsets	659::4	664::5	670::3	674::3	678::14	693::1	695::2	698::7	706::4	711::3	715::6	722::2	725::3	729::8	738::2	741::7	749::1
+	token_offsets	sentence	8	offsets	752::3	756::7	764::8	773::5	779::4	784::3	788::3	792::15	808::11	820::1
+	token_offsets	sentence	9	offsets	823::4	828::7	836::4	841::7	849::2	852::5	858::1	860::3	864::4	869::3	873::2	876::11	888::6	895::1
+1	Übrigens	übrigens	übrigens	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	zum	zu	zu	APPRART	APPRART	_	dat|sg|neut	-1	0	_	--	_	_
+3	zweiten	zweit	zweit	ADJA	ADJA	_	dat|sg|neut|pos	-1	4	_	NK	_	_
+4	Mal	Mal	Mal	NN	NN	_	dat|sg|neut	-1	2	_	NK	_	_
+5	nacheinander	nacheinander	nacheinander	ADV	ADV	_	_	-1	2	_	MO	_	_
+6	.	.	.	$.	$.	_	_	-1	5	_	--	_	_
+
+1	Denn	denn	denn	KON	KON	_	_	-1	3	_	JU	_	_
+2	wer	wer	wer	PWS	PWS	_	nom|sg|masc	-1	3	_	SB	_	_
+3	erinnert	erinnern	erinnern	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	3	_	OA	_	_
+5	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	3	_	NG	_	_
+6	an	an	an	APPR	APPR	_	_	-1	3	_	OP	_	_
+7	den	die	die	ART	ART	_	acc|sg|masc	-1	8	_	NK	_	_
+8	Schneeeinbruch	Schneeeinbruch	Schneeeinbruch	NN	NN	_	acc|sg|masc	-1	6	_	NK	_	_
+9	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	8	_	MNR	_	_
+10	Vorjahr	Vorjahr	Vorjahr	NN	NN	_	dat|sg|neut	-1	9	_	NK	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	der	die	die	PRELS	PRELS	_	nom|sg|masc	-1	18	_	SB	_	_
+13	rechtzeitig	rechtzeitig	rechtzeitig	ADJD	ADJD	_	pos	-1	18	_	MO	_	_
+14	zum	zu	zu	APPRART	APPRART	_	dat|sg|masc	-1	18	_	MO	_	_
+15	Fest	Fest	Fest	NN	NN	_	dat|sg|masc	-1	14	_	NK	_	_
+16	die	die	die	ART	ART	_	acc|sg|fem	-1	17	_	NK	_	_
+17	Prignitz	Prignitz	Prignitz	NN	NN	_	acc|sg|fem	-1	18	_	OA	_	_
+18	erreichte	erreichen	erreichen	VVFIN	VVFIN	_	sg|3|past|ind	-1	8	_	RC	_	_
+19	und	und	und	KON	KON	_	_	-1	18	_	CD	_	_
+20	sogar	sogar	sogar	ADV	ADV	_	_	-1	28	_	MO	_	_
+21	über	über	über	APPR	APPR	_	_	-1	28	_	MO	_	_
+22	die	die	die	ART	ART	_	acc|sg|fem	-1	23	_	NK	_	_
+23	Feiertage	Feiertag	Feiertag	NN	NN	_	acc|sg|fem	-1	21	_	NK	_	_
+24	hinaus	hinaus	hinaus	ADV	ADV	_	_	-1	21	_	AC	_	_
+25	für	für	für	APPR	APPR	_	_	-1	28	_	OP	_	_
+26	eine	eine	eine	ART	ART	_	acc|sg|fem	-1	27	_	NK	_	_
+27	Winterlandschaft	Winterlandschaft	Winterlandschaft	NN	NN	_	acc|sg|fem	-1	25	_	NK	_	_
+28	sorgte	sorgen	sorgen	VVFIN	VVFIN	_	sg|3|past|ind	-1	19	_	CJ	_	_
+29	?	?	?	$.	$.	_	_	-1	28	_	--	_	_
+
+1	Es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	SB	_	_
+2	kann	können	können	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	also	also	also	ADV	ADV	_	_	-1	2	_	MO	_	_
+4	keine	keine	keine	PIAT	PIAT	_	nom|sg|fem	-1	5	_	NK	_	_
+5	Rede	Rede	Rede	NN	NN	_	nom|sg|fem	-1	2	_	SB	_	_
+6	davon	davon	davon	PAV	PAV	_	_	-1	5	_	NK	_	_
+7	sein	sein	sein	VAINF	VAINF	_	_	-1	2	_	OC	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	dass	dass	dass	KOUS	KOUS	_	_	-1	15	_	CP	_	_
+10	die	die	die	ART	ART	_	nom|sg|fem	-1	12	_	NK	_	_
+11	weiße	weiß	weiß	ADJA	ADJA	_	nom|sg|fem|pos	-1	12	_	NK	_	_
+12	Weihnacht	Weihnacht	Weihnacht	NN	NN	_	nom|sg|fem	-1	15	_	SB	_	_
+13	ein	eine	eine	ART	ART	_	nom|sg|neut	-1	14	_	NK	_	_
+14	Phänomen	Phänomen	Phänomen	NN	NN	_	nom|sg|neut	-1	15	_	PD	_	_
+15	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	1	_	RE	_	_
+16	,	,	,	$,	$,	_	_	-1	15	_	--	_	_
+17	das	die	die	PRELS	PRELS	_	nom|sg|neut	-1	20	_	SB	_	_
+18	der	die	die	ART	ART	_	dat|sg|fem	-1	19	_	NK	_	_
+19	Vergangenheit	Vergangenheit	Vergangenheit	NN	NN	_	dat|sg|fem	-1	20	_	DA	_	_
+20	angehört	angehören|anhören	angehören|anhören	VVPP	VVPP	_	_	-1	14	_	RC	_	_
+21	.	.	.	$.	$.	_	_	-1	20	_	--	_	_
+
+1	In	in	in	APPR	APPR	_	_	-1	4	_	MO	_	_
+2	diesem	dies	dies	PDAT	PDAT	_	dat|sg|neut	-1	3	_	NK	_	_
+3	Jahr	Jahr	Jahr	NN	NN	_	dat|sg|neut	-1	1	_	NK	_	_
+4	reichte	reichen	reichen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+5	sie	sie	sie	PPER	PPER	_	nom|sg|fem|3	-1	4	_	SB	_	_
+6	bis	bis	bis	APPR	APPR	_	_	-1	8	_	AC	_	_
+7	weit	weit	weit	ADJD	ADJD	_	pos	-1	8	_	MO	_	_
+8	in	in	in	APPR	APPR	_	_	-1	4	_	MO	_	_
+9	den	die	die	ART	ART	_	acc|sg|masc	-1	10	_	NK	_	_
+10	Süden	Süden	Süden	NN	NN	_	acc|sg|masc	-1	8	_	NK	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Selbst	selbst	selbst	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	auf	auf	auf	APPR	APPR	_	_	-1	4	_	MO	_	_
+3	Mallorca	Mallorca	Mallorca	NE	NE	_	dat|sg|neut	-1	2	_	NK	_	_
+4	lag	liegen	liegen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+5	zum	zu	zu	APPRART	APPRART	_	dat|sg|masc	-1	4	_	MO	_	_
+6	Fest	Fest	Fest	NN	NN	_	dat|sg|masc	-1	5	_	NK	_	_
+7	Schnee	Schnee	Schnee	NN	NN	_	nom|sg|masc	-1	6	_	NK	_	_
+8	-	-	-	$(	$(	_	_	-1	7	_	--	_	_
+9	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	12	_	CP	_	_
+10	auch	auch	auch	ADV	ADV	_	_	-1	12	_	MO	_	_
+11	nur	nur	nur	ADV	ADV	_	_	-1	12	_	MO	_	_
+12	in	in	in	APPR	APPR	_	_	-1	4	_	MO	_	_
+13	1000	1000	1000	CARD	CARD	_	_	-1	14	_	NK	_	_
+14	Meter	Meter	Meter	NN	NN	_	*|*|masc	-1	12	_	NK	_	_
+15	Höhe	Höhe	Höhe	NN	NN	_	nom|sg|fem	-1	14	_	NK	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+1	Anderswo	anderswo	anderswo	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	wiederum	wiederum	wiederum	ADV	ADV	_	_	-1	10	_	MO	_	_
+3	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	des	die	die	ART	ART	_	gen|sg|neut	-1	5	_	NK	_	_
+5	Fest	Fest	Fest	NN	NN	_	gen|sg|neut	-1	3	_	SB	_	_
+6	immer	immer	immer	ADV	ADV	_	_	-1	7	_	MO	_	_
+7	bei	bei	bei	APPR	APPR	_	_	-1	10	_	MO	_	_
+8	sengender	sengender	sengender	ADJA	ADJA	_	*|sg|fem|pos	-1	9	_	NK	_	_
+9	Hitze	Hitze	Hitze	NN	NN	_	*|sg|fem	-1	7	_	NK	_	_
+10	gefeiert	feiern	feiern	VVPP	VVPP	_	_	-1	3	_	OC	_	_
+11	-	-	-	$(	$(	_	_	-1	10	_	--	_	_
+12	unvorstellbar	unvorstellbar	unvorstellbar	ADJD	ADJD	_	pos	-1	13	_	MO	_	_
+13	für	für	für	APPR	APPR	_	_	-1	10	_	MO	_	_
+14	uns	wir	wir	PPER	PPER	_	dat|pl|*|1	-1	13	_	NK	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+1	Immerhin	immerhin	immerhin	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	bleiben	bleiben	bleiben	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	den	die	die	ART	ART	_	dat|pl|masc	-1	4	_	NK	_	_
+4	Menschen	Mensch	Mensch	NN	NN	_	dat|pl|masc	-1	2	_	DA	_	_
+5	in	in	in	APPR	APPR	_	_	-1	13	_	MO	_	_
+6	diesen	dies	dies	PDAT	PDAT	_	dat|pl|fem	-1	7	_	NK	_	_
+7	Regionen	Region	Region	NN	NN	_	dat|pl|fem	-1	5	_	NK	_	_
+8	die	die	die	ART	ART	_	acc|pl|fem	-1	9	_	NK	_	_
+9	Wetterunbilden	Wetterunbilden	Wetterunbilden	NN	NN	_	acc|pl|fem	-1	13	_	OA	_	_
+10	auf	auf	auf	APPR	APPR	_	_	-1	13	_	MO	_	_
+11	den	die	die	ART	ART	_	acc|sg|masc	-1	12	_	NK	_	_
+12	Straßen	Straße	Straße	NN	NN	_	acc|sg|masc	-1	10	_	NK	_	_
+13	erspart	ersparen	ersparen	VVPP	VVPP	_	sg|3|pres|ind	-1	2	_	OC	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Doch	doch	doch	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	folgt	folgen	folgen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	7	_	RE	_	_
+3	man	man	man	PIS	PIS	_	nom|sg|*	-1	2	_	SB	_	_
+4	dem	die	die	ART	ART	_	dat|sg|neut	-1	5	_	NK	_	_
+5	Polizeibericht	Polizeibericht	Polizeibericht	NN	NN	_	dat|sg|neut	-1	2	_	DA	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	so	so	so	ADV	ADV	_	_	-1	8	_	MO	_	_
+8	hielten	halten	halten	VVFIN	VVFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+9	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	8	_	OA	_	_
+10	die	die	die	ART	ART	_	nom|pl|fem	-1	11	_	NK	_	_
+11	Folgen	Folge	Folge	NN	NN	_	nom|pl|fem	-1	8	_	SB	_	_
+12	in	in	in	APPR	APPR	_	_	-1	8	_	MO	_	_
+13	der	die	die	ART	ART	_	dat|sg|fem	-1	14	_	NK	_	_
+14	Prignitz	Prignitz	Prignitz	NN	NN	_	dat|sg|fem	-1	12	_	NK	_	_
+15	in	in	in	APPR	APPR	_	_	-1	14	_	MNR	_	_
+16	Grenzen	Grenze	Grenze	NN	NN	_	dat|pl|fem	-1	15	_	NK	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|pl|masc	-1	3	_	NK	_	_
+2	meisten	meist	meist	PIAT	PIAT	_	nom|pl|masc	-1	3	_	NK	_	_
+3	Menschen	Mensch	Mensch	NN	NN	_	nom|pl|masc	-1	4	_	SB	_	_
+4	waren	sein	sein	VAFIN	VAFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+5	wohl	wohl	wohl	ADV	ADV	_	_	-1	9	_	MO	_	_
+6	auf	auf	auf	APPR	APPR	_	_	-1	9	_	OP	_	_
+7	den	die	die	ART	ART	_	acc|sg|masc	-1	8	_	NK	_	_
+8	Wetterumschwung	Wetterumschwung	Wetterumschwung	NN	NN	_	acc|sg|masc	-1	6	_	NK	_	_
+9	eingestellt	einstellen	einstellen	VVPP	VVPP	_	_	-1	4	_	OC	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+1	Oder	oder	oder	KON	KON	_	_	-1	2	_	JU	_	_
+2	blieben	bleiben	bleiben	VVFIN	VVFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+3	ganz	ganz	ganz	ADV	ADV	_	_	-1	4	_	MO	_	_
+4	einfach	einfach	einfach	ADJD	ADJD	_	pos	-1	2	_	MO	_	_
+5	zu	zu	zu	APPR	APPR	_	_	-1	2	_	MO	_	_
+6	Hause	Haus	Haus	NN	NN	_	dat|sg|neut	-1	5	_	NK	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	wie	wie	wie	KOUS	KOUS	_	_	-1	13	_	CP	_	_
+9	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	13	_	OA	_	_
+10	das	die	die	ART	ART	_	nom|sg|neut	-1	13	_	SB	_	_
+11	zu	zu	zu	APPR	APPR	_	_	-1	13	_	OP	_	_
+12	Weihnachten	Weihnachten	Weihnachten	NN	NN	_	dat|sg|neut	-1	11	_	NK	_	_
+13	gehört	gehören	gehören	VVFIN	VVFIN	_	sg|3|pres|ind	-1	2	_	MO	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+

@@ -1,0 +1,194 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::10	11::4	16::2	19::3
+1	Vielleicht	vielleicht	vielleicht	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	geht	gehen	gehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	's	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	EP	_	_
+4	gut	gut	gut	ADJD	ADJD	_	pos	-1	2	_	MO	_	_
+
+	sentence_start	0	162	313	381	574	696	742	1029
+	token_offsets	sentence	0	offsets	0::5	6::4	11::7	19::4	24::4	29::3	33::6	40::3	44::19	64::2	67::6	74::7	82::3	86::3	90::10	101::3	105::24	130::6	137::8	146::5	152::6	159::1
+	token_offsets	sentence	1	offsets	162::2	165::8	174::3	178::3	182::4	187::4	192::7	200::10	211::3	215::3	219::8	228::6	235::6	242::1	244::6	251::13	265::3	269::15	285::5	291::11	303::6	310::1
+	token_offsets	sentence	2	offsets	313::3	317::4	322::2	325::3	329::10	340::3	344::10	355::9	365::12	378::1
+	token_offsets	sentence	3	offsets	381::8	390::1	392::3	396::3	400::6	407::2	410::3	414::9	424::9	434::3	438::12	451::2	454::11	466::4	471::1	473::4	478::4	483::10	494::6	501::1	503::4	508::2	511::4	516::2	519::5	525::8	534::7	542::7	550::5	556::1	558::4	563::2	566::4	571::1
+	token_offsets	sentence	4	offsets	574::6	581::3	585::10	596::1	598::4	603::3	607::1	609::6	616::6	623::1	625::6	632::7	640::6	647::5	653::2	656::3	660::14	675::10	686::6	693::1
+	token_offsets	sentence	5	offsets	696::3	700::4	705::5	711::3	715::2	718::9	728::6	735::3	739::1
+	token_offsets	sentence	6	offsets	742::10	753::3	757::3	761::10	772::2	775::7	783::3	787::8	796::4	801::10	812::16	829::3	833::12	846::6	853::1	855::3	859::3	863::9	873::4	878::3	882::14	897::3	901::19	921::1	923::2	926::10	937::4	942::13	956::7	964::2	967::3	971::13	985::11	997::3	1001::21	1023::3	1027::1
+	token_offsets	sentence	7	offsets	1029::5	1035::10	1046::6	1053::12	1066::3	1070::7	1078::8	1087::1	1089::4	1094::7	1102::3	1106::3	1110::12	1123::2	1126::7	1134::1
+1	Einen	einen	einen	ADJA	ADJA	_	nom|sg|neut|pos	-1	2	_	NK	_	_
+2	Reim	Reim	Reim	NN	NN	_	nom|sg|neut	-1	3	_	SB	_	_
+3	konnten	können	können	VMFIN	VMFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+4	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	21	_	OA	_	_
+5	auch	auch	auch	ADV	ADV	_	_	-1	9	_	MO	_	_
+6	die	die	die	ART	ART	_	acc|sg|fem	-1	9	_	NK	_	_
+7	Außen-	Außen-	Außen-	TRUNC	TRUNC	_	_	-1	8	_	CJ	_	_
+8	und	und	und	KON	KON	_	_	-1	9	_	CD	_	_
+9	Sicherheitsexperten	Sicherheitsexperte	Sicherheitsexperte	NN	NN	_	dat|pl|masc	-1	3	_	SB	_	_
+10	in	in	in	APPR	APPR	_	_	-1	9	_	MNR	_	_
+11	Berlin	Berlin	Berlin	NE	NE	_	dat|sg|neut	-1	10	_	NK	_	_
+12	gestern	gestern	gestern	ADV	ADV	_	_	-1	3	_	MO	_	_
+13	auf	auf	auf	APPR	APPR	_	_	-1	21	_	MO	_	_
+14	die	die	die	ART	ART	_	acc|pl|fem	-1	15	_	NK	_	_
+15	Äußerungen	Äußerung	Äußerung	NN	NN	_	acc|pl|fem	-1	13	_	NK	_	_
+16	von	von	von	APPR	APPR	_	_	-1	15	_	PG	_	_
+17	US-Verteidigungsminister	US-Verteidigungsminister	US-Verteidigungsminister	NN	NN	_	nom|sg|masc	-1	16	_	NK	_	_
+18	Donald	Donald	Donald	NE	NE	_	nom|sg|masc	-1	17	_	NK	_	_
+19	Rumsfeld	Rumsfeld	Rumsfeld	NN	NN	_	acc|sg|neut	-1	21	_	OA	_	_
+20	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	3	_	NG	_	_
+21	machen	machen	machen	VVINF	VVINF	_	_	-1	3	_	OC	_	_
+22	.	.	.	$.	$.	_	_	-1	21	_	--	_	_
+
+1	Im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	3	_	MO	_	_
+2	Außenamt	Außenamt	Außenamt	NN	NN	_	dat|sg|neut	-1	1	_	NK	_	_
+3	zog	ziehen	ziehen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+4	man	man	man	PIS	PIS	_	nom|sg|*	-1	3	_	SB	_	_
+5	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	3	_	OA	_	_
+6	nach	nach	nach	APPR	APPR	_	_	-1	3	_	MO	_	_
+7	einiger	einige	einige	PIAT	PIAT	_	dat|sg|fem	-1	8	_	NK	_	_
+8	Bedenkzeit	Bedenkzeit	Bedenkzeit	NN	NN	_	dat|sg|fem	-1	6	_	NK	_	_
+9	auf	auf	auf	APPR	APPR	_	_	-1	3	_	MO	_	_
+10	die	die	die	ART	ART	_	acc|sg|fem	-1	12	_	NK	_	_
+11	bekannte	bekannt	bekannt	ADJA	ADJA	_	acc|sg|fem|pos	-1	12	_	NK	_	_
+12	Formel	Formel	Formel	NN	NN	_	acc|sg|fem	-1	9	_	NK	_	_
+13	zurück	zurück	zurück	PTKVZ	PTKVZ	_	_	-1	3	_	SVP	_	_
+14	,	,	,	$,	$,	_	_	-1	13	_	--	_	_
+15	wonach	wonach	wonach	PWAV	PWAV	_	_	-1	20	_	MO	_	_
+16	Wortmeldungen	Wortmeldung	Wortmeldung	NN	NN	_	nom|pl|fem	-1	21	_	SB	_	_
+17	von	von	von	APPR	APPR	_	_	-1	16	_	PG	_	_
+18	Bündnispartnern	Bündnispartner	Bündnispartner	NN	NN	_	dat|pl|masc	-1	17	_	NK	_	_
+19	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	20	_	NG	_	_
+20	kommentiert	kommentieren	kommentieren	VVPP	VVPP	_	_	-1	21	_	OC	_	_
+21	werden	werden	werden	VAINF	VAINF	_	_	-1	12	_	RC	_	_
+22	.	.	.	$.	$.	_	_	-1	21	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	8	_	JU	_	_
+2	auch	auch	auch	ADV	ADV	_	_	-1	3	_	MO	_	_
+3	in	in	in	APPR	APPR	_	_	-1	8	_	MO	_	_
+4	den	die	die	ART	ART	_	dat|pl|fem	-1	5	_	NK	_	_
+5	Fraktionen	Fraktion	Fraktion	NN	NN	_	dat|pl|fem	-1	3	_	NK	_	_
+6	des	die	die	ART	ART	_	gen|sg|masc	-1	7	_	NK	_	_
+7	Bundestags	Bundestag	Bundestag	NN	NN	_	gen|sg|masc	-1	5	_	AG	_	_
+8	herrschte	herrschen	herrschen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+9	Ratlosigkeit	Ratlosigkeit	Ratlosigkeit	NN	NN	_	nom|sg|fem	-1	8	_	SB	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+1	Rumsfeld	Rumsfeld	Rumsfeld	NN	NN	_	nom|sg|masc	-1	16	_	SB	_	_
+2	,	,	,	$,	$,	_	_	-1	1	_	--	_	_
+3	der	die	die	PRELS	PRELS	_	nom|sg|masc	-1	14	_	SB	_	_
+4	von	von	von	APPR	APPR	_	_	-1	14	_	MO	_	_
+5	Anfang	Anfang	Anfang	NN	NN	_	dat|sg|masc	-1	4	_	NK	_	_
+6	an	an	an	PTKVZ	PTKVZ	_	_	-1	4	_	AC	_	_
+7	als	als	als	KOKOM	KOKOM	_	_	-1	8	_	CM	_	_
+8	Hardliner	Hardliner	Hardliner	NN	NN	_	nom|sg|masc	-1	14	_	MO	_	_
+9	innerhalb	innerhalb	innerhalb	APPR	APPR	_	_	-1	14	_	MO	_	_
+10	der	die	die	ART	ART	_	dat|sg|fem	-1	11	_	NK	_	_
+11	US-Regierung	US-Regierung	US-Regierung	NN	NN	_	dat|sg|fem	-1	9	_	NK	_	_
+12	in	in	in	APPR	APPR	_	_	-1	14	_	CVC	_	_
+13	Erscheinung	Erscheinung	Erscheinung	NN	NN	_	acc|sg|fem	-1	12	_	NK	_	_
+14	trat	treten	treten	VVFIN	VVFIN	_	sg|3|past|ind	-1	1	_	RC	_	_
+15	,	,	,	$,	$,	_	_	-1	14	_	--	_	_
+16	habe	haben	haben	VAFIN	VAFIN	_	sg|3|pres|subj	-1	31	_	OC	_	_
+17	wohl	wohl	wohl	ADV	ADV	_	_	-1	18	_	MO	_	_
+18	klarmachen	klarmachen	klarmachen	VVINF	VVINF	_	_	-1	19	_	OC	_	_
+19	wollen	wollen	wollen	VMFIN	VMFIN	_	_	-1	16	_	OC	_	_
+20	,	,	,	$,	$,	_	_	-1	19	_	--	_	_
+21	dass	dass	dass	KOUS	KOUS	_	_	-1	29	_	CP	_	_
+22	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	29	_	EP	_	_
+23	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	28	_	OA	_	_
+24	um	um	um	APPR	APPR	_	_	-1	28	_	OP	_	_
+25	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	27	_	NK	_	_
+26	längeren	lang	lang	ADJA	ADJA	_	acc|sg|masc|comp	-1	27	_	NK	_	_
+27	Feldzug	Feldzug	Feldzug	NN	NN	_	acc|sg|masc	-1	24	_	NK	_	_
+28	handeln	handeln	handeln	VVINF	VVINF	_	_	-1	29	_	OC	_	_
+29	werde	werden	werden	VAFIN	VAFIN	_	sg|3|pres|subj	-1	19	_	MO	_	_
+30	,	,	,	$,	$,	_	_	-1	29	_	--	_	_
+31	hieß	heißen	heißen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+32	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	31	_	EP	_	_
+33	vage	vage	vage	ADJD	ADJD	_	pos	-1	31	_	MO	_	_
+34	.	.	.	$.	$.	_	_	-1	33	_	--	_	_
+
+1	Sicher	sicher	sicher	ADJD	ADJD	_	pos	-1	2	_	PD	_	_
+2	sei	sein	sein	VAFIN	VAFIN	_	sg|3|pres|subj	-1	0	_	--	_	_
+3	allenfalls	allenfalls	allenfalls	ADV	ADV	_	_	-1	2	_	MO	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	dass	dass	dass	KOUS	KOUS	_	_	-1	19	_	CP	_	_
+6	die	die	die	ART	ART	_	nom|sg|fem	-1	9	_	NK	_	_
+7	"	"	"	$(	$(	_	_	-1	6	_	--	_	_
+8	harten	hart	hart	ADJA	ADJA	_	gen|pl|*|pos	-1	9	_	NK	_	_
+9	Fakten	Faktum	Faktum	NN	NN	_	gen|pl|*	-1	19	_	SB	_	_
+10	"	"	"	$(	$(	_	_	-1	9	_	--	_	_
+11	dieses	dies	dies	PDAT	PDAT	_	gen|sg|neut	-1	12	_	NK	_	_
+12	Krieges	Krieg	Krieg	NN	NN	_	gen|sg|neut	-1	9	_	AG	_	_
+13	gewiss	gewiss	gewiss	ADJD	ADJD	_	_	-1	18	_	MO	_	_
+14	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	18	_	NG	_	_
+15	in	in	in	APPR	APPR	_	_	-1	18	_	MO	_	_
+16	der	die	die	ART	ART	_	dat|sg|fem	-1	17	_	NK	_	_
+17	Öffentlichkeit	Öffentlichkeit	Öffentlichkeit	NN	NN	_	dat|sg|fem	-1	15	_	NK	_	_
+18	diskutiert	diskutieren	diskutieren	VVPP	VVPP	_	_	-1	19	_	OC	_	_
+19	würden	werden	werden	VAFIN	VAFIN	_	pl|3|past|subj	-1	2	_	SB	_	_
+20	.	.	.	$.	$.	_	_	-1	19	_	--	_	_
+
+1	Was	was	was	PWS	PWS	_	nom|sg|neut	-1	8	_	SB	_	_
+2	auch	auch	auch	ADV	ADV	_	_	-1	8	_	MO	_	_
+3	immer	immer	immer	ADV	ADV	_	_	-1	8	_	MO	_	_
+4	das	die	die	ART	ART	_	nom|sg|neut	-1	8	_	SB	_	_
+5	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	7	_	MO	_	_
+6	Einzelnen	Einzelne	Einzelne	NN	NN	_	dat|sg|masc	-1	5	_	NK	_	_
+7	heißen	heißen	heißen	VVINF	VVINF	_	_	-1	8	_	OC	_	_
+8	mag	mögen	mögen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+1	Betrachtet	betrachten	betrachten	VVFIN	VVFIN	_	sg|3|pres|ind	-1	25	_	RE	_	_
+2	man	man	man	PIS	PIS	_	nom|sg|*	-1	1	_	SB	_	_
+3	die	die	die	ART	ART	_	acc|pl|fem	-1	4	_	NK	_	_
+4	Äußerungen	Äußerung	Äußerung	NN	NN	_	acc|pl|fem	-1	1	_	OA	_	_
+5	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	1	_	MO	_	_
+6	Kontext	Kontext	Kontext	NN	NN	_	dat|sg|masc	-1	5	_	NK	_	_
+7	des	die	die	ART	ART	_	gen|sg|masc	-1	11	_	NK	_	_
+8	geradezu	geradezu	geradezu	ADV	ADV	_	_	-1	10	_	MO	_	_
+9	naiv	naiv	naiv	ADJD	ADJD	_	pos	-1	10	_	MO	_	_
+10	anmutenden	anmutend	anmutend	ADJA	ADJA	_	gen|sg|masc|pos	-1	11	_	NK	_	_
+11	Eingeständnisses	Eingeständnis	Eingeständnis	NN	NN	_	gen|sg|masc	-1	6	_	AG	_	_
+12	des	die	die	ART	ART	_	gen|sg|masc	-1	14	_	NK	_	_
+13	Washingtoner	Washingtoner	Washingtoner	NN	NN	_	*|*|*|pos	-1	14	_	NK	_	_
+14	Stabes	Stab	Stab	NN	NN	_	gen|sg|masc	-1	11	_	AG	_	_
+15	,	,	,	$,	$,	_	_	-1	14	_	--	_	_
+16	man	man	man	PIS	PIS	_	nom|sg|*	-1	17	_	SB	_	_
+17	sei	sein	sein	VAFIN	VAFIN	_	sg|3|pres|subj	-1	1	_	CJ	_	_
+18	verblüfft	verblüfft	verblüfft	ADJD	ADJD	_	pos	-1	17	_	PD	_	_
+19	über	über	über	APPR	APPR	_	_	-1	18	_	MO	_	_
+20	die	die	die	ART	ART	_	acc|sg|fem	-1	21	_	NK	_	_
+21	Hartnäckigkeit	Hartnäckigkeit	Hartnäckigkeit	NN	NN	_	acc|sg|fem	-1	19	_	NK	_	_
+22	des	die	die	ART	ART	_	gen|sg|masc	-1	23	_	NK	_	_
+23	Taliban-Widerstands	Taliban-Widerstands	Taliban-Widerstands	NN	NN	_	gen|sg|masc	-1	21	_	AG	_	_
+24	,	,	,	$,	$,	_	_	-1	23	_	--	_	_
+25	so	so	so	ADV	ADV	_	_	-1	26	_	MO	_	_
+26	schleichen	schleichen	schleichen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+27	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	26	_	OA	_	_
+28	unwillkürlich	unwillkürlich	unwillkürlich	ADJD	ADJD	_	pos	-1	26	_	MO	_	_
+29	Zweifel	Zweifel	Zweifel	NN	NN	_	nom|pl|masc	-1	26	_	SB	_	_
+30	an	an	an	APPR	APPR	_	_	-1	29	_	OP	_	_
+31	der	die	die	ART	ART	_	dat|sg|fem	-1	33	_	NK	_	_
+32	realistischen	realistisch	realistisch	ADJA	ADJA	_	dat|sg|fem|pos	-1	33	_	NK	_	_
+33	Kalkulation	Kalkulation	Kalkulation	NN	NN	_	dat|sg|fem	-1	30	_	NK	_	_
+34	des	die	die	ART	ART	_	gen|sg|masc	-1	35	_	NK	_	_
+35	Afghanistan-Einsatzes	Afghanistan-Einsatzes	Afghanistan-Einsatzes	NN	NN	_	gen|sg|masc	-1	33	_	AG	_	_
+36	ein	ein	ein	PTKVZ	PTKVZ	_	_	-1	26	_	SVP	_	_
+37	.	.	.	$.	$.	_	_	-1	36	_	--	_	_
+
+1	Weder	weder	weder	KON	KON	_	_	-1	2	_	CD	_	_
+2	motivieren	motivieren	motivieren	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	solche	solche	solche	PIAT	PIAT	_	nom|pl|fem	-1	4	_	NK	_	_
+4	Einlassungen	Einlassung	Einlassung	NN	NN	_	nom|pl|fem	-1	2	_	SB	_	_
+5	die	die	die	ART	ART	_	nom|pl|fem	-1	7	_	NK	_	_
+6	eigenen	eigen	eigen	ADJA	ADJA	_	nom|pl|fem|pos	-1	7	_	NK	_	_
+7	Soldaten	Soldat	Soldat	NN	NN	_	nom|pl|fem	-1	2	_	OA	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	noch	noch	noch	ADV	ADV	_	_	-1	10	_	MO	_	_
+10	fördern	fördern	fördern	VVFIN	VVFIN	_	pl|3|pres|ind	-1	2	_	CJ	_	_
+11	sie	sie	sie	PPER	PPER	_	nom|pl|*|3	-1	10	_	SB	_	_
+12	den	die	die	ART	ART	_	acc|sg|masc	-1	13	_	NK	_	_
+13	Zusammenhalt	Zusammenhalt	Zusammenhalt	NN	NN	_	acc|sg|masc	-1	10	_	OA	_	_
+14	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	13	_	MNR	_	_
+15	Bündnis	Bündnis	Bündnis	NN	NN	_	dat|sg|neut	-1	14	_	NK	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+

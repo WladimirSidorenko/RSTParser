@@ -1,0 +1,220 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::6
+1	Tränen	Träne|Tränen	Träne|Tränen	NN	NN	_	nom|pl|fem	-1	0	_	--	_	_
+
+	sentence_start	0	73
+	token_offsets	sentence	0	offsets	0::6	7::7	15::7	23::3	27::14	42::3	46::3	50::8	59::3	63::6	70::1
+	token_offsets	sentence	1	offsets	73::4	78::4	83::3	87::2	90::5	96::4	101::3	105::4	110::3	114::7	122::10	133::7	141::8	150::2	153::3	157::7	165::5	171::9	181::6	188::1	190::6	197::4	202::6	209::1
+1	Tränen	Träne|Tränen	Träne|Tränen	NN	NN	_	nom|pl|fem	-1	2	_	SB	_	_
+2	flossen	fließen	fließen	VVFIN	VVFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+3	gestern	gestern	gestern	ADV	ADV	_	_	-1	2	_	MO	_	_
+4	zum	zu	zu	APPRART	APPRART	_	dat|sg|masc	-1	2	_	MO	_	_
+5	Volkstrauertag	Volkstrauertag	Volkstrauertag	NN	NN	_	dat|sg|masc	-1	4	_	NK	_	_
+6	auf	auf	auf	APPR	APPR	_	_	-1	2	_	MO	_	_
+7	dem	die	die	ART	ART	_	dat|sg|masc	-1	8	_	NK	_	_
+8	Friedhof	Friedhof	Friedhof	NN	NN	_	dat|sg|masc	-1	6	_	NK	_	_
+9	von	von	von	APPR	APPR	_	_	-1	8	_	PG	_	_
+10	Langen	Langen	Langen	NE	NE	_	dat|sg|neut	-1	9	_	NK	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Noch	noch	noch	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	mehr	mehr	mehr	ADV	ADV	_	_	-1	5	_	NK	_	_
+3	als	als	als	KOKOM	KOKOM	_	_	-1	4	_	CM	_	_
+4	56	56	56	CARD	CARD	_	_	-1	2	_	CC	_	_
+5	Jahre	Jahr	Jahr	NN	NN	_	acc|pl|neut	-1	6	_	MO	_	_
+6	nach	nach	nach	APPR	APPR	_	_	-1	12	_	MO	_	_
+7	dem	die	die	ART	ART	_	dat|sg|neut	-1	8	_	NK	_	_
+8	Ende	Ende	Ende	NN	NN	_	dat|sg|neut	-1	6	_	NK	_	_
+9	des	die	die	ART	ART	_	gen|sg|masc	-1	11	_	NK	_	_
+10	Zweiten	zweit	zweit	ADJA	ADJA	_	gen|sg|masc|pos	-1	11	_	NK	_	_
+11	Weltkriegs	Weltkrieg	Weltkrieg	NN	NN	_	gen|sg|masc	-1	8	_	AG	_	_
+12	trauern	trauern	trauern	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+13	Menschen	Mensch	Mensch	NN	NN	_	nom|pl|masc	-1	12	_	SB	_	_
+14	um	um	um	APPR	APPR	_	_	-1	12	_	MO	_	_
+15	den	die	die	ART	ART	_	acc|sg|masc	-1	16	_	NK	_	_
+16	Verlust	Verlust	Verlust	NN	NN	_	acc|sg|masc	-1	14	_	NK	_	_
+17	eines	eine	eine	ART	ART	_	gen|sg|neut	-1	19	_	NK	_	_
+18	geliebten	geliebt	geliebt	ADJA	ADJA	_	gen|sg|neut|pos	-1	19	_	NK	_	_
+19	Mannes	Mann	Mann	NN	NN	_	gen|sg|neut	-1	16	_	AG	_	_
+20	,	,	,	$,	$,	_	_	-1	19	_	--	_	_
+21	Vaters	Vater	Vater	NN	NN	_	gen|sg|neut	-1	19	_	CJ	_	_
+22	oder	oder	oder	KON	KON	_	_	-1	21	_	CD	_	_
+23	Kindes	Kind	Kind	NN	NN	_	gen|sg|neut	-1	22	_	CJ	_	_
+24	.	.	.	$.	$.	_	_	-1	23	_	--	_	_
+
+	sentence_start	0	94	163
+	token_offsets	sentence	0	offsets	0::3	4::3	8::5	14::12	27::4	32::2	35::9	45::4	50::3	54::11	66::3	70::13	84::6	91::1
+	token_offsets	sentence	1	offsets	94::3	98::14	113::4	118::10	129::5	135::3	139::5	145::2	148::11	160::1
+	token_offsets	sentence	2	offsets	163::3	167::6	174::3	178::1	180::9	190::1	192::10	203::7	211::1	213::10	224::3	228::2	231::4	236::7	244::5	250::11	262::1
+1	Mit	mit	mit	APPR	APPR	_	_	-1	4	_	MO	_	_
+2	dem	die	die	ART	ART	_	dat|sg|masc	-1	3	_	NK	_	_
+3	Krieg	Krieg	Krieg	NN	NN	_	dat|sg|masc	-1	1	_	NK	_	_
+4	beschäftigte	beschäftigen	beschäftigen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+5	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	4	_	OA	_	_
+6	am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	4	_	MO	_	_
+7	Sonnabend	Sonnabend	Sonnabend	NN	NN	_	dat|sg|masc	-1	6	_	NK	_	_
+8	auch	auch	auch	ADV	ADV	_	_	-1	10	_	MO	_	_
+9	die	die	die	ART	ART	_	nom|sg|fem	-1	10	_	NK	_	_
+10	Kreissynode	Kreissynode	Kreissynode	NN	NN	_	nom|sg|fem	-1	4	_	SB	_	_
+11	der	die	die	ART	ART	_	gen|sg|fem	-1	13	_	NK	_	_
+12	Evangelischen	evangelisch	evangelisch	ADJA	ADJA	_	gen|sg|fem|pos	-1	13	_	NK	_	_
+13	Kirche	Kirche	Kirche	NN	NN	_	gen|sg|fem	-1	10	_	AG	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Sie	Sie	Sie	PPER	PPER	_	nom|sg|fem|3	-1	2	_	SB	_	_
+2	verabschiedete	verabschieden	verabschieden	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+3	eine	eine	eine	ART	ART	_	acc|sg|fem	-1	4	_	NK	_	_
+4	Resolution	Resolution	Resolution	NN	NN	_	acc|sg|fem	-1	2	_	OA	_	_
+5	gegen	gegen	gegen	APPR	APPR	_	_	-1	4	_	MNR	_	_
+6	den	die	die	ART	ART	_	acc|sg|masc	-1	7	_	NK	_	_
+7	Krieg	Krieg	Krieg	NN	NN	_	acc|sg|masc	-1	5	_	NK	_	_
+8	in	in	in	APPR	APPR	_	_	-1	7	_	MNR	_	_
+9	Afghanistan	Afghanistan	Afghanistan	NE	NE	_	dat|sg|neut	-1	8	_	NK	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+1	Das	die	die	ART	ART	_	nom|sg|neut	-1	2	_	NK	_	_
+2	Papier	Papier	Papier	NN	NN	_	nom|sg|neut	-1	3	_	SB	_	_
+3	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	-	-	-	$(	$(	_	_	-1	3	_	--	_	_
+5	zugegeben	zugeben	zugeben	VVPP	VVPP	_	_	-1	8	_	MO	_	_
+6	-	-	-	$(	$(	_	_	-1	5	_	--	_	_
+7	vorsichtig	vorsichtig	vorsichtig	ADJD	ADJD	_	pos	-1	8	_	MO	_	_
+8	gefasst	fassen	fassen	VVPP	VVPP	_	_	-1	3	_	PD	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	vielleicht	vielleicht	vielleicht	ADV	ADV	_	_	-1	11	_	MO	_	_
+11	gab	geben	geben	VVFIN	VVFIN	_	sg|3|past|ind	-1	3	_	CJ	_	_
+12	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	11	_	EP	_	_
+13	auch	auch	auch	ADV	ADV	_	_	-1	16	_	MO	_	_
+14	deshalb	deshalb	deshalb	PAV	PAV	_	_	-1	15	_	NK	_	_
+15	keine	keine	keine	PIAT	PIAT	_	acc|sg|fem	-1	16	_	NK	_	_
+16	Gegenstimme	Gegenstimme	Gegenstimme	NN	NN	_	acc|sg|fem	-1	11	_	OA	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
+	sentence_start	0	231	280	407
+	token_offsets	sentence	0	offsets	0::3	4::8	13::3	17::4	22::9	32::1	34::4	39::4	44::3	48::1	50::3	54::6	61::6	68::4	73::3	77::1	78::0	80::1	82::7	90::12	103::8	112::1	114::5	120::11	132::4	137::2	140::3	144::20	165::5	171::3	175::6	182::16	199::9	209::3	213::5	219::3	223::4	228::1
+	token_offsets	sentence	1	offsets	231::2	234::11	246::7	254::6	261::3	265::4	270::6	277::1
+	token_offsets	sentence	2	offsets	280::14	295::9	305::11	317::6	324::1	326::3	330::2	333::5	339::10	350::6	357::3	361::5	367::3	371::4	376::4	381::3	385::5	391::6	398::5	404::1
+	token_offsets	sentence	3	offsets	407::4	412::1	414::3	418::5	424::3	428::9	438::6	445::1	447::6	454::4	459::5	465::12	478::5	484::2	487::4	492::1
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Stimmung	Stimmung	Stimmung	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+3	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	5	_	OA	_	_
+5	gewandelt	wandeln	wandeln	VVPP	VVPP	_	_	-1	3	_	OC	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	seit	seit	seit	KOUS	KOUS	_	_	-1	9	_	CP	_	_
+8	klar	klar	klar	ADJD	ADJD	_	pos	-1	9	_	PD	_	_
+9	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	5	_	MO	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	was	was	was	PRELS	PRELS	_	nom|sg|neut	-1	15	_	SB	_	_
+12	vielen	viele	viele	PIS	PIS	_	dat|pl|masc	-1	14	_	DA	_	_
+13	vorher	vorher	vorher	ADV	ADV	_	_	-1	15	_	MO	_	_
+14	klar	klar	klar	ADJD	ADJD	_	pos	-1	15	_	PD	_	_
+15	war	sein	sein	VAFIN	VAFIN	_	sg|3|past|ind	-1	5	_	CJ	_	_
+16	:	:	:	$.	$.	_	_	-1	15	_	--	_	_
+17	"	"	"	$(	$(	_	_	-1	16	_	--	_	_
+18	Saubere	sauber	sauber	ADJA	ADJA	_	nom|pl|neut|pos	-1	20	_	NK	_	_
+19	chirurgische	chirurgisch	chirurgisch	ADJA	ADJA	_	nom|pl|neut|pos	-1	20	_	NK	_	_
+20	Schnitte	Schnitt|Schnitte	Schnitt|Schnitte	NN	NN	_	nom|pl|neut	-1	24	_	OA	_	_
+21	"	"	"	$(	$(	_	_	-1	20	_	--	_	_
+22	gegen	gegen	gegen	APPR	APPR	_	_	-1	20	_	MNR	_	_
+23	Terroristen	Terrorist	Terrorist	NN	NN	_	dat|pl|masc	-1	22	_	NK	_	_
+24	gibt	geben	geben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	15	_	CJ	_	_
+25	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	24	_	EP	_	_
+26	mit	mit	mit	APPR	APPR	_	_	-1	24	_	MO	_	_
+27	Flächenbombardements	Flächenbombardement	Flächenbombardement	NN	NN	_	dat|pl|neut	-1	26	_	NK	_	_
+28	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	24	_	NG	_	_
+29	und	und	und	KON	KON	_	_	-1	24	_	CD	_	_
+30	selbst	selbst	selbst	ADV	ADV	_	_	-1	31	_	MO	_	_
+31	High-Tech-Bomben	High-Tech-Bomben	High-Tech-Bomben	NN	NN	_	nom|pl|fem	-1	32	_	SB	_	_
+32	verfehlen	verfehlen	verfehlen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	29	_	CJ	_	_
+33	oft	oft	oft	ADV	ADV	_	_	-1	32	_	MO	_	_
+34	genug	genug	genug	ADV	ADV	_	_	-1	33	_	MO	_	_
+35	ihr	ihr	ihr	PPOSAT	PPOSAT	_	acc|sg|neut	-1	36	_	NK	_	_
+36	Ziel	Ziel	Ziel	NN	NN	_	acc|sg|neut	-1	32	_	OA	_	_
+37	.	.	.	$.	$.	_	_	-1	36	_	--	_	_
+
+1	In	in	in	APPR	APPR	_	_	-1	3	_	MO	_	_
+2	Afghanistan	Afghanistan	Afghanistan	NE	NE	_	dat|sg|neut	-1	1	_	NK	_	_
+3	sterben	sterben	sterben	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+4	Frauen	Frau	Frau	NN	NN	_	nom|pl|fem	-1	3	_	SB	_	_
+5	und	und	und	KON	KON	_	_	-1	4	_	CD	_	_
+6	alte	alt	alt	ADJA	ADJA	_	acc|pl|masc|pos	-1	7	_	NK	_	_
+7	Männer	Mann	Mann	NN	NN	_	acc|pl|masc	-1	5	_	CJ	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+
+1	Bombensplitter	Bombensplitter	Bombensplitter	NN	NN	_	nom|pl|masc	-1	2	_	SB	_	_
+2	zerfetzen	zerfetzen	zerfetzen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	afghanische	afghanisch	afghanisch	ADJA	ADJA	_	nom|pl|neut|pos	-1	4	_	NK	_	_
+4	Kinder	Kind	Kind	NN	NN	_	nom|pl|neut	-1	2	_	SB	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	die	die	die	PRELS	PRELS	_	nom|pl|neut	-1	19	_	SB	_	_
+7	in	in	in	APPR	APPR	_	_	-1	18	_	MO	_	_
+8	ihren	ihr	ihr	PPOSAT	PPOSAT	_	dat|pl|neut	-1	10	_	NK	_	_
+9	armseligen	armselig	armselig	ADJA	ADJA	_	dat|pl|neut|pos	-1	10	_	NK	_	_
+10	Hütten	Hütte	Hütte	NN	NN	_	dat|pl|neut	-1	7	_	NK	_	_
+11	von	von	von	APPR	APPR	_	_	-1	18	_	SBP	_	_
+12	einem	eine	eine	ART	ART	_	dat|sg|neut	-1	14	_	NK	_	_
+13	New	New	New	NE	NE	_	*|*|*	-1	14	_	PNC	_	_
+14	York	York	York	NE	NE	_	dat|sg|neut	-1	11	_	NK	_	_
+15	noch	noch	noch	ADV	ADV	_	_	-1	16	_	MO	_	_
+16	nie	nie	nie	ADV	ADV	_	_	-1	18	_	MO	_	_
+17	etwas	etwas	etwas	ADV	ADV	_	*|*|*	-1	18	_	MO	_	_
+18	gehört	gehören|hören	gehören|hören	VVPP	VVPP	_	_	-1	19	_	OC	_	_
+19	haben	haben	haben	VAFIN	VAFIN	_	pl|3|pres|ind	-1	4	_	RC	_	_
+20	.	.	.	$.	$.	_	_	-1	19	_	--	_	_
+
+1	Alle	alle	alle	PIS	PIS	_	nom|pl|*	-1	9	_	SB	_	_
+2	,	,	,	$,	$,	_	_	-1	1	_	--	_	_
+3	die	die	die	ART	ART	_	nom|pl|*	-1	7	_	SB	_	_
+4	Krieg	Krieg	Krieg	NN	NN	_	acc|sg|masc	-1	7	_	OA	_	_
+5	für	für	für	APPR	APPR	_	_	-1	7	_	MO	_	_
+6	notwendig	notwendig	notwendig	ADJD	ADJD	_	pos	-1	5	_	NK	_	_
+7	halten	halten	halten	VVINF	VVINF	_	pl|3|pres|ind	-1	1	_	RC	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	nehmen	nehmen	nehmen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+10	auch	auch	auch	ADV	ADV	_	_	-1	13	_	MO	_	_
+11	diese	dies	dies	PDAT	PDAT	_	nom|pl|masc	-1	13	_	NK	_	_
+12	unschuldigen	unschuldig	unschuldig	ADJA	ADJA	_	nom|pl|masc|pos	-1	13	_	NK	_	_
+13	Opfer	Opfer	Opfer	NN	NN	_	nom|pl|masc	-1	9	_	SB	_	_
+14	in	in	in	APPR	APPR	_	_	-1	9	_	MO	_	_
+15	Kauf	Kauf	Kauf	NN	NN	_	acc|sg|masc	-1	14	_	NK	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::5	6::7	14::3	18::3	22::6	29::2	32::14	47::8	56::6	63::1	65::3	69::2	72::4	77::7	85::1	87::4	92::3	96::4	101::4	106::3	110::3	114::13	128::5	134::4	139::1	141::9	151::6	158::1	160::3	164::1	166::7	174::5	180::7	188::4	193::1
+1	Dabei	dabei	dabei	PAV	PAV	_	_	-1	2	_	NK	_	_
+2	sollten	sollen	sollen	VMFIN	VMFIN	_	pl|1|past|subj	-1	0	_	--	_	_
+3	wir	wir	wir	PPER	PPER	_	nom|pl|*|1	-1	2	_	SB	_	_
+4	uns	wir	wir	PRF	PRF	_	dat|pl|*|1	-1	8	_	DA	_	_
+5	gerade	gerade	gerade	ADV	ADV	_	_	-1	8	_	MO	_	_
+6	am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	8	_	MO	_	_
+7	Volkstrauertag	Volkstrauertag	Volkstrauertag	NN	NN	_	dat|sg|masc	-1	6	_	NK	_	_
+8	erinnern	erinnern	erinnern	VVINF	VVINF	_	_	-1	9	_	OC	_	_
+9	können	können	können	VMINF	VMINF	_	_	-1	2	_	OC	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	wie	wie	wie	KOUS	KOUS	_	_	-1	14	_	CP	_	_
+12	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	14	_	EP	_	_
+13	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	14	_	OA	_	_
+14	anfühlt	anfühlen	anfühlen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	8	_	MO	_	_
+15	,	,	,	$,	$,	_	_	-1	14	_	--	_	_
+16	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	29	_	CP	_	_
+17	das	die	die	ART	ART	_	nom|sg|neut	-1	19	_	NK	_	_
+18	tote	tot	tot	ADJA	ADJA	_	nom|sg|neut|pos	-1	19	_	NK	_	_
+19	Kind	Kind	Kind	NN	NN	_	nom|sg|neut	-1	29	_	SB	_	_
+20	auf	auf	auf	APPR	APPR	_	_	-1	29	_	MO	_	_
+21	dem	die	die	ART	ART	_	dat|sg|neut	-1	22	_	NK	_	_
+22	Fernsehschirm	Fernsehschirm	Fernsehschirm	NN	NN	_	dat|sg|neut	-1	20	_	NK	_	_
+23	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	27	_	NG	_	_
+24	mehr	mehr	mehr	ADV	ADV	_	_	-1	23	_	MO	_	_
+25	"	"	"	$(	$(	_	_	-1	24	_	--	_	_
+26	irgendein	irgendeine	irgendeine	PIAT	PIAT	_	nom|sg|masc	-1	27	_	NK	_	_
+27	Asiate	Asiate	Asiate	NN	NN	_	nom|sg|masc	-1	29	_	PD	_	_
+28	"	"	"	$(	$(	_	_	-1	27	_	--	_	_
+29	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	12	_	RE	_	_
+30	,	,	,	$,	$,	_	_	-1	29	_	--	_	_
+31	sondern	sondern	sondern	KON	KON	_	_	-1	9	_	CD	_	_
+32	unser	unser	unser	PPOSAT	PPOSAT	_	nom|sg|neut	-1	34	_	NK	_	_
+33	eigenes	eigen	eigen	ADJA	ADJA	_	nom|sg|neut|pos	-1	34	_	NK	_	_
+34	Kind	Kind	Kind	NN	NN	_	nom|sg|neut	-1	31	_	CJ	_	_
+35	.	.	.	$.	$.	_	_	-1	34	_	--	_	_
+

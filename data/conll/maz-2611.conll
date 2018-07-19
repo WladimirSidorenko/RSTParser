@@ -1,0 +1,190 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::12
+1	Uneinsichtig	uneinsichtig	uneinsichtig	ADJD	ADJD	_	pos	-1	0	_	--	_	_
+
+	sentence_start	0	169
+	token_offsets	sentence	0	offsets	0::2	3::6	10::2	13::3	17::11	29::13	43::3	47::12	60::10	71::23	95::1	97::3	101::1	103::8	112::7	120::5	126::2	129::14	144::3	148::5	154::6	161::4	166::1
+	token_offsets	sentence	1	offsets	169::3	173::10	184::8	193::2	196::8	205::18	224::2	227::3	231::13	245::3	249::8	258::7	266::2	269::13	283::7	291::11	303::3	307::8	316::4	321::9	331::11	343::1
+1	Im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	14	_	MO	_	_
+2	Streit	Streit	Streit	NN	NN	_	dat|sg|masc	-1	1	_	NK	_	_
+3	um	um	um	APPR	APPR	_	_	-1	2	_	OP	_	_
+4	die	die	die	ART	ART	_	acc|sg|fem	-1	6	_	NK	_	_
+5	fragwürdige	fragwürdig	fragwürdig	ADJA	ADJA	_	acc|sg|fem|pos	-1	6	_	NK	_	_
+6	Spendenpraxis	Spendenpraxen	Spendenpraxen	NN	NN	_	acc|sg|fem	-1	3	_	NK	_	_
+7	der	die	die	ART	ART	_	gen|sg|fem	-1	10	_	NK	_	_
+8	stadteigenen	stadteigen	stadteigen	ADJA	ADJA	_	gen|sg|fem|pos	-1	10	_	NK	_	_
+9	Kommunalen	kommunal	kommunal	ADJA	ADJA	_	gen|sg|fem|pos	-1	10	_	NK	_	_
+10	Wohnungsbaugesellschaft	Wohnungsbaugesellschaft	Wohnungsbaugesellschaft	NN	NN	_	gen|sg|fem	-1	6	_	AG	_	_
+11	(	(	(	$(	$(	_	_	-1	10	_	--	_	_
+12	KWR	KWR	KWR	NE	NE	_	gen|sg|fem	-1	10	_	APP	_	_
+13	)	)	)	$(	$(	_	_	-1	12	_	--	_	_
+14	schlugen	schlagen	schlagen	VVFIN	VVFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+15	gestern	gestern	gestern	ADV	ADV	_	_	-1	14	_	MO	_	_
+16	Abend	abend	abend	ADV	ADV	_	_	-1	14	_	MO	_	_
+17	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	14	_	MO	_	_
+18	Stadtparlament	Stadtparlament	Stadtparlament	NN	NN	_	dat|sg|masc	-1	17	_	NK	_	_
+19	die	die	die	ART	ART	_	acc|pl|fem	-1	20	_	NK	_	_
+20	Wogen	Woge|Wogen	Woge|Wogen	NN	NN	_	acc|pl|fem	-1	14	_	OA	_	_
+21	erneut	erneut	erneut	ADJD	ADJD	_	pos	-1	14	_	MO	_	_
+22	hoch	hoch	hoch	PTKVZ	PTKVZ	_	_	-1	14	_	SVP	_	_
+23	.	.	.	$.	$.	_	_	-1	22	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	6	_	NK	_	_
+2	eigentlich	eigentlich	eigentlich	ADV	ADV	_	_	-1	3	_	MO	_	_
+3	sachlich	sachlich	sachlich	ADJD	ADJD	_	pos	-1	5	_	MO	_	_
+4	zu	zu	zu	PTKZU	PTKZU	_	_	-1	5	_	PM	_	_
+5	führende	führend	führend	ADJA	ADJA	_	nom|sg|fem|pos	-1	6	_	NK	_	_
+6	Auseinandersetzung	Auseinandersetzung	Auseinandersetzung	NN	NN	_	nom|sg|fem	-1	19	_	SB	_	_
+7	um	um	um	APPR	APPR	_	_	-1	6	_	MNR	_	_
+8	die	die	die	ART	ART	_	acc|pl|masc	-1	9	_	NK	_	_
+9	Parteispenden	Parteispende	Parteispende	NN	NN	_	acc|pl|masc	-1	7	_	NK	_	_
+10	von	von	von	APPR	APPR	_	_	-1	9	_	PG	_	_
+11	KWR-Chef	KWR-Chef	KWR-Chef	NN	NN	_	dat|sg|masc	-1	10	_	NK	_	_
+12	Richter	Richter	Richter	NE	NE	_	dat|sg|masc	-1	11	_	NK	_	_
+13	an	an	an	APPR	APPR	_	_	-1	6	_	MNR	_	_
+14	Bürgermeister	Bürgermeister	Bürgermeister	NN	NN	_	dat|sg|masc	-1	13	_	NK	_	_
+15	Lünsers	Lünsers	Lünsers	NN	NN	_	dat|sg|masc	-1	14	_	NK	_	_
+16	Politverein	Politverein	Politverein	NN	NN	_	nom|sg|masc	-1	15	_	NK	_	_
+17	Pro	pro	pro	APPR	APPR	_	_	-1	15	_	MNR	_	_
+18	Rathenow	Rathenow	Rathenow	NN	NN	_	nom|sg|neut	-1	17	_	NK	_	_
+19	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+20	zunehmend	zunehmend	zunehmend	ADJD	ADJD	_	pos	-1	21	_	MO	_	_
+21	emotionaler	emotional	emotional	ADJD	ADJD	_	comp	-1	19	_	PD	_	_
+22	.	.	.	$.	$.	_	_	-1	21	_	--	_	_
+
+	sentence_start	0	188	389	477	613	744
+	token_offsets	sentence	0	offsets	0::5	6::5	12::5	18::4	23::8	32::3	36::10	47::19	67::7	75::4	80::7	88::4	93::10	104::3	108::7	116::13	130::1	132::3	136::7	144::3	148::9	158::5	164::10	175::2	178::6	185::1
+	token_offsets	sentence	1	offsets	188::7	196::4	201::6	208::6	215::4	220::3	224::12	237::4	242::6	249::10	260::9	270::3	274::13	288::6	295::5	301::3	305::3	309::5	315::4	320::1	322::3	326::3	330::8	339::3	343::4	348::2	351::6	358::3	362::3	366::8	375::10	386::1
+	token_offsets	sentence	2	offsets	389::3	393::6	400::6	407::8	416::6	423::7	431::3	435::11	447::4	452::4	457::3	461::5	467::6	474::1
+	token_offsets	sentence	3	offsets	477::7	485::4	490::3	494::6	501::9	511::3	515::8	524::6	531::6	538::1	540::5	546::3	550::9	560::3	564::13	578::6	585::7	593::8	602::4	607::2	610::1
+	token_offsets	sentence	4	offsets	613::3	617::12	630::3	634::3	638::7	646::4	651::2	654::3	658::6	665::8	674::1	676::4	681::2	684::7	692::9	702::8	711::9	721::8	730::10	741::1
+	token_offsets	sentence	5	offsets	744::3	748::8	757::2	760::7	768::7	776::4	781::3	785::6	792::5	798::1
+1	Knapp	Knapp	Knapp	NE	NE	_	nom|sg|*	-1	9	_	SB	_	_
+2	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	3	_	NK	_	_
+3	Monat	Monat	Monat	NN	NN	_	acc|sg|masc	-1	4	_	MO	_	_
+4	nach	nach	nach	APPR	APPR	_	_	-1	1	_	MO	_	_
+5	Ausbruch	Ausbruch	Ausbruch	NN	NN	_	dat|sg|masc	-1	4	_	NK	_	_
+6	der	die	die	ART	ART	_	gen|pl|masc	-1	7	_	NK	_	_
+7	Rathenower	Rathenower	Rathenower	NN	NN	_	gen|pl|masc	-1	5	_	AG	_	_
+8	Parteispendenaffäre	Parteispendenaffäre	Parteispendenaffäre	NN	NN	_	gen|pl|masc	-1	7	_	NK	_	_
+9	scheint	scheinen	scheinen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+10	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	16	_	OA	_	_
+11	nunmehr	nunmehr	nunmehr	ADV	ADV	_	_	-1	16	_	MO	_	_
+12	aber	aber	aber	ADV	ADV	_	_	-1	16	_	MO	_	_
+13	wenigstens	wenigstens	wenigstens	ADV	ADV	_	_	-1	15	_	MO	_	_
+14	der	die	die	ART	ART	_	nom|sg|masc	-1	15	_	NK	_	_
+15	Gedanke	Gedanke	Gedanke	NN	NN	_	nom|sg|masc	-1	16	_	OA	_	_
+16	durchzusetzen	durchsetzen	durchsetzen	VVIZU	VVIZU	_	_	-1	9	_	OC	_	_
+17	,	,	,	$,	$,	_	_	-1	16	_	--	_	_
+18	die	die	die	ART	ART	_	acc|pl|fem	-1	19	_	NK	_	_
+19	Spenden	Spende|Spenden	Spende|Spenden	NN	NN	_	acc|pl|fem	-1	25	_	OA	_	_
+20	als	als	als	KOKOM	KOKOM	_	_	-1	25	_	CM	_	_
+21	moralisch	moralisch	moralisch	ADJD	ADJD	_	pos	-1	25	_	MO	_	_
+22	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	25	_	NG	_	_
+23	akzeptabel	akzeptabel	akzeptabel	ADJD	ADJD	_	pos	-1	25	_	MO	_	_
+24	zu	zu	zu	PTKZU	PTKZU	_	_	-1	25	_	PM	_	_
+25	werten	werten	werten	VVINF	VVINF	_	_	-1	15	_	OC	_	_
+26	.	.	.	$.	$.	_	_	-1	25	_	--	_	_
+
+1	Nachdem	nachdem	nachdem	KOUS	KOUS	_	_	-1	11	_	CP	_	_
+2	nach	nach	nach	APPR	APPR	_	_	-1	11	_	MO	_	_
+3	langem	lang	lang	ADJA	ADJA	_	dat|sg|neut|pos	-1	4	_	NK	_	_
+4	Zögern	Zögern	Zögern	NN	NN	_	dat|sg|neut	-1	2	_	NK	_	_
+5	auch	auch	auch	ADV	ADV	_	_	-1	7	_	MO	_	_
+6	die	die	die	ART	ART	_	nom|sg|fem	-1	7	_	NK	_	_
+7	CDU-Fraktion	CDU-Fraktion	CDU-Fraktion	NN	NN	_	nom|sg|fem	-1	11	_	SB	_	_
+8	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	11	_	OA	_	_
+9	dieser	dies	dies	PDAT	PDAT	_	dat|sg|fem	-1	10	_	NK	_	_
+10	Auffassung	Auffassung	Auffassung	NN	NN	_	dat|sg|fem	-1	11	_	DA	_	_
+11	anschloss	anschließen	anschließen	VVFIN	VVFIN	_	sg|3|past|ind	-1	31	_	MO	_	_
+12	und	und	und	KON	KON	_	_	-1	11	_	CD	_	_
+13	Bürgermeister	Bürgermeister	Bürgermeister	NN	NN	_	nom|sg|masc	-1	19	_	SB	_	_
+14	Lünser	Lünser	Lünser	NN	NN	_	nom|sg|masc	-1	13	_	NK	_	_
+15	damit	damit	damit	PAV	PAV	_	_	-1	14	_	NK	_	_
+16	von	von	von	APPR	APPR	_	_	-1	19	_	MO	_	_
+17	der	die	die	ART	ART	_	dat|sg|fem	-1	18	_	NK	_	_
+18	Fahne	Fahne	Fahne	NN	NN	_	dat|sg|fem	-1	16	_	NK	_	_
+19	wich	weichen	weichen	VVFIN	VVFIN	_	sg|3|past|ind	-1	12	_	CJ	_	_
+20	,	,	,	$,	$,	_	_	-1	19	_	--	_	_
+21	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+22	das	die	die	ART	ART	_	acc|sg|neut	-1	23	_	NK	_	_
+23	Umdenken	Umdenken	Umdenken	NN	NN	_	acc|sg|neut	-1	31	_	OA	_	_
+24	nun	nun	nun	ADV	ADV	_	_	-1	31	_	MO	_	_
+25	auch	auch	auch	ADV	ADV	_	_	-1	26	_	MO	_	_
+26	in	in	in	APPR	APPR	_	_	-1	31	_	MO	_	_
+27	Teilen	Teil|Teilen	Teil|Teilen	NN	NN	_	dat|pl|masc	-1	26	_	NK	_	_
+28	von	von	von	APPR	APPR	_	_	-1	31	_	SBP	_	_
+29	Pro	pro	pro	APPR	APPR	_	_	-1	28	_	NK	_	_
+30	Rathenow	Rathenow	Rathenow	NN	NN	_	dat|pl|masc	-1	29	_	NK	_	_
+31	eingesetzt	einsetzen	einsetzen	VVPP	VVPP	_	_	-1	21	_	OC	_	_
+32	.	.	.	$.	$.	_	_	-1	31	_	--	_	_
+
+1	Als	als	als	KOKOM	KOKOM	_	_	-1	5	_	MO	_	_
+2	erster	erst	erst	ADJA	ADJA	_	nom|sg|masc	-1	1	_	NK	_	_
+3	seiner	sein	sein	PPOSAT	PPOSAT	_	gen|sg|fem	-1	4	_	NK	_	_
+4	Fraktion	Fraktion	Fraktion	NN	NN	_	gen|sg|fem	-1	2	_	AG	_	_
+5	sprach	sprechen	sprechen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+6	gestern	gestern	gestern	ADV	ADV	_	_	-1	5	_	MO	_	_
+7	der	die	die	ART	ART	_	nom|sg|masc	-1	8	_	NK	_	_
+8	Abgeordnete	Abgeordnete	Abgeordnete	NN	NN	_	nom|sg|masc	-1	5	_	SB	_	_
+9	Otto	Otto	Otto	NE	NE	_	nom|sg|masc	-1	10	_	PNC	_	_
+10	Timm	Timm	Timm	NE	NE	_	nom|sg|masc	-1	8	_	NK	_	_
+11	von	von	von	APPR	APPR	_	_	-1	5	_	OP	_	_
+12	einem	eine	eine	ART	ART	_	dat|sg|masc	-1	13	_	NK	_	_
+13	Fehler	Fehler	Fehler	NN	NN	_	dat|sg|masc	-1	11	_	NK	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Während	während	während	KOUS	KOUS	_	_	-1	9	_	CP	_	_
+2	Timm	Timm	Timm	NE	NE	_	nom|sg|*	-1	9	_	SB	_	_
+3	mit	mit	mit	APPR	APPR	_	_	-1	9	_	MO	_	_
+4	diesem	dies	dies	PDAT	PDAT	_	dat|sg|neut	-1	5	_	NK	_	_
+5	Verhalten	Verhalten	Verhalten	NN	NN	_	dat|sg|neut	-1	3	_	NK	_	_
+6	Pro	pro	pro	APPR	APPR	_	_	-1	8	_	MO	_	_
+7	Rathenow	Rathenow	Rathenow	NN	NN	_	nom|sg|neut	-1	6	_	NK	_	_
+8	helfen	helfen	helfen	VVINF	VVINF	_	_	-1	9	_	OC	_	_
+9	dürfte	dürfen	dürfen	VMFIN	VMFIN	_	sg|3|past|subj	-1	11	_	MO	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	nimmt	nehmen	nehmen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+12	das	die	die	ART	ART	_	nom|sg|neut	-1	13	_	NK	_	_
+13	Verhalten	Verhalten	Verhalten	NN	NN	_	nom|sg|neut	-1	11	_	SB	_	_
+14	von	von	von	APPR	APPR	_	_	-1	13	_	PG	_	_
+15	Bürgermeister	Bürgermeister	Bürgermeister	NN	NN	_	nom|sg|masc	-1	14	_	NK	_	_
+16	Lünser	Lünser	Lünser	NN	NN	_	nom|sg|masc	-1	15	_	NK	_	_
+17	langsam	langsam	langsam	ADJD	ADJD	_	pos	-1	11	_	MO	_	_
+18	groteske	grotesk	grotesk	ADJA	ADJA	_	acc|pl|masc|pos	-1	19	_	NK	_	_
+19	Züge	Zug	Zug	NN	NN	_	acc|pl|masc	-1	11	_	OA	_	_
+20	an	an	an	PTKVZ	PTKVZ	_	_	-1	11	_	SVP	_	_
+21	.	.	.	$.	$.	_	_	-1	20	_	--	_	_
+
+1	Als	als	als	KOKOM	KOKOM	_	_	-1	10	_	MO	_	_
+2	Legitimation	Legitimation	Legitimation	NN	NN	_	nom|sg|fem	-1	1	_	NK	_	_
+3	für	für	für	APPR	APPR	_	_	-1	2	_	MNR	_	_
+4	die	die	die	ART	ART	_	acc|pl|masc	-1	5	_	NK	_	_
+5	Spenden	Spende|Spenden	Spende|Spenden	NN	NN	_	acc|pl|masc	-1	3	_	NK	_	_
+6	will	wollen	wollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+7	er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	6	_	SB	_	_
+8	nun	nun	nun	ADV	ADV	_	_	-1	6	_	MO	_	_
+9	Belege	Beleg	Beleg	NN	NN	_	acc|pl|masc	-1	10	_	OA	_	_
+10	vorlegen	vorlegen	vorlegen	VVINF	VVINF	_	_	-1	6	_	OC	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	dass	dass	dass	KOUS	KOUS	_	_	-1	19	_	CP	_	_
+13	in	in	in	APPR	APPR	_	_	-1	19	_	MO	_	_
+14	Potsdam	Potsdam	Potsdam	NE	NE	_	dat|sg|neut	-1	13	_	NK	_	_
+15	kommunale	kommunal	kommunal	ADJA	ADJA	_	acc|sg|fem|pos	-1	16	_	NK	_	_
+16	Betriebe	Betrieb	Betrieb	NN	NN	_	acc|sg|fem	-1	19	_	OA	_	_
+17	jahrelang	jahrelang	jahrelang	ADJD	ADJD	_	pos	-1	19	_	MO	_	_
+18	Parteien	Partei	Partei	NN	NN	_	acc|pl|fem	-1	19	_	OA	_	_
+19	sponserten	sponsern	sponsern	VVFIN	VVFIN	_	pl|3|past|ind	-1	6	_	MO	_	_
+20	.	.	.	$.	$.	_	_	-1	19	_	--	_	_
+
+1	Für	für	für	APPR	APPR	_	_	-1	5	_	MO	_	_
+2	Einsicht	Einsicht	Einsicht	NN	NN	_	acc|sg|fem	-1	1	_	NK	_	_
+3	in	in	in	APPR	APPR	_	_	-1	2	_	MNR	_	_
+4	Unrecht	Unrecht	Unrecht	NN	NN	_	dat|sg|neut	-1	3	_	NK	_	_
+5	spricht	sprechen	sprechen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+6	auch	auch	auch	ADV	ADV	_	_	-1	7	_	MO	_	_
+7	das	die	die	PDS	PDS	_	acc|sg|neut	-1	5	_	OA	_	_
+8	erneut	erneut	erneut	ADJD	ADJD	_	pos	-1	5	_	MO	_	_
+9	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	5	_	NG	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+

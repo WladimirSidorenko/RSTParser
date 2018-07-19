@@ -1,0 +1,216 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::11	12::12
+1	Briefkästen	Briefkästen	Briefkästen	NN	NN	_	nom|pl|masc	-1	2	_	SB	_	_
+2	trockenlegen	trockenlegen	trockenlegen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+
+	sentence_start	0	54	195	320
+	token_offsets	sentence	0	offsets	0::6	7::3	11::2	14::7	22::7	30::4	35::2	38::9	48::2	51::1
+	token_offsets	sentence	1	offsets	54::6	61::6	68::11	80::9	90::15	106::6	113::2	116::3	120::7	128::7	136::3	140::5	146::6	153::9	163::3	167::5	173::2	176::5	182::9	192::1
+	token_offsets	sentence	2	offsets	195::3	199::5	205::11	217::1	219::2	222::5	228::16	245::4	250::3	254::2	257::5	263::3	267::2	270::8	279::4	284::7	292::1	294::5	300::2	303::5	309::7	317::1
+	token_offsets	sentence	3	offsets	320::4	325::3	329::7	337::3	341::4	346::1	348::7	356::4	361::3	365::7	373::2	376::11	388::3	392::5	398::8	407::5	413::16	430::3	434::1
+1	Heißer	Heiße	Heiße	NN	NN	_	nom|pl|masc	-1	6	_	MO	_	_
+2	als	als	als	KOKOM	KOKOM	_	_	-1	3	_	CM	_	_
+3	in	in	in	APPR	APPR	_	_	-1	1	_	CC	_	_
+4	anderen	andere	andere	PIS	PIS	_	dat|pl|masc	-1	5	_	NK	_	_
+5	Nächten	Nacht	Nacht	NN	NN	_	dat|pl|masc	-1	3	_	NK	_	_
+6	geht	gehen	gehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+7	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	6	_	EP	_	_
+8	Silvester	Silvester	Silvester	NN	NN	_	acc|pl|masc	-1	6	_	DA	_	_
+9	zu	zu	zu	PTKVZ	PTKVZ	_	_	-1	6	_	SVP	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+1	Manche	manche	manche	PIAT	PIAT	_	nom|pl|neut	-1	3	_	NK	_	_
+2	netten	nett	nett	ADJA	ADJA	_	nom|pl|neut|pos	-1	3	_	NK	_	_
+3	Mitmenschen	Mitmensch	Mitmensch	NN	NN	_	nom|pl|neut	-1	4	_	SB	_	_
+4	verspüren	verspüren	verspüren	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+5	erfahrungsgemäß	erfahrungsgemäß	erfahrungsgemäß	ADJD	ADJD	_	pos	-1	4	_	MO	_	_
+6	gerade	gerade	gerade	ADV	ADV	_	_	-1	7	_	MO	_	_
+7	in	in	in	APPR	APPR	_	_	-1	4	_	MO	_	_
+8	den	die	die	ART	ART	_	dat|pl|neut	-1	10	_	NK	_	_
+9	letzten	letzt	letzt	ADJA	ADJA	_	dat|pl|neut|pos	-1	10	_	NK	_	_
+10	Stunden	Stunde|Stunden	Stunde|Stunden	NN	NN	_	dat|pl|fem	-1	7	_	NK	_	_
+11	des	die	die	ART	ART	_	gen|sg|neut	-1	13	_	NK	_	_
+12	alten	alt	alt	ADJA	ADJA	_	gen|sg|neut|pos	-1	13	_	NK	_	_
+13	Jahres	Jahr	Jahr	NN	NN	_	gen|sg|neut	-1	10	_	AG	_	_
+14	verstärkt	verstärken	verstärken	VVFIN	VVFIN	_	pos	-1	4	_	MO	_	_
+15	den	die	die	ART	ART	_	acc|sg|masc	-1	16	_	NK	_	_
+16	Drang	Drang	Drang	NN	NN	_	acc|sg|masc	-1	4	_	OA	_	_
+17	zu	zu	zu	APPR	APPR	_	_	-1	16	_	MNR	_	_
+18	neuen	neu	neu	ADJA	ADJA	_	dat|pl|fem|pos	-1	19	_	NK	_	_
+19	Streichen	Streich|Streichen	Streich|Streichen	NN	NN	_	dat|pl|fem	-1	17	_	NK	_	_
+20	.	.	.	$.	$.	_	_	-1	19	_	--	_	_
+
+1	Vor	vor	vor	APPR	APPR	_	_	-1	21	_	MO	_	_
+2	allem	alle	alle	PIAT	PIAT	_	dat|sg|neut	-1	3	_	NK	_	_
+3	Briefkästen	Briefkästen	Briefkästen	NN	NN	_	dat|pl|masc	-1	1	_	NK	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	in	in	in	APPR	APPR	_	_	-1	16	_	MO	_	_
+6	denen	die	die	PRELS	PRELS	_	dat|pl|masc	-1	5	_	NK	_	_
+7	Feuerwerkskörper	Feuerwerkskörper	Feuerwerkskörper	NN	NN	_	dat|pl|masc	-1	16	_	SB	_	_
+8	noch	noch	noch	ADV	ADV	_	_	-1	9	_	MO	_	_
+9	mal	mal	mal	ADV	ADV	_	_	-1	16	_	MO	_	_
+10	so	so	so	ADV	ADV	_	_	-1	11	_	MO	_	_
+11	schön	schön	schön	ADJD	ADJD	_	pos	-1	16	_	MO	_	_
+12	wie	wie	wie	KOKOM	KOKOM	_	_	-1	13	_	CM	_	_
+13	an	an	an	APPR	APPR	_	_	-1	10	_	CC	_	_
+14	frischer	frisch	frisch	ADJA	ADJA	_	dat|sg|fem|pos	-1	15	_	NK	_	_
+15	Luft	Luft	Luft	NN	NN	_	dat|sg|fem	-1	13	_	NK	_	_
+16	knallen	knallen	knallen	VVINF	VVINF	_	_	-1	3	_	RC	_	_
+17	,	,	,	$,	$,	_	_	-1	16	_	--	_	_
+18	haben	haben	haben	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+19	es	es	es	PPER	PPER	_	acc|sg|neut|3	-1	21	_	OA	_	_
+20	ihnen	sie	sie	PPER	PPER	_	dat|pl|*|3	-1	21	_	DA	_	_
+21	angetan	antun	antun	VVPP	VVPP	_	_	-1	18	_	OC	_	_
+22	.	.	.	$.	$.	_	_	-1	21	_	--	_	_
+
+1	Weil	weil	weil	KOUS	KOUS	_	_	-1	5	_	CP	_	_
+2	die	die	die	ART	ART	_	nom|sg|fem	-1	3	_	NK	_	_
+3	Polizei	Polizei	Polizei	NN	NN	_	nom|sg|fem	-1	5	_	SB	_	_
+4	das	die	die	PDS	PDS	_	acc|sg|neut	-1	5	_	OA	_	_
+5	weiß	wissen	wissen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	7	_	MO	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	richten	richten	richten	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+8	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	7	_	OA	_	_
+9	die	die	die	ART	ART	_	nom|pl|masc	-1	10	_	NK	_	_
+10	Beamten	Beamter	Beamter	NN	NN	_	nom|pl|masc	-1	7	_	SB	_	_
+11	am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	7	_	MO	_	_
+12	Neujahrstag	Neujahrstag	Neujahrstag	NN	NN	_	dat|sg|masc	-1	11	_	NK	_	_
+13	auf	auf	auf	APPR	APPR	_	_	-1	7	_	MO	_	_
+14	viele	viele	viele	PIAT	PIAT	_	acc|pl|fem	-1	15	_	NK	_	_
+15	Anzeigen	Anzeige|Anzeigen	Anzeige|Anzeigen	NN	NN	_	acc|pl|fem	-1	13	_	NK	_	_
+16	wegen	wegen	wegen	APPR	APPR	_	_	-1	7	_	MO	_	_
+17	Sachbeschädigung	Sachbeschädigung	Sachbeschädigung	NN	NN	_	*|sg|fem	-1	16	_	NK	_	_
+18	ein	ein	ein	PTKVZ	PTKVZ	_	_	-1	7	_	SVP	_	_
+19	.	.	.	$.	$.	_	_	-1	18	_	--	_	_
+
+	sentence_start	0	149	189	235
+	token_offsets	sentence	0	offsets	0::3	4::4	9::3	13::4	18::3	22::7	30::8	39::4	44::1	46::6	53::9	63::1	65::6	72::13	86::3	90::6	97::10	108::3	112::6	119::11	131::14	146::1
+	token_offsets	sentence	1	offsets	149::14	164::3	168::5	174::11	186::1
+	token_offsets	sentence	2	offsets	189::6	196::4	201::2	204::1	206::3	210::6	217::4	222::9	232::1
+	token_offsets	sentence	3	offsets	235::1	237::4	242::4	247::7	255::4	260::6	267::2	270::2	273::6	280::11	292::1	294::4	299::3	303::5	309::4	314::1	316::7	324::3	328::17	346::5	352::6	359::1	361::5	367::3	371::5	377::4	382::11	394::15	410::11	422::10	433::4	438::1
+1	Wer	wer	wer	PWS	PWS	_	nom|sg|masc	-1	8	_	SB	_	_
+2	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	7	_	DA	_	_
+3	den	die	die	ART	ART	_	acc|sg|masc	-1	4	_	NK	_	_
+4	Gang	Gang	Gang	NN	NN	_	acc|sg|masc	-1	7	_	OA	_	_
+5	zur	zu	zu	APPRART	APPRART	_	dat|sg|fem	-1	4	_	MNR	_	_
+6	Polizei	Polizei	Polizei	NN	NN	_	dat|sg|fem	-1	5	_	NK	_	_
+7	ersparen	ersparen	ersparen	VVINF	VVINF	_	_	-1	8	_	OC	_	_
+8	will	wollen	wollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	10	_	SB	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	sollte	sollen	sollen	VMFIN	VMFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+11	versuchen	versuchen	versuchen	VVINF	VVINF	_	_	-1	10	_	OC	_	_
+12	,	,	,	$,	$,	_	_	-1	11	_	--	_	_
+13	dummen	dumm	dumm	ADJA	ADJA	_	dat|pl|fem|pos	-1	14	_	NK	_	_
+14	Knallfröschen	Knallfrosch	Knallfrosch	NN	NN	_	dat|pl|fem	-1	17	_	DA	_	_
+15	das	die	die	ART	ART	_	acc|sg|neut	-1	16	_	NK	_	_
+16	Wasser	Wasser	Wasser	NN	NN	_	acc|sg|neut	-1	17	_	OA	_	_
+17	abzugraben	abgraben	abgraben	VVIZU	VVIZU	_	_	-1	11	_	OC	_	_
+18	und	und	und	KON	KON	_	_	-1	17	_	CD	_	_
+19	seinen	sein	sein	PPOSAT	PPOSAT	_	acc|sg|masc	-1	20	_	NK	_	_
+20	Briefkasten	Briefkasten	Briefkasten	NN	NN	_	acc|sg|masc	-1	21	_	OA	_	_
+21	trockenzulegen	trockenlegen	trockenlegen	VVIZU	VVIZU	_	_	-1	18	_	CJ	_	_
+22	.	.	.	$.	$.	_	_	-1	21	_	--	_	_
+
+1	Beispielsweise	beispielsweise	beispielsweise	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	mit	mit	mit	APPR	APPR	_	_	-1	0	_	--	_	_
+3	einer	eine	eine	ART	ART	_	dat|sg|fem	-1	4	_	NK	_	_
+4	Sandfüllung	Sandfüllung	Sandfüllung	NN	NN	_	dat|sg|fem	-1	2	_	NK	_	_
+5	.	.	.	$.	$.	_	_	-1	4	_	--	_	_
+
+1	Besser	gut	gut	ADJD	ADJD	_	comp	-1	2	_	PD	_	_
+2	wäre	sein	sein	VAFIN	VAFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+3	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	SB	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	den	die	die	ART	ART	_	acc|sg|masc	-1	6	_	NK	_	_
+6	Kasten	Kaste|Kasten	Kaste|Kasten	NN	NN	_	acc|sg|masc	-1	8	_	OA	_	_
+7	ganz	ganz	ganz	ADV	ADV	_	_	-1	8	_	MO	_	_
+8	abzubauen	abbauen	abbauen	VVIZU	VVIZU	_	_	-1	3	_	RE	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+1	(	(	(	$(	$(	_	_	-1	2	_	--	_	_
+2	Post	Post	Post	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+3	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	sowieso	sowieso	sowieso	ADV	ADV	_	_	-1	10	_	MO	_	_
+5	erst	erst	erst	ADV	ADV	_	_	-1	6	_	MO	_	_
+6	wieder	wieder	wieder	ADV	ADV	_	_	-1	10	_	MO	_	_
+7	am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	10	_	MO	_	_
+8	2.	2.	2.	ADJA	ADJA	_	dat|sg|masc|pos	-1	9	_	NK	_	_
+9	Januar	Januar	Januar	NN	NN	_	dat|sg|masc	-1	7	_	NK	_	_
+10	ausgetragen	austragen	austragen	VVPP	VVPP	_	_	-1	3	_	OC	_	_
+11	)	)	)	$(	$(	_	_	-1	10	_	--	_	_
+12	Wenn	wenn	wenn	KOUS	KOUS	_	_	-1	15	_	CP	_	_
+13	das	die	die	PDS	PDS	_	nom|sg|neut	-1	15	_	SB	_	_
+14	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	15	_	NG	_	_
+15	geht	gehen	gehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	10	_	MO	_	_
+16	,	,	,	$,	$,	_	_	-1	15	_	--	_	_
+17	einfach	einfach	einfach	ADJD	ADJD	_	pos	-1	21	_	MO	_	_
+18	die	die	die	ART	ART	_	acc|sg|fem	-1	19	_	NK	_	_
+19	Entleerungsklappe	Entleerungsklappe	Entleerungsklappe	NN	NN	_	acc|sg|fem	-1	21	_	OA	_	_
+20	offen	offen	offen	ADJD	ADJD	_	pos	-1	21	_	MO	_	_
+21	lassen	lassen	lassen	VVINF	VVINF	_	_	-1	10	_	OC	_	_
+22	,	,	,	$,	$,	_	_	-1	21	_	--	_	_
+23	damit	damit	damit	KOUS	KOUS	_	_	-1	31	_	CP	_	_
+24	der	die	die	ART	ART	_	nom|sg|masc	-1	25	_	NK	_	_
+25	Druck	Druck	Druck	NN	NN	_	nom|sg|masc	-1	31	_	SB	_	_
+26	beim	bei	bei	APPRART	APPRART	_	dat|sg|masc	-1	30	_	MO	_	_
+27	Explodieren	Explodieren	Explodieren	NN	NN	_	dat|sg|masc	-1	26	_	NK	_	_
+28	pyrotechnischer	pyrotechnischer	pyrotechnischer	ADJA	ADJA	_	gen|pl|masc|pos	-1	29	_	NK	_	_
+29	Erzeugnisse	Erzeugnis	Erzeugnis	NN	NN	_	gen|pl|masc	-1	27	_	AG	_	_
+30	entweichen	entweichen	entweichen	VVINF	VVINF	_	_	-1	31	_	OC	_	_
+31	kann	können	können	VMFIN	VMFIN	_	sg|3|pres|ind	-1	10	_	MO	_	_
+32	.	.	.	$.	$.	_	_	-1	31	_	--	_	_
+
+	sentence_start	0	199
+	token_offsets	sentence	0	offsets	0::3	4::4	9::20	30::6	37::3	41::4	46::7	54::5	60::5	66::4	71::1	73::6	80::5	86::13	100::4	105::8	114::1	116::3	120::11	132::8	141::2	144::8	153::8	162::6	169::3	173::3	177::9	187::8	196::1
+	token_offsets	sentence	1	offsets	199::3	203::7	211::1	213::4	218::2	221::3	225::5	231::4	236::7	244::11	256::3	260::4	265::5	271::7	279::1	281::7	289::8	298::12	311::9	321::1
+1	Wer	wer	wer	PWS	PWS	_	nom|sg|masc	-1	10	_	SB	_	_
+2	sein	sein	sein	PPOSAT	PPOSAT	_	acc|sg|neut	-1	3	_	NK	_	_
+3	Posteinwurfbehältnis	Posteinwurfbehältnis	Posteinwurfbehältnis	NN	NN	_	acc|sg|neut	-1	9	_	OA	_	_
+4	einmal	einmal	einmal	ADV	ADV	_	_	-1	10	_	MO	_	_
+5	mit	mit	mit	APPR	APPR	_	_	-1	9	_	MO	_	_
+6	ganz	ganz	ganz	ADV	ADV	_	_	-1	7	_	MO	_	_
+7	anderen	andere	andere	PIAT	PIAT	_	dat|pl|masc	-1	8	_	NK	_	_
+8	Augen	Auge	Auge	NN	NN	_	dat|pl|masc	-1	5	_	NK	_	_
+9	sehen	sehen	sehen	VVINF	VVINF	_	_	-1	10	_	OC	_	_
+10	will	wollen	wollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	12	_	SB	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	könnte	können	können	VMFIN	VMFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+13	seine	sein	sein	PPOSAT	PPOSAT	_	nom|sg|fem	-1	15	_	NK	_	_
+14	künstlerische	künstlerisch	künstlerisch	ADJA	ADJA	_	acc|pl|masc|pos	-1	15	_	NK	_	_
+15	Ader	Ader	Ader	NN	NN	_	acc|pl|masc	-1	16	_	OA	_	_
+16	ausleben	ausleben	ausleben	VVINF	VVINF	_	_	-1	12	_	OC	_	_
+17	,	,	,	$,	$,	_	_	-1	16	_	--	_	_
+18	den	die	die	ART	ART	_	acc|sg|masc	-1	19	_	NK	_	_
+19	Briefkasten	Briefkasten	Briefkasten	NN	NN	_	acc|sg|masc	-1	24	_	OA	_	_
+20	komplett	komplett	komplett	ADJD	ADJD	_	pos	-1	24	_	MO	_	_
+21	in	in	in	APPR	APPR	_	_	-1	24	_	MO	_	_
+22	stabiles	stabil	stabil	ADJA	ADJA	_	acc|sg|neut|pos	-1	23	_	NK	_	_
+23	Material	Material	Material	NN	NN	_	acc|sg|neut	-1	21	_	NK	_	_
+24	hüllen	hüllen	hüllen	VVINF	VVINF	_	_	-1	16	_	CJ	_	_
+25	und	und	und	KON	KON	_	_	-1	24	_	CD	_	_
+26	mit	mit	mit	APPR	APPR	_	_	-1	28	_	MO	_	_
+27	Klebeband	Klebeband	Klebeband	NN	NN	_	dat|sg|neut	-1	26	_	NK	_	_
+28	versehen	versehen	versehen	VVPP	VVPP	_	_	-1	25	_	CJ	_	_
+29	.	.	.	$.	$.	_	_	-1	28	_	--	_	_
+
+1	Gut	gut	gut	ADJD	ADJD	_	pos	-1	2	_	MO	_	_
+2	möglich	möglich	möglich	ADJD	ADJD	_	pos	-1	14	_	PD	_	_
+3	,	,	,	$,	$,	_	_	-1	2	_	--	_	_
+4	dass	dass	dass	KOUS	KOUS	_	_	-1	14	_	CP	_	_
+5	so	so	so	ADV	ADV	_	_	-1	14	_	MO	_	_
+6	dem	die	die	ART	ART	_	dat|sg|masc	-1	10	_	NK	_	_
+7	einen	eine	eine	PIS	PIS	_	dat|sg|masc	-1	10	_	NK	_	_
+8	oder	oder	oder	KON	KON	_	_	-1	7	_	CD	_	_
+9	anderen	andere	andere	PIS	PIS	_	dat|pl|masc|pos	-1	8	_	CJ	_	_
+10	Knallfrosch	Knallfrosch	Knallfrosch	NN	NN	_	dat|pl|masc	-1	14	_	DA	_	_
+11	der	die	die	ART	ART	_	gen|sg|fem	-1	12	_	NK	_	_
+12	Spaß	Spaß	Spaß	NN	NN	_	gen|sg|fem	-1	10	_	AG	_	_
+13	daran	daran	daran	PAV	PAV	_	_	-1	12	_	NK	_	_
+14	vergeht	vergehen	vergehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+15	,	,	,	$,	$,	_	_	-1	14	_	--	_	_
+16	anderen	andere	andere	PIS	PIS	_	dat|pl|*	-1	17	_	NK	_	_
+17	Menschen	Mensch	Mensch	NN	NN	_	acc|pl|masc	-1	19	_	DA	_	_
+18	Sach-Schaden	Sach-Schaden	Sach-Schaden	NN	NN	_	acc|pl|masc	-1	19	_	OA	_	_
+19	zuzufügen	zufügen	zufügen	VVIZU	VVIZU	_	_	-1	14	_	OC	_	_
+20	.	.	.	$.	$.	_	_	-1	19	_	--	_	_
+

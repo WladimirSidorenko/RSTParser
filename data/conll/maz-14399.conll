@@ -1,0 +1,191 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::8	9::3	13::10
+1	Aufstand	Aufstand	Aufstand	NN	NN	_	nom|sg|masc	-1	0	_	--	_	_
+2	der	die	die	ART	ART	_	nom|sg|masc	-1	3	_	NK	_	_
+3	Vegetarier	Vegetarier	Vegetarier	NN	NN	_	nom|sg|masc	-1	1	_	AG	_	_
+
+	sentence_start	0	143	406	514	597	755	824	955
+	token_offsets	sentence	0	offsets	0::3	4::4	9::11	21::1	23::9	33::1	35::3	39::1	41::8	50::1	52::5	58::1	60::2	63::7	71::2	74::16	91::5	97::6	104::1	106::6	113::10	124::3	128::6	135::4	140::1
+	token_offsets	sentence	1	offsets	143::3	147::6	154::4	159::12	172::6	179::4	184::8	193::1	195::4	200::3	204::3	208::13	222::3	226::13	240::3	244::9	254::5	260::1	262::1	264::4	269::3	273::4	278::1	280::1	282::8	291::1	292::0	294::2	297::5	303::9	313::6	320::8	329::12	342::1	344::4	349::9	359::3	363::11	375::1	377::5	383::5	389::3	393::7	401::1	403::1
+	token_offsets	sentence	2	offsets	406::6	413::13	427::4	432::9	442::10	453::6	460::3	464::7	472::3	476::7	484::4	489::6	496::14	511::1
+	token_offsets	sentence	3	offsets	514::5	520::12	533::3	537::1	539::10	550::3	554::11	566::3	570::4	575::1	577::6	584::2	587::6	594::1
+	token_offsets	sentence	4	offsets	597::3	601::6	608::3	612::17	630::10	641::6	648::2	651::8	660::1	662::9	672::1	674::1	676::3	680::6	687::6	694::1	696::4	701::3	705::6	712::4	717::5	723::3	727::3	731::6	738::2	741::6	748::3	752::1
+	token_offsets	sentence	5	offsets	755::4	760::4	765::6	772::12	785::8	794::4	799::3	803::10	814::6	821::1
+	token_offsets	sentence	6	offsets	824::6	831::8	840::10	851::5	857::1	859::4	864::3	868::10	879::13	893::5	899::11	911::9	921::6	928::11	940::6	947::4	952::1
+	token_offsets	sentence	7	offsets	955::8	964::3	968::3	972::8	981::3	985::10	996::7	1004::7	1012::1	1014::3	1018::4	1023::10	1034::12	1047::10	1058::7	1066::1
+1	Wer	wer	wer	PWS	PWS	_	nom|sg|masc	-1	11	_	SB	_	_
+2	zwei	zwei	zwei	CARD	CARD	_	_	-1	3	_	NK	_	_
+3	Frischlinge	Frischling	Frischling	NN	NN	_	nom|pl|masc	-1	11	_	OA	_	_
+4	"	"	"	$(	$(	_	_	-1	3	_	--	_	_
+5	Schnitzel	Schnitzel	Schnitzel	NN	NN	_	nom|pl|masc	-1	3	_	CJ	_	_
+6	"	"	"	$(	$(	_	_	-1	5	_	--	_	_
+7	und	und	und	KON	KON	_	_	-1	5	_	CD	_	_
+8	"	"	"	$(	$(	_	_	-1	7	_	--	_	_
+9	Kotelett	Kotelett	Kotelett	NN	NN	_	nom|sg|neut	-1	7	_	CJ	_	_
+10	"	"	"	$(	$(	_	_	-1	9	_	--	_	_
+11	nennt	nennen	nennen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	20	_	SB	_	_
+12	-	-	-	$(	$(	_	_	-1	11	_	--	_	_
+13	so	so	so	ADV	ADV	_	_	-1	14	_	MO	_	_
+14	gelesen	lesen	lesen	VVPP	VVPP	_	_	-1	11	_	PAR	_	_
+15	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	14	_	MO	_	_
+16	Internettagebuch	Internettagebuch	Internettagebuch	NN	NN	_	dat|sg|neut	-1	15	_	NK	_	_
+17	eines	eine	eine	ART	ART	_	gen|sg|masc	-1	18	_	NK	_	_
+18	Jägers	Jäger	Jäger	NN	NN	_	gen|sg|masc	-1	16	_	AG	_	_
+19	-	-	-	$(	$(	_	_	-1	18	_	--	_	_
+20	wollte	wollen	wollen	VMFIN	VMFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+21	vielleicht	vielleicht	vielleicht	ADV	ADV	_	_	-1	20	_	MO	_	_
+22	nur	nur	nur	ADV	ADV	_	_	-1	23	_	MO	_	_
+23	witzig	witzig	witzig	ADJD	ADJD	_	pos	-1	24	_	PD	_	_
+24	sein	sein	sein	VAINF	VAINF	_	_	-1	20	_	OC	_	_
+25	.	.	.	$.	$.	_	_	-1	24	_	--	_	_
+
+1	Das	die	die	ART	ART	_	nom|sg|neut	-1	2	_	NK	_	_
+2	Lachen	Lache|Lachen	Lache|Lachen	NN	NN	_	nom|sg|neut	-1	3	_	SB	_	_
+3	kann	können	können	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	empfindsamen	empfindsam	empfindsam	ADJA	ADJA	_	dat|pl|fem|pos	-1	5	_	NK	_	_
+5	Seelen	Seele	Seele	NN	NN	_	dat|pl|fem	-1	7	_	DA	_	_
+6	aber	aber	aber	ADV	ADV	_	_	-1	3	_	MO	_	_
+7	vergehen	vergehen	vergehen	VVINF	VVINF	_	_	-1	3	_	OC	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	25	_	CP	_	_
+10	sie	sie	sie	PPER	PPER	_	nom|pl|masc|3	-1	25	_	SB	_	_
+11	die	die	die	ART	ART	_	acc|sg|fem	-1	12	_	NK	_	_
+12	Internetseite	Internetseite	Internetseite	NN	NN	_	acc|sg|fem	-1	25	_	OA	_	_
+13	des	die	die	ART	ART	_	gen|sg|neut	-1	14	_	NK	_	_
+14	Zentralorgans	Zentralorgan	Zentralorgan	NN	NN	_	gen|sg|neut	-1	12	_	AG	_	_
+15	der	die	die	ART	ART	_	gen|sg|fem	-1	17	_	NK	_	_
+16	deutschen	deutsch	deutsch	ADJA	ADJA	_	gen|sg|fem|pos	-1	17	_	NK	_	_
+17	Jäger	Jäger	Jäger	NN	NN	_	gen|sg|fem	-1	14	_	AG	_	_
+18	,	,	,	$,	$,	_	_	-1	17	_	--	_	_
+19	"	"	"	$(	$(	_	_	-1	18	_	--	_	_
+20	Wild	Wild	Wild	NN	NN	_	nom|sg|neut	-1	30	_	SB	_	_
+21	und	und	und	KON	KON	_	_	-1	20	_	CD	_	_
+22	Hund	Hund	Hund	NN	NN	_	nom|sg|neut	-1	21	_	CJ	_	_
+23	"	"	"	$(	$(	_	_	-1	22	_	--	_	_
+24	,	,	,	$,	$,	_	_	-1	23	_	--	_	_
+25	aufrufen	aufrufen	aufrufen	VVFIN	VVFIN	_	_	-1	35	_	MO	_	_
+26	:	:	:	$.	$.	_	_	-1	25	_	--	_	_
+27	In	in	in	APPR	APPR	_	_	-1	32	_	MO	_	_
+28	einer	eine	eine	ART	ART	_	dat|sg|fem	-1	29	_	NK	_	_
+29	Animation	Animation	Animation	NN	NN	_	dat|sg|fem	-1	27	_	NK	_	_
+30	werden	werden	werden	VAFIN	VAFIN	_	pl|3|pres|ind	-1	25	_	OC	_	_
+31	Patronen	Patron|Patrone	Patron|Patrone	NN	NN	_	nom|pl|fem	-1	30	_	SB	_	_
+32	abgeschossen	abschießen	abschießen	VVPP	VVPP	_	_	-1	30	_	OC	_	_
+33	,	,	,	$,	$,	_	_	-1	32	_	--	_	_
+34	dazu	dazu	dazu	PAV	PAV	_	_	-1	25	_	NK	_	_
+35	erscheint	erscheinen	erscheinen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	3	_	CJ	_	_
+36	der	die	die	ART	ART	_	nom|sg|masc	-1	37	_	NK	_	_
+37	Werbeslogan	Werbeslogan	Werbeslogan	NN	NN	_	nom|sg|masc	-1	35	_	SB	_	_
+38	"	"	"	$(	$(	_	nom|sg|masc|pos	-1	37	_	--	_	_
+39	Jeder	jede	jede	PIAT	PIAT	_	nom|sg|masc	-1	40	_	NK	_	_
+40	Klick	Klick	Klick	NN	NN	_	nom|sg|masc	-1	37	_	PAR	_	_
+41	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	42	_	NK	_	_
+42	Treffer	Treffer	Treffer	NN	NN	_	nom|sg|masc	-1	40	_	PD	_	_
+43	"	"	"	$(	$(	_	_	-1	42	_	--	_	_
+44	.	.	.	$.	$.	_	_	-1	43	_	--	_	_
+
+1	Solche	solche	solche	PIAT	PIAT	_	acc|pl|fem	-1	3	_	NK	_	_
+2	martialischen	martialisch	martialisch	ADJA	ADJA	_	gen|pl|masc|pos	-1	3	_	NK	_	_
+3	Töne	Ton	Ton	NN	NN	_	gen|pl|masc	-1	6	_	SB	_	_
+4	einzelner	einzeln	einzeln	ADJA	ADJA	_	gen|pl|masc|pos	-1	5	_	NK	_	_
+5	Weidmänner	Weidmänner	Weidmänner	NN	NN	_	gen|pl|masc	-1	3	_	AG	_	_
+6	bieten	bieten	bieten	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+7	den	die	die	ART	ART	_	dat|pl|masc	-1	8	_	NK	_	_
+8	Gegnern	Gegner	Gegner	NN	NN	_	dat|pl|masc	-1	6	_	DA	_	_
+9	der	die	die	ART	ART	_	gen|sg|fem	-1	10	_	NK	_	_
+10	Jägerei	Jägerei	Jägerei	NN	NN	_	gen|sg|fem	-1	8	_	AG	_	_
+11	eine	eine	eine	ART	ART	_	acc|sg|fem	-1	13	_	NK	_	_
+12	ideale	ideal	ideal	ADJA	ADJA	_	acc|sg|fem|pos	-1	13	_	NK	_	_
+13	Angriffsfläche	Angriffsfläche	Angriffsfläche	NN	NN	_	acc|sg|fem	-1	6	_	OA	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Heute	heute	heute	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	demonstriert	demonstrieren	demonstrieren	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	die	die	die	ART	ART	_	nom|sg|fem	-1	5	_	NK	_	_
+4	"	"	"	$(	$(	_	_	-1	5	_	--	_	_
+5	Initiative	Initiative	Initiative	NN	NN	_	nom|sg|fem	-1	2	_	SB	_	_
+6	zur	zu	zu	APPRART	APPRART	_	dat|sg|fem	-1	5	_	MNR	_	_
+7	Abschaffung	Abschaffung	Abschaffung	NN	NN	_	dat|sg|fem	-1	6	_	NK	_	_
+8	der	die	die	ART	ART	_	gen|pl|masc	-1	9	_	NK	_	_
+9	Jagd	Jagd	Jagd	NN	NN	_	gen|pl|masc	-1	7	_	AG	_	_
+10	"	"	"	$(	$(	_	_	-1	9	_	--	_	_
+11	wieder	wieder	wieder	ADV	ADV	_	_	-1	2	_	MO	_	_
+12	in	in	in	APPR	APPR	_	_	-1	2	_	MO	_	_
+13	Berlin	Berlin	Berlin	NE	NE	_	dat|sg|neut	-1	12	_	NK	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Ein	eine	eine	ART	ART	_	nom|sg|masc	-1	2	_	NK	_	_
+2	Lehrer	Lehrer	Lehrer	NN	NN	_	nom|sg|masc	-1	5	_	SB	_	_
+3	aus	aus	aus	APPR	APPR	_	_	-1	2	_	MNR	_	_
+4	Baden-Württemberg	Baden-Württemberg	Baden-Württemberg	NE	NE	_	dat|sg|neut	-1	3	_	NK	_	_
+5	verschickt	verschicken	verschicken	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+6	eifrig	eifrig	eifrig	ADJD	ADJD	_	pos	-1	5	_	MO	_	_
+7	so	so	so	ADV	ADV	_	_	-1	8	_	MO	_	_
+8	genannte	genannt	genannt	ADJA	ADJA	_	acc|sg|fem|pos	-1	10	_	NK	_	_
+9	"	"	"	$(	$(	_	_	-1	8	_	--	_	_
+10	Lusttöter	Lusttöter	Lusttöter	NN	NN	_	acc|sg|fem	-1	5	_	OA	_	_
+11	"	"	"	$(	$(	_	_	-1	10	_	--	_	_
+12	,	,	,	$,	$,	_	_	-1	11	_	--	_	_
+13	die	die	die	PRELS	PRELS	_	nom|pl|neut	-1	15	_	SB	_	_
+14	zeigen	zeigen	zeigen	VVINF	VVINF	_	_	-1	15	_	OC	_	_
+15	sollen	sollen	sollen	VMFIN	VMFIN	_	pl|3|pres|ind	-1	10	_	RC	_	_
+16	,	,	,	$,	$,	_	_	-1	15	_	--	_	_
+17	dass	dass	dass	KOUS	KOUS	_	_	-1	27	_	CP	_	_
+18	das	die	die	ART	ART	_	nom|sg|neut	-1	21	_	NK	_	_
+19	Grauen	grau	grau	ADJA	ADJA	_	nom|sg|neut	-1	21	_	NK	_	_
+20	zwei	zwei	zwei	CARD	CARD	_	_	-1	21	_	NK	_	_
+21	Beine	Bein	Bein	NN	NN	_	nom|pl|neut	-1	27	_	SB	_	_
+22	und	und	und	KON	KON	_	_	-1	21	_	CD	_	_
+23	ein	eine	eine	ART	ART	_	nom|sg|neut	-1	24	_	NK	_	_
+24	Gewehr	Gewehr	Gewehr	NN	NN	_	nom|sg|neut	-1	22	_	CJ	_	_
+25	in	in	in	APPR	APPR	_	_	-1	21	_	MNR	_	_
+26	Händen	Hand	Hand	NN	NN	_	dat|pl|fem	-1	25	_	NK	_	_
+27	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	15	_	MO	_	_
+28	.	.	.	$.	$.	_	_	-1	27	_	--	_	_
+
+1	Doch	doch	doch	KON	KON	_	_	-1	5	_	JU	_	_
+2	auch	auch	auch	ADV	ADV	_	_	-1	4	_	MO	_	_
+3	dieser	dies	dies	PDAT	PDAT	_	nom|sg|masc	-1	4	_	NK	_	_
+4	Tierschützer	Tierschützer	Tierschützer	NN	NN	_	nom|sg|masc	-1	5	_	SB	_	_
+5	befindet	befinden	befinden	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+6	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	5	_	OA	_	_
+7	auf	auf	auf	APPR	APPR	_	_	-1	5	_	MO	_	_
+8	verlorenem	verloren	verloren	ADJA	ADJA	_	dat|sg|neut|pos	-1	9	_	NK	_	_
+9	Posten	Posten	Posten	NN	NN	_	dat|sg|neut	-1	7	_	NK	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+1	Selbst	selbst	selbst	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	Ökologen	Ökologe	Ökologe	NN	NN	_	nom|pl|masc	-1	3	_	SB	_	_
+3	bestreiten	bestreiten	bestreiten	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+4	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	3	_	NG	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	dass	dass	dass	KOUS	KOUS	_	_	-1	16	_	CP	_	_
+7	das	die	die	ART	ART	_	nom|sg|neut	-1	9	_	NK	_	_
+8	natürliche	natürlich	natürlich	ADJA	ADJA	_	nom|sg|neut|pos	-1	9	_	NK	_	_
+9	Gleichgewicht	Gleichgewicht	Gleichgewicht	NN	NN	_	nom|sg|neut	-1	16	_	SB	_	_
+10	durch	durch	durch	APPR	APPR	_	_	-1	14	_	MO	_	_
+11	menschliche	menschlich	menschlich	ADJA	ADJA	_	nom|sg|neut|pos	-1	12	_	NK	_	_
+12	Eingriffe	Eingriff	Eingriff	NN	NN	_	nom|sg|neut	-1	10	_	NK	_	_
+13	wieder	wieder	wieder	ADV	ADV	_	_	-1	14	_	MO	_	_
+14	hergestellt	herstellen	herstellen	VVPP	VVPP	_	_	-1	15	_	OC	_	_
+15	werden	werden	werden	VAINF	VAINF	_	_	-1	16	_	OC	_	_
+16	muss	müssen	müssen	VMFIN	VMFIN	_	_	-1	3	_	OC	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
+1	Übrigens	übrigens	übrigens	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	das	die	die	ART	ART	_	nom|sg|neut	-1	4	_	NK	_	_
+4	Ansinnen	Ansinnen	Ansinnen	NN	NN	_	nom|sg|neut	-1	2	_	SB	_	_
+5	der	die	die	ART	ART	_	gen|pl|masc	-1	6	_	NK	_	_
+6	Jagdgegner	Jagdgegner	Jagdgegner	NN	NN	_	gen|pl|masc	-1	4	_	AG	_	_
+7	genauso	genauso	genauso	ADV	ADV	_	_	-1	8	_	MO	_	_
+8	sinnlos	sinnlos	sinnlos	ADJD	ADJD	_	pos	-1	2	_	PD	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	als	als	als	KOKOM	KOKOM	_	_	-1	15	_	CM	_	_
+11	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	15	_	CP	_	_
+12	Vegetarier	Vegetarier	Vegetarier	NN	NN	_	nom|pl|masc	-1	15	_	SB	_	_
+13	Fleischesser	Fleischesser	Fleischesser	NE	NE	_	nom|pl|masc	-1	14	_	OA	_	_
+14	überzeugen	überzeugen	überzeugen	VVINF	VVINF	_	_	-1	15	_	OC	_	_
+15	wollten	wollen	wollen	VMFIN	VMFIN	_	pl|3|past|ind	-1	7	_	CC	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+

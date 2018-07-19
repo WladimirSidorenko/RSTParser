@@ -1,0 +1,244 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::9	10::9
+1	Honigsüße	honigsüß	honigsüß	ADJA	ADJA	_	acc|sg|fem|pos	-1	2	_	NK	_	_
+2	Nachricht	Nachricht	Nachricht	NN	NN	_	acc|sg|fem	-1	0	_	--	_	_
+
+	sentence_start	0	117	203	316	364	440
+	token_offsets	sentence	0	offsets	0::6	7::2	10::12	23::6	30::1	32::3	36::3	40::9	50::2	53::7	61::10	72::1	74::4	79::2	82::4	87::2	90::5	96::1	98::2	101::4	106::2	109::4	114::1
+	token_offsets	sentence	1	offsets	117::2	120::4	125::4	130::1	132::6	139::5	145::9	155::3	159::5	165::3	169::3	173::6	180::6	187::12	200::1
+	token_offsets	sentence	2	offsets	203::13	217::4	222::5	228::3	232::3	236::1	238::7	246::4	251::1	253::4	258::3	262::3	266::11	278::2	281::7	289::7	297::5	303::9	313::1
+	token_offsets	sentence	3	offsets	316::3	320::3	324::3	328::11	340::5	346::7	354::6	361::1
+	token_offsets	sentence	4	offsets	364::2	367::11	379::3	383::10	394::5	400::3	404::4	409::1	411::5	417::4	422::8	431::5	437::1
+	token_offsets	sentence	5	offsets	440::3	444::7	452::6	459::1	461::3	465::11	477::4	482::5	488::3	492::9	502::5	508::6	515::1
+1	Sollte	sollen	sollen	VMFIN	VMFIN	_	sg|3|past|subj	-1	13	_	MO	_	_
+2	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	1	_	SB	_	_
+3	Wirklichkeit	Wirklichkeit	Wirklichkeit	NN	NN	_	nom|sg|fem	-1	4	_	PD	_	_
+4	werden	werden	werden	VAINF	VAINF	_	_	-1	2	_	RE	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	was	was	was	PRELS	PRELS	_	acc|sg|neut	-1	11	_	OA	_	_
+7	die	die	die	ART	ART	_	nom|sg|fem	-1	9	_	NK	_	_
+8	Procurand	Procurand	Procurand	NN	NN	_	nom|sg|fem	-1	9	_	NK	_	_
+9	AG	AG	AG	NN	NN	_	nom|sg|fem	-1	11	_	SB	_	_
+10	gestern	gestern	gestern	ADV	ADV	_	_	-1	11	_	MO	_	_
+11	verkündete	verkünden	verkünden	VVFIN	VVFIN	_	sg|3|past|ind	-1	1	_	OC	_	_
+12	,	,	,	$,	$,	_	_	-1	11	_	--	_	_
+13	wäre	sein	sein	VAFIN	VAFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+14	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	13	_	SB	_	_
+15	fast	fast	fast	ADV	ADV	_	_	-1	13	_	MO	_	_
+16	zu	zu	zu	PTKA	PTKA	_	_	-1	17	_	MO	_	_
+17	schön	schön	schön	ADJD	ADJD	_	pos	-1	13	_	PD	_	_
+18	,	,	,	$,	$,	_	_	-1	17	_	--	_	_
+19	um	um	um	KOUI	KOUI	_	_	-1	22	_	CP	_	_
+20	wahr	wahr	wahr	ADJD	ADJD	_	pos	-1	22	_	PD	_	_
+21	zu	zu	zu	PTKZU	PTKZU	_	_	-1	22	_	PM	_	_
+22	sein	sein	sein	VAINF	VAINF	_	_	-1	14	_	RE	_	_
+23	.	.	.	$.	$.	_	_	-1	22	_	--	_	_
+
+1	40	40	40	CARD	CARD	_	_	-1	3	_	NK	_	_
+2	neue	neu	neu	ADJA	ADJA	_	nom|pl|masc|pos	-1	3	_	NK	_	_
+3	Jobs	Job	Job	NN	NN	_	nom|pl|masc	-1	0	_	--	_	_
+4	-	-	-	$(	$(	_	_	-1	3	_	--	_	_
+5	allein	allein	allein	ADV	ADV	_	_	-1	7	_	MO	_	_
+6	diese	dies	dies	PDAT	PDAT	_	acc|sg|fem	-1	7	_	NK	_	_
+7	Nachricht	Nachricht	Nachricht	NN	NN	_	acc|sg|fem	-1	8	_	SB	_	_
+8	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	3	_	PAR	_	_
+9	Honig	Honig	Honig	NN	NN	_	nom|sg|masc	-1	8	_	PD	_	_
+10	auf	auf	auf	APPR	APPR	_	_	-1	9	_	MNR	_	_
+11	den	die	die	ART	ART	_	acc|sg|masc	-1	12	_	NK	_	_
+12	Lippen	Lippe	Lippe	NN	NN	_	acc|sg|masc	-1	10	_	NK	_	_
+13	vieler	viele	viele	PIAT	PIAT	_	gen|pl|neut	-1	14	_	NK	_	_
+14	Mittelmärker	Mittelmärker	Mittelmärker	NN	NN	_	gen|pl|neut	-1	12	_	AG	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+1	Wünschenswert	wünschenswert	wünschenswert	ADJD	ADJD	_	pos	-1	2	_	PD	_	_
+2	wäre	sein	sein	VAFIN	VAFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+3	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	4	_	NG	_	_
+4	nur	nur	nur	ADV	ADV	_	_	-1	5	_	MO	_	_
+5	das	die	die	PDS	PDS	_	nom|sg|neut	-1	2	_	SB	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	sondern	sondern	sondern	KON	KON	_	_	-1	5	_	CD	_	_
+8	auch	auch	auch	ADV	ADV	_	_	-1	18	_	MO	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	dass	dass	dass	KOUS	KOUS	_	_	-1	18	_	CP	_	_
+11	mit	mit	mit	APPR	APPR	_	_	-1	18	_	MO	_	_
+12	der	die	die	ART	ART	_	dat|sg|fem	-1	13	_	NK	_	_
+13	Investruine	Investruine	Investruine	NN	NN	_	dat|sg|fem	-1	11	_	NK	_	_
+14	am	an	an	APPRART	APPRART	_	dat|sg|neut	-1	13	_	MNR	_	_
+15	Görnsee	Görnsee	Görnsee	NN	NN	_	dat|sg|neut	-1	14	_	NK	_	_
+16	endlich	endlich	endlich	ADV	ADV	_	_	-1	18	_	MO	_	_
+17	etwas	etwas	etwas	ADV	ADV	_	_	-1	18	_	MO	_	_
+18	geschieht	geschehen	geschehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	7	_	CJ	_	_
+19	.	.	.	$.	$.	_	_	-1	18	_	--	_	_
+
+1	Nie	nie	nie	ADV	ADV	_	_	-1	6	_	MO	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	das	die	die	ART	ART	_	nom|sg|neut	-1	5	_	NK	_	_
+4	halbfertige	halbfertig	halbfertig	ADJA	ADJA	_	nom|sg|neut|pos	-1	5	_	NK	_	_
+5	Hotel	Hotel	Hotel	NN	NN	_	nom|sg|neut	-1	2	_	SB	_	_
+6	bezogen	beziehen	beziehen	VVPP	VVPP	_	_	-1	7	_	OC	_	_
+7	worden	werden	werden	VAPP	VAPP	_	_	-1	2	_	OC	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+
+1	Im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	9	_	MO	_	_
+2	Erdgeschoss	Erdgeschoss	Erdgeschoss	NN	NN	_	dat|sg|neut	-1	1	_	NK	_	_
+3	und	und	und	KON	KON	_	_	-1	1	_	CD	_	_
+4	vermutlich	vermutlich	vermutlich	ADV	ADV	_	_	-1	7	_	MO	_	_
+5	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	6	_	NG	_	_
+6	nur	nur	nur	ADV	ADV	_	_	-1	7	_	MO	_	_
+7	dort	dort	dort	ADV	ADV	_	_	-1	3	_	CJ	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	macht	machen	machen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+10	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	9	_	OA	_	_
+11	Schimmel	Schimmel	Schimmel	NN	NN	_	nom|sg|masc	-1	9	_	SB	_	_
+12	breit	breit	breit	ADJD	ADJD	_	pos	-1	9	_	MO	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Mit	mit	mit	APPR	APPR	_	_	-1	7	_	MO	_	_
+2	anderen	andere	andere	PIAT	PIAT	_	dat|pl|neut	-1	3	_	NK	_	_
+3	Worten	Wort	Wort	NN	NN	_	dat|pl|neut	-1	1	_	NK	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	die	die	die	ART	ART	_	acc|sg|fem	-1	6	_	NK	_	_
+6	Bausubstanz	Bausubstanz	Bausubstanz	NN	NN	_	acc|sg|fem	-1	7	_	SB	_	_
+7	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+8	durch	durch	durch	APPR	APPR	_	_	-1	7	_	MO	_	_
+9	den	die	die	ART	ART	_	acc|sg|masc	-1	10	_	NK	_	_
+10	Leerstand	Leerstand	Leerstand	NN	NN	_	acc|sg|masc	-1	8	_	NK	_	_
+11	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	7	_	NG	_	_
+12	besser	gut	gut	ADJD	ADJD	_	comp	-1	7	_	PD	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+	sentence_start	0	169	263	302	413	494	582	625	657
+	token_offsets	sentence	0	offsets	0::5	6::8	15::3	19::8	28::14	43::2	46::3	50::7	58::3	62::8	71::7	79::10	90::1	92::3	96::5	102::3	106::3	110::17	128::3	132::2	135::5	141::7	149::9	159::6	166::1
+	token_offsets	sentence	1	offsets	169::6	176::3	180::3	184::5	190::7	198::3	202::8	211::3	215::4	220::1	222::3	226::2	229::4	234::3	238::3	242::7	250::9	260::1
+	token_offsets	sentence	2	offsets	263::10	274::3	278::5	284::14	299::1
+	token_offsets	sentence	3	offsets	302::3	306::4	311::8	320::5	326::10	337::5	343::3	347::5	353::7	361::4	366::2	369::5	375::12	388::10	399::10	410::1
+	token_offsets	sentence	4	offsets	413::4	418::5	424::13	438::6	445::3	449::3	453::5	459::4	464::3	468::12	481::2	484::6	491::1
+	token_offsets	sentence	5	offsets	494::9	504::5	510::3	514::11	526::7	534::7	542::8	551::1	553::2	556::2	559::3	563::4	568::2	571::7	579::1
+	token_offsets	sentence	6	offsets	582::6	589::6	596::2	599::5	605::8	614::2	617::4	622::1
+	token_offsets	sentence	7	offsets	625::4	630::3	634::6	641::6	648::5	654::1
+	token_offsets	sentence	8	offsets	657::5	663::6	670::3	674::12	687::3	691::4	696::5	702::4	707::5	713::1
+1	Zudem	zudem	zudem	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	erinnert	erinnern	erinnern	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	der	die	die	ART	ART	_	nom|sg|masc	-1	5	_	NK	_	_
+4	wuchtige	wuchtig	wuchtig	ADJA	ADJA	_	nom|sg|masc|pos	-1	5	_	NK	_	_
+5	Mehrgeschosser	Mehrgeschosser	Mehrgeschosser	NN	NN	_	nom|sg|masc	-1	2	_	SB	_	_
+6	an	an	an	APPR	APPR	_	_	-1	2	_	OP	_	_
+7	ein	eine	eine	ART	ART	_	acc|sg|neut	-1	8	_	NK	_	_
+8	Kapitel	Kapitel	Kapitel	NN	NN	_	acc|sg|neut	-1	6	_	NK	_	_
+9	der	die	die	ART	ART	_	gen|sg|fem	-1	11	_	NK	_	_
+10	jüngsten	jung	jung	ADJA	ADJA	_	nom|pl|masc|sup	-1	11	_	NK	_	_
+11	Grebser	Grebser	Grebser	NN	NN	_	gen|pl|neut	-1	8	_	AG	_	_
+12	Geschichte	Geschichte	Geschichte	NN	NN	_	nom|sg|fem	-1	11	_	NK	_	_
+13	,	,	,	$,	$,	_	_	-1	12	_	--	_	_
+14	die	die	die	PRELS	PRELS	_	nom|sg|fem	-1	24	_	SB	_	_
+15	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	16	_	NG	_	_
+16	nur	nur	nur	ADV	ADV	_	_	-1	18	_	MO	_	_
+17	die	die	die	ART	ART	_	acc|pl|masc	-1	18	_	NK	_	_
+18	Gemeindevertreter	Gemeindevertreter	Gemeindevertreter	NN	NN	_	acc|pl|masc	-1	23	_	OA	_	_
+19	nur	nur	nur	ADV	ADV	_	_	-1	21	_	MO	_	_
+20	zu	zu	zu	PTKA	PTKA	_	_	-1	21	_	MO	_	_
+21	gerne	gerne	gerne	ADV	ADV	_	_	-1	23	_	MO	_	_
+22	langsam	langsam	langsam	ADJD	ADJD	_	pos	-1	23	_	MO	_	_
+23	vergessen	vergessen	vergessen	VVPP	VVPP	_	_	-1	24	_	OC	_	_
+24	würden	werden	werden	VAFIN	VAFIN	_	pl|3|past|subj	-1	11	_	RC	_	_
+25	.	.	.	$.	$.	_	_	-1	24	_	--	_	_
+
+1	Gebaut	bauen	bauen	VVPP	VVPP	_	_	-1	2	_	OC	_	_
+2	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	das	die	die	ART	ART	_	nom|sg|neut	-1	4	_	NK	_	_
+4	Hotel	Hotel	Hotel	NN	NN	_	nom|sg|neut	-1	2	_	SB	_	_
+5	nämlich	nämlich	nämlich	ADV	ADV	_	_	-1	7	_	MO	_	_
+6	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	7	_	NK	_	_
+7	Investor	Investor	Investor	NN	NN	_	nom|sg|masc	-1	4	_	APP	_	_
+8	mit	mit	mit	APPR	APPR	_	_	-1	7	_	MNR	_	_
+9	Geld	Geld	Geld	NN	NN	_	dat|sg|neut	-1	8	_	NK	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	das	die	die	PRELS	PRELS	_	acc|sg|neut	-1	17	_	OA	_	_
+12	er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	17	_	SB	_	_
+13	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	17	_	OA	_	_
+14	von	von	von	APPR	APPR	_	_	-1	17	_	OP	_	_
+15	der	die	die	ART	ART	_	dat|sg|fem	-1	16	_	NK	_	_
+16	Kommune	Kommune	Kommune	NN	NN	_	dat|sg|fem	-1	14	_	NK	_	_
+17	erschlich	erschleichen	erschleichen	VVFIN	VVFIN	_	sg|3|past|ind	-1	9	_	RC	_	_
+18	.	.	.	$.	$.	_	_	-1	17	_	--	_	_
+
+1	Fördergeld	Fördergeld	Fördergeld	NN	NN	_	nom|sg|neut	-1	0	_	--	_	_
+2	aus	aus	aus	APPR	APPR	_	_	-1	1	_	MNR	_	_
+3	einem	eine	eine	ART	ART	_	dat|sg|masc	-1	4	_	NK	_	_
+4	Kommunalkredit	Kommunalkredit	Kommunalkredit	NN	NN	_	dat|sg|masc	-1	2	_	NK	_	_
+5	.	.	.	$.	$.	_	_	-1	4	_	--	_	_
+
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	2	_	NK	_	_
+2	Mann	Mann	Mann	NN	NN	_	nom|sg|masc	-1	3	_	SB	_	_
+3	bezahlte	bezahlen	bezahlen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+4	viele	viele	viele	PIAT	PIAT	_	acc|pl|masc	-1	5	_	NK	_	_
+5	Handwerker	Handwerker	Handwerker	NN	NN	_	acc|pl|masc	-1	3	_	OA	_	_
+6	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	3	_	NG	_	_
+7	und	und	und	KON	KON	_	_	-1	3	_	CD	_	_
+8	wurde	werden	werden	VAFIN	VAFIN	_	sg|3|past|ind	-1	7	_	CJ	_	_
+9	voriges	vorig	vorig	ADJA	ADJA	_	acc|sg|neut|pos	-1	10	_	NK	_	_
+10	Jahr	Jahr	Jahr	NN	NN	_	acc|sg|neut	-1	15	_	MO	_	_
+11	zu	zu	zu	APPR	APPR	_	_	-1	15	_	OP	_	_
+12	einer	eine	eine	ART	ART	_	dat|sg|fem	-1	14	_	NK	_	_
+13	mehrjährigen	mehrjährig	mehrjährig	ADJA	ADJA	_	dat|sg|fem|pos	-1	14	_	NK	_	_
+14	Haftstrafe	Haftstrafe	Haftstrafe	NN	NN	_	dat|sg|fem	-1	11	_	NK	_	_
+15	verurteilt	verurteilen	verurteilen	VVPP	VVPP	_	_	-1	8	_	OC	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+1	Doch	doch	doch	KON	KON	_	_	-1	4	_	JU	_	_
+2	seine	sein	sein	PPOSAT	PPOSAT	_	nom|sg|fem	-1	3	_	NK	_	_
+3	Vergangenheit	Vergangenheit	Vergangenheit	NN	NN	_	nom|sg|fem	-1	4	_	SB	_	_
+4	schien	scheinen	scheinen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+5	wie	wie	wie	KOKOM	KOKOM	_	_	-1	7	_	CM	_	_
+6	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	7	_	NK	_	_
+7	Fluch	Fluch	Fluch	NN	NN	_	nom|sg|masc	-1	12	_	MO	_	_
+8	über	über	über	APPR	APPR	_	_	-1	7	_	MNR	_	_
+9	dem	die	die	ART	ART	_	dat|sg|masc	-1	10	_	NK	_	_
+10	Hotelkomplex	Hotelkomplex	Hotelkomplex	NN	NN	_	dat|sg|masc	-1	8	_	NK	_	_
+11	zu	zu	zu	PTKZU	PTKZU	_	_	-1	12	_	PM	_	_
+12	liegen	liegen	liegen	VVINF	VVINF	_	_	-1	4	_	OC	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Jahrelang	jahrelang	jahrelang	ADJD	ADJD	_	pos	-1	7	_	MO	_	_
+2	hatte	haben	haben	VAFIN	VAFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+3	das	die	die	ART	ART	_	nom|sg|neut	-1	4	_	NK	_	_
+4	Amtsgericht	Amtsgericht	Amtsgericht	NN	NN	_	nom|sg|neut	-1	2	_	SB	_	_
+5	Potsdam	Potsdam	Potsdam	NE	NE	_	nom|sg|neut	-1	4	_	NK	_	_
+6	umsonst	umsonst	umsonst	ADV	ADV	_	_	-1	7	_	MO	_	_
+7	versucht	versuchen	versuchen	VVPP	VVPP	_	_	-1	2	_	OC	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	14	_	OA	_	_
+10	an	an	an	APPR	APPR	_	_	-1	14	_	MO	_	_
+11	den	die	die	ART	ART	_	acc|sg|masc	-1	12	_	NK	_	_
+12	Mann	Mann	Mann	NN	NN	_	acc|sg|masc	-1	10	_	NK	_	_
+13	zu	zu	zu	PTKZU	PTKZU	_	_	-1	14	_	PM	_	_
+14	bringen	bringen	bringen	VVINF	VVINF	_	_	-1	7	_	OC	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+1	Einmal	einmal	einmal	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	schien	scheinen	scheinen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+3	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	SB	_	_
+4	schon	schon	schon	ADV	ADV	_	_	-1	5	_	MO	_	_
+5	geglückt	glücken	glücken	VVPP	VVPP	_	pos	-1	7	_	OC	_	_
+6	zu	zu	zu	PTKZU	PTKZU	_	_	-1	7	_	PM	_	_
+7	sein	sein	sein	VAINF	VAINF	_	_	-1	2	_	OC	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+
+1	Doch	doch	doch	KON	KON	_	_	-1	4	_	JU	_	_
+2	der	die	die	ART	ART	_	nom|sg|masc	-1	3	_	NK	_	_
+3	Käufer	Käufer	Käufer	NN	NN	_	nom|sg|masc	-1	4	_	SB	_	_
+4	zahlte	zahlen	zahlen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+5	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	4	_	NG	_	_
+6	.	.	.	$.	$.	_	_	-1	5	_	--	_	_
+
+1	Jetzt	jetzt	jetzt	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	könnte	können	können	VMFIN	VMFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+3	das	die	die	ART	ART	_	nom|sg|neut	-1	4	_	NK	_	_
+4	Seniorenheim	Seniorenheim	Seniorenheim	NN	NN	_	nom|sg|neut	-1	2	_	SB	_	_
+5	dem	die	die	ART	ART	_	dat|sg|masc	-1	6	_	NK	_	_
+6	Haus	Haus	Haus	NN	NN	_	dat|sg|masc	-1	9	_	DA	_	_
+7	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	8	_	NK	_	_
+8	Sinn	Sinn	Sinn	NN	NN	_	acc|sg|masc	-1	9	_	OA	_	_
+9	geben	geben	geben	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+

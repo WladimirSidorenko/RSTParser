@@ -1,0 +1,184 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::10	11::6
+1	Glückliche	glücklich	glücklich	ADJA	ADJA	_	nom|pl|masc|pos	-1	2	_	NK	_	_
+2	Hühner	Huhn	Huhn	NN	NN	_	nom|pl|masc	-1	0	_	--	_	_
+
+	sentence_start	0	73	196	263	340	505	651	711	788	863	963
+	token_offsets	sentence	0	offsets	0::2	3::3	7::9	17::10	28::3	32::8	41::11	53::6	60::9	70::1
+	token_offsets	sentence	1	offsets	73::21	95::6	102::6	109::4	114::3	118::6	125::3	129::5	135::2	138::5	144::13	158::7	166::3	170::4	175::4	180::2	183::9	193::1
+	token_offsets	sentence	2	offsets	196::2	199::3	203::17	221::4	226::3	230::4	235::4	240::5	246::6	253::6	260::1
+	token_offsets	sentence	3	offsets	263::16	280::3	284::3	288::6	295::8	304::6	311::5	317::7	325::5	331::5	337::1
+	token_offsets	sentence	4	offsets	340::3	344::8	353::2	356::5	362::8	371::1	373::4	378::3	382::5	388::13	402::1	404::3	408::3	412::2	415::7	423::13	437::4	442::12	455::8	464::8	473::5	479::1	481::7	489::7	497::4	502::1
+	token_offsets	sentence	5	offsets	505::2	508::6	515::8	524::3	528::5	534::3	538::1	540::12	553::12	566::7	574::4	579::3	583::12	596::3	600::13	614::3	618::9	628::5	634::13	648::1
+	token_offsets	sentence	6	offsets	651::5	657::8	666::4	671::5	677::7	685::3	689::3	693::4	698::2	701::6	708::1
+	token_offsets	sentence	7	offsets	711::10	722::6	729::4	734::9	744::4	749::7	757::16	774::10	785::1
+	token_offsets	sentence	8	offsets	788::2	791::9	801::1	803::3	807::12	820::12	833::1	835::6	842::3	846::5	852::7	860::1
+	token_offsets	sentence	9	offsets	863::11	875::11	887::6	894::11	906::2	909::3	913::10	924::3	928::3	932::3	936::12	949::10	960::1
+	token_offsets	sentence	10	offsets	963::3	967::11	979::7	987::5	993::4	998::11	1010::4	1015::7	1023::6	1030::2	1033::3	1037::14	1052::9	1062::5	1068::1
+1	Um	um	um	APPR	APPR	_	_	-1	9	_	MO	_	_
+2	die	die	die	ART	ART	_	acc|pl|fem	-1	4	_	NK	_	_
+3	deutschen	deutsch	deutsch	ADJA	ADJA	_	acc|pl|fem|pos	-1	4	_	NK	_	_
+4	Legehennen	Legehenne	Legehenne	NN	NN	_	acc|pl|fem	-1	1	_	NK	_	_
+5	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+6	heftiger	heftig	heftig	ADJD	ADJD	_	comp	-1	8	_	NK	_	_
+7	politischer	politisch	politisch	ADJA	ADJA	_	nom|sg|masc|pos	-1	8	_	NK	_	_
+8	Streit	Streit	Streit	NN	NN	_	nom|sg|masc	-1	5	_	SB	_	_
+9	entbrannt	entbrennen	entbrennen	VVPP	VVPP	_	_	-1	5	_	OC	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+1	Bundesagrarministerin	Bundesagrarministerin	Bundesagrarministerin	NN	NN	_	nom|sg|fem	-1	4	_	SB	_	_
+2	Renate	Renate	Renate	NE	NE	_	nom|sg|fem	-1	3	_	PNC	_	_
+3	Künast	Künast	Künast	NN	NN	_	nom|sg|fem	-1	1	_	NK	_	_
+4	will	wollen	wollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	das	die	die	ART	ART	_	acc|sg|neut	-1	6	_	NK	_	_
+6	Halten	Halt|Halten	Halt|Halten	NN	NN	_	acc|sg|neut	-1	17	_	OA	_	_
+7	der	die	die	ART	ART	_	gen|pl|neut	-1	8	_	NK	_	_
+8	Tiere	Tier	Tier	NN	NN	_	gen|pl|neut	-1	6	_	AG	_	_
+9	in	in	in	APPR	APPR	_	_	-1	17	_	MO	_	_
+10	engen	eng	eng	ADJA	ADJA	_	dat|pl|fem|pos	-1	11	_	NK	_	_
+11	Legebatterien	Legebatterien	Legebatterien	NN	NN	_	dat|pl|fem	-1	9	_	NK	_	_
+12	bereits	bereits	bereits	ADV	ADV	_	_	-1	13	_	MO	_	_
+13	vom	von	von	APPRART	APPRART	_	dat|sg|neut	-1	17	_	MO	_	_
+14	Jahr	Jahr	Jahr	NN	NN	_	dat|sg|neut	-1	13	_	NK	_	_
+15	2006	@card@	@card@	CARD	CARD	_	_	-1	14	_	NK	_	_
+16	an	an	an	APZR	APZR	_	_	-1	13	_	AC	_	_
+17	verbieten	verbieten	verbieten	VVINF	VVINF	_	_	-1	4	_	OC	_	_
+18	.	.	.	$.	$.	_	_	-1	17	_	--	_	_
+
+1	In	in	in	APPR	APPR	_	_	-1	10	_	MO	_	_
+2	den	die	die	ART	ART	_	dat|pl|masc	-1	3	_	NK	_	_
+3	EU-Nachbarländern	EU-Nachbarländern	EU-Nachbarländern	NN	NN	_	dat|pl|masc	-1	1	_	NK	_	_
+4	soll	sollen	sollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	das	die	die	PDS	PDS	_	nom|sg|neut	-1	4	_	SB	_	_
+6	erst	erst	erst	ADV	ADV	_	_	-1	9	_	MO	_	_
+7	fünf	fünf	fünf	CARD	CARD	_	_	-1	8	_	NK	_	_
+8	Jahre	Jahr	Jahr	NN	NN	_	acc|pl|neut	-1	9	_	AMS	_	_
+9	später	spät	spät	ADJD	ADJD	_	comp	-1	10	_	MO	_	_
+10	gelten	gelten	gelten	VVINF	VVINF	_	_	-1	4	_	OC	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Eier-Produzenten	Eier-Produzenten	Eier-Produzenten	NN	NN	_	nom|pl|masc	-1	6	_	SB	_	_
+2	aus	aus	aus	APPR	APPR	_	_	-1	1	_	MNR	_	_
+3	der	die	die	ART	ART	_	dat|sg|fem	-1	5	_	NK	_	_
+4	ganzen	ganz	ganz	ADJA	ADJA	_	dat|sg|fem|pos	-1	5	_	NK	_	_
+5	Republik	Republik	Republik	NN	NN	_	dat|sg|fem	-1	2	_	NK	_	_
+6	machen	machen	machen	VVFIN	VVFIN	_	_	-1	0	_	--	_	_
+7	gegen	gegen	gegen	APPR	APPR	_	_	-1	6	_	MO	_	_
+8	Künasts	Künasts	Künasts	NN	NN	_	acc|pl|masc	-1	7	_	NK	_	_
+9	Pläne	Plan	Plan	NN	NN	_	acc|pl|masc	-1	6	_	OA	_	_
+10	mobil	mobil	mobil	ADJD	ADJD	_	pos	-1	6	_	MO	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Betriebe	Betrieb	Betrieb	NN	NN	_	nom|sg|fem	-1	5	_	OA	_	_
+3	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	2	_	MNR	_	_
+4	Osten	Osten	Osten	NN	NN	_	dat|sg|masc	-1	3	_	NK	_	_
+5	fürchten	fürchten	fürchten	VVINF	VVINF	_	pl|3|pres|ind	-1	0	_	--	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	dass	dass	dass	KOUS	KOUS	_	_	-1	25	_	CP	_	_
+8	die	die	die	ART	ART	_	nom|pl|fem	-1	10	_	NK	_	_
+9	hohen	hoch	hoch	ADJA	ADJA	_	nom|pl|fem|pos	-1	10	_	NK	_	_
+10	Investitionen	Investition	Investition	NN	NN	_	nom|pl|fem	-1	25	_	SB	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	die	die	die	PRELS	PRELS	_	nom|pl|fem	-1	20	_	OA	_	_
+13	sie	sie	sie	PPER	PPER	_	nom|sg|fem|3	-1	21	_	SB	_	_
+14	in	in	in	APPR	APPR	_	_	-1	20	_	MO	_	_
+15	moderne	modern	modern	ADJA	ADJA	_	acc|pl|neut|pos	-1	16	_	NK	_	_
+16	Legebatterien	Legebatterien	Legebatterien	NN	NN	_	acc|pl|neut	-1	14	_	NK	_	_
+17	nach	nach	nach	APPR	APPR	_	_	-1	20	_	MO	_	_
+18	europäischem	europäisch	europäisch	ADJA	ADJA	_	dat|sg|neut|pos	-1	19	_	NK	_	_
+19	Standard	Standard	Standard	NN	NN	_	dat|sg|neut	-1	17	_	NK	_	_
+20	gesteckt	stecken	stecken	VVPP	VVPP	_	_	-1	21	_	OC	_	_
+21	haben	haben	haben	VAFIN	VAFIN	_	pl|3|pres|ind	-1	10	_	RC	_	_
+22	,	,	,	$,	$,	_	_	-1	21	_	--	_	_
+23	umsonst	umsonst	umsonst	ADV	ADV	_	_	-1	24	_	MO	_	_
+24	gewesen	sein	sein	VAPP	VAPP	_	_	-1	25	_	OC	_	_
+25	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	5	_	OC	_	_
+26	.	.	.	$.	$.	_	_	-1	25	_	--	_	_
+
+1	Im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	3	_	MO	_	_
+2	Westen	Weste|Westen	Weste|Westen	NN	NN	_	dat|sg|masc	-1	1	_	NK	_	_
+3	herrscht	herrschen	herrschen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	die	die	die	ART	ART	_	nom|sg|fem	-1	5	_	NK	_	_
+5	Sorge	Sorge	Sorge	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+6	vor	vor	vor	PTKVZ	PTKVZ	_	_	-1	3	_	SVP	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	ausländische	ausländisch	ausländisch	ADJA	ADJA	_	acc|pl|masc|pos	-1	9	_	NK	_	_
+9	Konkurrenten	Konkurrent	Konkurrent	NN	NN	_	acc|pl|masc	-1	10	_	SB	_	_
+10	könnten	können	können	VMFIN	VMFIN	_	pl|3|past|subj	-1	5	_	OC	_	_
+11	dann	dann	dann	ADV	ADV	_	_	-1	10	_	MO	_	_
+12	mit	mit	mit	APPR	APPR	_	_	-1	19	_	MO	_	_
+13	Billig-Eiern	Billig-Eiern	Billig-Eiern	NN	NN	_	dat|pl|masc	-1	12	_	NK	_	_
+14	aus	aus	aus	APPR	APPR	_	_	-1	13	_	MNR	_	_
+15	Legebatterien	Legebatterien	Legebatterien	NN	NN	_	dat|pl|fem	-1	14	_	NK	_	_
+16	den	die	die	ART	ART	_	dat|pl|fem	-1	18	_	NK	_	_
+17	deutschen	deutsch	deutsch	ADJA	ADJA	_	acc|sg|masc|pos	-1	18	_	NK	_	_
+18	Markt	Markt	Markt	NN	NN	_	acc|sg|masc	-1	19	_	OA	_	_
+19	überschwemmen	überschwemmen	überschwemmen	VVINF	VVINF	_	_	-1	10	_	OC	_	_
+20	.	.	.	$.	$.	_	_	-1	19	_	--	_	_
+
+1	Beide	beide	beide	PIAT	PIAT	_	nom|pl|fem	-1	2	_	NK	_	_
+2	Bedenken	Bedenken	Bedenken	NN	NN	_	nom|pl|fem	-1	3	_	SB	_	_
+3	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+4	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	3	_	NG	_	_
+5	einfach	einfach	einfach	ADJD	ADJD	_	pos	-1	3	_	PD	_	_
+6	von	von	von	APPR	APPR	_	_	-1	10	_	MO	_	_
+7	der	die	die	ART	ART	_	dat|sg|fem	-1	8	_	NK	_	_
+8	Hand	Hand	Hand	NN	NN	_	dat|sg|fem	-1	6	_	NK	_	_
+9	zu	zu	zu	PTKZU	PTKZU	_	_	-1	10	_	PM	_	_
+10	weisen	weisen	weisen	VVINF	VVINF	_	_	-1	5	_	OC	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Ministerin	Ministerin	Ministerin	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+2	Künast	Künast	Künast	NN	NN	_	nom|sg|fem	-1	1	_	NK	_	_
+3	muss	müssen	müssen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	zumindest	zumindest	zumindest	ADV	ADV	_	_	-1	3	_	MO	_	_
+5	über	über	über	APPR	APPR	_	_	-1	8	_	OP	_	_
+6	längere	lang	lang	ADJA	ADJA	_	acc|pl|fem|comp	-1	7	_	NK	_	_
+7	Übergangsfristen	Übergangsfrist	Übergangsfrist	NN	NN	_	acc|pl|fem	-1	5	_	NK	_	_
+8	nachdenken	nachdenken	nachdenken	VVINF	VVINF	_	_	-1	3	_	OC	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+1	Am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	8	_	MO	_	_
+2	Grundsatz	Grundsatz	Grundsatz	NN	NN	_	dat|sg|masc	-1	1	_	NK	_	_
+3	,	,	,	$,	$,	_	_	-1	2	_	--	_	_
+4	die	die	die	ART	ART	_	acc|sg|fem	-1	5	_	NK	_	_
+5	Käfighaltung	Käfighaltung	Käfighaltung	NN	NN	_	acc|sg|fem	-1	6	_	OA	_	_
+6	abzuschaffen	abschaffen	abschaffen	VVIZU	VVIZU	_	_	-1	2	_	OC	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	sollte	sollen	sollen	VMFIN	VMFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+9	sie	sie	sie	PPER	PPER	_	nom|sg|fem|3	-1	8	_	SB	_	_
+10	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	8	_	NG	_	_
+11	rütteln	rütteln	rütteln	VVINF	VVINF	_	_	-1	8	_	OC	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Artgerechte	artgerecht	artgerecht	ADJA	ADJA	_	acc|sg|fem|pos	-1	2	_	NK	_	_
+2	Tierhaltung	Tierhaltung	Tierhaltung	NN	NN	_	acc|sg|fem	-1	3	_	SB	_	_
+3	gehört	gehören	gehören	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	schließlich	schließlich	schließlich	ADV	ADV	_	_	-1	3	_	MO	_	_
+5	zu	zu	zu	APPR	APPR	_	_	-1	3	_	OP	_	_
+6	den	die	die	ART	ART	_	dat|pl|neut	-1	7	_	NK	_	_
+7	Eckpunkten	Eckpunkt	Eckpunkt	NN	NN	_	dat|pl|neut	-1	5	_	NK	_	_
+8	der	die	die	ART	ART	_	gen|sg|fem	-1	12	_	NK	_	_
+9	von	von	von	APPR	APPR	_	_	-1	11	_	SBP	_	_
+10	ihr	ihr	ihr	PPOSAT	PPOSAT	_	dat|sg|fem|3	-1	9	_	NK	_	_
+11	propagierten	propagiert	propagiert	ADJA	ADJA	_	gen|sg|fem|pos	-1	12	_	NK	_	_
+12	Agrarwende	Agrarwende	Agrarwende	NN	NN	_	gen|sg|fem	-1	7	_	AG	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	3	_	JU	_	_
+2	schließlich	schließlich	schließlich	ADV	ADV	_	_	-1	3	_	MO	_	_
+3	greifen	greifen	greifen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+4	immer	immer	immer	ADV	ADV	_	_	-1	5	_	MO	_	_
+5	mehr	mehr	mehr	PIAT	PIAT	_	*|*|*	-1	6	_	NK	_	_
+6	Verbraucher	Verbraucher	Verbraucher	NN	NN	_	nom|pl|masc	-1	3	_	SB	_	_
+7	beim	bei	bei	APPRART	APPRART	_	dat|sg|masc	-1	3	_	MO	_	_
+8	Einkauf	Einkauf	Einkauf	NN	NN	_	dat|sg|masc	-1	7	_	NK	_	_
+9	bewußt	bewusst	bewusst	ADJD	ADJD	_	pos	-1	3	_	MO	_	_
+10	zu	zu	zu	APPR	APPR	_	_	-1	3	_	MO	_	_
+11	den	die	die	ART	ART	_	dat|pl|masc	-1	14	_	NK	_	_
+12	tierfreundlich	tierfreundlich	tierfreundlich	ADJD	ADJD	_	pos	-1	13	_	MO	_	_
+13	erzeugten	erzeugt	erzeugt	ADJA	ADJA	_	dat|pl|masc|pos	-1	14	_	NK	_	_
+14	Eiern	Ei|Eiern	Ei|Eiern	NN	NN	_	dat|pl|masc	-1	10	_	NK	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+

@@ -1,0 +1,220 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::9	10::6
+1	Herz-Dame	Herz-Dame	Herz-Dame	NN	NN	_	nom|sg|fem	-1	2	_	SB	_	_
+2	sticht	stechen	stechen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+
+	sentence_start	0	85	174
+	token_offsets	sentence	0	offsets	0::3	4::11	16::1	18::3	22::5	28::10	39::9	49::6	56::1	58::3	62::3	66::4	71::10	82::1
+	token_offsets	sentence	1	offsets	85::4	90::2	93::9	103::5	109::7	117::4	122::5	128::23	152::8	161::9	171::1
+	token_offsets	sentence	2	offsets	174::9	184::20	205::1	207::3	211::1	213::6	220::4	225::4	230::3	234::12	247::1	249::3	253::3	257::4	262::3	266::2	269::7	277::10	288::1	290::3	294::11	306::7	314::1	316::3	320::1	322::3	326::2	329::9	339::1	341::4	346::2	349::3	353::6	360::5	366::8	375::3	379::3	383::3	387::7	395::1
+1	Ein	eine	eine	ART	ART	_	nom|sg|masc	-1	2	_	NK	_	_
+2	Wahlausgang	Wahlausgang	Wahlausgang	NN	NN	_	nom|sg|masc	-1	10	_	RE	_	_
+3	,	,	,	$,	$,	_	_	-1	2	_	--	_	_
+4	der	die	die	PRELS	PRELS	_	nom|sg|masc	-1	8	_	SB	_	_
+5	beide	beide	beide	PIAT	PIAT	_	nom|sg|masc|pos	-1	6	_	NK	_	_
+6	Wahlgegner	Wahlgegner	Wahlgegner	NN	NN	_	nom|sg|masc	-1	8	_	SB	_	_
+7	zufrieden	zufrieden	zufrieden	ADJD	ADJD	_	pos	-1	8	_	MO	_	_
+8	stellt	stellen	stellen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	2	_	RC	_	_
+9	-	-	-	$(	$(	_	_	-1	8	_	--	_	_
+10	das	die	die	PDS	PDS	_	nom|sg|neut	-1	11	_	SB	_	_
+11	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+12	eine	eine	eine	ART	ART	_	nom|sg|fem	-1	13	_	NK	_	_
+13	Seltenheit	Seltenheit	Seltenheit	NN	NN	_	nom|sg|fem	-1	11	_	PD	_	_
+14	!	!	!	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Doch	doch	doch	KON	KON	_	_	-1	5	_	JU	_	_
+2	am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	5	_	MO	_	_
+3	gestrigen	gestrig	gestrig	ADJA	ADJA	_	dat|sg|masc|pos	-1	4	_	NK	_	_
+4	Abend	Abend	Abend	NN	NN	_	dat|sg|masc	-1	2	_	NK	_	_
+5	zeigten	zeigen	zeigen	VVFIN	VVFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+6	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	5	_	OA	_	_
+7	beide	beide	beide	PIAT	PIAT	_	nom|pl|masc	-1	8	_	NK	_	_
+8	Bürgermeisterkandidaten	Bürgermeisterkandidat	Bürgermeisterkandidat	NN	NN	_	nom|pl|masc	-1	5	_	SB	_	_
+9	durchaus	durchaus	durchaus	ADV	ADV	_	_	-1	5	_	MO	_	_
+10	zufrieden	zufrieden	zufrieden	ADJD	ADJD	_	pos	-1	5	_	MO	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Elisabeth	Elisabeth	Elisabeth	NE	NE	_	nom|sg|fem	-1	2	_	PNC	_	_
+2	Herzog-von_der_Heide	Herzog-von_der_Heide	Herzog-von_der_Heide	NE	NE	_	nom|sg|fem	-1	6	_	SB	_	_
+3	(	(	(	$(	$(	_	_	-1	2	_	--	_	_
+4	SPD	SPD	SPD	NE	NE	_	nom|sg|fem	-1	2	_	PAR	_	_
+5	)	)	)	$(	$(	_	_	-1	4	_	--	_	_
+6	freute	freuen	freuen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+7	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	6	_	OA	_	_
+8	über	über	über	APPR	APPR	_	_	-1	6	_	OP	_	_
+9	das	die	die	ART	ART	_	acc|sg|neut	-1	10	_	NK	_	_
+10	Wahlergebnis	Wahlergebnis	Wahlergebnis	NN	NN	_	acc|sg|neut	-1	8	_	NK	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	das	die	die	PRELS	PRELS	_	nom|sg|neut	-1	18	_	SB	_	_
+13	ihr	ihr	ihr	PPER	PPER	_	dat|sg|fem|3	-1	18	_	DA	_	_
+14	mehr	mehr	mehr	ADV	ADV	_	*|*|*	-1	18	_	MO	_	_
+15	als	als	als	KOKOM	KOKOM	_	_	-1	17	_	CM	_	_
+16	60	60	60	CARD	CARD	_	_	-1	17	_	NK	_	_
+17	Prozent	Prozent	Prozent	NN	NN	_	*|*|neut	-1	14	_	CC	_	_
+18	einbrachte	einbringen	einbringen	VVFIN	VVFIN	_	sg|3|past|ind	-1	10	_	RC	_	_
+19	,	,	,	$,	$,	_	_	-1	18	_	--	_	_
+20	und	und	und	KON	KON	_	_	-1	6	_	CD	_	_
+21	Hans-Jürgen	Hans-Jürgen	Hans-Jürgen	NE	NE	_	nom|sg|masc	-1	22	_	PNC	_	_
+22	Akuloff	Akuloff	Akuloff	NE	NE	_	nom|sg|masc	-1	26	_	SB	_	_
+23	(	(	(	$(	$(	_	_	-1	22	_	--	_	_
+24	PDS	PDS	PDS	NE	NE	_	nom|sg|fem	-1	22	_	PAR	_	_
+25	)	)	)	$(	$(	_	_	-1	24	_	--	_	_
+26	war	sein	sein	VAFIN	VAFIN	_	sg|3|past|ind	-1	20	_	CJ	_	_
+27	's	es	es	PPER	PPER	_	nom|sg|neut|3	-1	26	_	SB	_	_
+28	zufrieden	zufrieden	zufrieden	ADJD	ADJD	_	pos	-1	26	_	PD	_	_
+29	,	,	,	$,	$,	_	_	-1	28	_	--	_	_
+30	dass	dass	dass	KOUS	KOUS	_	_	-1	39	_	CP	_	_
+31	er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	39	_	SB	_	_
+32	das	die	die	ART	ART	_	acc|sg|neut	-1	35	_	NK	_	_
+33	bisher	bisher	bisher	ADV	ADV	_	_	-1	34	_	MO	_	_
+34	beste	gut	gut	ADJA	ADJA	_	acc|sg|neut|sup	-1	35	_	NK	_	_
+35	Ergebnis	Ergebnis	Ergebnis	NN	NN	_	acc|sg|neut	-1	39	_	OA	_	_
+36	für	für	für	APPR	APPR	_	_	-1	35	_	MNR	_	_
+37	die	die	die	ART	ART	_	acc|sg|fem	-1	38	_	NK	_	_
+38	PDS	PDS	PDS	NE	NE	_	acc|sg|fem	-1	36	_	NK	_	_
+39	einfuhr	einfahren	einfahren	VVFIN	VVFIN	_	sg|3|past|ind	-1	27	_	RE	_	_
+40	.	.	.	$.	$.	_	_	-1	39	_	--	_	_
+
+	sentence_start	0	82	168	251	397
+	token_offsets	sentence	0	offsets	0::3	4::3	8::9	18::2	21::2	24::8	33::1	35::2	38::2	41::7	49::3	53::5	59::15	75::3	79::1
+	token_offsets	sentence	1	offsets	82::3	86::18	105::2	108::11	120::3	124::9	134::4	139::3	143::3	147::7	155::9	165::1
+	token_offsets	sentence	2	offsets	168::7	176::8	185::5	191::5	197::4	202::4	207::12	220::5	226::9	236::2	239::8	248::1
+	token_offsets	sentence	3	offsets	251::3	255::8	264::11	276::3	280::3	284::11	296::8	305::3	309::6	316::10	327::1	329::7	337::3	341::5	347::7	355::2	358::6	365::8	374::12	387::6	394::1
+	token_offsets	sentence	4	offsets	397::4	402::5	408::3	412::4	417::5	423::7	431::1
+1	Das	die	die	PDS	PDS	_	nom|sg|neut	-1	2	_	SB	_	_
+2	war	sein	sein	VAFIN	VAFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+3	natürlich	natürlich	natürlich	ADV	ADV	_	_	-1	2	_	MO	_	_
+4	um	um	um	APPR	APPR	_	_	-1	5	_	AVC	_	_
+5	so	so	so	ADV	ADV	_	_	-1	6	_	MO	_	_
+6	leichter	leicht	leicht	ADJD	ADJD	_	comp	-1	2	_	PD	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	da	da	da	KOUS	KOUS	_	_	-1	14	_	CP	_	_
+9	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	14	_	EP	_	_
+10	diesmal	diesmal	diesmal	ADV	ADV	_	_	-1	14	_	MO	_	_
+11	nur	nur	nur	ADV	ADV	_	_	-1	13	_	MO	_	_
+12	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	13	_	NK	_	_
+13	Gegenkandidaten	Gegenkandidat	Gegenkandidat	NN	NN	_	acc|sg|masc	-1	14	_	OA	_	_
+14	gab	geben	geben	VVFIN	VVFIN	_	sg|3|past|ind	-1	2	_	MO	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Parteienlandschaft	Parteienlandschaft	Parteienlandschaft	NN	NN	_	nom|sg|fem	-1	5	_	SB	_	_
+3	in	in	in	APPR	APPR	_	_	-1	2	_	MNR	_	_
+4	Luckenwalde	Luckenwalde	Luckenwalde	NN	NN	_	dat|sg|fem	-1	3	_	NK	_	_
+5	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+6	natürlich	natürlich	natürlich	ADV	ADV	_	_	-1	11	_	MO	_	_
+7	nach	nach	nach	ADV	ADV	_	_	-1	11	_	MO	_	_
+8	wie	wie	wie	KOKOM	KOKOM	_	_	-1	7	_	CD	_	_
+9	vor	vor	vor	ADV	ADV	_	_	-1	8	_	CJ	_	_
+10	breiter	breit	breit	ADJD	ADJD	_	comp	-1	11	_	MO	_	_
+11	gefächert	fächern	fächern	VVPP	VVPP	_	_	-1	5	_	PD	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Deshalb	deshalb	deshalb	PAV	PAV	_	_	-1	2	_	NK	_	_
+2	brauchen	brauchen	brauchen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	jetzt	jetzt	jetzt	ADV	ADV	_	_	-1	2	_	MO	_	_
+4	weder	weder	weder	KON	KON	_	_	-1	5	_	CD	_	_
+5	SPD-	SPD-	SPD-	TRUNC	TRUNC	_	_	-1	6	_	CJ	_	_
+6	noch	noch	noch	KON	KON	_	_	-1	7	_	CD	_	_
+7	PDS-Anhänger	PDS-Anhänger	PDS-Anhänger	NN	NN	_	nom|pl|masc	-1	2	_	SB	_	_
+8	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	9	_	NK	_	_
+9	Höhenflug	Höhenflug	Höhenflug	NN	NN	_	acc|sg|masc	-1	11	_	OA	_	_
+10	zu	zu	zu	PTKZU	PTKZU	_	_	-1	11	_	PM	_	_
+11	bekommen	bekommen	bekommen	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	3	_	NK	_	_
+2	gestrige	gestrig	gestrig	ADJA	ADJA	_	nom|sg|masc|pos	-1	3	_	NK	_	_
+3	Wahlausgang	Wahlausgang	Wahlausgang	NN	NN	_	nom|sg|masc	-1	4	_	SB	_	_
+4	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	das	die	die	ART	ART	_	nom|sg|neut	-1	7	_	NK	_	_
+6	persönliche	persönlich	persönlich	ADJA	ADJA	_	nom|sg|neut|pos	-1	7	_	NK	_	_
+7	Ergebnis	Ergebnis	Ergebnis	NN	NN	_	nom|sg|neut	-1	4	_	PD	_	_
+8	der	die	die	ART	ART	_	gen|pl|fem	-1	10	_	NK	_	_
+9	beiden	beide	beide	PIAT	PIAT	_	gen|pl|fem	-1	10	_	NK	_	_
+10	Kandidaten	Kandidat	Kandidat	NN	NN	_	gen|pl|masc	-1	7	_	AG	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	nachdem	nachdem	nachdem	KOUS	KOUS	_	_	-1	20	_	CP	_	_
+13	sie	sie	sie	PPER	PPER	_	nom|sg|fem|3	-1	20	_	SB	_	_
+14	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	15	_	NK	_	_
+15	dritten	dritt	dritt	ADJA	ADJA	_	acc|sg|masc|pos	-1	19	_	OA	_	_
+16	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	19	_	MO	_	_
+17	ersten	erst	erst	ADJA	ADJA	_	dat|sg|masc|pos	-1	18	_	NK	_	_
+18	Wahlgang	Wahlgang	Wahlgang	NN	NN	_	dat|sg|masc	-1	16	_	NK	_	_
+19	ausgestochen	ausstechen	ausstechen	VVPP	VVPP	_	_	-1	20	_	OC	_	_
+20	hatten	haben	haben	VAFIN	VAFIN	_	pl|3|past|ind	-1	4	_	MO	_	_
+21	.	.	.	$.	$.	_	_	-1	20	_	--	_	_
+
+1	Mehr	mehr	mehr	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	0	_	--	_	_
+3	und	und	und	KON	KON	_	_	-1	2	_	CD	_	_
+4	auch	auch	auch	ADV	ADV	_	_	-1	6	_	MO	_	_
+5	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	6	_	NG	_	_
+6	weniger	weniger	weniger	ADV	ADV	_	_	-1	3	_	CJ	_	_
+7	.	.	.	$.	$.	_	_	-1	6	_	--	_	_
+
+	sentence_start	0	103	203
+	token_offsets	sentence	0	offsets	0::4	5::3	9::6	16::1	18::10	29::1	31::3	35::4	40::2	43::3	47::7	55::1	57::13	71::1	73::9	83::6	90::9	100::1
+	token_offsets	sentence	1	offsets	103::4	108::14	123::1	125::4	130::4	135::10	146::12	159::1	161::4	166::3	170::10	181::18	200::1
+	token_offsets	sentence	2	offsets	203::3	207::7	215::8	224::3	228::7	236::4	241::1	243::4	248::3	252::5	258::4	263::5	269::7	277::3	281::15	297::8	306::1	308::3	312::5	318::5	324::3	328::9	338::3	342::4	347::9	357::5	363::1
+1	Nach	nach	nach	APPR	APPR	_	_	-1	17	_	MO	_	_
+2	der	die	die	ART	ART	_	dat|sg|fem	-1	5	_	NK	_	_
+3	ersten	erst	erst	ADJA	ADJA	_	dat|sg|fem|pos	-1	5	_	NK	_	_
+4	"	"	"	$(	$(	_	_	-1	3	_	--	_	_
+5	Skat-Runde	Skat-Runde	Skat-Runde	NN	NN	_	dat|sg|fem	-1	1	_	NK	_	_
+6	"	"	"	$(	$(	_	_	-1	5	_	--	_	_
+7	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+8	dann	dann	dann	ADV	ADV	_	_	-1	17	_	MO	_	_
+9	in	in	in	APPR	APPR	_	_	-1	17	_	MO	_	_
+10	der	die	die	ART	ART	_	dat|sg|fem	-1	13	_	NK	_	_
+11	zweiten	zweit	zweit	ADJA	ADJA	_	dat|sg|fem|pos	-1	13	_	NK	_	_
+12	"	"	"	$(	$(	_	_	-1	11	_	--	_	_
+13	Mau-Mau-Runde	Mau-Mau-Runde	Mau-Mau-Runde	NN	NN	_	dat|sg|fem	-1	9	_	NK	_	_
+14	"	"	"	$(	$(	_	dat|sg|fem|pos	-1	13	_	--	_	_
+15	Herz-Dame	Herz-Dame	Herz-Dame	NN	NN	_	dat|sg|fem	-1	13	_	PAR	_	_
+16	Herzog	Herzog	Herzog	NE	NE	_	nom|sg|*	-1	15	_	NK	_	_
+17	gestochen	stechen	stechen	VVPP	VVPP	_	_	-1	7	_	OC	_	_
+18	.	.	.	$.	$.	_	_	-1	17	_	--	_	_
+
+1	Kein	keine	keine	PIAT	PIAT	_	acc|sg|neut	-1	2	_	NK	_	_
+2	überraschendes	überraschend	überraschend	ADJA	ADJA	_	acc|sg|neut|pos	-1	0	_	--	_	_
+3	,	,	,	$,	$,	_	_	-1	2	_	--	_	_
+4	auch	auch	auch	ADV	ADV	_	_	-1	7	_	MO	_	_
+5	kein	keine	keine	PIAT	PIAT	_	nom|sg|neut	-1	7	_	NK	_	_
+6	wahnsinnig	wahnsinnig	wahnsinnig	ADJD	ADJD	_	pos	-1	7	_	MO	_	_
+7	überragendes	überragend	überragend	ADJA	ADJA	_	nom|sg|neut|pos	-1	2	_	CJ	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	aber	aber	aber	KON	KON	_	_	-1	7	_	CD	_	_
+10	ein	eine	eine	ART	ART	_	nom|sg|neut	-1	12	_	NK	_	_
+11	deutliches	deutlich	deutlich	ADJA	ADJA	_	nom|sg|neut|pos	-1	12	_	NK	_	_
+12	Stichwahl-Ergebnis	Stichwahl-Ergebnis	Stichwahl-Ergebnis	NN	NN	_	nom|sg|neut	-1	9	_	CJ	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	3	_	NK	_	_
+2	extreme	extrem	extrem	ADJA	ADJA	_	nom|sg|fem|pos	-1	3	_	NK	_	_
+3	Spannung	Spannung	Spannung	NN	NN	_	nom|sg|fem	-1	4	_	SB	_	_
+4	war	sein	sein	VAFIN	VAFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+5	sowieso	sowieso	sowieso	ADV	ADV	_	_	-1	4	_	MO	_	_
+6	raus	raus	raus	PTKVZ	PTKVZ	_	_	-1	4	_	PD	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	denn	denn	denn	KON	KON	_	_	-1	4	_	CD	_	_
+9	die	die	die	ART	ART	_	nom|sg|fem	-1	11	_	NK	_	_
+10	erste	erst	erst	ADJA	ADJA	_	nom|sg|fem|pos	-1	11	_	NK	_	_
+11	Wahl	Wahl	Wahl	NN	NN	_	nom|sg|fem	-1	12	_	SB	_	_
+12	hatte	haben	haben	VAFIN	VAFIN	_	sg|3|past|ind	-1	8	_	CJ	_	_
+13	sowieso	sowieso	sowieso	ADV	ADV	_	_	-1	16	_	MO	_	_
+14	die	die	die	ART	ART	_	acc|sg|fem	-1	15	_	NK	_	_
+15	Vorentscheidung	Vorentscheidung	Vorentscheidung	NN	NN	_	acc|sg|fem	-1	16	_	OA	_	_
+16	gebracht	bringen	bringen	VVPP	VVPP	_	_	-1	12	_	OC	_	_
+17	,	,	,	$,	$,	_	_	-1	16	_	--	_	_
+18	die	die	die	PRELS	PRELS	_	nom|sg|fem	-1	26	_	SB	_	_
+19	jetzt	jetzt	jetzt	ADV	ADV	_	_	-1	25	_	MO	_	_
+20	durch	durch	durch	APPR	APPR	_	_	-1	25	_	MO	_	_
+21	die	die	die	ART	ART	_	acc|sg|fem	-1	22	_	NK	_	_
+22	Stichwahl	Stichwahl	Stichwahl	NN	NN	_	acc|sg|fem	-1	20	_	NK	_	_
+23	nur	nur	nur	ADV	ADV	_	_	-1	24	_	MO	_	_
+24	noch	noch	noch	ADV	ADV	_	_	-1	25	_	MO	_	_
+25	bestätigt	bestätigen	bestätigen	VVPP	VVPP	_	_	-1	26	_	OC	_	_
+26	wurde	werden	werden	VAFIN	VAFIN	_	sg|3|past|ind	-1	15	_	RC	_	_
+27	.	.	.	$.	$.	_	_	-1	26	_	--	_	_
+

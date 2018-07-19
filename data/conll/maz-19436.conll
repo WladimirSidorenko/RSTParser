@@ -1,0 +1,227 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::6
+1	Taktik	Taktik	Taktik	NN	NN	_	nom|sg|fem	-1	0	_	--	_	_
+
+	sentence_start	0	193	273	373	456
+	token_offsets	sentence	0	offsets	0::3	4::8	13::3	17::5	23::4	28::3	32::3	36::23	60::3	64::3	68::11	80::3	84::2	87::6	94::15	110::2	113::10	124::5	130::5	136::1	138::6	145::2	148::9	158::3	162::6	169::4	174::9	184::5	190::1
+	token_offsets	sentence	1	offsets	193::3	197::1	199::4	204::9	214::5	220::1	222::6	229::3	233::3	237::5	243::7	251::1	253::6	260::3	264::5	270::1
+	token_offsets	sentence	2	offsets	273::3	277::9	287::3	291::2	294::2	297::1	299::4	304::11	316::6	323::4	328::1	330::3	334::2	337::5	343::9	353::11	365::4	370::1
+	token_offsets	sentence	3	offsets	373::2	376::5	382::10	393::6	400::2	403::1	405::3	409::7	417::3	421::5	427::3	431::1	433::2	436::3	440::3	444::8	453::1
+	token_offsets	sentence	4	offsets	456::3	460::2	463::3	467::15	483::5	489::5	495::4	500::15	516::3	520::3	524::1
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	3	_	NK	_	_
+2	Berliner	Berliner	Berliner	ADJA	ADJA	_	*|*|*|pos	-1	3	_	NK	_	_
+3	PDS	PDS	PDS	NE	NE	_	nom|sg|fem	-1	4	_	SB	_	_
+4	lässt	lassen	lassen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	4	_	OA	_	_
+6	bei	bei	bei	APPR	APPR	_	_	-1	4	_	MO	_	_
+7	den	die	die	ART	ART	_	dat|pl|neut	-1	8	_	NK	_	_
+8	Koalitionsverhandlungen	Koalitionsverhandlung	Koalitionsverhandlung	NN	NN	_	dat|pl|neut	-1	6	_	NK	_	_
+9	mit	mit	mit	APPR	APPR	_	_	-1	8	_	MNR	_	_
+10	der	die	die	ART	ART	_	dat|sg|fem	-1	12	_	NK	_	_
+11	regierenden	regierend	regierend	ADJA	ADJA	_	dat|sg|fem|pos	-1	12	_	NK	_	_
+12	SPD	SPD	SPD	NE	NE	_	dat|sg|fem	-1	9	_	NK	_	_
+13	in	in	in	APPR	APPR	_	_	-1	8	_	MNR	_	_
+14	puncto	puncto	puncto	FM	FM	_	_	-1	15	_	NK	_	_
+15	Flughafenausbau	Flughafenausbau	Flughafenausbau	NN	NN	_	dat|sg|masc	-1	13	_	NK	_	_
+16	in	in	in	APPR	APPR	_	_	-1	15	_	MNR	_	_
+17	Schönefeld	Schönefeld	Schönefeld	NN	NN	_	dat|sg|neut	-1	16	_	NK	_	_
+18	alles	alle	alle	PIS	PIS	_	acc|sg|neut	-1	28	_	SB	_	_
+19	offen	offen	offen	ADJD	ADJD	_	pos	-1	28	_	PD	_	_
+20	-	-	-	$(	$(	_	_	-1	19	_	--	_	_
+21	obwohl	obwohl	obwohl	KOUS	KOUS	_	_	-1	28	_	CP	_	_
+22	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	27	_	MO	_	_
+23	Wahlkampf	Wahlkampf	Wahlkampf	NN	NN	_	dat|sg|masc	-1	22	_	NK	_	_
+24	ein	eine	eine	ART	ART	_	acc|sg|neut	-1	26	_	NK	_	_
+25	klares	klar	klar	ADJA	ADJA	_	acc|sg|neut|pos	-1	26	_	NK	_	_
+26	Nein	Nein	Nein	NN	NN	_	acc|sg|neut	-1	28	_	SB	_	_
+27	verkündet	verkünden	verkünden	VVPP	VVPP	_	_	-1	28	_	OC	_	_
+28	wurde	werden	werden	VAFIN	VAFIN	_	sg|3|past|ind	-1	8	_	RC	_	_
+29	.	.	.	$.	$.	_	_	-1	28	_	--	_	_
+
+1	Aha	aha	aha	ITJ	ITJ	_	_	-1	13	_	DM	_	_
+2	,	,	,	$,	$,	_	_	-1	1	_	--	_	_
+3	alle	alle	alle	PIAT	PIAT	_	nom|pl|masc	-1	4	_	NK	_	_
+4	Politiker	Politiker	Politiker	NN	NN	_	nom|pl|masc	-1	5	_	SB	_	_
+5	lügen	lügen	lügen	VVINF	VVINF	_	pl|3|pres|ind	-1	15	_	OC	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	sobald	sobald	sobald	KOUS	KOUS	_	_	-1	11	_	CP	_	_
+8	sie	sie	sie	PPER	PPER	_	nom|pl|masc|3	-1	11	_	SB	_	_
+9	die	die	die	ART	ART	_	acc|sg|fem	-1	10	_	NK	_	_
+10	Macht	Macht	Macht	NN	NN	_	acc|sg|fem	-1	11	_	OA	_	_
+11	riechen	riechen	riechen	VVINF	VVINF	_	_	-1	5	_	MO	_	_
+12	,	,	,	$,	$,	_	_	-1	11	_	--	_	_
+13	könnte	können	können	VMFIN	VMFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+14	man	man	man	PIS	PIS	_	nom|sg|*	-1	13	_	SB	_	_
+15	sagen	sagen	sagen	VVINF	VVINF	_	_	-1	13	_	OC	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	3	_	JU	_	_
+2	natürlich	natürlich	natürlich	ADV	ADV	_	_	-1	9	_	MO	_	_
+3	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	3	_	SB	_	_
+5	so	so	so	ADV	ADV	_	_	-1	3	_	MO	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	dass	dass	dass	KOUS	KOUS	_	_	-1	10	_	CP	_	_
+8	Kompromisse	Kompromiss	Kompromiss	NN	NN	_	nom|pl|masc	-1	10	_	SB	_	_
+9	machen	machen	machen	VVINF	VVINF	_	_	-1	10	_	OC	_	_
+10	muss	müssen	müssen	VMFIN	VMFIN	_	_	-1	4	_	RE	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	wer	wer	wer	PWS	PWS	_	nom|sg|masc	-1	17	_	SB	_	_
+13	in	in	in	APPR	APPR	_	_	-1	16	_	MO	_	_
+14	einer	eine	eine	ART	ART	_	dat|sg|fem	-1	15	_	NK	_	_
+15	Koalition	Koalition	Koalition	NN	NN	_	dat|sg|fem	-1	13	_	NK	_	_
+16	mitregieren	mitregieren	mitregieren	VVINF	VVINF	_	_	-1	17	_	OC	_	_
+17	will	wollen	wollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	10	_	SB	_	_
+18	.	.	.	$.	$.	_	_	-1	17	_	--	_	_
+
+1	Es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	SB	_	_
+2	kommt	kommen	kommen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	allerdings	allerdings	allerdings	ADV	ADV	_	_	-1	2	_	MO	_	_
+4	darauf	darauf	darauf	PAV	PAV	_	_	-1	2	_	NK	_	_
+5	an	an	an	PTKVZ	PTKVZ	_	_	-1	2	_	SVP	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	wie	wie	wie	KOKOM	KOKOM	_	_	-1	8	_	MO	_	_
+8	wichtig	wichtig	wichtig	ADJD	ADJD	_	pos	-1	11	_	PD	_	_
+9	die	die	die	ART	ART	_	nom|sg|fem	-1	10	_	NK	_	_
+10	Sache	Sache	Sache	NN	NN	_	nom|sg|fem	-1	11	_	SB	_	_
+11	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	2	_	SB	_	_
+12	,	,	,	$,	$,	_	_	-1	11	_	--	_	_
+13	in	in	in	APPR	APPR	_	_	-1	16	_	MO	_	_
+14	der	die	die	PRELS	PRELS	_	dat|sg|fem	-1	13	_	NK	_	_
+15	man	man	man	PIS	PIS	_	nom|sg|*	-1	16	_	SB	_	_
+16	nachgibt	nachgeben	nachgeben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	10	_	RC	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	5	_	JU	_	_
+2	an	an	an	APPR	APPR	_	_	-1	5	_	MO	_	_
+3	der	die	die	ART	ART	_	dat|sg|fem	-1	4	_	NK	_	_
+4	Flughafen-Frage	Flughafen-Frage	Flughafen-Frage	NN	NN	_	dat|sg|fem	-1	2	_	NK	_	_
+5	hängt	hängen	hängen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+6	schon	schon	schon	ADV	ADV	_	_	-1	7	_	MO	_	_
+7	viel	viele	viele	PIAT	PIAT	_	*|*|*	-1	8	_	NK	_	_
+8	Glaubwürdigkeit	Glaubwürdigkeit	Glaubwürdigkeit	NN	NN	_	acc|sg|fem	-1	5	_	OA	_	_
+9	der	die	die	ART	ART	_	gen|sg|fem	-1	10	_	NK	_	_
+10	PDS	PDS	PDS	NE	NE	_	gen|sg|fem	-1	8	_	AG	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+	sentence_start	0	233	460	570	613
+	token_offsets	sentence	0	offsets	0::3	4::9	14::8	23::3	27::11	39::5	45::4	50::4	55::4	60::6	67::9	77::2	80::1	81::0	83::4	88::4	93::3	97::6	104::3	108::3	112::3	116::11	128::2	131::3	135::16	152::5	158::3	162::5	168::6	175::1	177::3	181::4	186::2	189::5	195::4	200::9	210::3	214::6	221::8	230::1
+	token_offsets	sentence	1	offsets	233::4	238::4	243::3	247::15	263::2	266::3	270::12	283::3	287::4	292::3	296::3	300::3	304::7	312::6	319::3	323::11	335::9	345::9	355::4	360::3	364::6	371::5	377::1	379::3	383::7	391::4	396::3	400::4	405::3	409::9	419::1	421::10	432::4	437::3	441::6	448::3	452::4	457::1
+	token_offsets	sentence	2	offsets	460::5	466::7	474::3	478::2	481::8	490::3	494::3	498::2	501::11	513::16	530::2	533::3	537::9	547::9	557::9	567::1
+	token_offsets	sentence	3	offsets	570::3	574::6	581::3	585::2	588::5	594::6	601::8	610::1
+	token_offsets	sentence	4	offsets	613::4	618::5	624::6	631::7	639::1	641::3	645::3	649::7	657::1
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	3	_	NK	_	_
+2	gemäßigte	gemäßigt	gemäßigt	ADJA	ADJA	_	nom|sg|fem|pos	-1	3	_	NK	_	_
+3	Reaktion	Reaktion	Reaktion	NN	NN	_	nom|sg|fem	-1	6	_	SB	_	_
+4	der	die	die	ART	ART	_	gen|pl|masc	-1	5	_	NK	_	_
+5	Parteibasis	Parteibasis	Parteibasis	NN	NN	_	gen|pl|masc	-1	3	_	AG	_	_
+6	lässt	lassen	lassen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+7	aber	aber	aber	ADV	ADV	_	_	-1	6	_	MO	_	_
+8	noch	noch	noch	ADV	ADV	_	_	-1	6	_	MO	_	_
+9	eine	eine	eine	ART	ART	_	acc|sg|fem	-1	11	_	NK	_	_
+10	andere	andere	andere	PIAT	PIAT	_	acc|sg|fem|pos	-1	11	_	NK	_	_
+11	Vermutung	Vermutung	Vermutung	NN	NN	_	acc|sg|fem	-1	6	_	OA	_	_
+12	zu	zu	zu	PTKVZ	PTKVZ	_	_	-1	6	_	SVP	_	_
+13	:	:	:	$.	$.	_	_	-1	12	_	--	_	_
+14	Gysi	Gysi	Gysi	NE	NE	_	nom|sg|*	-1	15	_	SB	_	_
+15	will	wollen	wollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	11	_	OC	_	_
+16	die	die	die	ART	ART	_	acc|sg|fem	-1	17	_	NK	_	_
+17	Chance	Chance	Chance	NN	NN	_	acc|sg|fem	-1	28	_	OA	_	_
+18	der	die	die	ART	ART	_	gen|sg|fem	-1	19	_	NK	_	_
+19	PDS	PDS	PDS	NE	NE	_	gen|sg|fem	-1	17	_	AG	_	_
+20	zum	zu	zu	APPRART	APPRART	_	dat|sg|masc	-1	17	_	MNR	_	_
+21	Mitregieren	Mitregieren	Mitregieren	NN	NN	_	dat|sg|masc	-1	20	_	NK	_	_
+22	in	in	in	APPR	APPR	_	_	-1	28	_	MO	_	_
+23	der	die	die	ART	ART	_	dat|sg|fem	-1	24	_	NK	_	_
+24	Bundeshauptstadt	Bundeshauptstadt	Bundeshauptstadt	NN	NN	_	dat|sg|fem	-1	22	_	NK	_	_
+25	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	15	_	NG	_	_
+26	für	für	für	APPR	APPR	_	_	-1	28	_	MO	_	_
+27	etwas	etwas	etwas	ADV	ADV	_	_	-1	26	_	NK	_	_
+28	vertun	vertun	vertun	VVINF	VVINF	_	_	-1	15	_	OC	_	_
+29	,	,	,	$,	$,	_	_	-1	28	_	--	_	_
+30	was	was	was	PRELS	PRELS	_	nom|sg|neut	-1	38	_	SB	_	_
+31	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	38	_	OA	_	_
+32	in	in	in	APPR	APPR	_	_	-1	38	_	MO	_	_
+33	einem	eine	eine	ART	ART	_	dat|sg|neut	-1	34	_	NK	_	_
+34	Jahr	Jahr	Jahr	NN	NN	_	dat|sg|neut	-1	32	_	NK	_	_
+35	womöglich	womöglich	womöglich	ADV	ADV	_	_	-1	38	_	MO	_	_
+36	von	von	von	APPR	APPR	_	_	-1	38	_	MO	_	_
+37	allein	allein	allein	ADV	ADV	_	_	-1	36	_	NK	_	_
+38	erledigt	erledigen	erledigen	VVPP	VVPP	_	_	-1	6	_	RC	_	_
+39	.	.	.	$.	$.	_	_	-1	38	_	--	_	_
+
+1	Denn	denn	denn	KON	KON	_	_	-1	25	_	JU	_	_
+2	dass	dass	dass	KOUS	KOUS	_	_	-1	22	_	CP	_	_
+3	der	die	die	ART	ART	_	nom|sg|masc	-1	4	_	NK	_	_
+4	Flughafenausbau	Flughafenausbau	Flughafenausbau	NN	NN	_	nom|sg|masc	-1	22	_	SB	_	_
+5	in	in	in	APPR	APPR	_	_	-1	22	_	MO	_	_
+6	der	die	die	ART	ART	_	dat|sg|fem	-1	18	_	NK	_	_
+7	ursprünglich	ursprünglich	ursprünglich	ADJD	ADJD	_	pos	-1	17	_	MO	_	_
+8	vom	von	von	APPRART	APPRART	_	dat|sg|masc	-1	22	_	MO	_	_
+9	Bund	Bund	Bund	NN	NN	_	dat|sg|masc	-1	8	_	NK	_	_
+10	und	und	und	KON	KON	_	_	-1	8	_	CD	_	_
+11	von	von	von	APPR	APPR	_	_	-1	10	_	CJ	_	_
+12	den	die	die	ART	ART	_	dat|pl|neut	-1	13	_	NK	_	_
+13	Ländern	Land	Land	NN	NN	_	dat|pl|neut	-1	11	_	NK	_	_
+14	Berlin	Berlin	Berlin	NE	NE	_	nom|sg|neut	-1	13	_	NK	_	_
+15	und	und	und	KON	KON	_	_	-1	14	_	CD	_	_
+16	Brandenburg	Brandenburg	Brandenburg	NE	NE	_	nom|sg|neut	-1	15	_	CJ	_	_
+17	geplanten	geplant	geplant	ADJA	ADJA	_	dat|sg|fem|pos	-1	18	_	NK	_	_
+18	Dimension	Dimension	Dimension	NN	NN	_	dat|sg|fem	-1	5	_	NK	_	_
+19	noch	noch	noch	ADV	ADV	_	_	-1	22	_	MO	_	_
+20	zum	zu	zu	APPRART	APPRART	_	dat|sg|neut	-1	22	_	MO	_	_
+21	Tragen	Trage|Tragen	Trage|Tragen	NN	NN	_	dat|sg|neut	-1	20	_	NK	_	_
+22	kommt	kommen	kommen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	24	_	RE	_	_
+23	,	,	,	$,	$,	_	_	-1	22	_	--	_	_
+24	das	die	die	PDS	PDS	_	acc|sg|neut	-1	25	_	SB	_	_
+25	glauben	glauben	glauben	VVFIN	VVFIN	_	_	-1	0	_	--	_	_
+26	wohl	wohl	wohl	ADV	ADV	_	_	-1	25	_	MO	_	_
+27	nur	nur	nur	ADV	ADV	_	_	-1	28	_	MO	_	_
+28	noch	noch	noch	ADV	ADV	_	_	-1	25	_	MO	_	_
+29	die	die	die	ART	ART	_	nom|pl|fem	-1	35	_	NK	_	_
+30	Wenigsten	wenigste	wenigste	PIAT	PIAT	_	nom|pl|fem	-1	35	_	NK	_	_
+31	-	-	-	$(	$(	_	_	-1	30	_	--	_	_
+32	geschweige	geschweige	geschweige	ADV	ADV	_	_	-1	35	_	MO	_	_
+33	denn	denn	denn	ADV	ADV	_	_	-1	32	_	MO	_	_
+34	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	35	_	NK	_	_
+35	Jurist	Jurist	Jurist	NN	NN	_	nom|sg|masc	-1	25	_	SB	_	_
+36	wie	wie	wie	KOKOM	KOKOM	_	_	-1	37	_	CM	_	_
+37	Gysi	Gysi	Gysi	NE	NE	_	nom|sg|*	-1	35	_	CC	_	_
+38	.	.	.	$.	$.	_	_	-1	37	_	--	_	_
+
+1	Nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	2	_	NG	_	_
+2	umsonst	umsonst	umsonst	ADV	ADV	_	_	-1	15	_	MO	_	_
+3	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	3	_	SB	_	_
+5	mehrfach	mehrfach	mehrfach	ADJD	ADJD	_	pos	-1	15	_	MO	_	_
+6	auf	auf	auf	APPR	APPR	_	_	-1	15	_	OP	_	_
+7	die	die	die	ART	ART	_	acc|sg|fem	-1	10	_	NK	_	_
+8	zu	zu	zu	APPR	APPR	_	_	-1	9	_	MO	_	_
+9	erwartenden	erwartend	erwartend	ADJA	ADJA	_	dat|sg|fem|pos	-1	10	_	NK	_	_
+10	Gerichtsprozesse	Gerichtsprozess	Gerichtsprozess	NN	NN	_	dat|sg|fem	-1	6	_	NK	_	_
+11	um	um	um	APPR	APPR	_	_	-1	10	_	MNR	_	_
+12	den	die	die	ART	ART	_	acc|sg|masc	-1	14	_	NK	_	_
+13	geplanten	geplant	geplant	ADJA	ADJA	_	acc|sg|masc|pos	-1	14	_	NK	_	_
+14	Flughafen	Flughafen	Flughafen	NN	NN	_	acc|sg|masc	-1	11	_	NK	_	_
+15	verwiesen	verweisen	verweisen	VVPP	VVPP	_	_	-1	3	_	OC	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+1	Wer	wer	wer	PWS	PWS	_	nom|sg|*	-1	2	_	SB	_	_
+2	wollte	wollen	wollen	VMFIN	VMFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+3	ihm	er	er	PPER	PPER	_	dat|sg|*|3	-1	2	_	SB	_	_
+4	da	da	da	ADV	ADV	_	_	-1	2	_	MO	_	_
+5	seine	sein	sein	PPOSAT	PPOSAT	_	acc|sg|fem	-1	6	_	NK	_	_
+6	Taktik	Taktik	Taktik	NN	NN	_	acc|sg|fem	-1	7	_	OA	_	_
+7	verübeln	verübeln	verübeln	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+8	?	?	?	$.	$.	_	_	-1	7	_	--	_	_
+
+1	Wenn	wenn	wenn	KOUS	KOUS	_	_	-1	4	_	CP	_	_
+2	diese	diese	diese	PDS	PDS	_	nom|sg|fem	-1	3	_	NK	_	_
+3	Taktik	Taktik	Taktik	NN	NN	_	nom|sg|fem	-1	4	_	SB	_	_
+4	aufgeht	aufgehen	aufgehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	6	_	MO	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	war	sein	sein	VAFIN	VAFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+7	sie	sie	sie	PPER	PPER	_	nom|sg|fem|3	-1	6	_	SB	_	_
+8	richtig	richtig	richtig	ADJD	ADJD	_	pos	-1	6	_	PD	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+

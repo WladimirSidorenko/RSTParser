@@ -1,0 +1,209 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::10
+1	Morgenluft	Morgenluft	Morgenluft	NN	NN	_	nom|sg|fem	-1	0	_	--	_	_
+
+	sentence_start	0	140	334	488	559	662	759	874	1017	1068
+	token_offsets	sentence	0	offsets	0::3	4::7	12::11	24::2	27::4	32::6	39::3	43::4	48::8	57::10	68::3	72::3	76::17	94::1	96::3	100::3	104::3	108::12	121::8	130::6	137::1
+	token_offsets	sentence	1	offsets	140::3	144::2	147::4	152::3	156::7	164::6	171::6	178::2	181::3	185::7	193::3	197::18	216::3	220::1	222::6	229::3	233::10	244::3	248::5	254::4	259::6	266::5	272::3	276::16	293::6	300::9	310::12	323::7	331::1
+	token_offsets	sentence	2	offsets	334::7	342::5	348::13	362::6	369::5	375::4	380::7	388::1	390::3	394::7	402::18	421::3	425::3	429::6	436::8	445::3	449::13	463::12	476::2	479::5	485::1
+	token_offsets	sentence	3	offsets	488::10	499::6	506::3	510::8	519::4	524::3	528::5	534::9	544::6	551::4	556::1
+	token_offsets	sentence	4	offsets	559::6	566::5	572::3	576::3	580::8	589::6	596::3	600::6	607::1	609::4	614::11	626::6	633::3	637::12	650::2	653::5	659::1
+	token_offsets	sentence	5	offsets	662::10	673::3	677::7	685::12	698::3	702::15	718::6	725::2	728::3	732::6	739::6	746::7	754::1	755::0	757::1
+	token_offsets	sentence	6	offsets	759::3	763::3	767::6	774::1	776::1	778::4	783::3	787::13	801::12	814::5	820::1	822::6	829::4	834::3	838::3	842::2	845::6	852::7	860::4	865::5	871::1
+	token_offsets	sentence	7	offsets	874::5	880::4	885::4	890::2	893::3	897::6	904::4	909::12	922::1	924::5	930::2	933::2	936::8	945::5	951::7	959::3	963::5	969::9	979::9	989::12	1002::3	1006::7	1014::1
+	token_offsets	sentence	8	offsets	1017::3	1021::6	1028::1	1030::4	1035::3	1039::8	1048::2	1051::3	1055::2	1058::6	1065::1
+	token_offsets	sentence	9	offsets	1068::3	1072::3	1076::17	1094::13	1108::8	1117::3	1121::8	1130::8	1139::6	1146::3	1150::13	1164::11	1176::5	1182::6	1189::5	1195::1
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	3	_	NK	_	_
+2	jüngste	jung	jung	ADJA	ADJA	_	nom|sg|fem|sup	-1	3	_	NK	_	_
+3	Entwicklung	Entwicklung	Entwicklung	NN	NN	_	nom|sg|fem	-1	9	_	SB	_	_
+4	in	in	in	APPR	APPR	_	_	-1	3	_	MNR	_	_
+5	Groß	Groß	Groß	NE	NE	_	dat|sg|neut	-1	6	_	PNC	_	_
+6	Kreutz	Kreutz	Kreutz	NE	NE	_	dat|sg|neut	-1	4	_	NK	_	_
+7	und	und	und	KON	KON	_	_	-1	6	_	CD	_	_
+8	Götz	Götz	Götz	NE	NE	_	nom|sg|masc	-1	7	_	CJ	_	_
+9	bedeutet	bedeuten	bedeuten	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+10	Morgenluft	Morgenluft	Morgenluft	NN	NN	_	acc|sg|fem	-1	9	_	OA	_	_
+11	für	für	für	APPR	APPR	_	_	-1	10	_	MNR	_	_
+12	die	die	die	ART	ART	_	acc|pl|masc	-1	13	_	NK	_	_
+13	Kommunalpolitiker	Kommunalpolitiker	Kommunalpolitiker	NN	NN	_	acc|pl|masc	-1	11	_	NK	_	_
+14	,	,	,	$,	$,	_	_	-1	13	_	--	_	_
+15	die	die	die	PRELS	PRELS	_	nom|pl|masc	-1	20	_	SB	_	_
+16	das	die	die	ART	ART	_	acc|sg|neut	-1	17	_	NK	_	_
+17	Amt	Amt	Amt	NN	NN	_	acc|sg|neut	-1	19	_	OA	_	_
+18	Emster-Havel	Emster-Havel	Emster-Havel	NE	NE	_	nom|sg|*	-1	17	_	NK	_	_
+19	erhalten	erhalten	erhalten	VVINF	VVINF	_	_	-1	20	_	OC	_	_
+20	wollen	wollen	wollen	VMFIN	VMFIN	_	pl|3|pres|ind	-1	13	_	RC	_	_
+21	.	.	.	$.	$.	_	_	-1	20	_	--	_	_
+
+1	Sah	sehen	sehen	VVFIN	VVFIN	_	sg|3|past|ind	-1	15	_	MO	_	_
+2	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	1	_	OA	_	_
+3	noch	noch	noch	ADV	ADV	_	_	-1	1	_	MO	_	_
+4	vor	vor	vor	APPR	APPR	_	_	-1	1	_	MO	_	_
+5	wenigen	wenige	wenige	PIAT	PIAT	_	dat|pl|neut	-1	6	_	NK	_	_
+6	Wochen	Woche	Woche	NN	NN	_	dat|pl|neut	-1	4	_	NK	_	_
+7	düster	düster	düster	ADJD	ADJD	_	pos	-1	1	_	MO	_	_
+8	um	um	um	APPR	APPR	_	_	-1	1	_	OP	_	_
+9	die	die	die	ART	ART	_	acc|sg|fem	-1	10	_	NK	_	_
+10	Zukunft	Zukunft	Zukunft	NN	NN	_	acc|sg|fem	-1	8	_	NK	_	_
+11	der	die	die	ART	ART	_	gen|sg|fem	-1	12	_	NK	_	_
+12	Verwaltungseinheit	Verwaltungseinheit	Verwaltungseinheit	NN	NN	_	gen|sg|fem	-1	10	_	AG	_	_
+13	aus	aus	aus	PTKVZ	PTKVZ	_	_	-1	1	_	SVP	_	_
+14	,	,	,	$,	$,	_	_	-1	13	_	--	_	_
+15	dürfte	dürfen	dürfen	VMFIN	VMFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+16	die	die	die	ART	ART	_	nom|sg|fem	-1	17	_	NK	_	_
+17	Schwächung	Schwächung	Schwächung	NN	NN	_	nom|sg|fem	-1	15	_	SB	_	_
+18	des	die	die	ART	ART	_	gen|sg|masc	-1	19	_	NK	_	_
+19	Amtes	Amt	Amt	NN	NN	_	gen|sg|masc	-1	17	_	AG	_	_
+20	Groß	Groß	Groß	NE	NE	_	nom|sg|masc	-1	21	_	PNC	_	_
+21	Kreutz	Kreutz	Kreutz	NE	NE	_	nom|sg|masc	-1	19	_	NK	_	_
+22	durch	durch	durch	APPR	APPR	_	_	-1	28	_	MO	_	_
+23	die	die	die	ART	ART	_	acc|sg|fem	-1	24	_	NK	_	_
+24	Austrittswünsche	Austrittswünsche	Austrittswünsche	NN	NN	_	acc|sg|fem	-1	22	_	NK	_	_
+25	zweier	zweier	zweier	ADJA	ADJA	_	gen|pl|fem|pos	-1	26	_	NK	_	_
+26	Gemeinden	Gemeinde	Gemeinde	NN	NN	_	gen|pl|fem	-1	24	_	AG	_	_
+27	Emster-Havel	Emster-Havel	Emster-Havel	NE	NE	_	nom|sg|*	-1	26	_	NK	_	_
+28	stärken	stärken	stärken	VVINF	VVINF	_	_	-1	15	_	OC	_	_
+29	.	.	.	$.	$.	_	_	-1	28	_	--	_	_
+
+1	Anfangs	anfangs	anfangs	ADV	ADV	_	_	-1	7	_	MO	_	_
+2	hatte	haben	haben	VAFIN	VAFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+3	Bürgermeister	Bürgermeister	Bürgermeister	NN	NN	_	nom|sg|masc	-1	2	_	SB	_	_
+4	Detlef	Detlef	Detlef	NE	NE	_	nom|sg|masc	-1	5	_	PNC	_	_
+5	Lemke	Lemke	Lemke	NE	NE	_	nom|sg|masc	-1	3	_	NK	_	_
+6	noch	noch	noch	ADV	ADV	_	_	-1	7	_	MO	_	_
+7	gehofft	hoffen	hoffen	VVPP	VVPP	_	_	-1	2	_	OC	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	nun	nun	nun	ADV	ADV	_	_	-1	20	_	MO	_	_
+10	bessere	gut	gut	ADJA	ADJA	_	acc|pl|fem|comp	-1	11	_	NK	_	_
+11	Verhandlungskarten	Verhandlungskarten	Verhandlungskarten	NN	NN	_	acc|pl|fem	-1	20	_	OA	_	_
+12	für	für	für	APPR	APPR	_	_	-1	11	_	MNR	_	_
+13	den	die	die	ART	ART	_	acc|sg|masc	-1	14	_	NK	_	_
+14	Götzer	Götzer	Götzer	NN	NN	_	acc|sg|masc	-1	12	_	NK	_	_
+15	Beitritt	Beitritt	Beitritt	NN	NN	_	acc|sg|masc	-1	14	_	NK	_	_
+16	zur	zu	zu	APPRART	APPRART	_	dat|sg|fem	-1	20	_	MO	_	_
+17	Groß-Kreutzer	Groß-Kreutzer	Groß-Kreutzer	NN	NN	_	dat|sg|fem	-1	16	_	NK	_	_
+18	Großgemeinde	Großgemeinde	Großgemeinde	NN	NN	_	acc|pl|masc	-1	20	_	OA	_	_
+19	zu	zu	zu	PTKZU	PTKZU	_	_	-1	20	_	PM	_	_
+20	haben	haben	haben	VAINF	VAINF	_	_	-1	7	_	OC	_	_
+21	.	.	.	$.	$.	_	_	-1	20	_	--	_	_
+
+1	Inzwischen	inzwischen	inzwischen	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	machen	machen	machen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	die	die	die	ART	ART	_	nom|pl|masc	-1	5	_	NK	_	_
+4	dortigen	dortig	dortig	ADJA	ADJA	_	nom|pl|masc|pos	-1	5	_	NK	_	_
+5	Orte	Ort	Ort	NN	NN	_	nom|pl|masc	-1	2	_	SB	_	_
+6	aus	aus	aus	APPR	APPR	_	_	-1	5	_	MNR	_	_
+7	ihrer	ihr	ihr	PPOSAT	PPOSAT	_	dat|sg|fem	-1	8	_	NK	_	_
+8	Ablehnung	Ablehnung	Ablehnung	NN	NN	_	dat|sg|fem	-1	6	_	NK	_	_
+9	keinen	keine	keine	PIAT	PIAT	_	acc|sg|masc	-1	10	_	NK	_	_
+10	Hehl	Hehl	Hehl	NN	NN	_	acc|sg|masc	-1	2	_	OA	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Schuld	schuld	schuld	ADJD	ADJD	_	pos	-1	3	_	PD	_	_
+2	daran	daran	daran	PAV	PAV	_	_	-1	12	_	NK	_	_
+3	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	die	die	die	ART	ART	_	nom|sg|fem	-1	6	_	NK	_	_
+5	rigorose	rigoros	rigoros	ADJA	ADJA	_	nom|sg|fem|pos	-1	6	_	NK	_	_
+6	Absage	Absage	Absage	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+7	des	die	die	ART	ART	_	gen|sg|neut	-1	8	_	NK	_	_
+8	Landes	Land	Land	NN	NN	_	gen|sg|neut	-1	6	_	AG	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	Götz	Götz	Götz	NE	NE	_	nom|sg|masc	-1	16	_	DA	_	_
+11	wesentliche	wesentlich	wesentlich	ADJA	ADJA	_	acc|pl|masc|pos	-1	12	_	NK	_	_
+12	Mittel	Mittel	Mittel	NN	NN	_	acc|pl|masc	-1	16	_	OA	_	_
+13	zur	zu	zu	APPRART	APPRART	_	dat|sg|fem	-1	12	_	MNR	_	_
+14	Entschuldung	Entschuldung	Entschuldung	NN	NN	_	dat|sg|fem	-1	13	_	NK	_	_
+15	zu	zu	zu	PTKZU	PTKZU	_	_	-1	16	_	PM	_	_
+16	geben	geben	geben	VVINF	VVINF	_	_	-1	3	_	OC	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
+1	Angesichts	angesichts	angesichts	APPR	APPR	_	_	-1	7	_	MO	_	_
+2	der	die	die	ART	ART	_	dat|sg|fem	-1	4	_	NK	_	_
+3	eigenen	eigen	eigen	ADJA	ADJA	_	dat|sg|fem|pos	-1	4	_	NK	_	_
+4	Haushaltsnot	Haushaltsnot	Haushaltsnot	NN	NN	_	dat|sg|fem	-1	1	_	NK	_	_
+5	der	die	die	ART	ART	_	gen|sg|fem	-1	6	_	NK	_	_
+6	Landesregierung	Landesregierung	Landesregierung	NN	NN	_	gen|sg|fem	-1	4	_	AG	_	_
+7	dürfte	dürfen	dürfen	VMFIN	VMFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+8	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	7	_	EP	_	_
+9	bei	bei	bei	APPR	APPR	_	_	-1	12	_	MO	_	_
+10	dieser	dies	dies	PDAT	PDAT	_	dat|sg|fem	-1	11	_	NK	_	_
+11	Absage	Absage	Absage	NN	NN	_	dat|sg|fem	-1	9	_	NK	_	_
+12	bleiben	bleiben	bleiben	VVINF	VVINF	_	_	-1	7	_	OC	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+14	"	"	"	$(	$(	_	_	-1	13	_	--	_	_
+
+1	Nur	nur	nur	ADV	ADV	_	_	-1	3	_	MO	_	_
+2	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	3	_	NK	_	_
+3	Wunder	Wunder	Wunder	NN	NN	_	nom|sg|masc	-1	12	_	SB	_	_
+4	"	"	"	$(	$(	_	_	-1	3	_	--	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	sagt	sagen	sagen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+7	der	die	die	ART	ART	_	nom|sg|masc	-1	8	_	NK	_	_
+8	Groß-Kreutzer	Groß-Kreutzer	Groß-Kreutzer	NN	NN	_	nom|sg|masc	-1	6	_	SB	_	_
+9	Amtsdirektor	Amtsdirektor	Amtsdirektor	NN	NN	_	nom|sg|masc	-1	10	_	PNC	_	_
+10	Meske	Meske	Meske	NE	NE	_	nom|sg|masc	-1	8	_	NK	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	könnte	können	können	VMFIN	VMFIN	_	sg|3|past|subj	-1	6	_	OC	_	_
+13	Götz	Götz	Götz	NE	NE	_	nom|sg|masc	-1	12	_	SB	_	_
+14	den	die	die	ART	ART	_	acc|sg|masc	-1	15	_	NK	_	_
+15	Weg	Weg	Weg	NN	NN	_	acc|sg|masc	-1	20	_	OA	_	_
+16	in	in	in	APPR	APPR	_	_	-1	15	_	MNR	_	_
+17	seinen	sein	sein	PPOSAT	PPOSAT	_	acc|sg|masc	-1	18	_	NK	_	_
+18	Verbund	Verbund	Verbund	NN	NN	_	acc|sg|masc	-1	16	_	NK	_	_
+19	noch	noch	noch	ADV	ADV	_	_	-1	20	_	MO	_	_
+20	ebnen	ebnen	ebnen	VVINF	VVINF	_	_	-1	12	_	OC	_	_
+21	.	.	.	$.	$.	_	_	-1	20	_	--	_	_
+
+1	Dreht	drehen	drehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	10	_	MO	_	_
+2	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	1	_	OA	_	_
+3	Götz	Götz	Götz	NE	NE	_	nom|sg|masc	-1	1	_	SB	_	_
+4	um	um	um	PTKVZ	PTKVZ	_	_	-1	1	_	SVP	_	_
+5	und	und	und	KON	KON	_	_	-1	1	_	CD	_	_
+6	blickt	blicken	blicken	VVFIN	VVFIN	_	sg|3|pres|ind	-1	5	_	CJ	_	_
+7	nach	nach	nach	APPR	APPR	_	_	-1	6	_	MO	_	_
+8	Emster-Havel	Emster-Havel	Emster-Havel	NE	NE	_	dat|sg|neut	-1	7	_	NK	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	sieht	sehen	sehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+11	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	10	_	EP	_	_
+12	am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	10	_	MO	_	_
+13	Horizont	Horizont	Horizont	NN	NN	_	dat|sg|masc	-1	12	_	NK	_	_
+14	unter	unter	unter	APPR	APPR	_	_	-1	19	_	MO	_	_
+15	anderem	andere	andere	PIS	PIS	_	dat|sg|neut	-1	14	_	NK	_	_
+16	die	die	die	ART	ART	_	nom|sg|fem	-1	19	_	NK	_	_
+17	schon	schon	schon	ADV	ADV	_	_	-1	18	_	MO	_	_
+18	wartenden	wartend	wartend	ADJA	ADJA	_	dat|pl|masc|pos	-1	19	_	NK	_	_
+19	Gemeinden	Gemeinde	Gemeinde	NN	NN	_	dat|pl|masc	-1	10	_	OA	_	_
+20	Schenkenberg	Schenkenberg	Schenkenberg	NE	NE	_	nom|sg|*	-1	19	_	NK	_	_
+21	und	und	und	KON	KON	_	_	-1	20	_	CD	_	_
+22	Jeserig	Jeserig	Jeserig	NE	NE	_	nom|sg|*	-1	21	_	CJ	_	_
+23	.	.	.	$.	$.	_	_	-1	22	_	--	_	_
+
+1	Die	die	die	PDS	PDS	_	nom|pl|*	-1	2	_	SB	_	_
+2	hoffen	hoffen	hoffen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	,	,	,	$,	$,	_	_	-1	2	_	--	_	_
+4	Götz	Götz	Götz	NE	NE	_	nom|sg|masc	-1	10	_	OA	_	_
+5	nun	nun	nun	ADV	ADV	_	_	-1	6	_	MO	_	_
+6	leichter	leicht	leicht	ADJD	ADJD	_	comp	-1	10	_	MO	_	_
+7	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	10	_	MO	_	_
+8	Amt	Amt	Amt	NN	NN	_	dat|sg|neut	-1	7	_	NK	_	_
+9	zu	zu	zu	PTKZU	PTKZU	_	_	-1	10	_	PM	_	_
+10	halten	halten	halten	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Für	für	für	APPR	APPR	_	_	-1	9	_	MO	_	_
+2	die	die	die	ART	ART	_	acc|pl|masc	-1	4	_	NK	_	_
+3	austrittswilligen	austrittswillig	austrittswillig	ADJA	ADJA	_	acc|pl|masc|pos	-1	4	_	NK	_	_
+4	Amtsgemeinden	Amtsgemeinde	Amtsgemeinde	NN	NN	_	acc|pl|masc	-1	1	_	NK	_	_
+5	Damsdorf	Damsdorf	Damsdorf	NN	NN	_	acc|pl|masc	-1	4	_	NK	_	_
+6	und	und	und	KON	KON	_	_	-1	5	_	CD	_	_
+7	Gollwitz	Gollwitz	Gollwitz	NN	NN	_	dat|sg|masc	-1	6	_	CJ	_	_
+8	freilich	freilich	freilich	ADV	ADV	_	_	-1	4	_	MNR	_	_
+9	dürfte	dürfen	dürfen	VMFIN	VMFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+10	die	die	die	ART	ART	_	nom|sg|fem	-1	11	_	NK	_	_
+11	Groß-Kreutzer	Groß-Kreutzer	Groß-Kreutzer	NN	NN	_	nom|sg|fem	-1	9	_	SB	_	_
+12	Problemlage	Problemlage	Problemlage	NN	NN	_	acc|sg|fem	-1	11	_	NK	_	_
+13	keine	keine	keine	PIAT	PIAT	_	acc|sg|fem	-1	14	_	NK	_	_
+14	Folgen	Folge	Folge	NN	NN	_	acc|pl|fem	-1	15	_	OA	_	_
+15	haben	haben	haben	VAINF	VAINF	_	_	-1	9	_	OC	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+

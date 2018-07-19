@@ -1,0 +1,212 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::5	6::8
+1	Wette	Wette	Wette	NN	NN	_	nom|pl|masc	-1	2	_	SB	_	_
+2	verloren	verlieren	verlieren	VVFIN	VVFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+
+	sentence_start	0	220
+	token_offsets	sentence	0	offsets	0::5	6::3	10::8	19::10	30::2	33::3	37::12	50::5	56::3	60::6	67::6	74::16	91::5	97::9	107::1	109::4	114::3	118::10	129::3	133::8	142::12	155::3	159::3	163::12	176::2	179::10	190::3	194::5	200::10	211::5	217::1
+	token_offsets	sentence	1	offsets	220::4	225::3	229::9	239::8	248::8	257::5	263::3	267::9	277::5	283::1	285::2	288::5	294::2	297::2	300::11	312::1	314::5	320::3	324::12	337::7	345::1
+1	Jeder	jede	jede	PIS	PIS	_	nom|sg|masc	-1	8	_	SB	_	_
+2	mit	mit	mit	APPR	APPR	_	_	-1	14	_	MO	_	_
+3	halbwegs	halbwegs	halbwegs	ADV	ADV	_	_	-1	4	_	NK	_	_
+4	Durchblick	Durchblick	Durchblick	NN	NN	_	dat|sg|masc	-1	2	_	NK	_	_
+5	in	in	in	APPR	APPR	_	_	-1	4	_	MNR	_	_
+6	der	die	die	ART	ART	_	dat|sg|fem	-1	7	_	NK	_	_
+7	Kreispolitik	Kreispolitik	Kreispolitik	NN	NN	_	dat|sg|fem	-1	5	_	NK	_	_
+8	hätte	haben	haben	VAFIN	VAFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+9	den	die	die	ART	ART	_	acc|sg|masc	-1	10	_	NK	_	_
+10	Inhalt	Inhalt	Inhalt	NN	NN	_	acc|sg|masc	-1	14	_	OA	_	_
+11	seines	sein	sein	PPOSAT	PPOSAT	_	gen|sg|masc	-1	12	_	NK	_	_
+12	Adventskalenders	Adventskalender	Adventskalender	NN	NN	_	gen|sg|masc	-1	10	_	AG	_	_
+13	dafür	dafür	dafür	PAV	PAV	_	_	-1	12	_	NK	_	_
+14	verwettet	verwetten	verwetten	VVPP	VVPP	_	_	-1	8	_	OC	_	_
+15	,	,	,	$,	$,	_	_	-1	14	_	--	_	_
+16	dass	dass	dass	KOUS	KOUS	_	_	-1	30	_	CP	_	_
+17	die	die	die	ART	ART	_	acc|sg|fem	-1	18	_	NK	_	_
+18	Kandidatur	Kandidatur	Kandidatur	NN	NN	_	acc|sg|fem	-1	30	_	SB	_	_
+19	von	von	von	APPR	APPR	_	_	-1	18	_	PG	_	_
+20	Schulrat	Schulrat	Schulrat	NN	NN	_	nom|sg|masc	-1	19	_	NK	_	_
+21	Dolatkiewicz	Dolatkiewicz	Dolatkiewicz	NE	NE	_	nom|sg|masc	-1	20	_	NK	_	_
+22	bei	bei	bei	APPR	APPR	_	_	-1	29	_	MO	_	_
+23	der	die	die	ART	ART	_	dat|sg|fem	-1	24	_	NK	_	_
+24	Landratswahl	Landratswahl	Landratswahl	NN	NN	_	dat|sg|fem	-1	22	_	NK	_	_
+25	am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	24	_	MNR	_	_
+26	Donnerstag	Donnerstag	Donnerstag	NN	NN	_	dat|sg|masc	-1	25	_	NK	_	_
+27	den	die	die	ART	ART	_	acc|sg|masc	-1	28	_	NK	_	_
+28	Abend	Abend	Abend	NN	NN	_	acc|sg|masc	-1	29	_	OA	_	_
+29	verlängern	verlängern	verlängern	VVINF	VVINF	_	_	-1	30	_	OC	_	_
+30	würde	werden	werden	VAFIN	VAFIN	_	sg|3|past|subj	-1	14	_	MO	_	_
+31	.	.	.	$.	$.	_	_	-1	30	_	--	_	_
+
+1	Erst	erst	erst	ADV	ADV	_	_	-1	3	_	MO	_	_
+2	die	die	die	ART	ART	_	nom|sg|fem	-1	3	_	NK	_	_
+3	Stichwahl	Stichwahl	Stichwahl	NN	NN	_	nom|sg|fem	-1	12	_	SB	_	_
+4	zwischen	zwischen	zwischen	APPR	APPR	_	_	-1	3	_	MNR	_	_
+5	Wolfgang	Wolfgang	Wolfgang	NE	NE	_	nom|sg|masc	-1	6	_	PNC	_	_
+6	Engel	Engel	Engel	NE	NE	_	dat|sg|masc	-1	4	_	NK	_	_
+7	und	und	und	KON	KON	_	_	-1	6	_	CD	_	_
+8	Christian	Christian	Christian	NE	NE	_	nom|sg|masc	-1	9	_	PNC	_	_
+9	Gilde	Gilde	Gilde	NN	NN	_	dat|sg|masc	-1	7	_	CJ	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	so	so	so	ADV	ADV	_	_	-1	12	_	MO	_	_
+12	stand	stehen	stehen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+13	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	12	_	EP	_	_
+14	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	12	_	MO	_	_
+15	Kaffeegrund	Kaffeegrund	Kaffeegrund	NN	NN	_	dat|sg|masc	-1	14	_	NK	_	_
+16	,	,	,	$,	$,	_	_	-1	15	_	--	_	_
+17	würde	werden	werden	VAFIN	VAFIN	_	sg|3|past|subj	-1	11	_	RE	_	_
+18	die	die	die	ART	ART	_	nom|sg|fem	-1	19	_	NK	_	_
+19	Entscheidung	Entscheidung	Entscheidung	NN	NN	_	nom|sg|fem	-1	20	_	OA	_	_
+20	bringen	bringen	bringen	VVINF	VVINF	_	_	-1	17	_	OC	_	_
+21	.	.	.	$.	$.	_	_	-1	20	_	--	_	_
+
+	sentence_start	0	11	114
+	token_offsets	sentence	0	offsets	0::7	8::1
+	token_offsets	sentence	1	offsets	11::2	14::7	22::4	27::3	31::6	38::5	44::5	50::4	55::4	60::1	62::3	66::5	72::3	76::3	80::1	82::17	100::1	102::8	111::1
+	token_offsets	sentence	2	offsets	114::2	117::6	124::4	129::3	133::6	140::2	143::3	147::5	153::6	160::6	167::5	173::1
+1	Denkste	Denkste	Denkste	NN	NN	_	_	-1	0	_	--	_	_
+2	!	!	!	$.	$.	_	_	-1	1	_	--	_	_
+
+1	27	27	27	CARD	CARD	_	_	-1	2	_	NK	_	_
+2	Stimmen	Stimme|Stimmen	Stimme|Stimmen	NN	NN	_	nom|pl|fem	-1	7	_	SB	_	_
+3	nach	nach	nach	APPR	APPR	_	_	-1	2	_	MNR	_	_
+4	der	die	die	ART	ART	_	dat|sg|fem	-1	6	_	NK	_	_
+5	ersten	erst	erst	ADJA	ADJA	_	dat|sg|fem|pos	-1	6	_	NK	_	_
+6	Runde	Runde	Runde	NN	NN	_	dat|sg|fem	-1	3	_	NK	_	_
+7	waren	sein	sein	VAFIN	VAFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+8	eine	eine	eine	PIS	PIS	_	nom|sg|fem	-1	7	_	SB	_	_
+9	mehr	mehr	mehr	ADV	ADV	_	_	-1	8	_	MO	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	als	als	als	KOKOM	KOKOM	_	_	-1	18	_	CP	_	_
+12	Gilde	Gilde	Gilde	NN	NN	_	nom|sg|fem	-1	18	_	OA	_	_
+13	für	für	für	APPR	APPR	_	_	-1	12	_	MNR	_	_
+14	die	die	die	ART	ART	_	acc|sg|fem	-1	16	_	NK	_	_
+15	"	"	"	$(	$(	_	_	-1	14	_	--	_	_
+16	Titelverteidigung	Titelverteidigung	Titelverteidigung	NN	NN	_	acc|sg|fem	-1	13	_	NK	_	_
+17	"	"	"	$(	$(	_	_	-1	16	_	--	_	_
+18	brauchte	brauchen	brauchen	VVFIN	VVFIN	_	sg|3|past|ind	-1	9	_	CC	_	_
+19	.	.	.	$.	$.	_	_	-1	18	_	--	_	_
+
+1	Er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	3	_	SB	_	_
+2	selbst	selbst	selbst	ADV	ADV	_	_	-1	1	_	MNR	_	_
+3	will	wollen	wollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	von	von	von	APPR	APPR	_	_	-1	10	_	MO	_	_
+5	Beginn	Beginn	Beginn	NN	NN	_	dat|sg|masc	-1	4	_	NK	_	_
+6	an	an	an	APPR	APPR	_	_	-1	4	_	AC	_	_
+7	ein	eine	eine	ART	ART	_	acc|sg|neut	-1	9	_	NK	_	_
+8	gutes	gut	gut	ADJA	ADJA	_	acc|sg|neut|pos	-1	9	_	NK	_	_
+9	Gefühl	Gefühl	Gefühl	NN	NN	_	acc|sg|neut	-1	10	_	OA	_	_
+10	gehabt	haben	haben	VAPP	VAPP	_	_	-1	11	_	OC	_	_
+11	haben	haben	haben	VAFIN	VAFIN	_	pl|3|pres|ind	-1	3	_	OC	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+	sentence_start	0	188
+	token_offsets	sentence	0	offsets	0::6	7::8	16::2	19::3	23::4	28::3	32::18	51::5	57::10	68::4	73::5	79::7	87::8	96::1	98::3	102::5	108::4	113::8	122::3	126::3	130::6	137::6	144::6	151::20	172::12	185::1
+	token_offsets	sentence	1	offsets	188::3	192::3	196::9	206::8	215::8	224::5	230::1	232::3	236::12	249::4	254::10	265::11	277::1	279::4	284::8	293::3	297::1
+1	Seinen	sein	sein	PPOSAT	PPOSAT	_	dat|pl|masc	-1	2	_	NK	_	_
+2	Zuhörern	Zuhörer	Zuhörer	NN	NN	_	dat|pl|masc	-1	8	_	DA	_	_
+3	in	in	in	APPR	APPR	_	_	-1	2	_	MNR	_	_
+4	der	die	die	ART	ART	_	dat|sg|fem	-1	5	_	NK	_	_
+5	Aula	Aula	Aula	NN	NN	_	dat|sg|fem	-1	3	_	NK	_	_
+6	des	die	die	ART	ART	_	gen|sg|neut	-1	7	_	NK	_	_
+7	Oberstufenzentrums	Oberstufenzentrum	Oberstufenzentrum	NN	NN	_	gen|sg|neut	-1	5	_	AG	_	_
+8	kamen	kommen	kommen	VVFIN	VVFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+9	jedenfalls	jedenfalls	jedenfalls	ADV	ADV	_	_	-1	8	_	MO	_	_
+10	alle	alle	alle	PIAT	PIAT	_	acc|pl|neut	-1	12	_	NK	_	_
+11	guten	gut	gut	ADJA	ADJA	_	acc|pl|neut|pos	-1	12	_	NK	_	_
+12	Gefühle	Gefühl	Gefühl	NN	NN	_	acc|pl|neut	-1	8	_	SB	_	_
+13	abhanden	abhanden	abhanden	ADV	ADV	_	_	-1	8	_	MO	_	_
+14	,	,	,	$,	$,	_	_	-1	13	_	--	_	_
+15	als	als	als	KOKOM	KOKOM	_	_	-1	25	_	CP	_	_
+16	Gilde	Gilde	Gilde	NN	NN	_	nom|sg|masc	-1	25	_	SB	_	_
+17	ohne	ohne	ohne	APPR	APPR	_	_	-1	25	_	MO	_	_
+18	Eingehen	Eingehen	Eingehen	NN	NN	_	acc|sg|neut	-1	17	_	NK	_	_
+19	auf	auf	auf	APPR	APPR	_	_	-1	25	_	MO	_	_
+20	die	die	die	ART	ART	_	acc|sg|fem	-1	22	_	NK	_	_
+21	eigene	eigen	eigen	ADJA	ADJA	_	acc|sg|fem|pos	-1	22	_	NK	_	_
+22	Person	Person	Person	NN	NN	_	acc|sg|fem	-1	19	_	NK	_	_
+23	seinen	sein	sein	PPOSAT	PPOSAT	_	acc|sg|masc	-1	24	_	NK	_	_
+24	Rechenschaftsbericht	Rechenschaftsbericht	Rechenschaftsbericht	NN	NN	_	acc|sg|masc	-1	25	_	OA	_	_
+25	runterspulte	runterspulte	runterspulte	VVFIN	VVFIN	_	sg|3|past|ind	-1	8	_	MO	_	_
+26	.	.	.	$.	$.	_	_	-1	25	_	--	_	_
+
+1	Das	die	die	PDS	PDS	_	nom|sg|neut	-1	2	_	SB	_	_
+2	war	sein	sein	VAFIN	VAFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+3	gegenüber	gegenüber	gegenüber	APPR	APPR	_	_	-1	2	_	MO	_	_
+4	CDU-Mann	CDU-Mann	CDU-Mann	NN	NN	_	nom|sg|masc	-1	3	_	NK	_	_
+5	Wolfgang	Wolfgang	Wolfgang	NE	NE	_	nom|sg|masc	-1	6	_	PNC	_	_
+6	Engel	Engel	Engel	NE	NE	_	nom|sg|masc	-1	4	_	NK	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	der	die	die	PRELS	PRELS	_	nom|sg|masc	-1	12	_	SB	_	_
+9	überraschend	überraschend	überraschend	ADJD	ADJD	_	pos	-1	12	_	MO	_	_
+10	viel	viele	viele	PIAT	PIAT	_	*|*|*	-1	11	_	NK	_	_
+11	Sicherheit	Sicherheit	Sicherheit	NN	NN	_	acc|sg|fem	-1	12	_	OA	_	_
+12	ausstrahlte	ausstrahlen	ausstrahlen	VVFIN	VVFIN	_	sg|3|past|ind	-1	4	_	RC	_	_
+13	,	,	,	$,	$,	_	_	-1	12	_	--	_	_
+14	eine	eine	eine	ART	ART	_	acc|sg|fem	-1	16	_	NK	_	_
+15	schwache	schwach	schwach	ADJA	ADJA	_	acc|sg|fem|pos	-1	16	_	NK	_	_
+16	Kür	Kür	Kür	NN	NN	_	acc|sg|fem	-1	2	_	PD	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
+	sentence_start	0	56	194
+	token_offsets	sentence	0	offsets	0::7	8::6	15::5	21::2	24::6	31::3	35::5	41::3	45::7	53::1
+	token_offsets	sentence	1	offsets	56::3	60::3	64::5	70::4	75::10	86::5	92::5	98::1	100::2	103::3	107::5	113::6	120::5	126::7	134::12	147::10	158::5	164::3	168::6	175::8	184::6	191::1
+	token_offsets	sentence	2	offsets	194::9	204::3	208::2	211::7	219::5	225::3	229::3	233::4	238::1	240::7	248::3	252::6	259::6	266::1	268::3	272::3	276::3	280::11	292::3	296::10	307::6	314::4	319::1
+1	Dennoch	dennoch	dennoch	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	bleibt	bleiben	bleiben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	Gilde	Gilde	Gilde	NN	NN	_	nom|sg|fem	-1	2	_	SB	_	_
+4	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	2	_	MO	_	_
+5	Rennen	Rennen	Rennen	NN	NN	_	dat|sg|neut	-1	4	_	NK	_	_
+6	und	und	und	KON	KON	_	_	-1	5	_	CD	_	_
+7	Engel	Engel	Engel	NN	NN	_	dat|sg|neut	-1	6	_	CJ	_	_
+8	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	2	_	CJ	_	_
+9	draußen	draußen	draußen	ADV	ADV	_	_	-1	8	_	MO	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	CDU	CDU	CDU	NE	NE	_	nom|sg|fem	-1	3	_	SB	_	_
+3	fragt	fragen	fragen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	3	_	OA	_	_
+5	vielleicht	vielleicht	vielleicht	ADV	ADV	_	_	-1	3	_	MO	_	_
+6	jetzt	jetzt	jetzt	ADV	ADV	_	_	-1	3	_	MO	_	_
+7	schon	schon	schon	ADV	ADV	_	_	-1	3	_	MO	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	ob	ob	ob	KOUS	KOUS	_	_	-1	17	_	CP	_	_
+10	sie	sie	sie	PPER	PPER	_	nom|pl|*|3	-1	21	_	SB	_	_
+11	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	12	_	NG	_	_
+12	besser	gut	gut	ADJD	ADJD	_	comp	-1	20	_	MO	_	_
+13	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	16	_	NK	_	_
+14	weniger	weniger	weniger	ADV	ADV	_	_	-1	15	_	MO	_	_
+15	umstrittenen	umstritten	umstritten	ADJA	ADJA	_	acc|sg|masc|pos	-1	16	_	NK	_	_
+16	Kandidaten	Kandidat	Kandidat	NN	NN	_	acc|sg|masc	-1	17	_	OA	_	_
+17	hätte	haben	haben	VAFIN	VAFIN	_	sg|3|past|subj	-1	3	_	OC	_	_
+18	ins	in	in	APPRART	APPRART	_	acc|sg|neut	-1	20	_	MO	_	_
+19	Rennen	Rennen	Rennen	NN	NN	_	acc|sg|neut	-1	18	_	NK	_	_
+20	schicken	schicken	schicken	VVINF	VVINF	_	_	-1	21	_	OC	_	_
+21	sollen	sollen	sollen	VMFIN	VMFIN	_	pl|3|pres|ind	-1	17	_	OC	_	_
+22	.	.	.	$.	$.	_	_	-1	21	_	--	_	_
+
+1	Ablehnung	Ablehnung	Ablehnung	NN	NN	_	acc|sg|fem	-1	2	_	OA	_	_
+2	gab	geben	geben	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+3	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	EP	_	_
+4	nämlich	nämlich	nämlich	ADV	ADV	_	_	-1	2	_	MO	_	_
+5	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	2	_	NG	_	_
+6	für	für	für	APPR	APPR	_	_	-1	2	_	MO	_	_
+7	den	die	die	ART	ART	_	acc|sg|masc	-1	8	_	NK	_	_
+8	Mann	Mann	Mann	NN	NN	_	acc|sg|masc	-1	6	_	NK	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	sondern	sondern	sondern	KON	KON	_	_	-1	6	_	CD	_	_
+11	für	für	für	APPR	APPR	_	_	-1	10	_	CJ	_	_
+12	seinen	sein	sein	PPOSAT	PPOSAT	_	acc|sg|masc	-1	13	_	NK	_	_
+13	Posten	Posten	Posten	NN	NN	_	acc|sg|masc	-1	11	_	NK	_	_
+14	,	,	,	$,	$,	_	_	-1	13	_	--	_	_
+15	der	die	die	PRELS	PRELS	_	nom|sg|masc	-1	22	_	SB	_	_
+16	ihn	er	er	PPER	PPER	_	acc|sg|masc|3	-1	21	_	OA	_	_
+17	zum	zu	zu	APPRART	APPRART	_	dat|sg|neut	-1	21	_	MO	_	_
+18	Befürworter	Befürworter	Befürworter	NN	NN	_	dat|sg|neut	-1	17	_	NK	_	_
+19	des	die	die	ART	ART	_	gen|sg|neut	-1	20	_	NK	_	_
+20	Bombodroms	Bombodroms	Bombodroms	NN	NN	_	gen|sg|neut	-1	18	_	AG	_	_
+21	machen	machen	machen	VVINF	VVINF	_	_	-1	22	_	OC	_	_
+22	muss	müssen	müssen	VMFIN	VMFIN	_	_	-1	13	_	RC	_	_
+23	.	.	.	$.	$.	_	_	-1	22	_	--	_	_
+

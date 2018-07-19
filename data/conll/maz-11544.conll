@@ -1,0 +1,201 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::15
+1	Erfolgsverwöhnt	Erfolgsverwöhnt	Erfolgsverwöhnt	NN	NN	_	_	-1	0	_	--	_	_
+
+	sentence_start	0	102	294
+	token_offsets	sentence	0	offsets	0::6	7::5	13::3	17::11	29::11	41::8	50::3	54::5	60::12	73::3	77::8	86::12	99::1
+	token_offsets	sentence	1	offsets	102::4	107::3	111::10	122::17	140::3	144::7	152::9	162::9	172::6	179::1	181::3	185::5	191::5	197::7	205::5	211::3	215::3	219::17	237::3	241::3	245::15	261::13	275::8	284::6	291::1
+	token_offsets	sentence	2	offsets	294::2	297::5	303::3	307::3	311::9	321::3	325::13	339::9	349::1
+1	Erneut	erneut	erneut	ADJD	ADJD	_	pos	-1	2	_	MO	_	_
+2	sorgt	sorgen	sorgen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	das	die	die	ART	ART	_	acc|sg|neut	-1	5	_	NK	_	_
+4	renommierte	renommiert	renommiert	ADJA	ADJA	_	acc|sg|neut|pos	-1	5	_	NK	_	_
+5	Unternehmen	Unternehmen	Unternehmen	NN	NN	_	acc|sg|neut	-1	2	_	SB	_	_
+6	Parmalat	Parmalat	Parmalat	NN	NN	_	acc|sg|neut	-1	2	_	OA	_	_
+7	mit	mit	mit	APPR	APPR	_	_	-1	6	_	MNR	_	_
+8	einem	eine	eine	ART	ART	_	dat|sg|masc	-1	9	_	NK	_	_
+9	Paukenschlag	Paukenschlag	Paukenschlag	NN	NN	_	dat|sg|masc	-1	7	_	NK	_	_
+10	für	für	für	APPR	APPR	_	_	-1	9	_	MNR	_	_
+11	positive	positiv	positiv	ADJA	ADJA	_	acc|pl|masc|pos	-1	12	_	NK	_	_
+12	Schlagzeilen	Schlagzeile	Schlagzeile	NN	NN	_	acc|pl|masc	-1	10	_	NK	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Eine	eine	eine	PIS	PIS	_	nom|sg|fem	-1	5	_	SB	_	_
+2	der	die	die	ART	ART	_	gen|pl|fem	-1	4	_	NK	_	_
+3	modernsten	modern	modern	ADJA	ADJA	_	gen|pl|fem|sup	-1	4	_	NK	_	_
+4	Produktionslinien	Produktionslinie	Produktionslinie	NN	NN	_	gen|pl|fem	-1	1	_	AG	_	_
+5	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+6	gestern	gestern	gestern	ADV	ADV	_	_	-1	8	_	MO	_	_
+7	offiziell	offiziell	offiziell	ADJD	ADJD	_	pos	-1	8	_	MO	_	_
+8	gestartet	starten	starten	VVPP	VVPP	_	_	-1	9	_	OC	_	_
+9	worden	werden	werden	VAPP	VAPP	_	_	-1	5	_	OC	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	mit	mit	mit	APPR	APPR	_	_	-1	24	_	MO	_	_
+12	deren	die	die	PRELAT	PRELAT	_	gen|pl|fem	-1	13	_	AG	_	_
+13	Hilfe	Hilfe	Hilfe	NN	NN	_	nom|sg|fem	-1	11	_	NK	_	_
+14	frische	frisch	frisch	ADJA	ADJA	_	nom|sg|fem|pos	-1	15	_	NK	_	_
+15	Milch	Milch	Milch	NN	NN	_	nom|sg|fem	-1	24	_	OA	_	_
+16	aus	aus	aus	APPR	APPR	_	_	-1	15	_	MNR	_	_
+17	dem	die	die	ART	ART	_	dat|sg|neut	-1	18	_	NK	_	_
+18	Brandenburgischen	Brandenburgische	Brandenburgische	NN	NN	_	dat|sg|neut	-1	16	_	NK	_	_
+19	auf	auf	auf	APPR	APPR	_	_	-1	24	_	MO	_	_
+20	dem	die	die	ART	ART	_	dat|sg|masc	-1	21	_	NK	_	_
+21	Frühstückstisch	Frühstückstisch	Frühstückstisch	NN	NN	_	dat|sg|masc	-1	19	_	NK	_	_
+22	italienischer	italienisch	italienisch	ADJA	ADJA	_	gen|pl|fem|pos	-1	23	_	NK	_	_
+23	Familien	Familie	Familie	NN	NN	_	gen|pl|fem	-1	21	_	AG	_	_
+24	landet	landen	landen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	1	_	RC	_	_
+25	.	.	.	$.	$.	_	_	-1	24	_	--	_	_
+
+1	Zu	zu	zu	APPR	APPR	_	_	-1	3	_	MO	_	_
+2	Recht	Recht	Recht	NN	NN	_	dat|sg|neut	-1	1	_	NK	_	_
+3	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	die	die	die	ART	ART	_	nom|sg|fem	-1	5	_	NK	_	_
+5	Chefetage	Chefetage	Chefetage	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+6	des	die	die	ART	ART	_	gen|sg|masc	-1	7	_	NK	_	_
+7	Milchgiganten	Milchgiganten	Milchgiganten	NN	NN	_	gen|sg|masc	-1	5	_	AG	_	_
+8	zufrieden	zufrieden	zufrieden	ADJD	ADJD	_	pos	-1	3	_	PD	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+	sentence_start	0	77	199	301	322
+	token_offsets	sentence	0	offsets	0::12	13::3	17::3	21::10	32::3	36::8	45::2	48::7	56::4	61::12	74::1
+	token_offsets	sentence	1	offsets	77::2	80::6	87::3	91::4	96::9	106::2	109::6	116::5	122::3	126::11	138::12	151::3	155::3	159::23	183::3	187::8	196::1
+	token_offsets	sentence	2	offsets	199::4	204::4	209::8	218::10	229::6	236::3	240::15	256::11	268::3	272::10	283::3	287::6	294::3	298::1
+	token_offsets	sentence	3	offsets	301::3	305::3	309::5	315::3	319::1
+	token_offsets	sentence	4	offsets	322::3	326::1	328::3	332::3	336::3	340::16	357::12	370::2	373::3	377::7	385::7	393::3	397::7	405::13	419::10	430::1
+1	Unbestritten	unbestritten	unbestritten	ADJD	ADJD	_	pos	-1	2	_	PD	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	die	die	die	ART	ART	_	nom|sg|fem	-1	4	_	NK	_	_
+4	Geschichte	Geschichte	Geschichte	NN	NN	_	nom|sg|fem	-1	2	_	SB	_	_
+5	von	von	von	APPR	APPR	_	_	-1	4	_	PG	_	_
+6	Parmalat	Parmalat	Parmalat	NN	NN	_	dat|sg|masc	-1	5	_	NK	_	_
+7	in	in	in	APPR	APPR	_	_	-1	2	_	MO	_	_
+8	Gransee	Gransee	Gransee	NN	NN	_	dat|sg|fem	-1	7	_	NK	_	_
+9	eine	eine	eine	ART	ART	_	nom|sg|fem	-1	10	_	NK	_	_
+10	Erfolgsstory	Erfolgsstory	Erfolgsstory	NN	NN	_	nom|sg|fem	-1	2	_	PD	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Zu	zu	zu	PTKZU	PTKZU	_	_	-1	2	_	PM	_	_
+2	danken	danken	danken	VVINF	VVINF	_	_	-1	3	_	OC	_	_
+3	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	dies	dies	dies	PDS	PDS	_	nom|sg|neut	-1	3	_	SB	_	_
+5	natürlich	natürlich	natürlich	ADV	ADV	_	_	-1	2	_	MO	_	_
+6	in	in	in	APPR	APPR	_	_	-1	3	_	MO	_	_
+7	erster	erst	erst	ADJA	ADJA	_	dat|sg|fem|pos	-1	8	_	NK	_	_
+8	Linie	Linie	Linie	NN	NN	_	dat|sg|fem	-1	6	_	NK	_	_
+9	den	die	die	ART	ART	_	acc|sg|masc	-1	11	_	NK	_	_
+10	engagierten	engagiert	engagiert	ADJA	ADJA	_	acc|sg|masc|pos	-1	11	_	NK	_	_
+11	Mitarbeitern	Mitarbeiter	Mitarbeiter	NN	NN	_	acc|sg|masc	-1	3	_	PD	_	_
+12	und	und	und	KON	KON	_	_	-1	11	_	CD	_	_
+13	der	die	die	ART	ART	_	dat|sg|fem	-1	14	_	NK	_	_
+14	Investitionsfreudigkeit	Investitionsfreudigkeit	Investitionsfreudigkeit	NN	NN	_	dat|sg|fem	-1	12	_	CJ	_	_
+15	des	die	die	ART	ART	_	gen|sg|masc	-1	16	_	NK	_	_
+16	Konzerns	Konzern	Konzern	NN	NN	_	gen|sg|masc	-1	14	_	AG	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
+1	Aber	aber	aber	KON	KON	_	_	-1	5	_	JU	_	_
+2	auch	auch	auch	ADV	ADV	_	_	-1	3	_	MO	_	_
+3	Gransees	Gransees	Gransees	NN	NN	_	gen|sg|*	-1	5	_	SB	_	_
+4	Stadtväter	Stadtvater	Stadtvater	NN	NN	_	nom|pl|masc	-1	3	_	NK	_	_
+5	trugen	tragen	tragen	VVFIN	VVFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+6	als	als	als	KOKOM	KOKOM	_	_	-1	8	_	CM	_	_
+7	unbürokratische	unbürokratisch	unbürokratisch	ADJA	ADJA	_	nom|pl|masc|pos	-1	8	_	NK	_	_
+8	Wegbereiter	Wegbereiter	Wegbereiter	NN	NN	_	nom|pl|masc	-1	5	_	CC	_	_
+9	ihr	ihr	ihr	PPOSAT	PPOSAT	_	acc|sg|neut	-1	10	_	NK	_	_
+10	Scherflein	Scherflein	Scherflein	NN	NN	_	acc|sg|neut	-1	5	_	OA	_	_
+11	zum	zu	zu	APPRART	APPRART	_	dat|sg|masc	-1	10	_	MNR	_	_
+12	Erfolg	Erfolg	Erfolg	NN	NN	_	dat|sg|masc	-1	11	_	NK	_	_
+13	bei	bei	bei	PTKVZ	PTKVZ	_	_	-1	5	_	SVP	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	3	_	JU	_	_
+2	das	die	die	PDS	PDS	_	nom|sg|neut	-1	3	_	SB	_	_
+3	macht	machen	machen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	Mut	Mut	Mut	NN	NN	_	acc|sg|masc	-1	3	_	OA	_	_
+5	.	.	.	$.	$.	_	_	-1	4	_	--	_	_
+
+1	Mut	Mut	Mut	NN	NN	_	nom|sg|masc	-1	0	_	--	_	_
+2	,	,	,	$,	$,	_	_	-1	1	_	--	_	_
+3	mit	mit	mit	APPR	APPR	_	_	-1	11	_	MO	_	_
+4	dem	die	die	PRELS	PRELS	_	dat|sg|masc	-1	3	_	NK	_	_
+5	die	die	die	ART	ART	_	nom|sg|fem	-1	6	_	NK	_	_
+6	Milchverarbeiter	Milchverarbeiter	Milchverarbeiter	NN	NN	_	nom|sg|fem	-1	11	_	OA	_	_
+7	optimistisch	optimistisch	optimistisch	ADJD	ADJD	_	pos	-1	11	_	MO	_	_
+8	in	in	in	APPR	APPR	_	_	-1	11	_	MO	_	_
+9	die	die	die	ART	ART	_	acc|sg|fem	-1	10	_	NK	_	_
+10	Zukunft	Zukunft	Zukunft	NN	NN	_	acc|sg|fem	-1	8	_	NK	_	_
+11	blicken	blicken	blicken	VVINF	VVINF	_	_	-1	1	_	RC	_	_
+12	und	und	und	KON	KON	_	_	-1	11	_	CD	_	_
+13	weitere	weit	weit	ADJA	ADJA	_	acc|pl|fem|comp	-1	14	_	NK	_	_
+14	Investitionen	Investition	Investition	NN	NN	_	acc|pl|fem	-1	15	_	OA	_	_
+15	anvisieren	anvisieren	anvisieren	VVINF	VVINF	_	_	-1	12	_	CJ	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+	sentence_start	0	97	214	279
+	token_offsets	sentence	0	offsets	0::9	10::6	17::3	21::11	33::1	35::4	40::4	45::3	49::17	67::11	79::7	87::6	94::1
+	token_offsets	sentence	1	offsets	97::3	101::3	105::4	110::1	112::10	123::5	129::7	137::5	143::3	147::7	155::5	161::5	167::11	179::3	183::3	187::5	193::3	197::13	211::1
+	token_offsets	sentence	2	offsets	214::2	217::4	222::4	227::4	232::3	236::3	240::11	252::3	256::1	258::6	265::10	276::1
+	token_offsets	sentence	3	offsets	279::4	284::9	294::5	300::3	304::12	317::4	322::3	326::6	333::5	339::8	348::6	355::3	359::6	366::4	371::11	383::1
+1	Natürlich	natürlich	natürlich	ADJD	ADJD	_	pos	-1	2	_	MO	_	_
+2	hoffen	hoffen	hoffen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	die	die	die	ART	ART	_	nom|pl|masc	-1	4	_	NK	_	_
+4	Mitarbeiter	Mitarbeiter	Mitarbeiter	NN	NN	_	nom|pl|masc	-1	2	_	SB	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	dass	dass	dass	KOUS	KOUS	_	_	-1	2	_	OP	_	_
+7	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	12	_	OA	_	_
+8	die	die	die	ART	ART	_	nom|pl|masc	-1	10	_	NK	_	_
+9	millionenschweren	millionenschwer	millionenschwer	ADJA	ADJA	_	acc|pl|*|comp	-1	10	_	NK	_	_
+10	Investionen	Investionen	Investionen	NN	NN	_	acc|pl|fem	-1	11	_	OA	_	_
+11	bezahlt	bezahlen	bezahlen	VVPP	VVPP	_	_	-1	12	_	OC	_	_
+12	machen	machen	machen	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	3	_	JU	_	_
+2	wer	wer	wer	PWS	PWS	_	nom|sg|*	-1	3	_	SB	_	_
+3	weiß	wissen	wissen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	vielleicht	vielleicht	vielleicht	ADV	ADV	_	_	-1	6	_	MO	_	_
+6	steht	stehen	stehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	3	_	CJ	_	_
+7	frische	frisch	frisch	ADJA	ADJA	_	nom|sg|fem|pos	-1	8	_	NK	_	_
+8	Milch	Milch	Milch	NN	NN	_	nom|sg|fem	-1	6	_	SB	_	_
+9	aus	aus	aus	APPR	APPR	_	_	-1	8	_	MNR	_	_
+10	Gransee	Gransee	Gransee	NN	NN	_	dat|sg|fem	-1	9	_	NK	_	_
+11	eines	eine	eine	ART	ART	_	gen|sg|masc	-1	12	_	NK	_	_
+12	Tages	Tag	Tag	NN	NN	_	gen|sg|masc	-1	10	_	AG	_	_
+13	tatsächlich	tatsächlich	tatsächlich	ADJD	ADJD	_	pos	-1	6	_	MO	_	_
+14	auf	auf	auf	APPR	APPR	_	_	-1	6	_	MO	_	_
+15	dem	die	die	ART	ART	_	dat|sg|masc	-1	16	_	NK	_	_
+16	Tisch	Tisch	Tisch	NN	NN	_	dat|sg|masc	-1	14	_	NK	_	_
+17	von	von	von	APPR	APPR	_	_	-1	16	_	PG	_	_
+18	Einheimischen	Einheimische	Einheimische	NN	NN	_	dat|pl|*	-1	17	_	NK	_	_
+19	.	.	.	$.	$.	_	_	-1	18	_	--	_	_
+
+1	Ob	ob	ob	KOUS	KOUS	_	_	-1	8	_	CP	_	_
+2	dies	dies	dies	PDS	PDS	_	nom|sg|neut	-1	8	_	SB	_	_
+3	aber	aber	aber	ADV	ADV	_	_	-1	8	_	MO	_	_
+4	mehr	mehr	mehr	ADV	ADV	_	*|*|*	-1	8	_	MO	_	_
+5	als	als	als	KOKOM	KOKOM	_	_	-1	7	_	CM	_	_
+6	ein	eine	eine	ART	ART	_	nom|sg|neut	-1	7	_	NK	_	_
+7	Wunschtraum	Wunschtraum	Wunschtraum	NN	NN	_	nom|sg|neut	-1	4	_	CC	_	_
+8	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	10	_	SB	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	bleibt	bleiben	bleiben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+11	abzuwarten	abwarten	abwarten	VVIZU	VVIZU	_	_	-1	10	_	OC	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Denn	denn	denn	KON	KON	_	_	-1	3	_	JU	_	_
+2	letztlich	letztlich	letztlich	ADV	ADV	_	_	-1	3	_	MO	_	_
+3	liegt	liegen	liegen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	die	die	die	ART	ART	_	nom|sg|fem	-1	5	_	NK	_	_
+5	Entscheidung	Entscheidung	Entscheidung	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+6	über	über	über	APPR	APPR	_	_	-1	5	_	OP	_	_
+7	den	die	die	ART	ART	_	acc|sg|masc	-1	8	_	NK	_	_
+8	Erfolg	Erfolg	Erfolg	NN	NN	_	acc|sg|masc	-1	6	_	NK	_	_
+9	eines	eine	eine	ART	ART	_	gen|sg|neut	-1	10	_	NK	_	_
+10	Produkts	Produkt	Produkt	NN	NN	_	gen|sg|neut	-1	8	_	AG	_	_
+11	einzig	einzig	einzig	ADJD	ADJD	_	pos	-1	3	_	MO	_	_
+12	und	und	und	KON	KON	_	_	-1	11	_	CD	_	_
+13	allein	allein	allein	ADV	ADV	_	_	-1	14	_	MO	_	_
+14	beim	bei	bei	APPRART	APPRART	_	dat|sg|masc	-1	12	_	CJ	_	_
+15	Verbraucher	Verbraucher	Verbraucher	NN	NN	_	dat|sg|masc	-1	14	_	NK	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+

@@ -1,0 +1,212 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::4	5::3	9::6	16::4
+1	Nach	nach	nach	APPR	APPR	_	_	-1	0	_	--	_	_
+2	dem	die	die	ART	ART	_	dat|sg|neut	-1	4	_	NK	_	_
+3	großen	groß	groß	ADJA	ADJA	_	dat|sg|neut|pos	-1	4	_	NK	_	_
+4	Coup	Coup	Coup	NN	NN	_	dat|sg|neut	-1	1	_	NK	_	_
+
+	sentence_start	0	86	137	268
+	token_offsets	sentence	0	offsets	0::3	4::5	10::5	16::2	19::11	31::3	35::3	39::7	47::6	54::3	58::10	69::13	83::1
+	token_offsets	sentence	1	offsets	86::10	97::5	103::7	111::6	118::3	122::6	129::4	134::1
+	token_offsets	sentence	2	offsets	137::4	142::3	146::3	150::11	162::5	168::3	172::10	183::5	189::4	194::6	201::2	204::3	208::3	212::5	218::3	222::8	231::2	234::7	242::3	246::18	265::1
+	token_offsets	sentence	3	offsets	268::3	272::11	284::7	292::3	296::3	300::8	309::5	315::15	331::1	333::4	338::6	345::12	358::5	364::6	371::6	378::2	381::3	385::4	390::4	395::1
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	3	_	NK	_	_
+2	Weiße	weiß	weiß	ADJA	ADJA	_	nom|sg|fem|pos	-1	3	_	NK	_	_
+3	Stadt	Stadt	Stadt	NN	NN	_	nom|sg|fem	-1	6	_	SB	_	_
+4	in	in	in	APPR	APPR	_	_	-1	3	_	MNR	_	_
+5	Oranienburg	Oranienburg	Oranienburg	NE	NE	_	dat|sg|neut	-1	4	_	NK	_	_
+6	war	sein	sein	VAFIN	VAFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+7	vor	vor	vor	APPR	APPR	_	_	-1	6	_	MO	_	_
+8	wenigen	wenige	wenige	PIAT	PIAT	_	dat|pl|neut	-1	9	_	NK	_	_
+9	Jahren	Jahr	Jahr	NN	NN	_	dat|pl|neut	-1	7	_	NK	_	_
+10	ein	eine	eine	ART	ART	_	acc|sg|neut	-1	12	_	NK	_	_
+11	gefeiertes	gefeiert	gefeiert	ADJA	ADJA	_	acc|sg|neut|pos	-1	12	_	NK	_	_
+12	Modellprojekt	Modellprojekt	Modellprojekt	NN	NN	_	acc|sg|neut	-1	6	_	PD	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Firmenchef	Firmenchef	Firmenchef	NN	NN	_	nom|sg|masc	-1	4	_	SB	_	_
+2	Klaus	Klaus	Klaus	NE	NE	_	nom|sg|masc	-1	3	_	PNC	_	_
+3	Kesting	Kesting	Kesting	NE	NE	_	nom|sg|masc	-1	1	_	NK	_	_
+4	gelang	gelingen	gelingen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+5	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	7	_	NK	_	_
+6	großer	groß	groß	ADJA	ADJA	_	nom|sg|masc|pos	-1	7	_	NK	_	_
+7	Coup	Coup	Coup	NN	NN	_	nom|sg|masc	-1	4	_	SB	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+
+1	Noch	noch	noch	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	vor	vor	vor	APPR	APPR	_	_	-1	10	_	MO	_	_
+3	dem	die	die	ART	ART	_	dat|sg|neut	-1	5	_	NK	_	_
+4	endgültigen	endgültig	endgültig	ADJA	ADJA	_	dat|sg|neut|pos	-1	5	_	NK	_	_
+5	Abzug	Abzug	Abzug	NN	NN	_	dat|sg|neut	-1	2	_	NK	_	_
+6	der	die	die	ART	ART	_	gen|sg|fem	-1	8	_	NK	_	_
+7	russischen	russisch	russisch	ADJA	ADJA	_	gen|sg|fem|pos	-1	8	_	NK	_	_
+8	Armee	Armee	Armee	NN	NN	_	gen|sg|fem	-1	5	_	AG	_	_
+9	1994	1994	1994	CARD	CARD	_	_	-1	5	_	NK	_	_
+10	begann	beginnen	beginnen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+11	er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	10	_	SB	_	_
+12	mit	mit	mit	APPR	APPR	_	_	-1	10	_	MO	_	_
+13	dem	die	die	ART	ART	_	dat|sg|masc	-1	14	_	NK	_	_
+14	Umbau	Umbau	Umbau	NN	NN	_	dat|sg|masc	-1	12	_	NK	_	_
+15	von	von	von	APPR	APPR	_	_	-1	14	_	PG	_	_
+16	Kasernen	Kaserne	Kaserne	NN	NN	_	dat|pl|masc	-1	15	_	NK	_	_
+17	zu	zu	zu	APPR	APPR	_	_	-1	16	_	MNR	_	_
+18	Sozial-	Sozial-	Sozial-	TRUNC	TRUNC	_	_	-1	19	_	CJ	_	_
+19	und	und	und	KON	KON	_	_	-1	20	_	CD	_	_
+20	Eigentumswohnungen	Eigentumswohnung	Eigentumswohnung	NN	NN	_	acc|pl|fem	-1	17	_	NK	_	_
+21	.	.	.	$.	$.	_	_	-1	20	_	--	_	_
+
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	2	_	NK	_	_
+2	Unternehmer	Unternehmer	Unternehmer	NN	NN	_	nom|sg|masc	-1	3	_	SB	_	_
+3	erhielt	erhalten	erhalten	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+4	für	für	für	APPR	APPR	_	_	-1	3	_	MO	_	_
+5	das	die	die	ART	ART	_	acc|sg|neut	-1	6	_	NK	_	_
+6	Vorhaben	Vorhaben	Vorhaben	NN	NN	_	acc|sg|neut	-1	4	_	NK	_	_
+7	viele	viele	viele	PIAT	PIAT	_	nom|pl|masc	-1	8	_	NK	_	_
+8	Fördermillionen	Fördermillion	Fördermillion	NN	NN	_	acc|pl|fem	-1	3	_	OA	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	eine	eine	eine	ART	ART	_	acc|sg|fem	-1	12	_	NK	_	_
+11	60_000	60_000	60_000	ADJA	ADJA	_	acc|sg|fem|pos	-1	12	_	NK	_	_
+12	Quadratmeter	Quadratmeter	Quadratmeter	NN	NN	_	acc|sg|fem	-1	8	_	CJ	_	_
+13	große	groß	groß	ADJA	ADJA	_	acc|sg|fem|pos	-1	14	_	NK	_	_
+14	Fläche	Fläche	Fläche	NN	NN	_	acc|sg|fem	-1	15	_	OA	_	_
+15	erwarb	erwerben	erwerben	VVFIN	VVFIN	_	sg|3|past|ind	-1	3	_	CJ	_	_
+16	er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	15	_	SB	_	_
+17	für	für	für	APPR	APPR	_	_	-1	15	_	MO	_	_
+18	eine	eine	eine	ART	ART	_	acc|sg|fem	-1	19	_	NK	_	_
+19	Mark	Mark	Mark	NN	NN	_	acc|sg|fem	-1	17	_	NK	_	_
+20	.	.	.	$.	$.	_	_	-1	19	_	--	_	_
+
+	sentence_start	0	38	100	210	258	328	425	492	560	647
+	token_offsets	sentence	0	offsets	0::4	5::6	12::3	16::5	22::12	35::1
+	token_offsets	sentence	1	offsets	38::3	42::12	55::7	63::9	73::6	80::7	88::8	97::1
+	token_offsets	sentence	2	offsets	100::7	108::10	119::6	126::9	136::4	141::4	146::1	148::11	160::13	174::7	182::5	188::11	200::6	207::1
+	token_offsets	sentence	3	offsets	210::7	218::5	224::3	228::15	244::3	248::6	255::1
+	token_offsets	sentence	4	offsets	258::3	262::7	270::3	274::11	286::3	290::4	295::9	305::4	310::5	316::2	319::5	325::1
+	token_offsets	sentence	5	offsets	328::3	332::13	346::2	349::3	353::13	367::3	371::9	381::16	398::4	403::2	406::5	412::4	417::4	422::1
+	token_offsets	sentence	6	offsets	425::3	429::6	436::4	441::10	452::3	456::12	469::5	475::13	489::1
+	token_offsets	sentence	7	offsets	492::5	498::4	503::4	508::3	512::5	518::10	529::12	542::5	548::8	557::1
+	token_offsets	sentence	8	offsets	560::4	565::5	571::11	583::8	592::5	598::9	608::6	615::1	617::5	623::3	627::7	635::8	644::1
+	token_offsets	sentence	9	offsets	647::8	656::3	660::14	675::7	683::5	689::5	695::4	700::3	704::5	710::5	716::2	719::3	723::17	741::1	743::7	751::2	754::9	764::1	766::11	778::1
+1	1997	1997	1997	CARD	CARD	_	_	-1	2	_	MO	_	_
+2	folgte	folgen	folgen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+3	der	die	die	ART	ART	_	nom|sg|masc	-1	5	_	NK	_	_
+4	große	groß	groß	ADJA	ADJA	_	nom|sg|masc|pos	-1	5	_	NK	_	_
+5	Katzenjammer	Katzenjammer	Katzenjammer	NN	NN	_	nom|sg|masc	-1	2	_	SB	_	_
+6	.	.	.	$.	$.	_	_	-1	5	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Gesellschaft	Gesellschaft	Gesellschaft	NN	NN	_	nom|sg|fem	-1	5	_	SB	_	_
+3	Kesting	Kesting	Kesting	NE	NE	_	*|*|*	-1	4	_	PNC	_	_
+4	Fertigbau	Fertigbau	Fertigbau	NN	NN	_	*|sg|masc	-1	2	_	NK	_	_
+5	musste	müssen	müssen	VMFIN	VMFIN	_	acc|sg|fem|sup	-1	0	_	--	_	_
+6	Konkurs	Konkurs	Konkurs	NN	NN	_	acc|sg|masc	-1	7	_	OA	_	_
+7	anmelden	anmelden	anmelden	VVINF	VVINF	_	_	-1	5	_	OC	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+
+1	Mehrere	mehrere	mehrere	PIAT	PIAT	_	nom|pl|fem	-1	3	_	NK	_	_
+2	beteiligte	beteiligt	beteiligt	ADJA	ADJA	_	nom|pl|fem|pos	-1	3	_	NK	_	_
+3	Firmen	Firma	Firma	NN	NN	_	nom|pl|fem	-1	4	_	SB	_	_
+4	erhielten	erhalten	erhalten	VVFIN	VVFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+5	kein	keine	keine	PIAT	PIAT	_	acc|sg|neut	-1	6	_	NK	_	_
+6	Geld	Geld	Geld	NN	NN	_	acc|sg|neut	-1	4	_	OA	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	ausstehende	ausstehend	ausstehend	ADJA	ADJA	_	acc|pl|masc|pos	-1	9	_	NK	_	_
+9	Bauabschnitte	Bauabschnitt	Bauabschnitt	NN	NN	_	acc|pl|masc	-1	10	_	SB	_	_
+10	konnten	können	können	VMFIN	VMFIN	_	pl|3|past|ind	-1	4	_	CJ	_	_
+11	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	10	_	NG	_	_
+12	fortgeführt	fortführen	fortführen	VVPP	VVPP	_	_	-1	13	_	OC	_	_
+13	werden	werden	werden	VAINF	VAINF	_	_	-1	10	_	OC	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Seitdem	seitdem	seitdem	PAV	PAV	_	_	-1	2	_	NK	_	_
+2	führt	führen	führen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	4	_	NK	_	_
+4	Zwangsverwalter	Zwangsverwalter	Zwangsverwalter	NN	NN	_	nom|sg|masc	-1	2	_	SB	_	_
+5	das	die	die	ART	ART	_	acc|sg|neut	-1	6	_	NK	_	_
+6	Zepter	Zepter	Zepter	NN	NN	_	acc|sg|neut	-1	2	_	OA	_	_
+7	.	.	.	$.	$.	_	_	-1	6	_	--	_	_
+
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	2	_	NK	_	_
+2	Verkauf	Verkauf	Verkauf	NN	NN	_	nom|sg|masc	-1	8	_	SB	_	_
+3	des	die	die	ART	ART	_	gen|sg|neut	-1	4	_	NK	_	_
+4	Wohngebiets	Wohngebiet	Wohngebiet	NN	NN	_	gen|sg|neut	-1	2	_	AG	_	_
+5	und	und	und	KON	KON	_	_	-1	2	_	CD	_	_
+6	neue	neu	neu	ADJA	ADJA	_	acc|pl|neut|pos	-1	7	_	NK	_	_
+7	Geldgeber	Geldgeber	Geldgeber	NN	NN	_	acc|pl|neut	-1	5	_	CJ	_	_
+8	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+9	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	8	_	NG	_	_
+10	in	in	in	APPR	APPR	_	_	-1	8	_	MO	_	_
+11	Sicht	Sicht	Sicht	NN	NN	_	dat|sg|fem	-1	10	_	NK	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Für	für	für	APPR	APPR	_	_	-1	9	_	MO	_	_
+2	Investitionen	Investition	Investition	NN	NN	_	acc|pl|fem	-1	1	_	NK	_	_
+3	in	in	in	APPR	APPR	_	_	-1	2	_	MNR	_	_
+4	die	die	die	ART	ART	_	acc|sg|fem	-1	5	_	NK	_	_
+5	Infrastruktur	Infrastruktur	Infrastruktur	NN	NN	_	acc|sg|fem	-1	3	_	NK	_	_
+6	der	die	die	ART	ART	_	gen|sg|fem	-1	8	_	NK	_	_
+7	einstigen	einstig	einstig	ADJA	ADJA	_	gen|sg|fem|pos	-1	8	_	NK	_	_
+8	Heinkel-Siedlung	Heinkel-Siedlung	Heinkel-Siedlung	NN	NN	_	gen|sg|fem	-1	5	_	AG	_	_
+9	gibt	geben	geben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+10	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	9	_	EP	_	_
+11	keine	keine	keine	PIAT	PIAT	_	acc|sg|fem	-1	13	_	NK	_	_
+12	müde	müde	müde	ADJA	ADJA	_	acc|sg|fem|pos	-1	13	_	NK	_	_
+13	Mark	Mark	Mark	NN	NN	_	acc|sg|fem	-1	9	_	OA	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|pl|fem	-1	2	_	NK	_	_
+2	Folgen	Folge	Folge	NN	NN	_	nom|pl|fem	-1	3	_	SB	_	_
+3	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+4	Stagnation	Stagnation	Stagnation	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+5	und	und	und	KON	KON	_	_	-1	4	_	CD	_	_
+6	stellenweise	stellenweise	stellenweise	ADJD	ADJD	_	_	-1	8	_	MO	_	_
+7	schon	schon	schon	ADV	ADV	_	_	-1	8	_	MO	_	_
+8	Verwahrlosung	Verwahrlosung	Verwahrlosung	NN	NN	_	acc|sg|fem	-1	5	_	CJ	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+1	Damit	damit	damit	PAV	PAV	_	_	-1	2	_	NK	_	_
+2	will	wollen	wollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	9	_	OA	_	_
+4	der	die	die	ART	ART	_	nom|sg|masc	-1	7	_	NK	_	_
+5	jetzt	jetzt	jetzt	ADV	ADV	_	_	-1	6	_	MO	_	_
+6	gegründete	gegründet	gegründet	ADJA	ADJA	_	nom|sg|fem|pos	-1	7	_	NK	_	_
+7	Bürgerverein	Bürgerverein	Bürgerverein	NN	NN	_	nom|sg|fem	-1	2	_	SB	_	_
+8	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	2	_	NG	_	_
+9	abfinden	abfinden	abfinden	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+1	Dass	dass	dass	KOUS	KOUS	_	_	-1	7	_	CP	_	_
+2	seine	sein	sein	PPOSAT	PPOSAT	_	nom|pl|masc	-1	3	_	NK	_	_
+3	Mitstreiter	Mitstreiter	Mitstreiter	NN	NN	_	nom|pl|masc	-1	7	_	SB	_	_
+4	durchaus	durchaus	durchaus	ADV	ADV	_	_	-1	7	_	MO	_	_
+5	etwas	etwas	etwas	PIS	PIS	_	*|*|neut	-1	6	_	OA	_	_
+6	erreichen	erreichen	erreichen	VVINF	VVINF	_	_	-1	7	_	OC	_	_
+7	können	können	können	VMINF	VMINF	_	_	-1	12	_	MO	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	haben	haben	haben	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+10	sie	sie	sie	PPER	PPER	_	nom|pl|*|3	-1	9	_	SB	_	_
+11	bereits	bereits	bereits	ADV	ADV	_	_	-1	12	_	MO	_	_
+12	bewiesen	beweisen	beweisen	VVPP	VVPP	_	_	-1	9	_	OC	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Entgegen	entgegen	entgegen	APPR	APPR	_	_	-1	19	_	MO	_	_
+2	der	die	die	ART	ART	_	dat|sg|fem	-1	4	_	NK	_	_
+3	ursprünglichen	ursprünglich	ursprünglich	ADJA	ADJA	_	dat|sg|fem|pos	-1	4	_	NK	_	_
+4	Planung	Planung	Planung	NN	NN	_	dat|sg|fem	-1	1	_	NK	_	_
+5	wurde	werden	werden	VAFIN	VAFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+6	jetzt	jetzt	jetzt	ADV	ADV	_	_	-1	19	_	MO	_	_
+7	auch	auch	auch	ADV	ADV	_	_	-1	10	_	MO	_	_
+8	die	die	die	ART	ART	_	acc|sg|fem	-1	10	_	NK	_	_
+9	Weiße	weiß	weiß	ADJA	ADJA	_	acc|sg|fem|pos	-1	10	_	NK	_	_
+10	Stadt	Stadt	Stadt	NN	NN	_	acc|sg|fem	-1	19	_	OA	_	_
+11	in	in	in	APPR	APPR	_	_	-1	10	_	MNR	_	_
+12	das	die	die	ART	ART	_	acc|sg|neut	-1	13	_	NK	_	_
+13	EU-Förderprogramm	EU-Förderprogramm	EU-Förderprogramm	NN	NN	_	acc|sg|neut	-1	11	_	NK	_	_
+14	"	"	"	$(	$(	_	_	-1	13	_	--	_	_
+15	Zukunft	Zukunft	Zukunft	NN	NN	_	acc|sg|fem	-1	13	_	NK	_	_
+16	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	15	_	MNR	_	_
+17	Stadtteil	Stadtteil	Stadtteil	NN	NN	_	dat|sg|neut	-1	16	_	NK	_	_
+18	"	"	"	$(	$(	_	_	-1	17	_	--	_	_
+19	aufgenommen	aufnehmen	aufnehmen	VVPP	VVPP	_	_	-1	5	_	OC	_	_
+20	.	.	.	$.	$.	_	_	-1	19	_	--	_	_
+

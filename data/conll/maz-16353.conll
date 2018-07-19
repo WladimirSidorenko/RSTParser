@@ -1,0 +1,243 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::14
+1	Wohlfühl-Aroma	Wohlfühl-Aroma	Wohlfühl-Aroma	NN	NN	_	nom|sg|neut	-1	0	_	--	_	_
+
+	sentence_start	0	74	112	251	343
+	token_offsets	sentence	0	offsets	0::7	8::7	16::3	20::8	29::3	33::4	38::7	46::2	49::8	58::2	61::3	65::5	71::1
+	token_offsets	sentence	1	offsets	74::3	78::6	85::1	87::4	92::4	97::7	105::3	109::1
+	token_offsets	sentence	2	offsets	112::11	124::6	131::3	135::5	141::5	147::2	150::3	154::4	159::1	161::2	164::3	168::4	173::7	181::5	187::9	197::1	199::7	207::3	211::8	220::9	230::10	241::6	248::1
+	token_offsets	sentence	3	offsets	251::3	255::5	261::10	272::14	287::6	294::3	298::4	303::4	308::3	312::8	321::5	327::3	331::3	335::4	340::1
+	token_offsets	sentence	4	offsets	343::8	352::8	361::3	365::3	369::4	374::3	378::3	382::5	388::1	390::3	394::5	400::2	403::11	415::8	424::1	426::5	432::3	436::5	442::1	444::1	446::7	454::2	457::2	460::9	470::17	488::8	497::1
+1	Kräftig	kräftig	kräftig	ADJD	ADJD	_	pos	-1	2	_	MO	_	_
+2	spucken	spucken	spucken	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	die	die	die	ART	ART	_	nom|pl|masc	-1	4	_	NK	_	_
+4	Arbeiter	Arbeiter	Arbeiter	NN	NN	_	nom|pl|masc	-1	2	_	SB	_	_
+5	von	von	von	APPR	APPR	_	_	-1	4	_	PG	_	_
+6	Säbu	Säbu	Säbu	NN	NN	_	dat|sg|fem	-1	5	_	NK	_	_
+7	derzeit	derzeit	derzeit	ADV	ADV	_	_	-1	2	_	MO	_	_
+8	in	in	in	APPR	APPR	_	_	-1	2	_	MO	_	_
+9	Blumenow	Blumenow	Blumenow	NN	NN	_	dat|sg|neut	-1	8	_	NK	_	_
+10	in	in	in	APPR	APPR	_	_	-1	2	_	MO	_	_
+11	die	die	die	ART	ART	_	acc|sg|fem	-1	12	_	NK	_	_
+12	Hände	Hand	Hand	NN	NN	_	acc|sg|fem	-1	10	_	NK	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Sie	Sie	Sie	PPER	PPER	_	nom|pl|*|3	-1	2	_	SB	_	_
+2	wissen	wissen	wissen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	,	,	,	$,	$,	_	_	-1	2	_	--	_	_
+4	dass	dass	dass	KOUS	KOUS	_	_	-1	7	_	CP	_	_
+5	Eile	Eile	Eile	NN	NN	_	nom|pl|neut	-1	7	_	SB	_	_
+6	geboten	bieten|gebieten	bieten|gebieten	VVPP	VVPP	_	_	-1	7	_	PD	_	_
+7	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	2	_	OC	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+
+1	Schließlich	schließlich	schließlich	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	ziehen	zeihen|ziehen	zeihen|ziehen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	sie	sie	sie	PPER	PPER	_	nom|pl|*|3	-1	2	_	SB	_	_
+4	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	5	_	NK	_	_
+5	Anbau	Anbau	Anbau	NN	NN	_	acc|sg|masc	-1	2	_	OA	_	_
+6	in	in	in	APPR	APPR	_	_	-1	5	_	MNR	_	_
+7	die	die	die	ART	ART	_	acc|sg|fem	-1	8	_	NK	_	_
+8	Höhe	Höhe	Höhe	NN	NN	_	acc|sg|fem	-1	6	_	NK	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	in	in	in	APPR	APPR	_	_	-1	22	_	MO	_	_
+11	dem	die	die	PRELS	PRELS	_	dat|sg|neut	-1	10	_	NK	_	_
+12	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	21	_	OA	_	_
+13	künftig	künftig	künftig	ADJD	ADJD	_	pos	-1	21	_	MO	_	_
+14	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	15	_	NG	_	_
+15	irgendwer	irgendwer	irgendwer	PIS	PIS	_	_	-1	21	_	OA	_	_
+16	,	,	,	$,	$,	_	_	-1	15	_	--	_	_
+17	sondern	sondern	sondern	KON	KON	_	_	-1	15	_	CD	_	_
+18	die	die	die	ART	ART	_	nom|pl|fem	-1	20	_	NK	_	_
+19	jüngsten	jung	jung	ADJA	ADJA	_	nom|pl|masc|sup	-1	20	_	NK	_	_
+20	Einwohner	Einwohner	Einwohner	NN	NN	_	nom|pl|masc	-1	17	_	CJ	_	_
+21	wohlfühlen	wohlfühlen	wohlfühlen	VVINF	VVINF	_	_	-1	22	_	OC	_	_
+22	sollen	sollen	sollen	VMFIN	VMFIN	_	pl|3|pres|ind	-1	8	_	RC	_	_
+23	.	.	.	$.	$.	_	_	-1	22	_	--	_	_
+
+1	Bei	bei	bei	APPR	APPR	_	_	-1	5	_	MO	_	_
+2	aller	alle	alle	PIAT	PIAT	_	dat|sg|fem	-1	4	_	NK	_	_
+3	hektischen	hektisch	hektisch	ADJA	ADJA	_	dat|sg|fem|pos	-1	4	_	NK	_	_
+4	Geschäftigkeit	Geschäftigkeit	Geschäftigkeit	NN	NN	_	dat|sg|fem	-1	1	_	NK	_	_
+5	lassen	lassen	lassen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+6	sie	sie	sie	PPER	PPER	_	nom|pl|*|3	-1	5	_	SB	_	_
+7	aber	aber	aber	ADV	ADV	_	_	-1	5	_	MO	_	_
+8	auch	auch	auch	ADV	ADV	_	_	-1	10	_	MO	_	_
+9	die	die	die	ART	ART	_	acc|sg|fem	-1	10	_	NK	_	_
+10	Qualität	Qualität	Qualität	NN	NN	_	acc|sg|fem	-1	5	_	OA	_	_
+11	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	5	_	NG	_	_
+12	aus	aus	aus	APPR	APPR	_	_	-1	5	_	MO	_	_
+13	dem	die	die	ART	ART	_	dat|sg|masc	-1	14	_	NK	_	_
+14	Auge	Auge	Auge	NN	NN	_	dat|sg|masc	-1	12	_	NK	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+1	Immerhin	immerhin	immerhin	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	stampfen	stampfen	stampfen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	sie	sie	sie	PPER	PPER	_	nom|pl|*|3	-1	2	_	SB	_	_
+4	ein	eine	eine	ART	ART	_	acc|sg|neut	-1	5	_	NK	_	_
+5	Haus	Haus	Haus	NN	NN	_	acc|sg|neut	-1	2	_	OA	_	_
+6	aus	aus	aus	APPR	APPR	_	_	-1	5	_	MNR	_	_
+7	dem	die	die	ART	ART	_	dat|sg|neut	-1	8	_	NK	_	_
+8	Boden	Boden	Boden	NN	NN	_	dat|sg|neut	-1	6	_	NK	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	das	die	die	PRELS	PRELS	_	nom|sg|neut	-1	26	_	SB	_	_
+11	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	26	_	NG	_	_
+12	in	in	in	APPR	APPR	_	_	-1	26	_	MO	_	_
+13	klassischer	klassisch	klassisch	ADJA	ADJA	_	dat|sg|fem|pos	-1	14	_	NK	_	_
+14	Bauweise	Bauweise	Bauweise	NN	NN	_	dat|sg|fem	-1	12	_	NK	_	_
+15	-	-	-	$(	$(	_	_	-1	14	_	--	_	_
+16	Stein	Stein	Stein	NN	NN	_	acc|sg|masc	-1	26	_	SB	_	_
+17	auf	auf	auf	APPR	APPR	_	_	-1	16	_	MNR	_	_
+18	Stein	Stein	Stein	NE	NE	_	acc|sg|masc	-1	17	_	NK	_	_
+19	-	-	-	$(	$(	_	_	-1	18	_	--	_	_
+20	,	,	,	$,	$,	_	_	-1	19	_	--	_	_
+21	sondern	sondern	sondern	KON	KON	_	_	-1	16	_	CD	_	_
+22	in	in	in	APPR	APPR	_	_	-1	26	_	MO	_	_
+23	so	so	so	ADV	ADV	_	_	-1	24	_	MO	_	_
+24	genannter	genannter	genannter	ADJA	ADJA	_	acc|pl|masc|pos	-1	25	_	NK	_	_
+25	Holztafelbauweise	Holztafelbauweise	Holztafelbauweise	NN	NN	_	acc|pl|masc	-1	22	_	NK	_	_
+26	entsteht	entstehen	entstehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	5	_	RC	_	_
+27	.	.	.	$.	$.	_	_	-1	26	_	--	_	_
+
+	sentence_start	0	85	140	210	264
+	token_offsets	sentence	0	offsets	0::3	4::3	8::5	14::4	19::6	26::7	34::4	39::3	43::10	54::4	59::5	65::4	70::3	74::7	82::1
+	token_offsets	sentence	1	offsets	85::10	96::7	104::6	111::3	115::2	118::7	126::1	128::3	132::4	137::1
+	token_offsets	sentence	2	offsets	140::3	144::3	148::8	157::3	161::6	168::8	177::10	188::7	196::10	207::1
+	token_offsets	sentence	3	offsets	210::6	217::2	220::5	226::9	236::3	240::4	245::5	251::5	257::3	261::1
+	token_offsets	sentence	4	offsets	264::4	269::12	282::6	289::6	296::2	299::17	317::11	329::3	333::6	340::4	345::9	355::17	373::2	376::10	387::1
+1	Auf	auf	auf	APPR	APPR	_	_	-1	14	_	MO	_	_
+2	der	die	die	ART	ART	_	dat|sg|fem	-1	3	_	NK	_	_
+3	Suche	Suche	Suche	NN	NN	_	dat|sg|fem	-1	1	_	NK	_	_
+4	nach	nach	nach	APPR	APPR	_	_	-1	3	_	OP	_	_
+5	Profis	Profi	Profi	NN	NN	_	dat|sg|neut	-1	4	_	NK	_	_
+6	mussten	müssen	müssen	VMFIN	VMFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+7	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	14	_	OA	_	_
+8	die	die	die	ART	ART	_	nom|pl|masc	-1	9	_	NK	_	_
+9	Blumenower	Blumenower	Blumenower	NN	NN	_	nom|pl|masc	-1	6	_	SB	_	_
+10	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	14	_	OA	_	_
+11	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	6	_	NG	_	_
+12	weit	weit	weit	ADJD	ADJD	_	pos	-1	14	_	MO	_	_
+13	weg	weg	weg	ADV	ADV	_	_	-1	14	_	MO	_	_
+14	begeben	begeben	begeben	VVPP	VVPP	_	_	-1	6	_	OC	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+1	Kompetente	kompetent	kompetent	ADJA	ADJA	_	nom|pl|neut|pos	-1	2	_	NK	_	_
+2	Partner	Partner	Partner	NN	NN	_	nom|pl|neut	-1	3	_	OA	_	_
+3	fanden	finden	finden	VVFIN	VVFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+4	sie	sie	sie	PPER	PPER	_	nom|pl|*|3	-1	3	_	SB	_	_
+5	in	in	in	APPR	APPR	_	_	-1	3	_	MO	_	_
+6	Gransee	Gransee	Gransee	NN	NN	_	dat|sg|neut	-1	5	_	NK	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	bei	bei	bei	APPR	APPR	_	_	-1	3	_	MO	_	_
+9	Säbu	Säbu	Säbu	NN	NN	_	dat|sg|neut	-1	8	_	NK	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+1	Für	für	für	APPR	APPR	_	_	-1	6	_	MO	_	_
+2	die	die	die	ART	ART	_	acc|sg|fem	-1	3	_	NK	_	_
+3	Qualität	Qualität	Qualität	NN	NN	_	acc|sg|fem	-1	1	_	NK	_	_
+4	der	die	die	ART	ART	_	gen|sg|fem	-1	5	_	NK	_	_
+5	Arbeit	Arbeit	Arbeit	NN	NN	_	gen|sg|fem	-1	3	_	AG	_	_
+6	sprechen	sprechen	sprechen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+7	zahlreiche	zahlreich	zahlreich	ADJA	ADJA	_	nom|pl|*|pos	-1	8	_	NK	_	_
+8	Objekte	Objekt	Objekt	NN	NN	_	nom|pl|neut	-1	6	_	SB	_	_
+9	landesweit	landesweit	landesweit	ADJD	ADJD	_	pos	-1	6	_	MO	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+1	Allein	allein	allein	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	5	_	MO	_	_
+3	Kreis	Kreis	Kreis	NN	NN	_	dat|sg|masc	-1	2	_	NK	_	_
+4	Oberhavel	Oberhavel	Oberhavel	NE	NE	_	nom|sg|*	-1	3	_	NK	_	_
+5	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+6	Säbu	Säbu	Säbu	NN	NN	_	acc|sg|masc	-1	5	_	SB	_	_
+7	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	9	_	NK	_	_
+8	guten	gut	gut	ADJA	ADJA	_	acc|sg|masc|pos	-1	9	_	NK	_	_
+9	Ruf	Ruf	Ruf	NN	NN	_	acc|sg|masc	-1	5	_	OA	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+1	Neue	neu	neu	ADJA	ADJA	_	acc|pl|masc|pos	-1	2	_	NK	_	_
+2	Klassenräume	Klassenraum	Klassenraum	NN	NN	_	acc|pl|masc	-1	3	_	SB	_	_
+3	wurden	werden	werden	VAFIN	VAFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+4	ebenso	ebenso	ebenso	ADV	ADV	_	_	-1	7	_	MO	_	_
+5	in	in	in	APPR	APPR	_	_	-1	7	_	MO	_	_
+6	Containerbauweise	Containerbauweise	Containerbauweise	NN	NN	_	dat|sg|fem	-1	5	_	NK	_	_
+7	hochgezogen	hochziehen	hochziehen	VVPP	VVPP	_	_	-1	3	_	OC	_	_
+8	wie	wie	wie	KOKOM	KOKOM	_	_	-1	12	_	CM	_	_
+9	jüngst	jungüngst	jungüngst	ADJD	ADJD	_	_	-1	12	_	MO	_	_
+10	eine	eine	eine	ART	ART	_	nom|sg|fem	-1	12	_	NK	_	_
+11	komplette	komplett	komplett	ADJA	ADJA	_	nom|sg|fem|pos	-1	12	_	NK	_	_
+12	Kindertagesstätte	Kindertagesstätte	Kindertagesstätte	NN	NN	_	nom|sg|fem	-1	4	_	CC	_	_
+13	in	in	in	APPR	APPR	_	_	-1	12	_	MNR	_	_
+14	Schönfließ	Schönfließ	Schönfließ	NN	NN	_	dat|sg|neut	-1	13	_	NK	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+	sentence_start	0	117	230	283	325
+	token_offsets	sentence	0	offsets	0::4	5::4	10::4	15::6	22::3	26::4	31::5	37::1	39::3	43::3	47::7	55::3	59::6	66::3	70::5	76::3	80::11	92::2	95::5	101::4	106::7	114::1
+	token_offsets	sentence	1	offsets	117::4	122::3	126::4	131::1	132::0	134::2	137::6	144::3	148::3	152::7	160::6	167::1	169::2	172::6	179::5	185::4	190::3	194::15	210::3	214::12	227::1
+	token_offsets	sentence	2	offsets	230::3	234::5	240::5	246::5	252::3	256::3	260::7	268::4	273::6	280::1
+	token_offsets	sentence	3	offsets	283::5	289::4	294::4	299::11	311::10	322::1
+	token_offsets	sentence	4	offsets	325::6	332::1
+1	Auch	auch	auch	ADV	ADV	_	_	-1	7	_	MO	_	_
+2	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	7	_	CP	_	_
+3	noch	noch	noch	ADV	ADV	_	_	-1	7	_	MO	_	_
+4	Wochen	Woche	Woche	NN	NN	_	acc|pl|fem	-1	7	_	DA	_	_
+5	ins	in	in	APPRART	APPRART	_	acc|sg|neut	-1	7	_	MO	_	_
+6	Land	Land	Land	NN	NN	_	acc|sg|neut	-1	5	_	NK	_	_
+7	gehen	gehen	gehen	VVINF	VVINF	_	_	-1	0	_	--	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	ehe	ehe	ehe	KOUS	KOUS	_	_	-1	21	_	CP	_	_
+10	die	die	die	ART	ART	_	nom|pl|neut	-1	11	_	NK	_	_
+11	Mädchen	Mädchen	Mädchen	NN	NN	_	nom|pl|neut	-1	21	_	SB	_	_
+12	und	und	und	KON	KON	_	_	-1	11	_	CD	_	_
+13	Jungen	Junge	Junge	NN	NN	_	nom|pl|masc	-1	12	_	CJ	_	_
+14	das	die	die	ART	ART	_	acc|sg|neut	-1	16	_	NK	_	_
+15	erste	erst	erst	ADJA	ADJA	_	acc|sg|neut|pos	-1	16	_	NK	_	_
+16	Mal	Mal	Mal	NN	NN	_	acc|sg|neut	-1	21	_	OA	_	_
+17	ausgelassen	ausgelassen	ausgelassen	ADJD	ADJD	_	pos	-1	21	_	MO	_	_
+18	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	21	_	MO	_	_
+19	neuen	neu	neu	ADJA	ADJA	_	dat|sg|masc|pos	-1	20	_	NK	_	_
+20	Raum	Raum	Raum	NN	NN	_	dat|sg|masc	-1	18	_	NK	_	_
+21	spielen	spielen	spielen	VVINF	VVINF	_	_	-1	7	_	MO	_	_
+22	.	.	.	$.	$.	_	_	-1	21	_	--	_	_
+
+1	Eins	eins	eins	CARD	CARD	_	_	-1	2	_	SB	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	klar	klar	klar	ADJD	ADJD	_	pos	-1	2	_	PD	_	_
+4	:	:	:	$.	$.	_	_	-1	3	_	--	_	_
+5	Zu	zu	zu	PTKZU	PTKZU	_	_	-1	6	_	PM	_	_
+6	danken	danken	danken	VVINF	VVINF	_	_	-1	7	_	OC	_	_
+7	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	2	_	CJ	_	_
+8	das	die	die	ART	ART	_	nom|sg|neut	-1	9	_	NK	_	_
+9	Projekt	Projekt	Projekt	NN	NN	_	nom|sg|neut	-1	7	_	SB	_	_
+10	vielen	viele	viele	PIAT	PIAT	_	dat|pl|masc	-1	9	_	NK	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	in	in	in	APPR	APPR	_	_	-1	7	_	MO	_	_
+13	erster	erst	erst	ADJA	ADJA	_	dat|sg|fem|pos	-1	14	_	NK	_	_
+14	Linie	Linie	Linie	NN	NN	_	dat|sg|fem	-1	12	_	NK	_	_
+15	aber	aber	aber	KON	KON	_	_	-1	14	_	CD	_	_
+16	der	die	die	ART	ART	_	dat|sg|fem	-1	17	_	NK	_	_
+17	Eigeninitiative	Eigeninitiative	Eigeninitiative	NN	NN	_	dat|sg|fem	-1	15	_	CJ	_	_
+18	der	die	die	ART	ART	_	gen|pl|masc	-1	19	_	NK	_	_
+19	Dorfbewohner	Dorfbewohner	Dorfbewohner	NN	NN	_	gen|pl|masc	-1	17	_	AG	_	_
+20	.	.	.	$.	$.	_	_	-1	19	_	--	_	_
+
+1	Sie	Sie	Sie	PPER	PPER	_	nom|pl|*|3	-1	2	_	SB	_	_
+2	gaben	geben	geben	VVFIN	VVFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+3	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	2	_	NG	_	_
+4	klein	klein	klein	ADJD	ADJD	_	pos	-1	2	_	MO	_	_
+5	bei	bei	bei	PTKVZ	PTKVZ	_	_	-1	2	_	SVP	_	_
+6	und	und	und	KON	KON	_	_	-1	2	_	CD	_	_
+7	machten	machen	machen	VVFIN	VVFIN	_	pl|3|past|ind	-1	6	_	CJ	_	_
+8	Geld	Geld	Geld	NN	NN	_	acc|sg|neut	-1	7	_	OA	_	_
+9	locker	locker	locker	PTKVZ	PTKVZ	_	_	-1	7	_	SVP	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+1	Damit	damit	damit	KOUS	KOUS	_	_	-1	5	_	CP	_	_
+2	sich	sich	sich	PRF	PRF	_	dat|pl|3	-1	5	_	DA	_	_
+3	ihre	ihr	ihr	PPOSAT	PPOSAT	_	acc|sg|fem	-1	4	_	NK	_	_
+4	Sprösslinge	Sprössling	Sprössling	NN	NN	_	acc|sg|fem	-1	5	_	OA	_	_
+5	wohlfühlen	wohlfühlen	wohlfühlen	VVINF	VVINF	_	_	-1	0	_	--	_	_
+6	.	.	.	$.	$.	_	_	-1	5	_	--	_	_
+
+1	Rundum	rundum	rundum	ADV	ADV	_	_	-1	0	_	--	_	_
+2	.	.	.	$.	$.	_	_	-1	1	_	--	_	_
+

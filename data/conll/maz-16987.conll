@@ -1,0 +1,211 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::9
+1	Umgedacht	umdenken	umdenken	VVPP	VVPP	_	_	-1	0	_	--	_	_
+
+	sentence_start	0	44	290	355	435	537
+	token_offsets	sentence	0	offsets	0::3	4::7	12::4	17::9	27::6	34::6	41::1
+	token_offsets	sentence	1	offsets	44::3	48::5	54::2	57::3	61::10	72::13	86::1	88::2	91::3	95::5	101::3	105::9	115::22	138::2	141::3	145::15	161::5	167::11	179::4	184::1	186::5	192::28	221::6	228::8	237::7	245::3	249::3	253::7	261::2	264::3	268::8	277::9	287::1
+	token_offsets	sentence	2	offsets	290::3	294::9	304::1	306::3	310::12	323::1	325::5	331::3	335::8	344::7	352::1
+	token_offsets	sentence	3	offsets	355::9	365::5	371::8	380::3	384::3	388::12	401::5	407::4	412::5	418::13	432::1
+	token_offsets	sentence	4	offsets	435::4	440::4	445::1	447::2	450::3	454::9	464::7	472::1	474::4	479::3	483::16	500::4	505::10	516::8	525::8	534::1
+	token_offsets	sentence	5	offsets	537::6	544::4	549::2	552::4	557::1	559::4	564::5	570::3	574::6	581::14	596::13	610::5	616::1	618::2	621::8	630::2	633::3	637::8	646::1
+1	Wie	wie	wie	KOKOM	KOKOM	_	_	-1	2	_	MO	_	_
+2	schnell	schnell	schnell	ADJD	ADJD	_	pos	-1	6	_	MO	_	_
+3	sich	sich	sich	PRF	PRF	_	dat|sg|3	-1	5	_	OA	_	_
+4	Meinungen	Meinung	Meinung	NN	NN	_	nom|pl|fem	-1	5	_	OA	_	_
+5	ändern	ändern	ändern	VVINF	VVINF	_	_	-1	6	_	OC	_	_
+6	können	können	können	VMINF	VMINF	_	_	-1	0	_	--	_	_
+7	!	!	!	$.	$.	_	_	-1	6	_	--	_	_
+
+1	Den	die	die	ART	ART	_	acc|sg|masc	-1	2	_	NK	_	_
+2	Brief	Brief	Brief	NN	NN	_	acc|sg|masc	-1	19	_	SB	_	_
+3	an	an	an	APPR	APPR	_	_	-1	2	_	MNR	_	_
+4	die	die	die	ART	ART	_	acc|sg|fem	-1	6	_	NK	_	_
+5	gemeinsame	gemeinsam	gemeinsam	ADJA	ADJA	_	acc|sg|fem|pos	-1	6	_	NK	_	_
+6	Landesplanung	Landesplanung	Landesplanung	NN	NN	_	acc|sg|fem	-1	3	_	NK	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	in	in	in	APPR	APPR	_	_	-1	18	_	MO	_	_
+9	dem	die	die	PRELS	PRELS	_	dat|sg|neut	-1	8	_	NK	_	_
+10	gegen	gegen	gegen	APPR	APPR	_	_	-1	18	_	MO	_	_
+11	den	die	die	ART	ART	_	acc|sg|masc	-1	13	_	NK	_	_
+12	geplanten	geplant	geplant	ADJA	ADJA	_	acc|sg|masc|pos	-1	13	_	NK	_	_
+13	Luft-Boden-Schießplatz	Luft-Boden-Schießplatz	Luft-Boden-Schießplatz	NN	NN	_	acc|sg|masc	-1	10	_	NK	_	_
+14	in	in	in	APPR	APPR	_	_	-1	18	_	MO	_	_
+15	der	die	die	ART	ART	_	dat|sg|fem	-1	17	_	NK	_	_
+16	Kyritz-Ruppiner	Kyritz-Ruppiner	Kyritz-Ruppiner	ADJA	ADJA	_	dat|sg|fem|pos	-1	17	_	NK	_	_
+17	Heide	Heide	Heide	NN	NN	_	dat|sg|fem	-1	14	_	NK	_	_
+18	protestiert	protestieren	protestieren	VVPP	VVPP	_	_	-1	19	_	OC	_	_
+19	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	21	_	SB	_	_
+20	,	,	,	$,	$,	_	_	-1	19	_	--	_	_
+21	hatte	haben	haben	VAFIN	VAFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+22	Stadtverordnetenvorsitzender	Stadtverordnetenvorsitzender	Stadtverordnetenvorsitzender	NN	NN	_	nom|sg|masc	-1	21	_	SB	_	_
+23	Thomas	Thomas	Thomas	NE	NE	_	nom|sg|masc	-1	22	_	NK	_	_
+24	Settgast	Settgast	Settgast	NN	NN	_	nom|sg|masc	-1	32	_	OA	_	_
+25	bereits	bereits	bereits	ADV	ADV	_	_	-1	26	_	MO	_	_
+26	auf	auf	auf	APPR	APPR	_	_	-1	32	_	MO	_	_
+27	der	die	die	ART	ART	_	dat|sg|fem	-1	28	_	NK	_	_
+28	Sitzung	Sitzung	Sitzung	NN	NN	_	dat|sg|fem	-1	26	_	NK	_	_
+29	am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	28	_	MNR	_	_
+30	14.	14.	14.	ADJA	ADJA	_	dat|sg|masc|pos	-1	31	_	NK	_	_
+31	November	November	November	NN	NN	_	dat|sg|masc	-1	29	_	NK	_	_
+32	vorgelegt	vorlegen	vorlegen	VVPP	VVPP	_	_	-1	21	_	OC	_	_
+33	.	.	.	$.	$.	_	_	-1	32	_	--	_	_
+
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	2	_	NK	_	_
+2	Beschluss	Beschluss	Beschluss	NN	NN	_	nom|sg|masc	-1	7	_	SB	_	_
+3	,	,	,	$,	$,	_	_	-1	2	_	--	_	_
+4	ihn	er	er	PPER	PPER	_	acc|sg|masc|3	-1	5	_	OA	_	_
+5	abzuschicken	abschicken	abschicken	VVIZU	VVIZU	_	_	-1	2	_	OC	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	wurde	werden	werden	VAFIN	VAFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+8	auf	auf	auf	APPR	APPR	_	_	-1	10	_	MO	_	_
+9	Dezember	Dezember	Dezember	NN	NN	_	acc|sg|masc	-1	8	_	NK	_	_
+10	vertagt	vertagen	vertagen	VVPP	VVPP	_	_	-1	7	_	OC	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Besonders	besonders	besonders	ADV	ADV	_	_	-1	3	_	MO	_	_
+2	Mario	Mario	Mario	NE	NE	_	nom|sg|masc	-1	3	_	PNC	_	_
+3	Neubauer	Neubauer	Neubauer	NE	NE	_	nom|sg|masc	-1	7	_	SB	_	_
+4	von	von	von	APPR	APPR	_	_	-1	3	_	MNR	_	_
+5	der	die	die	ART	ART	_	dat|sg|fem	-1	6	_	NK	_	_
+6	CDU-Fraktion	CDU-Fraktion	CDU-Fraktion	NN	NN	_	dat|sg|fem	-1	4	_	NK	_	_
+7	hatte	haben	haben	VAFIN	VAFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+8	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	10	_	OA	_	_
+9	dafür	dafür	dafür	PAV	PAV	_	_	-1	10	_	NK	_	_
+10	ausgesprochen	aussprechen	aussprechen	VVPP	VVPP	_	_	-1	7	_	OC	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Mehr	mehr	mehr	ADV	ADV	_	_	-1	5	_	PD	_	_
+2	noch	noch	noch	ADV	ADV	_	_	-1	1	_	MO	_	_
+3	,	,	,	$,	$,	_	_	-1	2	_	--	_	_
+4	er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	5	_	SB	_	_
+5	war	sein	sein	VAFIN	VAFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+6	überhaupt	überhaupt	überhaupt	ADV	ADV	_	_	-1	15	_	MO	_	_
+7	dagegen	dagegen	dagegen	PAV	PAV	_	_	-1	8	_	NK	_	_
+8	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+9	dass	dass	dass	KOUS	KOUS	_	_	-1	15	_	CP	_	_
+10	die	die	die	ART	ART	_	nom|pl|fem	-1	11	_	NK	_	_
+11	Stadtverordneten	Stadtverordnete	Stadtverordnete	NN	NN	_	nom|pl|fem	-1	15	_	SB	_	_
+12	eine	eine	eine	ART	ART	_	acc|sg|fem	-1	14	_	NK	_	_
+13	gemeinsame	gemeinsam	gemeinsam	ADJA	ADJA	_	acc|sg|fem|pos	-1	14	_	NK	_	_
+14	Position	Position	Position	NN	NN	_	acc|sg|fem	-1	15	_	OA	_	_
+15	beziehen	beziehen	beziehen	VVINF	VVINF	_	_	-1	5	_	OC	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+1	Besser	gut	gut	ADJD	ADJD	_	comp	-1	2	_	PD	_	_
+2	wäre	sein	sein	VAFIN	VAFIN	_	sg|3|past|subj	-1	14	_	RE	_	_
+3	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	SB	_	_
+4	doch	doch	doch	ADV	ADV	_	_	-1	2	_	MO	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	12	_	CP	_	_
+7	solch	solche	solche	PIAT	PIAT	_	*|*|*	-1	2	_	MO	_	_
+8	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	9	_	NK	_	_
+9	Papier	Papier	Papier	NN	NN	_	nom|sg|masc	-1	12	_	SB	_	_
+10	fraktionsweise	fraktionsweise	fraktionsweise	ADJD	ADJD	_	_	-1	11	_	MO	_	_
+11	verabschiedet	verabschieden	verabschieden	VVPP	VVPP	_	_	-1	12	_	OC	_	_
+12	würde	werden	werden	VAFIN	VAFIN	_	sg|3|past|subj	-1	3	_	RE	_	_
+13	,	,	,	$,	$,	_	_	-1	12	_	--	_	_
+14	so	so	so	ADV	ADV	_	_	-1	15	_	MO	_	_
+15	Neubauer	Neubauer	Neubauer	NE	NE	_	nom|sg|*	-1	0	_	--	_	_
+16	am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	15	_	MO	_	_
+17	14.	14.	14.	ADJA	ADJA	_	dat|sg|masc|pos	-1	18	_	NK	_	_
+18	November	November	November	NN	NN	_	dat|sg|masc	-1	16	_	NK	_	_
+19	.	.	.	$.	$.	_	_	-1	18	_	--	_	_
+
+	sentence_start	0	171	231	370	396	448
+	token_offsets	sentence	0	offsets	0::4	5::1	7::12	20::1	22::2	25::13	39::8	48::3	52::12	65::2	68::1	70::7	78::3	82::7	90::4	95::9	105::7	113::2	116::6	123::3	127::4	132::3	136::2	139::3	143::12	156::11	168::1
+	token_offsets	sentence	1	offsets	171::3	175::3	179::9	189::5	195::4	200::3	204::23	228::1
+	token_offsets	sentence	2	offsets	231::3	235::6	242::6	249::4	254::3	258::7	266::27	294::8	303::8	312::1	314::4	319::5	325::5	331::1	333::7	341::3	345::3	349::17	367::1
+	token_offsets	sentence	3	offsets	370::8	379::3	383::3	387::5	393::1
+	token_offsets	sentence	4	offsets	396::4	401::4	406::1	408::4	413::3	417::9	427::5	433::11	445::1
+	token_offsets	sentence	5	offsets	448::4	453::5	459::3	463::11	475::4	480::4	485::3	489::9	499::6	506::1	508::5	514::4	519::4	524::8	533::7	541::1
+1	Doch	doch	doch	ADV	ADV	_	_	-1	7	_	MO	_	_
+2	,	,	,	$,	$,	_	_	-1	1	_	--	_	_
+3	Überraschung	Überraschung	Überraschung	NN	NN	_	nom|sg|fem	-1	1	_	CJ	_	_
+4	:	:	:	$.	$.	_	_	-1	3	_	--	_	_
+5	Am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	7	_	MO	_	_
+6	Mittwochabend	Mittwochabend	Mittwochabend	NN	NN	_	dat|sg|masc	-1	5	_	NK	_	_
+7	kündigte	kündigen	kündigen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+8	die	die	die	ART	ART	_	nom|sg|fem	-1	9	_	NK	_	_
+9	CDU-Fraktion	CDU-Fraktion	CDU-Fraktion	NN	NN	_	nom|sg|fem	-1	7	_	SB	_	_
+10	an	an	an	PTKVZ	PTKVZ	_	_	-1	7	_	SVP	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	während	während	während	KOUS	KOUS	_	_	-1	17	_	CP	_	_
+13	der	die	die	ART	ART	_	dat|sg|fem	-1	14	_	NK	_	_
+14	Sitzung	Sitzung	Sitzung	NN	NN	_	dat|sg|fem	-1	17	_	DA	_	_
+15	eine	eine	eine	ART	ART	_	acc|sg|fem	-1	16	_	NK	_	_
+16	Erklärung	Erklärung	Erklärung	NN	NN	_	acc|sg|fem	-1	17	_	OA	_	_
+17	abgeben	abgeben	abgeben	VVINF	VVINF	_	_	-1	19	_	OC	_	_
+18	zu	zu	zu	PTKZU	PTKZU	_	_	-1	19	_	PM	_	_
+19	wollen	wollen	wollen	VMINF	VMINF	_	_	-1	7	_	OC	_	_
+20	und	und	und	KON	KON	_	_	-1	19	_	CD	_	_
+21	dies	dies	dies	PDS	PDS	_	acc|sg|neut	-1	26	_	OA	_	_
+22	mit	mit	mit	APPR	APPR	_	_	-1	26	_	MO	_	_
+23	in	in	in	APPR	APPR	_	_	-1	26	_	MO	_	_
+24	die	die	die	ART	ART	_	acc|sg|fem	-1	25	_	NK	_	_
+25	Tagesordnung	Tagesordnung	Tagesordnung	NN	NN	_	acc|sg|fem	-1	23	_	NK	_	_
+26	aufzunehmen	aufnehmen	aufnehmen	VVIZU	VVIZU	_	_	-1	20	_	CJ	_	_
+27	.	.	.	$.	$.	_	_	-1	26	_	--	_	_
+
+1	Aus	aus	aus	APPR	APPR	_	_	-1	4	_	MO	_	_
+2	der	die	die	ART	ART	_	dat|sg|fem	-1	3	_	NK	_	_
+3	Erklärung	Erklärung	Erklärung	NN	NN	_	dat|sg|fem	-1	1	_	NK	_	_
+4	wurde	werden	werden	VAFIN	VAFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+5	dann	dann	dann	ADV	ADV	_	_	-1	1	_	MO	_	_
+6	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	7	_	NK	_	_
+7	Geschäftsordnungsantrag	Geschäftsordnungsantrag	Geschäftsordnungsantrag	NN	NN	_	nom|sg|masc	-1	4	_	SB	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+
+1	Auf	auf	auf	APPR	APPR	_	_	-1	9	_	MO	_	_
+2	einmal	einmal	einmal	ADV	ADV	_	_	-1	1	_	NK	_	_
+3	sollte	sollen	sollen	VMFIN	VMFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+4	doch	doch	doch	ADV	ADV	_	_	-1	3	_	MO	_	_
+5	die	die	die	ART	ART	_	nom|sg|fem	-1	7	_	NK	_	_
+6	gesamte	gesamt	gesamt	ADJA	ADJA	_	nom|sg|fem|pos	-1	7	_	NK	_	_
+7	Stadtverordnetenversammlung	Stadtverordnetenversammlung	Stadtverordnetenversammlung	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+8	Stellung	Stellung	Stellung	NN	NN	_	acc|sg|fem	-1	9	_	OA	_	_
+9	beziehen	beziehen	beziehen	VVINF	VVINF	_	_	-1	3	_	OC	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	doch	doch	doch	ADV	ADV	_	_	-1	3	_	MO	_	_
+12	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	3	_	NG	_	_
+13	gegen	gegen	gegen	PTKVZ	PTKVZ	_	_	-1	3	_	OC	_	_
+14	,	,	,	$,	$,	_	_	-1	13	_	--	_	_
+15	sondern	sondern	sondern	KON	KON	_	_	-1	13	_	CD	_	_
+16	für	für	für	APPR	APPR	_	_	-1	15	_	CJ	_	_
+17	den	die	die	ART	ART	_	acc|sg|masc	-1	18	_	NK	_	_
+18	Bombenabwurfplatz	Bombenabwurfplatz	Bombenabwurfplatz	NN	NN	_	acc|sg|masc	-1	16	_	NK	_	_
+19	.	.	.	$.	$.	_	_	-1	18	_	--	_	_
+
+1	Geklappt	klappen	klappen	VVPP	VVPP	_	_	-1	2	_	OC	_	_
+2	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	das	die	die	ART	ART	_	nom|sg|neut	-1	2	_	SB	_	_
+4	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	2	_	NG	_	_
+5	.	.	.	$.	$.	_	_	-1	4	_	--	_	_
+
+1	Wohl	wohl	wohl	ADV	ADV	_	_	-1	8	_	MO	_	_
+2	auch	auch	auch	ADV	ADV	_	_	-1	8	_	MO	_	_
+3	,	,	,	$,	$,	_	_	-1	2	_	--	_	_
+4	weil	weil	weil	KOUS	KOUS	_	_	-1	8	_	CP	_	_
+5	die	die	die	ART	ART	_	nom|sg|fem	-1	6	_	NK	_	_
+6	Argumente	Argument	Argument	NN	NN	_	nom|sg|fem	-1	8	_	OA	_	_
+7	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	8	_	NG	_	_
+8	überzeugten	überzeugen	überzeugen	VVFIN	VVFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+1	Dass	dass	dass	KOUS	KOUS	_	_	-1	9	_	CP	_	_
+2	solch	solche	solche	PIAT	PIAT	_	*|*|*	-1	4	_	MO	_	_
+3	ein	eine	eine	ART	ART	_	acc|sg|neut	-1	4	_	NK	_	_
+4	Schießplatz	Schießplatz	Schießplatz	NN	NN	_	nom|sg|masc	-1	9	_	SB	_	_
+5	mehr	mehr	mehr	PIAT	PIAT	_	*|*|*	-1	8	_	NK	_	_
+6	Vor-	Vor-	Vor-	TRUNC	TRUNC	_	_	-1	7	_	CJ	_	_
+7	als	als	als	KON	KON	_	_	-1	8	_	CD	_	_
+8	Nachteile	Nachteil	Nachteil	NN	NN	_	acc|sg|fem	-1	9	_	OA	_	_
+9	bringt	bringen	bringen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	11	_	MO	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	lässt	lassen	lassen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+12	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	15	_	OA	_	_
+13	eben	eben	eben	ADV	ADV	_	_	-1	14	_	MO	_	_
+14	schlecht	schlecht	schlecht	ADJD	ADJD	_	pos	-1	11	_	MO	_	_
+15	glauben	glauben	glauben	VVINF	VVINF	_	_	-1	11	_	OC	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+

@@ -1,0 +1,209 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::3	4::3	8::2
+1	Auf	auf	auf	APPR	APPR	_	_	-1	0	_	--	_	_
+2	und	und	und	KON	KON	_	_	-1	1	_	CD	_	_
+3	Ab	ab	ab	APPR	APPR	_	_	-1	2	_	CJ	_	_
+
+	sentence_start	0	80	203
+	token_offsets	sentence	0	offsets	0::4	5::2	8::4	13::1	15::4	20::3	24::6	31::8	40::6	47::5	53::10	64::7	72::4	77::1
+	token_offsets	sentence	1	offsets	80::3	84::3	88::10	99::3	103::5	109::4	114::6	121::6	128::1	130::4	135::8	144::2	147::11	159::6	166::4	171::4	176::5	182::10	193::6	200::1
+	token_offsets	sentence	2	offsets	203::6	210::14	225::6	232::3	236::3	240::18	259::4	264::7	272::4	277::4	282::9	292::1	294::5	300::3	304::4	309::6	316::9	326::5	332::1
+1	Noch	noch	noch	ADV	ADV	_	_	-1	5	_	MO	_	_
+2	29	@card@	@card@	CARD	CARD	_	_	-1	3	_	NK	_	_
+3	Tage	Tag	Tag	NN	NN	_	dat|sg|masc	-1	5	_	RE	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	dann	dann	dann	ADV	ADV	_	_	-1	6	_	MO	_	_
+6	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+7	unsere	unser	unser	PPOSAT	PPOSAT	_	nom|sg|fem	-1	9	_	NK	_	_
+8	geliebte	geliebt	geliebt	ADJA	ADJA	_	nom|sg|fem|pos	-1	9	_	NK	_	_
+9	D-Mark	D-Mark	D-Mark	NN	NN	_	nom|sg|fem	-1	6	_	SB	_	_
+10	keine	keine	keine	PIAT	PIAT	_	nom|sg|fem	-1	12	_	NK	_	_
+11	offizielle	offiziell	offiziell	ADJA	ADJA	_	nom|sg|fem|pos	-1	12	_	NK	_	_
+12	Währung	Währung	Währung	NN	NN	_	nom|sg|fem	-1	6	_	PD	_	_
+13	mehr	mehr	mehr	ADV	ADV	_	_	-1	12	_	MO	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Mit	mit	mit	APPR	APPR	_	_	-1	6	_	MO	_	_
+2	der	die	die	ART	ART	_	dat|sg|fem	-1	3	_	NK	_	_
+3	Einführung	Einführung	Einführung	NN	NN	_	dat|sg|fem	-1	1	_	NK	_	_
+4	des	die	die	ART	ART	_	gen|sg|neut	-1	5	_	NK	_	_
+5	Euros	Euros	Euros	NN	NN	_	gen|sg|neut	-1	3	_	AG	_	_
+6	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+7	vieles	viele	viele	PIS	PIS	_	nom|sg|neut	-1	6	_	SB	_	_
+8	teurer	teuer	teuer	ADJD	ADJD	_	comp	-1	6	_	PD	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	weil	weil	weil	KOUS	KOUS	_	_	-1	19	_	CP	_	_
+11	Pfennig-	Pfennig-	Pfennig-	TRUNC	TRUNC	_	_	-1	12	_	CJ	_	_
+12	zu	zu	zu	APPR	APPR	_	_	-1	18	_	OP	_	_
+13	Centbeträge	Centbeträge	Centbeträge	NN	NN	_	acc|pl|masc	-1	12	_	NK	_	_
+14	sicher	sicher	sicher	ADJD	ADJD	_	pos	-1	18	_	MO	_	_
+15	eher	eher	eher	ADV	ADV	_	_	-1	18	_	MO	_	_
+16	auf-	auf-	auf-	TRUNC	TRUNC	_	_	-1	13	_	AG	_	_
+17	statt	statt	statt	KOUI	KOUI	_	_	-1	19	_	CP	_	_
+18	abgerundet	abrunden	abrunden	VVPP	VVPP	_	_	-1	19	_	OC	_	_
+19	werden	werden	werden	VAINF	VAINF	_	_	-1	8	_	MO	_	_
+20	.	.	.	$.	$.	_	_	-1	19	_	--	_	_
+
+1	Manche	manche	manche	PIAT	PIAT	_	nom|pl|*	-1	2	_	NK	_	_
+2	Geschäftsleute	Geschäftsleute	Geschäftsleute	NN	NN	_	nom|pl|*	-1	3	_	SB	_	_
+3	werden	werden	werden	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+4	vor	vor	vor	APPR	APPR	_	_	-1	11	_	MO	_	_
+5	der	die	die	ART	ART	_	dat|sg|fem	-1	6	_	NK	_	_
+6	Währungsumstellung	Währungsumstellung	Währungsumstellung	NN	NN	_	dat|sg|fem	-1	4	_	NK	_	_
+7	noch	noch	noch	ADV	ADV	_	_	-1	8	_	MO	_	_
+8	schnell	schnell	schnell	ADJD	ADJD	_	pos	-1	11	_	MO	_	_
+9	ihre	ihr	ihr	PPOSAT	PPOSAT	_	acc|pl|neut	-1	10	_	NK	_	_
+10	Ware	Ware	Ware	NN	NN	_	acc|pl|neut	-1	11	_	OA	_	_
+11	verteuern	verteuern	verteuern	VVINF	VVINF	_	_	-1	3	_	OC	_	_
+12	,	,	,	$,	$,	_	_	-1	11	_	--	_	_
+13	damit	damit	damit	KOUS	KOUS	_	_	-1	18	_	CP	_	_
+14	sie	sie	sie	PPER	PPER	_	nom|sg|fem|3	-1	18	_	SB	_	_
+15	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	17	_	OA	_	_
+16	besser	gut	gut	ADJD	ADJD	_	comp	-1	17	_	MO	_	_
+17	umrechnen	umrechnen	umrechnen	VVINF	VVINF	_	_	-1	18	_	OC	_	_
+18	lässt	lassen	lassen	VVFIN	VVFIN	_	_	-1	11	_	MO	_	_
+19	.	.	.	$.	$.	_	_	-1	18	_	--	_	_
+
+	sentence_start	0	73	117	176	274	375	464
+	token_offsets	sentence	0	offsets	0::2	3::3	7::2	10::2	13::2	16::12	29::1	31::4	36::13	50::5	56::8	65::4	70::1
+	token_offsets	sentence	1	offsets	73::3	77::4	82::4	87::5	93::1	95::4	100::5	106::7	114::1
+	token_offsets	sentence	2	offsets	117::3	121::13	135::9	145::4	150::3	154::11	166::6	173::1
+	token_offsets	sentence	3	offsets	176::3	180::12	193::8	202::5	208::4	213::2	216::9	226::4	231::8	240::4	245::5	251::4	256::9	266::4	271::1
+	token_offsets	sentence	4	offsets	274::4	279::5	285::4	290::4	295::3	299::15	315::5	321::3	325::5	331::15	347::4	352::5	358::6	365::6	372::1
+	token_offsets	sentence	5	offsets	375::3	379::10	390::5	396::4	401::3	405::3	409::5	415::14	430::3	434::17	452::8	461::1
+	token_offsets	sentence	6	offsets	464::15	480::3	484::11	496::7	504::7	512::16	529::1
+1	Da	da	da	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	SB	_	_
+4	um	um	um	APPR	APPR	_	_	-1	5	_	AVC	_	_
+5	so	so	so	ADV	ADV	_	_	-1	6	_	MO	_	_
+6	erfreulicher	erfreulich	erfreulich	ADJD	ADJD	_	comp	-1	2	_	PD	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	12	_	CP	_	_
+9	ausnahmsweise	ausnahmsweise	ausnahmsweise	ADV	ADV	_	_	-1	12	_	MO	_	_
+10	etwas	etwas	etwas	ADV	ADV	_	_	-1	11	_	MO	_	_
+11	billiger	billig	billig	ADJD	ADJD	_	comp	-1	12	_	PD	_	_
+12	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	3	_	RE	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	8	_	JU	_	_
+2	noch	noch	noch	ADV	ADV	_	_	-1	4	_	MO	_	_
+3	dazu	dazu	dazu	PAV	PAV	_	_	-1	4	_	NK	_	_
+4	etwas	etwas	etwas	ADV	ADV	_	_	-1	8	_	MO	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	dass	dass	dass	KOUS	KOUS	_	_	-1	8	_	CP	_	_
+7	jeder	jede	jede	PIS	PIS	_	nom|sg|masc	-1	8	_	SB	_	_
+8	braucht	brauchen	brauchen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Gasversorgung	Gasversorgung	Gasversorgung	NN	NN	_	nom|sg|fem	-1	4	_	SB	_	_
+3	Zehdenick	Zehdenick	Zehdenick	NE	NE	_	nom|sg|*	-1	2	_	NK	_	_
+4	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	den	die	die	ART	ART	_	acc|sg|masc	-1	6	_	NK	_	_
+6	Erdgaspreis	Erdgaspreis	Erdgaspreis	NN	NN	_	acc|sg|masc	-1	7	_	OA	_	_
+7	senken	senken	senken	VVINF	VVINF	_	_	-1	4	_	OC	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+
+1	Ein	eine	eine	ART	ART	_	nom|sg|masc	-1	3	_	NK	_	_
+2	vierköpfiger	vierköpfig	vierköpfig	ADJA	ADJA	_	nom|sg|masc|pos	-1	3	_	NK	_	_
+3	Haushalt	Haushalt	Haushalt	NN	NN	_	nom|sg|masc	-1	4	_	SB	_	_
+4	spart	sparen	sparen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	dann	dann	dann	ADV	ADV	_	_	-1	4	_	MO	_	_
+6	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	4	_	MO	_	_
+7	kommenden	kommend	kommend	ADJA	ADJA	_	dat|sg|neut|pos	-1	8	_	NK	_	_
+8	Jahr	Jahr	Jahr	NN	NN	_	dat|sg|neut	-1	6	_	NK	_	_
+9	immerhin	immerhin	immerhin	ADV	ADV	_	_	-1	4	_	MO	_	_
+10	etwa	etwa	etwa	ADV	ADV	_	_	-1	11	_	MO	_	_
+11	57,50	@card@	@card@	CARD	CARD	_	_	-1	12	_	NK	_	_
+12	Mark	Mark	Mark	NN	NN	_	*|*|fem	-1	4	_	OA	_	_
+13	gegenüber	gegenüber	gegenüber	APPR	APPR	_	_	-1	12	_	MNR	_	_
+14	2001	@card@	@card@	CARD	CARD	_	_	-1	13	_	NK	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+1	Beim	bei	bei	APPRART	APPRART	_	dat|sg|neut	-1	3	_	MO	_	_
+2	Strom	Strom	Strom	NN	NN	_	dat|sg|neut	-1	1	_	NK	_	_
+3	ließ	lassen	lassen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+4	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	14	_	OA	_	_
+5	die	die	die	ART	ART	_	nom|sg|fem	-1	6	_	NK	_	_
+6	Preissteigerung	Preissteigerung	Preissteigerung	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+7	wegen	wegen	wegen	APPR	APPR	_	_	-1	3	_	MO	_	_
+8	der	die	die	ART	ART	_	gen|sg|fem	-1	10	_	NK	_	_
+9	neuen	neu	neu	ADJA	ADJA	_	gen|sg|fem|pos	-1	10	_	NK	_	_
+10	Ökosteuer-Stufe	Ökosteuer-Stufe	Ökosteuer-Stufe	NN	NN	_	gen|sg|fem	-1	7	_	NK	_	_
+11	zwar	zwar	zwar	ADV	ADV	_	_	-1	3	_	MO	_	_
+12	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	3	_	NG	_	_
+13	stabil	stabil	stabil	ADJD	ADJD	_	pos	-1	14	_	MO	_	_
+14	halten	halten	halten	VVINF	VVINF	_	_	-1	3	_	OC	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Stadtwerke	Stadtwerk	Stadtwerk	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+3	haben	haben	haben	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+4	aber	aber	aber	ADV	ADV	_	_	-1	11	_	MO	_	_
+5	auf	auf	auf	APPR	APPR	_	_	-1	11	_	MO	_	_
+6	den	die	die	ART	ART	_	acc|sg|masc	-1	7	_	NK	_	_
+7	Preis	Preis	Preis	NN	NN	_	acc|sg|masc	-1	5	_	NK	_	_
+8	ausschließlich	ausschließlich	ausschließlich	ADV	ADV	_	_	-1	11	_	MO	_	_
+9	die	die	die	ART	ART	_	acc|sg|fem	-1	10	_	NK	_	_
+10	Ökosteuererhöhung	Ökosteuererhöhung	Ökosteuererhöhung	NN	NN	_	acc|sg|fem	-1	11	_	OA	_	_
+11	umgelegt	umlegen	umlegen	VVPP	VVPP	_	_	-1	3	_	OC	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Preiserhöhungen	Preiserhöhung	Preiserhöhung	NN	NN	_	nom|pl|fem	-1	5	_	SB	_	_
+2	des	die	die	ART	ART	_	gen|sg|masc	-1	3	_	NK	_	_
+3	Zulieferers	Zulieferer	Zulieferer	NN	NN	_	gen|sg|masc	-1	1	_	AG	_	_
+4	dagegen	dagegen	dagegen	PAV	PAV	_	_	-1	3	_	NK	_	_
+5	blieben	bleiben	bleiben	VVFIN	VVFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+6	unberücksichtigt	unberücksichtigt	unberücksichtigt	ADJD	ADJD	_	pos	-1	5	_	PD	_	_
+7	.	.	.	$.	$.	_	_	-1	6	_	--	_	_
+
+	sentence_start	0	97
+	token_offsets	sentence	0	offsets	0::3	4::10	15::15	31::10	42::4	47::5	53::12	66::2	69::17	87::6	94::1
+	token_offsets	sentence	1	offsets	97::3	101::3	105::11	117::6	124::3	128::8	137::1	139::4	144::2	147::10	158::4	163::3	167::6	174::1	176::6	183::3	187::14	202::7	210::6	217::3	221::3	225::10	236::9	246::1	247::0	249::6	256::6	263::4	268::10	279::3	283::3	287::8	296::7	304::1
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	3	_	NK	_	_
+2	schwierige	schwierig	schwierig	ADJA	ADJA	_	nom|sg|fem|pos	-1	3	_	NK	_	_
+3	Wirtschaftslage	Wirtschaftslage	Wirtschaftslage	NN	NN	_	nom|sg|fem	-1	5	_	SB	_	_
+4	jedenfalls	jedenfalls	jedenfalls	ADV	ADV	_	_	-1	3	_	MNR	_	_
+5	muss	müssen	müssen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+6	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	5	_	NG	_	_
+7	zwangsläufig	zwangsläufig	zwangsläufig	ADJD	ADJD	_	pos	-1	10	_	MO	_	_
+8	zu	zu	zu	APPR	APPR	_	_	-1	10	_	MO	_	_
+9	Preissteigerungen	Preissteigerung	Preissteigerung	NN	NN	_	dat|pl|fem	-1	8	_	NK	_	_
+10	führen	führen	führen	VVINF	VVINF	_	_	-1	5	_	OC	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Für	für	für	APPR	APPR	_	_	-1	4	_	MO	_	_
+2	den	die	die	ART	ART	_	acc|sg|masc	-1	3	_	NK	_	_
+3	Verbraucher	Verbraucher	Verbraucher	NN	NN	_	acc|sg|masc	-1	1	_	NK	_	_
+4	wächst	wachsen	wachsen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	die	die	die	ART	ART	_	nom|sg|fem	-1	6	_	NK	_	_
+6	Hoffnung	Hoffnung	Hoffnung	NN	NN	_	nom|sg|fem	-1	4	_	SB	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	dass	dass	dass	KOUS	KOUS	_	_	-1	19	_	CP	_	_
+9	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	19	_	OA	_	_
+10	vielleicht	vielleicht	vielleicht	ADV	ADV	_	_	-1	13	_	MO	_	_
+11	auch	auch	auch	ADV	ADV	_	_	-1	13	_	MO	_	_
+12	der	die	die	ART	ART	_	nom|sg|masc	-1	13	_	NK	_	_
+13	Bäcker	Bäcker	Bäcker	NN	NN	_	nom|sg|masc	-1	19	_	CJ	_	_
+14	,	,	,	$,	$,	_	_	-1	13	_	--	_	_
+15	Frisör	Frisör	Frisör	NN	NN	_	nom|sg|masc	-1	13	_	CJ	_	_
+16	und	und	und	KON	KON	_	_	-1	15	_	CD	_	_
+17	Kaufmannsladen	Kaufmannsladen	Kaufmannsladen	NN	NN	_	nom|sg|masc	-1	16	_	CJ	_	_
+18	nebenan	nebenan	nebenan	ADV	ADV	_	_	-1	19	_	MO	_	_
+19	halten	halten	halten	VVFIN	VVFIN	_	pl|3|pres|ind	-1	6	_	OC	_	_
+20	wie	wie	wie	KOKOM	KOKOM	_	_	-1	22	_	CM	_	_
+21	die	die	die	ART	ART	_	acc|sg|fem	-1	22	_	NK	_	_
+22	Stadtwerke	Stadtwerk	Stadtwerk	NN	NN	_	acc|sg|fem	-1	18	_	CC	_	_
+23	Zehdenick	Zehdenick	Zehdenick	NE	NE	_	nom|sg|*	-1	22	_	NK	_	_
+24	:	:	:	$.	$.	_	_	-1	23	_	--	_	_
+25	Preise	Preis	Preis	NN	NN	_	acc|pl|masc	-1	19	_	OA	_	_
+26	runter	runter	runter	PTKVZ	PTKVZ	_	_	-1	19	_	SVP	_	_
+27	oder	oder	oder	KON	KON	_	_	-1	19	_	CD	_	_
+28	wenigstens	wenigstens	wenigstens	ADV	ADV	_	_	-1	32	_	MO	_	_
+29	nur	nur	nur	ADV	ADV	_	_	-1	31	_	MO	_	_
+30	das	die	die	ART	ART	_	acc|sg|neut	-1	31	_	NK	_	_
+31	Nötigste	Nötigste	Nötigste	NN	NN	_	acc|sg|neut	-1	32	_	OA	_	_
+32	umlegen	umlegen	umlegen	VVINF	VVINF	_	_	-1	27	_	CJ	_	_
+33	.	.	.	$.	$.	_	_	-1	32	_	--	_	_
+

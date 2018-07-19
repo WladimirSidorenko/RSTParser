@@ -1,0 +1,223 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::13	14::4
+1	Kompliziertes	kompliziert	kompliziert	ADJA	ADJA	_	nom|sg|neut|pos	-1	2	_	NK	_	_
+2	Erbe	Erbe	Erbe	NN	NN	_	nom|sg|neut	-1	0	_	--	_	_
+
+	sentence_start	0	56	192	378	448	527	870	910	1002
+	token_offsets	sentence	0	offsets	0::3	4::9	14::3	18::4	23::6	30::3	34::3	38::5	44::3	48::4	53::1
+	token_offsets	sentence	1	offsets	56::6	63::8	72::3	76::4	81::3	85::7	93::3	97::6	104::21	126::6	133::1	135::3	139::3	143::3	147::9	157::5	163::10	174::8	183::5	189::1
+	token_offsets	sentence	2	offsets	192::5	198::9	208::10	219::1	221::3	225::3	229::4	234::15	250::13	264::3	268::6	275::6	282::6	289::3	293::3	297::4	302::7	310::1	312::3	316::3	320::16	337::7	345::3	349::3	353::4	358::3	362::4	367::2	370::4	375::1
+	token_offsets	sentence	3	offsets	378::3	382::10	393::1	395::3	399::3	403::9	413::4	418::10	429::8	438::6	445::1
+	token_offsets	sentence	4	offsets	448::3	452::3	456::10	467::5	473::6	480::1	482::4	487::9	497::6	504::7	512::3	516::2	519::4	524::1
+	token_offsets	sentence	5	offsets	527::3	531::4	536::8	545::3	549::3	553::15	569::1	571::3	575::4	580::3	584::3	588::9	598::3	602::4	607::3	611::2	614::7	622::1	624::3	628::15	644::4	649::3	653::9	663::1	664::0	666::4	671::3	675::6	682::7	690::5	696::8	705::4	710::1	712::4	717::3	721::5	727::3	731::11	743::5	749::7	757::1	759::5	765::3	769::9	779::3	783::5	789::1	791::2	794::9	804::3	808::12	821::3	825::7	833::1	835::1	837::4	842::8	851::15	867::1
+	token_offsets	sentence	6	offsets	870::3	874::11	886::2	889::4	894::4	899::7	907::1
+	token_offsets	sentence	7	offsets	910::6	917::1	919::6	926::2	929::17	947::1	949::3	953::3	957::9	967::9	977::3	981::17	999::1
+	token_offsets	sentence	8	offsets	1002::3	1006::4	1011::3	1015::23	1039::6	1046::1	1048::3	1052::5	1058::8	1067::17	1085::5	1091::11	1103::1	1104::0	1106::4	1111::4	1116::5	1122::3	1126::5	1132::8	1141::1	1143::2	1146::3	1150::9	1160::1	1162::3	1166::3	1170::2	1173::5	1179::5	1185::6	1192::1	1194::9	1204::13	1218::4	1223::1
+1	Das	die	die	ART	ART	_	nom|sg|neut	-1	2	_	NK	_	_
+2	FX-Center	FX-Center	FX-Center	NE	NE	_	nom|sg|neut	-1	3	_	SB	_	_
+3	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	fast	fast	fast	ADV	ADV	_	_	-1	5	_	MO	_	_
+5	wieder	wieder	wieder	ADV	ADV	_	_	-1	3	_	MO	_	_
+6	auf	auf	auf	APPR	APPR	_	_	-1	3	_	MO	_	_
+7	dem	die	die	ART	ART	_	dat|sg|neut	-1	8	_	NK	_	_
+8	Stand	Stand	Stand	NN	NN	_	dat|sg|neut	-1	6	_	NK	_	_
+9	von	von	von	APPR	APPR	_	_	-1	8	_	MNR	_	_
+10	1999	1999	1999	CARD	CARD	_	_	-1	9	_	NK	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Damals	damals	damals	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	brauchte	brauchen	brauchen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+3	man	man	man	PIS	PIS	_	nom|sg|*	-1	2	_	SB	_	_
+4	nach	nach	nach	APPR	APPR	_	_	-1	2	_	MO	_	_
+5	dem	die	die	ART	ART	_	dat|sg|masc	-1	6	_	NK	_	_
+6	Konkurs	Konkurs	Konkurs	NN	NN	_	dat|sg|masc	-1	4	_	NK	_	_
+7	der	die	die	ART	ART	_	gen|pl|masc	-1	9	_	NK	_	_
+8	ersten	erst	erst	ADJA	ADJA	_	gen|pl|masc|pos	-1	9	_	NK	_	_
+9	Betreibergesellschaft	Betreibergesellschaft	Betreibergesellschaft	NN	NN	_	gen|pl|masc	-1	6	_	AG	_	_
+10	Monate	Monat	Monat	NN	NN	_	gen|pl|masc	-1	9	_	AG	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	bis	bis	bis	KOUS	KOUS	_	_	-1	19	_	CP	_	_
+13	man	man	man	PIS	PIS	_	nom|sg|*	-1	19	_	SB	_	_
+14	mit	mit	mit	APPR	APPR	_	_	-1	18	_	MO	_	_
+15	Artemedia	Artemedia	Artemedia	NN	NN	_	dat|sg|fem	-1	14	_	NK	_	_
+16	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	17	_	NK	_	_
+17	Nachfolger	Nachfolger	Nachfolger	NN	NN	_	acc|sg|masc	-1	18	_	OA	_	_
+18	gefunden	finden	finden	VVPP	VVPP	_	_	-1	19	_	OC	_	_
+19	hatte	haben	haben	VAFIN	VAFIN	_	sg|3|past|ind	-1	2	_	MO	_	_
+20	.	.	.	$.	$.	_	_	-1	19	_	--	_	_
+
+1	Einen	eine	eine	ART	ART	_	acc|sg|masc	-1	3	_	NK	_	_
+2	hungrigen	hungrig	hungrig	ADJA	ADJA	_	acc|sg|masc	-1	3	_	NK	_	_
+3	Nachfolger	Nachfolger	Nachfolger	NN	NN	_	acc|sg|masc	-1	14	_	CJ	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	dem	die	die	PRELS	PRELS	_	dat|sg|masc	-1	14	_	DA	_	_
+6	die	die	die	ART	ART	_	nom|sg|fem	-1	9	_	NK	_	_
+7	hoch	hoch	hoch	ADJD	ADJD	_	pos	-1	8	_	MO	_	_
+8	subventionierte	subventioniert	subventioniert	ADJA	ADJA	_	nom|sg|fem|pos	-1	9	_	NK	_	_
+9	Infrastruktur	Infrastruktur	Infrastruktur	NN	NN	_	nom|sg|fem	-1	14	_	SB	_	_
+10	des	die	die	ART	ART	_	gen|sg|masc	-1	11	_	NK	_	_
+11	Hauses	Haus	Haus	NN	NN	_	gen|sg|masc	-1	9	_	AG	_	_
+12	ebenso	ebenso	ebenso	ADV	ADV	_	_	-1	14	_	MO	_	_
+13	zupass	zupass	zupass	NN	NN	_	_	-1	29	_	PD	_	_
+14	kam	kommen	kommen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+15	wie	wie	wie	KOKOM	KOKOM	_	_	-1	17	_	CM	_	_
+16	sein	sein	sein	PPOSAT	PPOSAT	_	nom|sg|masc	-1	17	_	NK	_	_
+17	Leumund	Leumund	Leumund	NN	NN	_	nom|sg|masc	-1	12	_	CC	_	_
+18	,	,	,	$,	$,	_	_	-1	17	_	--	_	_
+19	mit	mit	mit	APPR	APPR	_	_	-1	14	_	MO	_	_
+20	dem	die	die	ART	ART	_	dat|sg|masc	-1	21	_	NK	_	_
+21	Technik-Inventar	Technik-Inventar	Technik-Inventar	NN	NN	_	dat|sg|masc	-1	19	_	NK	_	_
+22	absolut	absolut	absolut	ADJD	ADJD	_	pos	-1	29	_	PD	_	_
+23	auf	auf	auf	APPR	APPR	_	_	-1	22	_	MO	_	_
+24	der	die	die	ART	ART	_	dat|sg|fem	-1	25	_	NK	_	_
+25	Höhe	Höhe	Höhe	NN	NN	_	dat|sg|fem	-1	23	_	NK	_	_
+26	der	die	die	ART	ART	_	gen|sg|fem	-1	27	_	NK	_	_
+27	Zeit	Zeit	Zeit	NN	NN	_	gen|sg|fem	-1	25	_	AG	_	_
+28	zu	zu	zu	PTKZU	PTKZU	_	_	-1	29	_	PM	_	_
+29	sein	sein	sein	VAINF	VAINF	_	_	-1	21	_	OC	_	_
+30	.	.	.	$.	$.	_	_	-1	29	_	--	_	_
+
+1	Ein	eine	eine	ART	ART	_	nom|sg|neut	-1	2	_	NK	_	_
+2	Bonuspunkt	Bonuspunkt	Bonuspunkt	NN	NN	_	nom|sg|neut	-1	0	_	--	_	_
+3	,	,	,	$,	$,	_	_	-1	2	_	--	_	_
+4	mit	mit	mit	APPR	APPR	_	_	-1	10	_	MO	_	_
+5	dem	die	die	ART	ART	_	dat|sg|masc	-1	6	_	NK	_	_
+6	Artemedia	Artemedia	Artemedia	NN	NN	_	dat|sg|masc	-1	4	_	NK	_	_
+7	beim	bei	bei	APPRART	APPRART	_	dat|sg|masc	-1	9	_	MO	_	_
+8	Börsengang	Börsengang	Börsengang	NN	NN	_	dat|sg|masc	-1	7	_	NK	_	_
+9	trumpfen	trumpfen	trumpfen	VVINF	VVINF	_	_	-1	10	_	OC	_	_
+10	wollte	wollen	wollen	VMFIN	VMFIN	_	sg|3|past|ind	-1	2	_	RC	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Aus	aus	aus	APPR	APPR	_	_	-1	4	_	MO	_	_
+2	dem	die	die	ART	ART	_	dat|sg|masc	-1	3	_	NK	_	_
+3	Börsengang	Börsengang	Börsengang	NN	NN	_	dat|sg|masc	-1	1	_	NK	_	_
+4	wurde	werden	werden	VAFIN	VAFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+5	nichts	nichts	nichts	PIS	PIS	_	*|*|neut	-1	4	_	SB	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	auch	auch	auch	ADV	ADV	_	_	-1	8	_	MO	_	_
+8	Artemedia	Artemedia	Artemedia	NN	NN	_	nom|pl|neut	-1	10	_	SB	_	_
+9	selbst	selbst	selbst	ADV	ADV	_	_	-1	8	_	MNR	_	_
+10	scheint	scheinen	scheinen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	4	_	OC	_	_
+11	nun	nun	nun	ADV	ADV	_	_	-1	10	_	MO	_	_
+12	am	an	an	APPRART	APPRART	_	dat|sg|neut	-1	10	_	MO	_	_
+13	Ende	Ende	Ende	NN	NN	_	dat|sg|neut	-1	12	_	NK	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Wie	wie	wie	PWAV	PWAV	_	_	-1	2	_	MO	_	_
+2	1999	1999	1999	CARD	CARD	_	_	-1	3	_	MO	_	_
+3	schweben	schweben	schweben	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+4	nun	nun	nun	ADV	ADV	_	_	-1	3	_	MO	_	_
+5	die	die	die	ART	ART	_	nom|pl|*	-1	6	_	NK	_	_
+6	Verpflichtungen	Verpflichtung	Verpflichtung	NN	NN	_	nom|pl|*	-1	3	_	SB	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	die	die	die	PRELS	PRELS	_	nom|pl|*	-1	17	_	SB	_	_
+9	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	17	_	OA	_	_
+10	aus	aus	aus	APPR	APPR	_	_	-1	17	_	MO	_	_
+11	der	die	die	ART	ART	_	dat|sg|fem	-1	12	_	NK	_	_
+12	Förderung	Förderung	Förderung	NN	NN	_	dat|sg|fem	-1	10	_	NK	_	_
+13	von	von	von	APPR	APPR	_	_	-1	12	_	PG	_	_
+14	Land	Land	Land	NN	NN	_	dat|sg|neut	-1	13	_	NK	_	_
+15	und	und	und	KON	KON	_	_	-1	14	_	CD	_	_
+16	EU	EU	EU	NN	NN	_	nom|sg|fem	-1	15	_	CJ	_	_
+17	ergeben	ergeben	ergeben	VVPP	VVPP	_	pl|3|pres|ind	-1	6	_	RC	_	_
+18	,	,	,	$,	$,	_	_	-1	17	_	--	_	_
+19	als	als	als	KOKOM	KOKOM	_	_	-1	3	_	MO	_	_
+20	Damoklesschwert	Damoklesschwert	Damoklesschwert	NN	NN	_	nom|sg|neut	-1	19	_	NK	_	_
+21	über	über	über	APPR	APPR	_	_	-1	20	_	MNR	_	_
+22	dem	die	die	ART	ART	_	dat|sg|masc	-1	23	_	NK	_	_
+23	FX-Center	FX-Center	FX-Center	NE	NE	_	dat|sg|masc	-1	21	_	NK	_	_
+24	:	:	:	$.	$.	_	_	-1	23	_	--	_	_
+25	Wenn	wenn	wenn	KOUS	KOUS	_	_	-1	31	_	CP	_	_
+26	man	man	man	PIS	PIS	_	nom|sg|*	-1	31	_	SB	_	_
+27	seinen	sein	sein	PPOSAT	PPOSAT	_	acc|sg|masc	-1	28	_	NK	_	_
+28	Betrieb	Betrieb	Betrieb	NN	NN	_	acc|sg|masc	-1	31	_	OA	_	_
+29	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	31	_	NG	_	_
+30	aufrecht	aufrecht	aufrecht	PTKVZ	PTKVZ	_	_	-1	31	_	MO	_	_
+31	hält	halten	halten	VVFIN	VVFIN	_	sg|3|pres|ind	-1	41	_	MO	_	_
+32	,	,	,	$,	$,	_	_	-1	31	_	--	_	_
+33	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	39	_	CP	_	_
+34	man	man	man	PIS	PIS	_	nom|sg|*	-1	39	_	SB	_	_
+35	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	39	_	NG	_	_
+36	dem	die	die	ART	ART	_	dat|sg|masc	-1	37	_	NK	_	_
+37	Förderzweck	Förderzweck	Förderzweck	NN	NN	_	dat|sg|masc	-1	38	_	NK	_	_
+38	gemäß	gemäß	gemäß	APPO	APPO	_	pos	-1	39	_	MO	_	_
+39	handelt	handeln	handeln	VVFIN	VVFIN	_	sg|3|pres|ind	-1	31	_	MO	_	_
+40	,	,	,	$,	$,	_	_	-1	39	_	--	_	_
+41	haben	haben	haben	VAFIN	VAFIN	_	pl|3|pres|ind	-1	23	_	RS	_	_
+42	die	die	die	ART	ART	_	nom|pl|neut	-1	43	_	NK	_	_
+43	Geldgeber	Geldgeber	Geldgeber	NN	NN	_	nom|pl|neut	-1	41	_	SB	_	_
+44	das	die	die	ART	ART	_	acc|sg|neut	-1	45	_	NK	_	_
+45	Recht	Recht	Recht	NN	NN	_	acc|sg|neut	-1	41	_	OA	_	_
+46	(	(	(	$(	$(	_	_	-1	45	_	--	_	_
+47	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	52	_	MO	_	_
+48	Interesse	Interesse	Interesse	NN	NN	_	dat|sg|neut	-1	47	_	NK	_	_
+49	der	die	die	ART	ART	_	gen|pl|masc	-1	50	_	NK	_	_
+50	Steuerzahler	Steuerzahler	Steuerzahler	NN	NN	_	gen|pl|masc	-1	48	_	AG	_	_
+51	die	die	die	ART	ART	_	acc|sg|fem	-1	52	_	NK	_	_
+52	Pflicht	Pflicht	Pflicht	NN	NN	_	acc|sg|fem	-1	45	_	PAR	_	_
+53	)	)	)	$(	$(	_	_	-1	52	_	--	_	_
+54	,	,	,	$,	$,	_	_	-1	53	_	--	_	_
+55	ihre	ihr	ihr	PPOSAT	PPOSAT	_	acc|sg|fem	-1	56	_	NK	_	_
+56	Beiträge	Beitrag	Beitrag	NN	NN	_	nom|pl|masc	-1	57	_	OA	_	_
+57	zurückzufordern	zurückfordern	zurückfordern	VVIZU	VVIZU	_	_	-1	45	_	OC	_	_
+58	.	.	.	$.	$.	_	_	-1	57	_	--	_	_
+
+1	Ein	eine	eine	ART	ART	_	nom|sg|neut	-1	2	_	NK	_	_
+2	Unterschied	Unterschied	Unterschied	NN	NN	_	nom|sg|neut	-1	6	_	SB	_	_
+3	zu	zu	zu	APPR	APPR	_	_	-1	2	_	MNR	_	_
+4	1999	1999	1999	CARD	CARD	_	_	-1	3	_	NK	_	_
+5	aber	aber	aber	ADV	ADV	_	_	-1	6	_	MO	_	_
+6	besteht	bestehen	bestehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+7	.	.	.	$.	$.	_	_	-1	6	_	--	_	_
+
+1	Damals	damals	damals	ADV	ADV	_	_	-1	7	_	MO	_	_
+2	,	,	,	$,	$,	_	_	-1	1	_	--	_	_
+3	mitten	mitten	mitten	ADV	ADV	_	_	-1	4	_	MO	_	_
+4	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	7	_	MO	_	_
+5	Landtagswahlkampf	Landtagswahlkampf	Landtagswahlkampf	NN	NN	_	dat|sg|masc	-1	4	_	NK	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	war	sein	sein	VAFIN	VAFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+8	das	die	die	ART	ART	_	nom|sg|neut	-1	9	_	NK	_	_
+9	FX-Center	FX-Center	FX-Center	NE	NE	_	nom|sg|neut	-1	7	_	SB	_	_
+10	Chefsache	Chefsache	Chefsache	NN	NN	_	nom|sg|fem	-1	7	_	PD	_	_
+11	der	die	die	ART	ART	_	gen|sg|fem	-1	12	_	NK	_	_
+12	SPD-Staatskanzlei	SPD-Staatskanzlei	SPD-Staatskanzlei	NN	NN	_	gen|sg|fem	-1	10	_	AG	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Nun	nun	nun	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	muss	müssen	müssen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	der	die	die	ART	ART	_	nom|sg|masc	-1	4	_	NK	_	_
+4	CDU-Wirtschaftsminister	CDU-Wirtschaftsminister	CDU-Wirtschaftsminister	NN	NN	_	nom|sg|masc	-1	2	_	SB	_	_
+5	regeln	regeln	regeln	VVFIN	VVFIN	_	_	-1	2	_	OC	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	was	was	was	PRELS	PRELS	_	nom|sg|neut	-1	12	_	OA	_	_
+8	seine	sein	sein	PPOSAT	PPOSAT	_	acc|pl|fem	-1	10	_	NK	_	_
+9	heutigen	heutig	heutig	ADJA	ADJA	_	acc|sg|masc|pos	-1	10	_	NK	_	_
+10	Koalitionspartner	Koalitionspartner	Koalitionspartner	NN	NN	_	acc|sg|masc	-1	12	_	OA	_	_
+11	einst	einst	einst	ADV	ADV	_	_	-1	12	_	MO	_	_
+12	einbrockten	einbrockten	einbrockten	VVFIN	VVFIN	_	pl|3|past|ind	-1	5	_	OC	_	_
+13	:	:	:	$.	$.	_	_	-1	12	_	--	_	_
+14	Denn	denn	denn	KON	KON	_	_	-1	2	_	CD	_	_
+15	noch	noch	noch	ADV	ADV	_	_	-1	16	_	MO	_	_
+16	immer	immer	immer	ADV	ADV	_	_	-1	19	_	MO	_	_
+17	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	14	_	CJ	_	_
+18	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	17	_	NG	_	_
+19	erwiesen	erweisen	erweisen	VVPP	VVPP	_	_	-1	17	_	PD	_	_
+20	,	,	,	$,	$,	_	_	-1	19	_	--	_	_
+21	ob	ob	ob	KOUS	KOUS	_	_	-1	34	_	CP	_	_
+22	das	die	die	ART	ART	_	nom|sg|neut	-1	23	_	NK	_	_
+23	FX-Center	FX-Center	FX-Center	NE	NE	_	nom|sg|neut	-1	34	_	SB	_	_
+24	,	,	,	$,	$,	_	_	-1	23	_	--	_	_
+25	wie	wie	wie	KOUS	KOUS	_	_	-1	30	_	CP	_	_
+26	man	man	man	PIS	PIS	_	nom|sg|*	-1	30	_	SB	_	_
+27	es	es	es	PPER	PPER	_	acc|sg|neut|3	-1	29	_	OA	_	_
+28	einst	einst	einst	ADV	ADV	_	_	-1	34	_	MO	_	_
+29	haben	haben	haben	VAINF	VAINF	_	_	-1	30	_	OC	_	_
+30	wollte	wollen	wollen	VMFIN	VMFIN	_	sg|3|past|ind	-1	33	_	MO	_	_
+31	,	,	,	$,	$,	_	_	-1	30	_	--	_	_
+32	überhaupt	überhaupt	überhaupt	ADV	ADV	_	_	-1	33	_	MO	_	_
+33	funktionieren	funktionieren	funktionieren	VVINF	VVINF	_	_	-1	34	_	OC	_	_
+34	kann	können	können	VMFIN	VMFIN	_	sg|3|pres|ind	-1	19	_	OC	_	_
+35	.	.	.	$.	$.	_	_	-1	34	_	--	_	_
+

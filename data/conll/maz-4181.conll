@@ -1,0 +1,222 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::19
+1	Fingerspitzengefühl	Fingerspitzengefühl	Fingerspitzengefühl	NN	NN	_	nom|sg|neut	-1	0	_	--	_	_
+
+	sentence_start	0	31	101	199	352	475	522	559	647	721	770	856	966	1037	1159
+	token_offsets	sentence	0	offsets	0::3	4::4	9::5	15::1	17::5	23::4	28::1
+	token_offsets	sentence	1	offsets	31::6	38::14	53::8	62::4	67::3	71::3	75::18	94::3	98::1
+	token_offsets	sentence	2	offsets	101::3	105::8	114::27	142::1	144::3	148::3	152::3	156::3	160::15	176::12	189::6	196::1
+	token_offsets	sentence	3	offsets	199::4	204::8	213::3	217::13	231::1	233::3	237::3	241::8	250::1	252::4	257::3	261::4	266::5	272::11	284::3	288::3	292::14	307::11	319::1	321::5	327::3	331::9	341::3	345::3	349::1
+	token_offsets	sentence	4	offsets	352::4	357::2	360::8	369::3	373::1	375::5	381::3	385::11	397::12	410::3	414::5	420::1	422::4	427::3	431::1	433::8	442::1	444::10	455::3	459::4	464::2	467::4	472::1
+	token_offsets	sentence	5	offsets	475::3	479::15	495::3	499::3	503::4	508::5	514::4	519::1
+	token_offsets	sentence	6	offsets	522::5	528::4	533::5	539::9	549::6	556::1
+	token_offsets	sentence	7	offsets	559::4	564::3	568::10	579::4	584::4	589::7	597::6	604::3	608::5	614::1	616::4	621::14	636::7	644::1
+	token_offsets	sentence	8	offsets	647::4	652::4	657::6	664::3	668::3	672::17	690::2	693::17	711::6	718::1
+	token_offsets	sentence	9	offsets	721::4	726::4	731::9	741::5	747::2	750::11	762::4	767::1
+	token_offsets	sentence	10	offsets	770::3	774::7	782::3	786::7	794::1	796::3	800::4	805::5	811::11	823::3	827::3	831::9	841::11	853::1
+	token_offsets	sentence	11	offsets	856::10	867::4	872::2	875::3	879::11	891::11	903::5	909::3	913::13	927::16	944::6	951::11	963::1
+	token_offsets	sentence	12	offsets	966::12	979::3	983::8	992::15	1008::10	1019::3	1023::3	1027::6	1034::1
+	token_offsets	sentence	13	offsets	1037::4	1042::3	1046::2	1049::5	1055::6	1062::1	1064::2	1067::4	1072::3	1076::3	1080::11	1092::2	1095::12	1108::1	1110::8	1119::3	1123::3	1127::14	1142::3	1146::9	1156::1
+	token_offsets	sentence	14	offsets	1159::3	1163::8	1172::5	1178::3	1182::9	1192::6	1199::6	1206::1
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	2	_	NK	_	_
+2	Euro	Euro	Euro	NN	NN	_	nom|sg|masc	-1	3	_	SB	_	_
+3	kommt	kommen	kommen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	-	-	-	$(	$(	_	_	-1	3	_	--	_	_
+5	schon	schon	schon	ADV	ADV	_	_	-1	6	_	MO	_	_
+6	bald	bald	bald	ADV	ADV	_	_	-1	3	_	MO	_	_
+7	.	.	.	$.	$.	_	_	-1	6	_	--	_	_
+
+1	Manche	manche	manche	PIAT	PIAT	_	nom|pl|neut	-1	2	_	NK	_	_
+2	Geschäftsleute	Geschäftsleute	Geschäftsleute	NN	NN	_	nom|pl|neut	-1	3	_	SB	_	_
+3	bereiten	bereiten	bereiten	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+4	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	3	_	OA	_	_
+5	auf	auf	auf	APPR	APPR	_	_	-1	3	_	OP	_	_
+6	die	die	die	ART	ART	_	acc|sg|fem	-1	7	_	NK	_	_
+7	Währungsumstellung	Währungsumstellung	Währungsumstellung	NN	NN	_	acc|sg|fem	-1	5	_	NK	_	_
+8	vor	vor	vor	PTKVZ	PTKVZ	_	_	-1	3	_	SVP	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+1	Sie	Sie	Sie	PPER	PPER	_	nom|pl|*|3	-1	2	_	SB	_	_
+2	besuchen	besuchen	besuchen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	Informationsveranstaltungen	Informationsveranstaltung	Informationsveranstaltung	NN	NN	_	acc|pl|fem	-1	2	_	OA	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	wie	wie	wie	KOUS	KOUS	_	_	-1	11	_	CM	_	_
+6	sie	sie	sie	PPER	PPER	_	nom|pl|fem|3	-1	11	_	SB	_	_
+7	von	von	von	APPR	APPR	_	_	-1	10	_	SBP	_	_
+8	der	die	die	ART	ART	_	dat|sg|fem	-1	9	_	NK	_	_
+9	Handwerkskammer	Handwerkskammer	Handwerkskammer	NN	NN	_	dat|sg|fem	-1	7	_	NK	_	_
+10	veranstaltet	veranstalten	veranstalten	VVPP	VVPP	_	_	-1	11	_	OC	_	_
+11	werden	werden	werden	VAINF	VAINF	_	_	-1	2	_	MO	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Dort	dort	dort	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	erfahren	erfahren	erfahren	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	die	die	die	ART	ART	_	nom|pl|masc	-1	4	_	NK	_	_
+4	Dienstleister	Dienstleister	Dienstleister	NN	NN	_	nom|pl|masc	-1	2	_	SB	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	was	was	was	PRELS	PRELS	_	acc|sg|neut	-1	8	_	OA	_	_
+7	sie	sie	sie	PPER	PPER	_	nom|sg|fem|3	-1	8	_	SB	_	_
+8	erwartet	erwarten	erwarten	VVFIN	VVFIN	_	sg|3|pres|ind	-1	2	_	OC	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	18	_	CP	_	_
+11	sie	sie	sie	PPER	PPER	_	nom|sg|fem|3	-1	18	_	SB	_	_
+12	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	18	_	OA	_	_
+13	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	14	_	NG	_	_
+14	rechtzeitig	rechtzeitig	rechtzeitig	ADJD	ADJD	_	pos	-1	18	_	MO	_	_
+15	auf	auf	auf	APPR	APPR	_	_	-1	18	_	OP	_	_
+16	die	die	die	ART	ART	_	acc|sg|fem	-1	17	_	NK	_	_
+17	Euroeinführung	Euroeinführung	Euroeinführung	NN	NN	_	acc|sg|fem	-1	15	_	NK	_	_
+18	vorbereiten	vorbereiten	vorbereiten	VVINF	VVINF	_	_	-1	8	_	MO	_	_
+19	:	:	:	$.	$.	_	_	-1	18	_	--	_	_
+20	Chaos	Chaos	Chaos	NN	NN	_	acc|sg|neut	-1	17	_	APP	_	_
+21	und	und	und	KON	KON	_	_	-1	20	_	CD	_	_
+22	eventuell	eventuell	eventuell	ADJD	ADJD	_	pos	-1	24	_	MO	_	_
+23	das	die	die	ART	ART	_	acc|sg|neut	-1	24	_	NK	_	_
+24	Aus	Aus	Aus	NN	NN	_	acc|sg|neut	-1	21	_	CJ	_	_
+25	.	.	.	$.	$.	_	_	-1	24	_	--	_	_
+
+1	Denn	denn	denn	KON	KON	_	_	-1	4	_	JU	_	_
+2	zu	zu	zu	PTKZU	PTKZU	_	_	-1	3	_	PM	_	_
+3	beachten	beachten	beachten	VVINF	VVINF	_	_	-1	4	_	OC	_	_
+4	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	-	-	-	$(	$(	_	_	-1	4	_	--	_	_
+6	neben	neben	neben	APPR	APPR	_	_	-1	18	_	MNR	_	_
+7	der	die	die	ART	ART	_	dat|sg|fem	-1	9	_	NK	_	_
+8	eindeutigen	eindeutig	eindeutig	ADJA	ADJA	_	dat|sg|fem|pos	-1	9	_	NK	_	_
+9	Auszeichnung	Auszeichnung	Auszeichnung	NN	NN	_	dat|sg|fem	-1	6	_	NK	_	_
+10	der	die	die	ART	ART	_	gen|pl|fem	-1	11	_	NK	_	_
+11	Waren	Ware	Ware	NN	NN	_	gen|pl|fem	-1	9	_	AG	_	_
+12	-	-	-	$(	$(	_	_	-1	11	_	--	_	_
+13	auch	auch	auch	ADV	ADV	_	_	-1	18	_	MO	_	_
+14	die	die	die	ART	ART	_	nom|sg|fem	-1	18	_	NK	_	_
+15	"	"	"	$(	$(	_	_	-1	14	_	--	_	_
+16	richtige	richtig	richtig	ADJA	ADJA	_	nom|sg|fem|pos	-1	18	_	NK	_	_
+17	"	"	"	$(	$(	_	_	-1	16	_	--	_	_
+18	Umrechnung	Umrechnung	Umrechnung	NN	NN	_	nom|sg|fem	-1	4	_	PAR	_	_
+19	von	von	von	APPR	APPR	_	_	-1	18	_	PG	_	_
+20	Mark	Mark	Mark	NN	NN	_	dat|sg|fem	-1	19	_	NK	_	_
+21	in	in	in	APPR	APPR	_	_	-1	18	_	MNR	_	_
+22	Euro	Euro	Euro	NN	NN	_	dat|sg|neut	-1	21	_	NK	_	_
+23	.	.	.	$.	$.	_	_	-1	22	_	--	_	_
+
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	2	_	NK	_	_
+2	Umrechnungskurs	Umrechnungskurs	Umrechnungskurs	NN	NN	_	nom|sg|masc	-1	6	_	SB	_	_
+3	für	für	für	APPR	APPR	_	_	-1	2	_	MNR	_	_
+4	den	die	die	ART	ART	_	acc|sg|masc	-1	5	_	NK	_	_
+5	Euro	Euro	Euro	NN	NN	_	acc|sg|masc	-1	3	_	NK	_	_
+6	steht	stehen	stehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+7	fest	fest	fest	PTKVZ	PTKVZ	_	_	-1	6	_	SVP	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+
+1	Daran	daran	daran	PAV	PAV	_	_	-1	5	_	NK	_	_
+2	darf	dürfen	dürfen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	2	_	NG	_	_
+4	gerüttelt	rütteln	rütteln	VVPP	VVPP	_	_	-1	5	_	OC	_	_
+5	werden	werden	werden	VAINF	VAINF	_	_	-1	2	_	OC	_	_
+6	.	.	.	$.	$.	_	_	-1	5	_	--	_	_
+
+1	Auf-	Auf-	Auf-	TRUNC	TRUNC	_	_	-1	2	_	CJ	_	_
+2	und	und	und	KON	KON	_	_	-1	3	_	CD	_	_
+3	abgerundet	abrunden	abrunden	VVPP	VVPP	_	_	-1	4	_	OC	_	_
+4	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	zwei	zwei	zwei	CARD	CARD	_	_	-1	6	_	NK	_	_
+6	Stellen	Stelle|Stellen	Stelle|Stellen	NN	NN	_	acc|pl|fem	-1	4	_	SB	_	_
+7	hinter	hinter	hinter	APPR	APPR	_	_	-1	6	_	MNR	_	_
+8	dem	die	die	ART	ART	_	dat|sg|masc	-1	9	_	NK	_	_
+9	Komma	Komma	Komma	NN	NN	_	dat|sg|masc	-1	7	_	NK	_	_
+10	-	-	-	$(	$(	_	_	-1	9	_	--	_	_
+11	nach	nach	nach	APPR	APPR	_	_	-1	6	_	MNR	_	_
+12	kaufmännischem	kaufmännisch	kaufmännisch	ADJA	ADJA	_	dat|sg|masc|pos	-1	13	_	NK	_	_
+13	Prinzip	Prinzip	Prinzip	NN	NN	_	dat|sg|masc	-1	11	_	NK	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Dies	dies	dies	PDS	PDS	_	nom|sg|neut	-1	2	_	SB	_	_
+2	kann	können	können	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	jedoch	jedoch	jedoch	ADV	ADV	_	_	-1	2	_	MO	_	_
+4	bei	bei	bei	APPR	APPR	_	_	-1	9	_	MO	_	_
+5	den	die	die	ART	ART	_	dat|pl|neut	-1	6	_	NK	_	_
+6	Gewerbetreibenden	Gewerbetreibende	Gewerbetreibende	NN	NN	_	dat|pl|neut	-1	4	_	NK	_	_
+7	zu	zu	zu	APPR	APPR	_	_	-1	9	_	MO	_	_
+8	Einnahmeverlusten	Einnahmeverlust	Einnahmeverlust	NN	NN	_	dat|pl|masc	-1	7	_	NK	_	_
+9	führen	führen	führen	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+1	Denn	denn	denn	KON	KON	_	_	-1	4	_	JU	_	_
+2	auch	auch	auch	ADV	ADV	_	_	-1	3	_	MO	_	_
+3	Kleinvieh	Kleinvieh	Kleinvieh	NN	NN	_	nom|sg|neut	-1	4	_	SB	_	_
+4	macht	machen	machen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	ja	ja	ja	ADV	ADV	_	_	-1	4	_	MO	_	_
+6	bekanntlich	bekanntlich	bekanntlich	ADV	ADV	_	_	-1	4	_	MO	_	_
+7	Mist	Mist	Mist	NN	NN	_	acc|sg|masc	-1	4	_	OA	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+
+1	Gut	gut	gut	ADJD	ADJD	_	pos	-1	2	_	MO	_	_
+2	beraten	beraten	beraten	VVPP	VVPP	_	_	-1	3	_	PD	_	_
+3	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	deshalb	deshalb	deshalb	PAV	PAV	_	_	-1	5	_	NK	_	_
+5	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+6	wer	wer	wer	PWS	PWS	_	nom|sg|masc	-1	13	_	SB	_	_
+7	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	13	_	OA	_	_
+8	schon	schon	schon	ADV	ADV	_	_	-1	13	_	MO	_	_
+9	rechtzeitig	rechtzeitig	rechtzeitig	ADJD	ADJD	_	pos	-1	13	_	MO	_	_
+10	mit	mit	mit	APPR	APPR	_	_	-1	13	_	MO	_	_
+11	der	die	die	ART	ART	_	dat|sg|fem	-1	12	_	NK	_	_
+12	Rechnerei	Rechnerei	Rechnerei	NN	NN	_	dat|sg|fem	-1	10	_	NK	_	_
+13	beschäftigt	beschäftigen	beschäftigen	VVPP	VVPP	_	_	-1	3	_	SB	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Vielleicht	vielleicht	vielleicht	ADV	ADV	_	_	-1	12	_	MO	_	_
+2	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	ja	ja	ja	ADV	ADV	_	_	-1	12	_	MO	_	_
+4	der	die	die	ART	ART	_	nom|sg|masc	-1	6	_	NK	_	_
+5	abgerundete	abgerundet	abgerundet	ADJA	ADJA	_	nom|sg|masc|pos	-1	6	_	NK	_	_
+6	Bonbonpreis	Bonbonpreis	Bonbonpreis	NN	NN	_	nom|sg|masc	-1	2	_	SB	_	_
+7	durch	durch	durch	APPR	APPR	_	_	-1	12	_	MO	_	_
+8	den	die	die	ART	ART	_	acc|sg|masc	-1	10	_	NK	_	_
+9	aufgerundeten	aufgerundeten	aufgerundeten	ADJA	ADJA	_	acc|sg|masc|pos	-1	10	_	NK	_	_
+10	Schokoladenpreis	Schokoladenpreis	Schokoladenpreis	NN	NN	_	acc|sg|masc	-1	7	_	NK	_	_
+11	wieder	wieder	wieder	ADV	ADV	_	_	-1	12	_	MO	_	_
+12	wettgemacht	wettmachen	wettmachen	VVPP	VVPP	_	_	-1	2	_	OC	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Unbegründete	unbegründet	unbegründet	ADJA	ADJA	_	nom|pl|neut|pos	-1	4	_	NK	_	_
+2	und	und	und	KON	KON	_	_	-1	1	_	CD	_	_
+3	panische	panisch	panisch	ADJA	ADJA	_	nom|pl|fem|pos	-1	2	_	CJ	_	_
+4	Preiserhöhungen	Preiserhöhung	Preiserhöhung	NN	NN	_	nom|pl|fem	-1	5	_	SB	_	_
+5	vergraulen	vergraulen	vergraulen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+6	nur	nur	nur	ADV	ADV	_	_	-1	8	_	MO	_	_
+7	die	die	die	ART	ART	_	acc|pl|fem	-1	8	_	NK	_	_
+8	Kunden	Kunde	Kunde	NN	NN	_	acc|pl|fem	-1	5	_	OA	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+1	Doch	doch	doch	KON	KON	_	_	-1	15	_	JU	_	_
+2	wer	wer	wer	PWS	PWS	_	nom|sg|masc	-1	5	_	SB	_	_
+3	zu	zu	zu	APPR	APPR	_	_	-1	4	_	MO	_	_
+4	lange	lange	lange	ADV	ADV	_	_	-1	5	_	MO	_	_
+5	wartet	warten	warten	VVFIN	VVFIN	_	sg|3|pres|ind	-1	15	_	SB	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	um	um	um	KOUI	KOUI	_	_	-1	13	_	CP	_	_
+8	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	13	_	OA	_	_
+9	mit	mit	mit	APPR	APPR	_	_	-1	13	_	MO	_	_
+10	den	die	die	ART	ART	_	dat|pl|neut	-1	11	_	NK	_	_
+11	Rechnereien	Rechnerei	Rechnerei	NN	NN	_	dat|pl|neut	-1	9	_	NK	_	_
+12	zu	zu	zu	PTKZU	PTKZU	_	_	-1	13	_	PM	_	_
+13	beschäftigen	beschäftigen	beschäftigen	VVINF	VVINF	_	_	-1	5	_	MO	_	_
+14	,	,	,	$,	$,	_	_	-1	13	_	--	_	_
+15	verliert	verlieren	verlieren	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+16	bei	bei	bei	APPR	APPR	_	_	-1	15	_	MO	_	_
+17	der	die	die	ART	ART	_	dat|sg|fem	-1	18	_	NK	_	_
+18	Euroumstellung	Euroumstellung	Euroumstellung	NN	NN	_	dat|sg|fem	-1	16	_	NK	_	_
+19	den	die	die	ART	ART	_	acc|sg|masc	-1	20	_	NK	_	_
+20	Überblick	Überblick	Überblick	NN	NN	_	acc|sg|masc	-1	15	_	OA	_	_
+21	.	.	.	$.	$.	_	_	-1	20	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	2	_	JU	_	_
+2	riskiert	riskieren	riskieren	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	damit	damit	damit	PAV	PAV	_	_	-1	0	_	NK	_	_
+4	das	die	die	ART	ART	_	acc|sg|neut	-1	5	_	NK	_	_
+5	Vertrauen	Vertrauen	Vertrauen	NN	NN	_	acc|sg|neut	-1	2	_	OA	_	_
+6	seiner	sein	sein	PPOSAT	PPOSAT	_	gen|pl|masc	-1	7	_	NK	_	_
+7	Kunden	Kunde	Kunde	NN	NN	_	gen|pl|masc	-1	5	_	AG	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+

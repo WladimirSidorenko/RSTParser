@@ -1,0 +1,229 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::2	3::6
+1	Am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	0	_	--	_	_
+2	Wasser	Wasser	Wasser	NN	NN	_	dat|sg|masc	-1	1	_	NK	_	_
+
+	sentence_start	0	97	257	354	484	584
+	token_offsets	sentence	0	offsets	0::4	5::3	9::1	11::6	18::1	20::5	26::2	29::8	38::3	42::3	46::3	50::3	54::1	56::3	60::2	63::5	69::3	73::7	81::3	85::8	94::1
+	token_offsets	sentence	1	offsets	97::6	104::4	109::8	118::4	123::8	132::3	136::17	154::5	160::1	162::4	167::5	173::10	184::1	186::12	199::1	201::5	207::6	214::3	218::4	223::4	228::2	231::7	239::3	243::10	254::1
+	token_offsets	sentence	2	offsets	257::2	260::5	266::5	272::3	276::16	293::1	295::3	299::4	304::5	310::6	317::9	327::3	331::3	335::6	342::2	345::5	351::1
+	token_offsets	sentence	3	offsets	354::3	358::3	362::8	371::4	376::4	381::1	383::3	387::8	396::5	402::3	406::3	410::6	417::1	419::3	423::3	427::7	435::5	441::2	444::5	450::4	455::5	461::7	469::2	472::8	481::1
+	token_offsets	sentence	4	offsets	484::8	493::4	498::2	501::4	506::9	516::2	519::6	526::1	528::3	532::3	536::4	541::4	546::9	556::5	562::4	567::8	576::4	581::1
+	token_offsets	sentence	5	offsets	584::3	588::3	592::6	599::12	612::4	617::5	623::12	636::6	643::15	659::1	661::3	665::10	676::11	688::4	693::3	697::4	702::2	705::9	715::1
+1	Dass	dass	dass	KOUS	KOUS	_	_	-1	9	_	CP	_	_
+2	die	die	die	ART	ART	_	nom|sg|fem	-1	4	_	NK	_	_
+3	"	"	"	$(	$(	_	_	-1	2	_	--	_	_
+4	Platte	Platte	Platte	NN	NN	_	nom|sg|fem	-1	9	_	SB	_	_
+5	"	"	"	$(	$(	_	_	-1	4	_	--	_	_
+6	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	9	_	NG	_	_
+7	so	so	so	ADV	ADV	_	_	-1	8	_	MO	_	_
+8	schlecht	schlecht	schlecht	ADJD	ADJD	_	pos	-1	9	_	PD	_	_
+9	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	20	_	MO	_	_
+10	wie	wie	wie	KOKOM	KOKOM	_	_	-1	12	_	CM	_	_
+11	ihr	ihr	ihr	PPOSAT	PPOSAT	_	nom|sg|masc	-1	12	_	NK	_	_
+12	Ruf	Ruf	Ruf	NN	NN	_	nom|sg|masc	-1	7	_	CC	_	_
+13	,	,	,	$,	$,	_	_	-1	12	_	--	_	_
+14	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+15	ja	ja	ja	ADV	ADV	_	_	-1	14	_	MO	_	_
+16	schon	schon	schon	ADV	ADV	_	_	-1	14	_	MO	_	_
+17	das	die	die	ART	ART	_	nom|sg|neut	-1	18	_	NK	_	_
+18	Zentrum	Zentrum	Zentrum	NN	NN	_	nom|sg|neut	-1	14	_	SB	_	_
+19	Ost	Ost	Ost	NN	NN	_	nom|sg|*	-1	18	_	NK	_	_
+20	bewiesen	beweisen	beweisen	VVPP	VVPP	_	_	-1	14	_	OC	_	_
+21	.	.	.	$.	$.	_	_	-1	20	_	--	_	_
+
+1	Gerade	gerade	gerade	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	eben	eben	eben	ADV	ADV	_	_	-1	3	_	MO	_	_
+3	feierten	feiern	feiern	VVFIN	VVFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+4	dort	dort	dort	ADV	ADV	_	_	-1	3	_	MO	_	_
+5	Anwohner	Anwohner	Anwohner	NN	NN	_	nom|pl|masc	-1	3	_	SB	_	_
+6	die	die	die	ART	ART	_	acc|sg|fem	-1	7	_	NK	_	_
+7	Wiederherstellung	Wiederherstellung	Wiederherstellung	NN	NN	_	acc|sg|fem	-1	3	_	OA	_	_
+8	ihres	ihr	ihr	PPOSAT	PPOSAT	_	gen|sg|neut	-1	14	_	NK	_	_
+9	-	-	-	$(	$(	_	_	-1	8	_	--	_	_
+10	noch	noch	noch	ADV	ADV	_	_	-1	12	_	MO	_	_
+11	immer	immer	immer	ADV	ADV	_	_	-1	10	_	MO	_	_
+12	namenlosen	namenlos	namenlos	ADJA	ADJA	_	acc|sg|masc|pos	-1	14	_	NK	_	_
+13	-	-	-	$(	$(	_	_	-1	12	_	--	_	_
+14	Stadtplatzes	Stadtplatz	Stadtplatz	NN	NN	_	acc|sg|masc	-1	7	_	AG	_	_
+15	,	,	,	$,	$,	_	_	-1	14	_	--	_	_
+16	schon	schon	schon	ADV	ADV	_	_	-1	17	_	MO	_	_
+17	trifft	treffen	treffen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	3	_	CJ	_	_
+18	man	man	man	PIS	PIS	_	nom|sg|*	-1	17	_	SB	_	_
+19	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	17	_	OA	_	_
+20	auch	auch	auch	ADV	ADV	_	_	-1	21	_	MO	_	_
+21	am	an	an	APPRART	APPRART	_	dat|sg|neut	-1	17	_	MO	_	_
+22	Kiewitt	Kiewitt	Kiewitt	NN	NN	_	dat|sg|neut	-1	21	_	NK	_	_
+23	zum	zu	zu	APPRART	APPRART	_	dat|sg|neut	-1	17	_	MO	_	_
+24	Bürgerfest	Bürgerfest	Bürgerfest	NN	NN	_	dat|sg|neut	-1	23	_	NK	_	_
+25	.	.	.	$.	$.	_	_	-1	24	_	--	_	_
+
+1	30	30	30	CARD	CARD	_	_	-1	2	_	NK	_	_
+2	Jahre	Jahr	Jahr	NN	NN	_	acc|pl|neut	-1	3	_	MO	_	_
+3	zählt	zählen	zählen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	das	die	die	ART	ART	_	nom|sg|neut	-1	5	_	NK	_	_
+5	Neubauwohngebiet	Neubauwohngebiet	Neubauwohngebiet	NN	NN	_	nom|sg|neut	-1	3	_	SB	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	und	und	und	KON	KON	_	_	-1	3	_	CD	_	_
+8	etwa	etwa	etwa	ADV	ADV	_	_	-1	9	_	MO	_	_
+9	jeder	jede	jede	PIAT	PIAT	_	nom|sg|masc	-1	11	_	NK	_	_
+10	dritte	dritt	dritt	ADJA	ADJA	_	nom|sg|masc|pos	-1	11	_	NK	_	_
+11	Kiewitter	Kiewitter	Kiewitter	NN	NN	_	nom|sg|masc	-1	12	_	SB	_	_
+12	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	7	_	CJ	_	_
+13	von	von	von	APPR	APPR	_	_	-1	12	_	MO	_	_
+14	Anfang	Anfang	Anfang	NN	NN	_	dat|sg|masc	-1	13	_	NK	_	_
+15	an	an	an	APZR	APZR	_	_	-1	13	_	AC	_	_
+16	dabei	dabei	dabei	PTKVZ	PTKVZ	_	_	-1	12	_	SVP	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
+1	Was	was	was	PWS	PWS	_	nom|sg|neut	-1	5	_	SB	_	_
+2	die	die	die	ART	ART	_	acc|pl|masc	-1	3	_	NK	_	_
+3	Menschen	Mensch	Mensch	NN	NN	_	acc|pl|masc	-1	5	_	OA	_	_
+4	hier	hier	hier	ADV	ADV	_	_	-1	5	_	MO	_	_
+5	hält	halten	halten	VVFIN	VVFIN	_	sg|3|pres|ind	-1	7	_	SB	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+8	durchaus	durchaus	durchaus	ADV	ADV	_	_	-1	7	_	MO	_	_
+9	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	10	_	NG	_	_
+10	nur	nur	nur	ADV	ADV	_	_	-1	12	_	MO	_	_
+11	die	die	die	ART	ART	_	nom|sg|fem	-1	12	_	NK	_	_
+12	Unlust	Unlust	Unlust	NN	NN	_	nom|sg|fem	-1	7	_	PD	_	_
+13	,	,	,	$,	$,	_	_	-1	12	_	--	_	_
+14	die	die	die	PRELS	PRELS	_	nom|sg|fem	-1	17	_	NK	_	_
+15	oft	oft	oft	ADV	ADV	_	_	-1	16	_	MO	_	_
+16	kleinen	klein	klein	ADJA	ADJA	_	acc|pl|masc|pos	-1	17	_	NK	_	_
+17	Räume	Raum	Raum	NN	NN	_	acc|pl|masc	-1	24	_	OA	_	_
+18	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	24	_	MO	_	_
+19	Alter	Alter	Alter	NN	NN	_	dat|sg|neut	-1	18	_	NK	_	_
+20	noch	noch	noch	ADV	ADV	_	_	-1	24	_	MO	_	_
+21	gegen	gegen	gegen	APPR	APPR	_	_	-1	24	_	MO	_	_
+22	größere	groß	groß	ADJA	ADJA	_	acc|sg|fem|comp	-1	21	_	NK	_	_
+23	zu	zu	zu	PTKZU	PTKZU	_	_	-1	24	_	PM	_	_
+24	tauschen	tauschen	tauschen	VVINF	VVINF	_	_	-1	12	_	OC	_	_
+25	.	.	.	$.	$.	_	_	-1	24	_	--	_	_
+
+1	Vielmehr	vielmehr	vielmehr	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	gibt	geben	geben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	EP	_	_
+4	hier	hier	hier	ADV	ADV	_	_	-1	2	_	MO	_	_
+5	Wohnungen	Wohnung	Wohnung	NN	NN	_	acc|pl|fem	-1	2	_	OA	_	_
+6	am	an	an	APPRART	APPRART	_	dat|sg|neut	-1	5	_	MNR	_	_
+7	Wasser	Wasser	Wasser	NN	NN	_	dat|sg|neut	-1	6	_	NK	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	die	die	die	PRELS	PRELS	_	acc|pl|*	-1	16	_	OA	_	_
+10	man	man	man	PIS	PIS	_	nom|sg|*	-1	17	_	SB	_	_
+11	auch	auch	auch	ADV	ADV	_	_	-1	12	_	MO	_	_
+12	nach	nach	nach	APPR	APPR	_	_	-1	17	_	MO	_	_
+13	Sanierung	Sanierung	Sanierung	NN	NN	_	dat|sg|fem	-1	12	_	NK	_	_
+14	heute	heute	heute	ADV	ADV	_	_	-1	17	_	MO	_	_
+15	noch	noch	noch	ADV	ADV	_	_	-1	16	_	MO	_	_
+16	bezahlen	bezahlen	bezahlen	VVINF	VVINF	_	_	-1	17	_	OC	_	_
+17	kann	können	können	VMFIN	VMFIN	_	sg|3|pres|ind	-1	5	_	RC	_	_
+18	.	.	.	$.	$.	_	_	-1	17	_	--	_	_
+
+1	Für	für	für	APPR	APPR	_	_	-1	5	_	MO	_	_
+2	die	die	die	ART	ART	_	nom|pl|masc	-1	4	_	NK	_	_
+3	treuen	treu	treu	ADJA	ADJA	_	nom|pl|masc|pos	-1	4	_	NK	_	_
+4	Kiezbewohner	Kiezbewohner	Kiezbewohner	NN	NN	_	nom|pl|masc	-1	1	_	NK	_	_
+5	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+6	daher	daher	daher	PAV	PAV	_	_	-1	7	_	NK	_	_
+7	Überlegungen	Überlegung	Überlegung	NN	NN	_	acc|pl|fem	-1	5	_	SB	_	_
+8	schwer	schwer	schwer	ADJD	ADJD	_	pos	-1	9	_	MO	_	_
+9	nachvollziehbar	nachvollziehbar	nachvollziehbar	ADJD	ADJD	_	pos	-1	5	_	PD	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	die	die	die	ART	ART	_	acc|pl|neut	-1	12	_	NK	_	_
+12	Hochhäuser	Hochhaus	Hochhaus	NN	NN	_	acc|pl|neut	-1	13	_	OA	_	_
+13	abzustocken	abzustocken	abzustocken	VVIZU	VVIZU	_	_	-1	9	_	OC	_	_
+14	oder	oder	oder	KON	KON	_	_	-1	13	_	CD	_	_
+15	gar	gar	gar	ADV	ADV	_	_	-1	18	_	MO	_	_
+16	ganz	ganz	ganz	ADJD	ADJD	_	_	-1	18	_	MO	_	_
+17	zu	zu	zu	PTKZU	PTKZU	_	_	-1	18	_	PM	_	_
+18	schleifen	schleifen	schleifen	VVINF	VVINF	_	_	-1	14	_	CJ	_	_
+19	.	.	.	$.	$.	_	_	-1	18	_	--	_	_
+
+	sentence_start	0	289	410
+	token_offsets	sentence	0	offsets	0::3	4::2	7::3	11::8	20::8	29::6	36::12	49::5	55::5	61::2	64::3	68::2	71::3	75::5	81::1	83::4	88::5	94::2	97::3	101::5	107::8	116::3	120::15	136::1	138::3	142::2	145::3	149::5	155::4	160::13	174::3	178::3	182::5	188::11	200::1	202::5	208::5	214::6	221::7	229::5	235::5	241::3	245::16	262::3	266::6	273::12	286::1
+	token_offsets	sentence	1	offsets	289::2	292::7	300::7	308::6	315::3	319::16	336::1	337::0	339::3	343::6	350::3	354::4	359::8	368::8	377::3	381::9	391::5	397::9	407::1
+	token_offsets	sentence	2	offsets	410::3	414::6	421::3	425::2	428::6	435::10	446::1	448::3	452::8	461::3	465::3	469::14	484::4	489::1
+1	Nur	nur	nur	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	in	in	in	APPR	APPR	_	_	-1	6	_	MO	_	_
+3	der	die	die	ART	ART	_	dat|sg|fem	-1	5	_	NK	_	_
+4	Berliner	Berliner	Berliner	ADJA	ADJA	_	*|*|*|pos	-1	5	_	NK	_	_
+5	Vorstadt	Vorstadt	Vorstadt	NN	NN	_	dat|sg|fem	-1	2	_	NK	_	_
+6	wohnen	wohnen	wohnen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+7	vergleichbar	vergleichbar	vergleichbar	ADJD	ADJD	_	pos	-1	8	_	MO	_	_
+8	viele	viele	viele	PIAT	PIAT	_	nom|pl|*	-1	9	_	NK	_	_
+9	Leute	Leute	Leute	NN	NN	_	nom|pl|*	-1	6	_	SB	_	_
+10	so	so	so	ADV	ADV	_	_	-1	11	_	MO	_	_
+11	nah	nah	nah	ADJD	ADJD	_	pos	-1	6	_	MO	_	_
+12	an	an	an	APPR	APPR	_	_	-1	6	_	MO	_	_
+13	der	die	die	ART	ART	_	dat|sg|fem	-1	14	_	NK	_	_
+14	Havel	Havel	Havel	NE	NE	_	dat|sg|fem	-1	12	_	NK	_	_
+15	,	,	,	$,	$,	_	_	-1	14	_	--	_	_
+16	doch	doch	doch	KON	KON	_	_	-1	6	_	CD	_	_
+17	seien	sein	sein	VAFIN	VAFIN	_	pl|3|pres|subj	-1	16	_	CJ	_	_
+18	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	17	_	SB	_	_
+19	die	die	die	ART	ART	_	nom|pl|fem	-1	21	_	NK	_	_
+20	hohen	hoch	hoch	ADJA	ADJA	_	nom|pl|fem|pos	-1	21	_	NK	_	_
+21	Auflagen	Auflage	Auflage	NN	NN	_	nom|pl|fem	-1	17	_	PD	_	_
+22	von	von	von	APPR	APPR	_	_	-1	21	_	PG	_	_
+23	Denkmalpflegern	Denkmalpfleger	Denkmalpfleger	NN	NN	_	dat|pl|masc	-1	22	_	NK	_	_
+24	,	,	,	$,	$,	_	_	-1	23	_	--	_	_
+25	sei	sein	sein	VAFIN	VAFIN	_	sg|3|pres|subj	-1	10	_	RE	_	_
+26	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	25	_	SB	_	_
+27	der	die	die	ART	ART	_	dat|sg|fem	-1	28	_	NK	_	_
+28	Drang	Drang	Drang	NN	NN	_	dat|sg|fem	-1	25	_	PD	_	_
+29	nach	nach	nach	APPR	APPR	_	_	-1	28	_	MNR	_	_
+30	Maximalgewinn	Maximalgewinn	Maximalgewinn	NN	NN	_	dat|sg|masc	-1	29	_	NK	_	_
+31	bei	bei	bei	APPR	APPR	_	_	-1	30	_	MNR	_	_
+32	den	die	die	ART	ART	_	dat|pl|fem	-1	34	_	NK	_	_
+33	neuen	neu	neu	ADJA	ADJA	_	dat|pl|fem|pos	-1	34	_	NK	_	_
+34	Eigentümern	Eigentümer	Eigentümer	NN	NN	_	dat|pl|fem	-1	31	_	NK	_	_
+35	:	:	:	$.	$.	_	_	-1	34	_	--	_	_
+36	Wegen	wegen	wegen	APPR	APPR	_	_	-1	46	_	MO	_	_
+37	hoher	hoch	hoch	ADJA	ADJA	_	gen|pl|neut|pos	-1	38	_	NK	_	_
+38	Mieten	Miete	Miete	NN	NN	_	gen|pl|neut	-1	36	_	NK	_	_
+39	weichen	weich	weich	ADJA	ADJA	_	gen|pl|neut|pos	-1	41	_	NK	_	_
+40	große	groß	groß	ADJA	ADJA	_	gen|pl|neut|pos	-1	41	_	NK	_	_
+41	Teile	Teil	Teil	NN	NN	_	gen|pl|neut	-1	38	_	AG	_	_
+42	der	die	die	ART	ART	_	gen|sg|fem	-1	43	_	NK	_	_
+43	Stammbevölkerung	Stammbevölkerung	Stammbevölkerung	NN	NN	_	gen|sg|fem	-1	41	_	AG	_	_
+44	den	die	die	ART	ART	_	acc|sg|masc	-1	46	_	NK	_	_
+45	besser	gut	gut	ADJD	ADJD	_	comp	-1	46	_	MO	_	_
+46	Verdienenden	Verdienende	Verdienende	NN	NN	_	dat|pl|*	-1	30	_	SB	_	_
+47	.	.	.	$.	$.	_	_	-1	46	_	--	_	_
+
+1	Am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	4	_	MO	_	_
+2	Kiewitt	Kiewitt	Kiewitt	NN	NN	_	dat|sg|masc	-1	1	_	NK	_	_
+3	dagegen	dagegen	dagegen	PAV	PAV	_	_	-1	2	_	NK	_	_
+4	pflegt	pflegen	pflegen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	man	man	man	PIS	PIS	_	nom|sg|*	-1	4	_	SB	_	_
+6	Bodenständigkeit	Bodenständigkeit	Bodenständigkeit	NN	NN	_	acc|sg|fem	-1	4	_	OA	_	_
+7	:	:	:	$.	$.	_	_	-1	6	_	--	_	_
+8	Die	die	die	ART	ART	_	acc|sg|fem	-1	9	_	NK	_	_
+9	Platte	Platte	Platte	NN	NN	_	acc|sg|fem	-1	10	_	SB	_	_
+10	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	4	_	CJ	_	_
+11	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	13	_	OA	_	_
+12	inwendig	inwendig	inwendig	ADJD	ADJD	_	pos	-1	13	_	MO	_	_
+13	erneuert	erneuern	erneuern	VVPP	VVPP	_	_	-1	10	_	OC	_	_
+14	und	und	und	KON	KON	_	_	-1	13	_	CD	_	_
+15	äußerlich	äußerlich	äußerlich	ADJD	ADJD	_	pos	-1	17	_	MO	_	_
+16	Farbe	Farbe	Farbe	NN	NN	_	acc|sg|fem	-1	17	_	OA	_	_
+17	aufgelegt	auflegen	auflegen	VVPP	VVPP	_	_	-1	14	_	CJ	_	_
+18	.	.	.	$.	$.	_	_	-1	17	_	--	_	_
+
+1	Nun	nun	nun	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	sollte	sollen	sollen	VMFIN	VMFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+3	man	man	man	PIS	PIS	_	nom|sg|*	-1	2	_	SB	_	_
+4	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	6	_	MO	_	_
+5	Umfeld	Umfeld	Umfeld	NN	NN	_	dat|sg|masc	-1	4	_	NK	_	_
+6	nachziehen	nachziehen	nachziehen	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+7	-	-	-	$(	$(	_	_	-1	6	_	--	_	_
+8	die	die	die	ART	ART	_	acc|sg|fem	-1	9	_	NK	_	_
+9	Treuhand	Treuhand	Treuhand	NE	NE	_	acc|sg|fem	-1	6	_	OA	_	_
+10	mit	mit	mit	APPR	APPR	_	_	-1	6	_	MO	_	_
+11	der	die	die	ART	ART	_	dat|sg|fem	-1	12	_	NK	_	_
+12	Ufergaststätte	Ufergaststätte	Ufergaststätte	NN	NN	_	dat|sg|fem	-1	10	_	NK	_	_
+13	etwa	etwa	etwa	ADV	ADV	_	_	-1	12	_	MNR	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+

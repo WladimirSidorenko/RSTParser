@@ -1,0 +1,207 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::10
+1	Notsignale	Notsignal	Notsignal	NN	NN	_	nom|pl|neut	-1	0	_	--	_	_
+
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::3	4::13	18::11	30::4	35::4	40::9	50::8	59::1	61::4	66::3	70::2	73::3	77::2	80::12	93::11	105::2	108::4	113::11	125::6	132::1	134::3	138::2	141::3	145::8	154::4	159::6	166::3	170::3	174::9	184::4	189::8	198::17	216::1	218::7	226::2	229::9	239::1	241::1	243::3	247::1	249::11	261::6	268::1
+1	Die	die	die	ART	ART	_	nom|pl|masc	-1	2	_	NK	_	_
+2	Oranienburger	Oranienburger	Oranienburger	NN	NN	_	nom|pl|masc	-1	4	_	SB	_	_
+3	Mittelstadt	Mittelstadt	Mittelstadt	NN	NN	_	acc|sg|fem	-1	2	_	NK	_	_
+4	kann	können	können	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	7	_	OA	_	_
+6	glücklich	glücklich	glücklich	ADJD	ADJD	_	pos	-1	7	_	MO	_	_
+7	schätzen	schätzen	schätzen	VVINF	VVINF	_	_	-1	4	_	OC	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	dass	dass	dass	KOUS	KOUS	_	_	-1	19	_	CP	_	_
+10	sie	sie	sie	PPER	PPER	_	nom|sg|fem|3	-1	19	_	SB	_	_
+11	zu	zu	zu	APPR	APPR	_	_	-1	19	_	OP	_	_
+12	den	die	die	ART	ART	_	dat|pl|masc	-1	15	_	NK	_	_
+13	15	15	15	CARD	CARD	_	_	-1	15	_	NK	_	_
+14	ausgewählten	ausgewählt	ausgewählt	ADJA	ADJA	_	dat|pl|masc|pos	-1	15	_	NK	_	_
+15	Stadtteilen	Stadtteil	Stadtteil	NN	NN	_	dat|pl|masc	-1	11	_	NK	_	_
+16	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	15	_	MNR	_	_
+17	Land	Land	Land	NN	NN	_	dat|sg|neut	-1	16	_	NK	_	_
+18	Brandenburg	Brandenburg	Brandenburg	NE	NE	_	nom|sg|neut	-1	17	_	NK	_	_
+19	gehört	gehören	gehören	VVFIN	VVFIN	_	sg|3|pres|ind	-1	4	_	MO	_	_
+20	,	,	,	$,	$,	_	_	-1	19	_	--	_	_
+21	die	die	die	PRELS	PRELS	_	nom|sg|fem	-1	42	_	SB	_	_
+22	in	in	in	APPR	APPR	_	_	-1	41	_	MO	_	_
+23	den	die	die	ART	ART	_	dat|pl|neut	-1	26	_	NK	_	_
+24	nächsten	nah	nah	ADJA	ADJA	_	dat|pl|neut|pos	-1	26	_	NK	_	_
+25	fünf	fünf	fünf	CARD	CARD	_	_	-1	26	_	NK	_	_
+26	Jahren	Jahr	Jahr	NN	NN	_	dat|pl|neut	-1	22	_	NK	_	_
+27	vom	von	von	APPRART	APPRART	_	dat|sg|masc	-1	41	_	OP	_	_
+28	220	220	220	CARD	CARD	_	_	-1	29	_	NMC	_	_
+29	Millionen	Million	Million	NN	NN	_	acc|pl|fem	-1	31	_	AMS	_	_
+30	Mark	Mark	Mark	NN	NN	_	*|*|fem	-1	29	_	NK	_	_
+31	schweren	schwer	schwer	ADJA	ADJA	_	dat|sg|neut|pos	-1	32	_	NK	_	_
+32	EU-Förderprogramm	EU-Förderprogramm	EU-Förderprogramm	NN	NN	_	dat|sg|neut	-1	27	_	NK	_	_
+33	"	"	"	$(	$(	_	_	-1	32	_	--	_	_
+34	Zukunft	Zukunft	Zukunft	NN	NN	_	dat|sg|fem	-1	32	_	CJ	_	_
+35	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	34	_	MNR	_	_
+36	Stadtteil	Stadtteil	Stadtteil	NN	NN	_	dat|sg|neut	-1	35	_	NK	_	_
+37	"	"	"	$(	$(	_	_	-1	36	_	--	_	_
+38	(	(	(	$(	$(	_	_	-1	37	_	--	_	_
+39	ZiS	ZiS	ZiS	NE	NE	_	nom|sg|*	-1	32	_	APP	_	_
+40	)	)	)	$(	$(	_	_	-1	39	_	--	_	_
+41	profitieren	profitieren	profitieren	VVINF	VVINF	_	_	-1	42	_	OC	_	_
+42	werden	werden	werden	VAFIN	VAFIN	_	_	-1	19	_	SB	_	_
+43	.	.	.	$.	$.	_	_	-1	42	_	--	_	_
+
+	sentence_start	0	108	300	431	530	655	725	829
+	token_offsets	sentence	0	offsets	0::4	5::5	11::16	28::3	32::9	42::2	45::3	49::11	61::7	69::3	73::3	77::12	90::9	100::4	105::1
+	token_offsets	sentence	1	offsets	108::6	115::5	121::3	125::7	133::4	138::3	142::5	148::15	164::12	177::1	179::5	185::9	195::3	199::6	206::11	218::14	233::1	235::3	239::4	244::10	255::1	257::6	264::17	282::4	287::9	297::1
+	token_offsets	sentence	2	offsets	300::4	305::15	321::5	327::6	334::1	336::4	341::4	346::3	350::3	354::6	361::3	365::8	374::3	378::11	390::5	396::4	401::3	405::6	412::11	424::3	428::1
+	token_offsets	sentence	3	offsets	431::4	436::10	447::10	458::7	466::3	470::12	483::3	487::1	489::8	498::1	500::4	505::1	507::4	512::8	521::1	523::3	527::1
+	token_offsets	sentence	4	offsets	530::3	534::10	545::7	553::3	557::3	561::10	572::7	580::4	585::3	589::6	596::3	600::12	613::2	616::11	628::2	631::11	643::8	652::1
+	token_offsets	sentence	5	offsets	655::9	665::8	674::3	678::9	688::11	700::2	703::6	710::3	714::7	722::1
+	token_offsets	sentence	6	offsets	725::4	730::2	733::4	738::3	742::11	754::6	761::7	769::3	773::8	782::4	787::1	789::5	795::6	802::3	806::12	819::6	826::1
+	token_offsets	sentence	7	offsets	829::3	833::4	838::4	843::4	848::3	852::9	862::3	866::6	873::3	877::9	887::2	890::3	894::11	906::5	912::13	926::1
+1	Eine	eine	eine	ART	ART	_	nom|sg|fem	-1	3	_	NK	_	_
+2	erste	erst	erst	ADJA	ADJA	_	nom|sg|fem|pos	-1	3	_	NK	_	_
+3	Bestandsaufnahme	Bestandsaufnahme	Bestandsaufnahme	NN	NN	_	nom|sg|fem	-1	9	_	SB	_	_
+4	der	die	die	ART	ART	_	gen|sg|fem	-1	5	_	NK	_	_
+5	Situation	Situation	Situation	NN	NN	_	gen|sg|fem	-1	3	_	AG	_	_
+6	in	in	in	APPR	APPR	_	_	-1	3	_	MNR	_	_
+7	der	die	die	ART	ART	_	dat|sg|fem	-1	8	_	NK	_	_
+8	Mittelstadt	Mittelstadt	Mittelstadt	NN	NN	_	dat|sg|fem	-1	6	_	NK	_	_
+9	brachte	bringen	bringen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+10	nun	nun	nun	ADV	ADV	_	_	-1	9	_	MO	_	_
+11	ein	eine	eine	ART	ART	_	acc|sg|neut	-1	14	_	NK	_	_
+12	überraschend	überraschend	überraschend	ADJD	ADJD	_	pos	-1	13	_	MO	_	_
+13	negatives	negativ	negativ	ADJA	ADJA	_	acc|sg|neut|pos	-1	14	_	NK	_	_
+14	Bild	Bild	Bild	NN	NN	_	acc|sg|neut	-1	9	_	SB	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+1	Bisher	bisher	bisher	ADV	ADV	_	_	-1	9	_	MO	_	_
+2	wurde	werden	werden	VAFIN	VAFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+3	ihr	ihr	ihr	PPOSAT	PPOSAT	_	nom|sg|masc	-1	4	_	NK	_	_
+4	Zustand	Zustand	Zustand	NN	NN	_	nom|sg|masc	-1	2	_	SB	_	_
+5	zwar	zwar	zwar	ADV	ADV	_	_	-1	9	_	MO	_	_
+6	als	als	als	KOUS	KOUS	_	_	-1	9	_	MO	_	_
+7	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	8	_	NG	_	_
+8	unproblematisch	unproblematisch	unproblematisch	ADJD	ADJD	_	pos	-1	6	_	NK	_	_
+9	eingeschätzt	einschätzen	einschätzen	VVPP	VVPP	_	_	-1	2	_	OC	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	12	_	NK	_	_
+12	Vergleich	Vergleich	Vergleich	NN	NN	_	acc|sg|masc	-1	22	_	OA	_	_
+13	mit	mit	mit	APPR	APPR	_	_	-1	12	_	MNR	_	_
+14	schwer	schwer	schwer	ADJD	ADJD	_	pos	-1	15	_	MO	_	_
+15	gebeutelten	gebeutelt	gebeutelt	ADJA	ADJA	_	dat|pl|fem|pos	-1	16	_	NK	_	_
+16	Neubaugebieten	Neubaugebiet	Neubaugebiet	NN	NN	_	dat|pl|fem	-1	13	_	NK	_	_
+17	,	,	,	$,	$,	_	_	-1	16	_	--	_	_
+18	wie	wie	wie	KOUS	KOUS	_	_	-1	20	_	CM	_	_
+19	etwa	etwa	etwa	ADV	ADV	_	_	-1	20	_	MO	_	_
+20	Velten-Süd	Velten-Süd	Velten-Süd	NN	NN	_	nom|sg|masc	-1	16	_	PAR	_	_
+21	,	,	,	$,	$,	_	_	-1	20	_	--	_	_
+22	hätten	haben	haben	VAFIN	VAFIN	_	pl|3|past|subj	-1	2	_	SB	_	_
+23	Kommunalpolitiker	Kommunalpolitiker	Kommunalpolitiker	NN	NN	_	nom|pl|masc	-1	25	_	OA	_	_
+24	aber	aber	aber	ADV	ADV	_	_	-1	25	_	MO	_	_
+25	abgelehnt	ablehnen	ablehnen	VVPP	VVPP	_	_	-1	22	_	OC	_	_
+26	.	.	.	$.	$.	_	_	-1	25	_	--	_	_
+
+1	Eine	eine	eine	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Bürgerbefragung	Bürgerbefragung	Bürgerbefragung	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+3	ergab	ergeben	ergeben	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+4	jedoch	jedoch	jedoch	ADV	ADV	_	_	-1	3	_	MO	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	dass	dass	dass	KOUS	KOUS	_	_	-1	20	_	CP	_	_
+7	mehr	mehr	mehr	ADV	ADV	_	*|*|*	-1	20	_	SB	_	_
+8	als	als	als	KOKOM	KOKOM	_	_	-1	10	_	CM	_	_
+9	die	die	die	ART	ART	_	nom|sg|fem	-1	10	_	NK	_	_
+10	Hälfte	Hälfte	Hälfte	NN	NN	_	nom|sg|fem	-1	7	_	CC	_	_
+11	der	die	die	ART	ART	_	gen|pl|masc	-1	12	_	NK	_	_
+12	Bewohner	Bewohner	Bewohner	NN	NN	_	gen|pl|masc	-1	10	_	AG	_	_
+13	der	die	die	ART	ART	_	gen|sg|fem	-1	14	_	NK	_	_
+14	Mittelstadt	Mittelstadt	Mittelstadt	NN	NN	_	gen|sg|fem	-1	12	_	AG	_	_
+15	schon	schon	schon	ADV	ADV	_	_	-1	16	_	MO	_	_
+16	über	über	über	APPR	APPR	_	_	-1	19	_	MO	_	_
+17	den	die	die	ART	ART	_	acc|sg|masc	-1	18	_	NK	_	_
+18	Wegzug	Wegzug	Wegzug	NN	NN	_	acc|sg|masc	-1	16	_	NK	_	_
+19	nachgedacht	nachdenken	nachdenken	VVPP	VVPP	_	_	-1	20	_	OC	_	_
+20	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	3	_	OC	_	_
+21	.	.	.	$.	$.	_	_	-1	20	_	--	_	_
+
+1	Eine	eine	eine	ART	ART	_	nom|sg|fem	-1	3	_	NK	_	_
+2	bedeutende	bedeutend	bedeutend	ADJA	ADJA	_	nom|sg|fem|pos	-1	3	_	NK	_	_
+3	Minderheit	Minderheit	Minderheit	NN	NN	_	nom|sg|fem	-1	4	_	SB	_	_
+4	schätzt	schätzen	schätzen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	die	die	die	ART	ART	_	acc|sg|fem	-1	6	_	NK	_	_
+6	Wohnqualität	Wohnqualität	Wohnqualität	NN	NN	_	acc|sg|fem	-1	4	_	OA	_	_
+7	als	als	als	KOKOM	KOKOM	_	_	-1	4	_	MO	_	_
+8	"	"	"	$(	$(	_	_	-1	7	_	--	_	_
+9	schlecht	schlecht	schlecht	ADJD	ADJD	_	pos	-1	7	_	NK	_	_
+10	"	"	"	$(	$(	_	_	-1	9	_	--	_	_
+11	oder	oder	oder	KON	KON	_	_	-1	9	_	CD	_	_
+12	"	"	"	$(	$(	_	_	-1	11	_	--	_	_
+13	sehr	sehr	sehr	ADV	ADV	_	_	-1	14	_	MO	_	_
+14	schlecht	schlecht	schlecht	ADJD	ADJD	_	pos	-1	11	_	CJ	_	_
+15	"	"	"	$(	$(	_	_	-1	14	_	--	_	_
+16	ein	ein	ein	PTKVZ	PTKVZ	_	_	-1	4	_	SVP	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
+1	Als	als	als	KOKOM	KOKOM	_	_	-1	17	_	MO	_	_
+2	deutliches	deutlich	deutlich	ADJA	ADJA	_	nom|sg|neut|pos	-1	3	_	NK	_	_
+3	Zeichen	Zeichen	Zeichen	NN	NN	_	nom|sg|neut	-1	1	_	NK	_	_
+4	für	für	für	APPR	APPR	_	_	-1	3	_	MNR	_	_
+5	den	die	die	ART	ART	_	acc|sg|masc	-1	7	_	NK	_	_
+6	beginnenen	beginnenen	beginnenen	ADJA	ADJA	_	acc|sg|masc|pos	-1	7	_	NK	_	_
+7	Abstieg	Abstieg	Abstieg	NN	NN	_	acc|sg|masc	-1	4	_	NK	_	_
+8	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+9	der	die	die	ART	ART	_	nom|sg|masc	-1	10	_	NK	_	_
+10	Einbau	Einbau	Einbau	NN	NN	_	nom|sg|masc	-1	8	_	SB	_	_
+11	von	von	von	APPR	APPR	_	_	-1	10	_	PG	_	_
+12	Sperrgittern	Sperrgitter	Sperrgitter	NN	NN	_	dat|pl|neut	-1	11	_	NK	_	_
+13	an	an	an	APPR	APPR	_	_	-1	10	_	MNR	_	_
+14	Durchgängen	Durchgang	Durchgang	NN	NN	_	dat|pl|masc	-1	13	_	NK	_	_
+15	zu	zu	zu	APPR	APPR	_	_	-1	17	_	MO	_	_
+16	Wohnanlagen	Wohnanlage	Wohnanlage	NN	NN	_	dat|pl|fem	-1	15	_	NK	_	_
+17	gewertet	werten	werten	VVPP	VVPP	_	_	-1	8	_	OC	_	_
+18	.	.	.	$.	$.	_	_	-1	17	_	--	_	_
+
+1	Einwohner	Einwohner	Einwohner	NN	NN	_	nom|pl|masc	-1	2	_	SB	_	_
+2	sprechen	sprechen	sprechen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	von	von	von	APPR	APPR	_	_	-1	2	_	OP	_	_
+4	ständigem	ständig	ständig	ADJA	ADJA	_	dat|sg|masc|pos	-1	5	_	NK	_	_
+5	Vandalismus	Vandalismus	Vandalismus	NN	NN	_	dat|sg|masc	-1	3	_	NK	_	_
+6	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	5	_	MNR	_	_
+7	Umfeld	Umfeld	Umfeld	NN	NN	_	dat|sg|masc	-1	6	_	NK	_	_
+8	der	die	die	ART	ART	_	gen|pl|fem	-1	9	_	NK	_	_
+9	Schulen	Schule	Schule	NN	NN	_	gen|pl|fem	-1	7	_	AG	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+1	Dass	dass	dass	KOUS	KOUS	_	_	-1	10	_	CP	_	_
+2	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	10	_	EP	_	_
+3	nach	nach	nach	APPR	APPR	_	_	-1	10	_	MO	_	_
+4	den	die	die	ART	ART	_	dat|pl|masc	-1	5	_	NK	_	_
+5	Notsignalen	Notsignalen	Notsignalen	NN	NN	_	dat|pl|masc	-1	3	_	NK	_	_
+6	wieder	wieder	wieder	ADV	ADV	_	_	-1	10	_	MO	_	_
+7	Zeichen	Zeichen	Zeichen	NN	NN	_	nom|pl|neut	-1	10	_	OA	_	_
+8	der	die	die	ART	ART	_	gen|sg|fem	-1	9	_	NK	_	_
+9	Hoffnung	Hoffnung	Hoffnung	NN	NN	_	gen|sg|fem	-1	7	_	AG	_	_
+10	gibt	geben	geben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	13	_	MO	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	dafür	dafür	dafür	PAV	PAV	_	_	-1	1	_	NK	_	_
+13	könnte	können	können	VMFIN	VMFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+14	das	die	die	ART	ART	_	nom|sg|neut	-1	15	_	NK	_	_
+15	ZiS-Programm	ZiS-Programm	ZiS-Programm	NN	NN	_	nom|sg|neut	-1	13	_	SB	_	_
+16	sorgen	sorgen	sorgen	VVINF	VVINF	_	_	-1	13	_	OC	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
+1	Das	die	die	PDS	PDS	_	nom|sg|neut	-1	3	_	SB	_	_
+2	aber	aber	aber	ADV	ADV	_	_	-1	15	_	MO	_	_
+3	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	ohne	ohne	ohne	APPR	APPR	_	_	-1	15	_	MO	_	_
+5	ein	eine	eine	ART	ART	_	acc|sg|neut	-1	6	_	NK	_	_
+6	Mitwirken	Mitwirken	Mitwirken	NN	NN	_	acc|sg|neut	-1	4	_	NK	_	_
+7	der	die	die	ART	ART	_	gen|pl|masc	-1	8	_	NK	_	_
+8	Mieter	Mieter	Mieter	NN	NN	_	gen|pl|masc	-1	6	_	AG	_	_
+9	und	und	und	KON	KON	_	_	-1	8	_	CD	_	_
+10	Vermieter	Vermieter	Vermieter	NN	NN	_	gen|pl|masc	-1	9	_	CJ	_	_
+11	in	in	in	APPR	APPR	_	_	-1	15	_	MO	_	_
+12	der	die	die	ART	ART	_	dat|sg|fem	-1	13	_	NK	_	_
+13	Mittelstadt	Mittelstadt	Mittelstadt	NN	NN	_	dat|sg|fem	-1	11	_	NK	_	_
+14	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	15	_	NG	_	_
+15	funktionieren	funktionieren	funktionieren	VVINF	VVINF	_	_	-1	3	_	OC	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+

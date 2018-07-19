@@ -1,0 +1,227 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::6	7::1	9::5	15::8
+1	Spähen	Spähen	Spähen	NN	NN	_	nom|pl|fem	-1	4	_	OA	_	_
+2	,	,	,	$,	$,	_	_	-1	1	_	--	_	_
+3	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	4	_	NG	_	_
+4	spitzeln	spitzeln	spitzeln	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+
+	sentence_start	0	132	281	408
+	token_offsets	sentence	0	offsets	0::3	4::3	8::3	12::7	20::1	22::3	26::6	33::3	37::7	45::4	50::3	54::10	65::3	69::4	74::6	81::5	87::8	96::2	99::3	103::11	115::3	119::9	129::1
+	token_offsets	sentence	1	offsets	132::3	136::2	139::3	143::3	147::3	151::6	158::1	160::3	164::3	168::3	172::12	185::2	188::4	193::2	196::3	200::5	206::3	210::3	214::5	220::3	224::3	228::13	242::3	246::3	250::6	257::5	263::1	265::4	270::7	278::1
+	token_offsets	sentence	2	offsets	281::3	285::5	291::1	293::4	298::2	301::3	305::13	319::1	321::4	326::2	329::8	338::3	342::6	349::7	357::3	361::3	365::5	371::3	375::5	381::4	386::9	396::8	405::1
+	token_offsets	sentence	3	offsets	408::3	412::6	419::11	431::7	439::8	448::3	452::6	459::3	463::3	467::8	476::1
+1	Den	die	die	ART	ART	_	acc|sg|masc	-1	2	_	NK	_	_
+2	Hut	Hut	Hut	NN	NN	_	acc|sg|masc	-1	16	_	OA	_	_
+3	von	von	von	APPR	APPR	_	_	-1	2	_	PG	_	_
+4	Marlowe	Marlowe	Marlowe	NE	NE	_	dat|sg|*	-1	3	_	NK	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	die	die	die	ART	ART	_	acc|sg|fem	-1	7	_	NK	_	_
+7	Pfeife	Pfeife	Pfeife	NN	NN	_	acc|sg|fem	-1	2	_	CJ	_	_
+8	von	von	von	APPR	APPR	_	_	-1	7	_	PG	_	_
+9	Maigret	Maigret	Maigret	NE	NE	_	dat|sg|neut	-1	8	_	NK	_	_
+10	oder	oder	oder	KON	KON	_	_	-1	7	_	CD	_	_
+11	das	die	die	ART	ART	_	nom|sg|neut	-1	12	_	NK	_	_
+12	Strickzeug	Strickzeug	Strickzeug	NN	NN	_	nom|sg|neut	-1	10	_	CJ	_	_
+13	von	von	von	APPR	APPR	_	_	-1	12	_	PG	_	_
+14	Miss	Miss	Miss	NN	NN	_	dat|sg|fem	-1	13	_	NK	_	_
+15	Marple	Marple	Marple	NE	NE	_	dat|sg|fem	-1	14	_	NK	_	_
+16	kennt	kennen	kennen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+17	Detektiv	Detektiv	Detektiv	NN	NN	_	nom|sg|masc	-1	16	_	SB	_	_
+18	T.	T.	T.	NE	NE	_	nom|sg|masc	-1	17	_	NK	_	_
+19	aus	aus	aus	APPR	APPR	_	_	-1	16	_	MO	_	_
+20	Hennigsdorf	Hennigsdorf	Hennigsdorf	NN	NN	_	dat|sg|neut	-1	19	_	NK	_	_
+21	vom	von	von	APPRART	APPRART	_	dat|sg|neut	-1	20	_	MNR	_	_
+22	Schmökern	Schmöker|Schmökern	Schmöker|Schmökern	NN	NN	_	dat|sg|neut	-1	21	_	NK	_	_
+23	.	.	.	$.	$.	_	_	-1	22	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	3	_	JU	_	_
+2	er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	3	_	SB	_	_
+3	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	aus	aus	aus	APPR	APPR	_	_	-1	29	_	MO	_	_
+5	den	die	die	ART	ART	_	dat|pl|neut	-1	6	_	NK	_	_
+6	Krimis	Krimi	Krimi	NN	NN	_	dat|pl|neut	-1	4	_	NK	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	die	die	die	PRELS	PRELS	_	nom|pl|neut	-1	16	_	SB	_	_
+9	mit	mit	mit	APPR	APPR	_	_	-1	15	_	MO	_	_
+10	der	die	die	ART	ART	_	dat|sg|fem	-1	11	_	NK	_	_
+11	Wirklichkeit	Wirklichkeit	Wirklichkeit	NN	NN	_	dat|sg|fem	-1	9	_	NK	_	_
+12	so	so	so	ADV	ADV	_	_	-1	13	_	MO	_	_
+13	viel	viele	viele	PIS	PIS	_	*|*|*	-1	15	_	MO	_	_
+14	zu	zu	zu	PTKZU	PTKZU	_	_	-1	15	_	PM	_	_
+15	tun	tun	tun	VVINF	VVINF	_	_	-1	16	_	OC	_	_
+16	haben	haben	haben	VAFIN	VAFIN	_	pl|3|pres|ind	-1	6	_	RC	_	_
+17	wie	wie	wie	KOKOM	KOKOM	_	_	-1	19	_	CM	_	_
+18	der	die	die	ART	ART	_	nom|sg|masc	-1	19	_	NK	_	_
+19	Traum	Traum	Traum	NN	NN	_	nom|sg|masc	-1	12	_	CC	_	_
+20	von	von	von	APPR	APPR	_	_	-1	19	_	OP	_	_
+21	der	die	die	ART	ART	_	dat|sg|fem	-1	22	_	NK	_	_
+22	Gerechtigkeit	Gerechtigkeit	Gerechtigkeit	NN	NN	_	dat|sg|fem	-1	20	_	NK	_	_
+23	mit	mit	mit	APPR	APPR	_	_	-1	22	_	MNR	_	_
+24	dem	die	die	ART	ART	_	dat|sg|masc	-1	26	_	NK	_	_
+25	realen	real	real	ADJA	ADJA	_	dat|sg|masc|pos	-1	26	_	NK	_	_
+26	Leben	Leben	Leben	NN	NN	_	dat|sg|masc	-1	23	_	NK	_	_
+27	,	,	,	$,	$,	_	_	-1	26	_	--	_	_
+28	viel	viel	viel	ADV	ADV	_	*|*|*	-1	29	_	MO	_	_
+29	gelernt	lernen	lernen	VVPP	VVPP	_	_	-1	3	_	OC	_	_
+30	.	.	.	$.	$.	_	_	-1	29	_	--	_	_
+
+1	Vor	vor	vor	APPR	APPR	_	_	-1	6	_	MO	_	_
+2	allem	alle	alle	PIS	PIS	_	dat|sg|neut	-1	1	_	NK	_	_
+3	,	,	,	$,	$,	_	_	-1	2	_	--	_	_
+4	sagt	sagen	sagen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	4	_	SB	_	_
+6	mit	mit	mit	APPR	APPR	_	_	-1	4	_	MO	_	_
+7	Augenzwinkern	Augenzwinkern	Augenzwinkern	NN	NN	_	dat|pl|masc	-1	6	_	NK	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	habe	haben	haben	VAFIN	VAFIN	_	sg|3|pres|subj	-1	4	_	OC	_	_
+10	er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	9	_	SB	_	_
+11	zwischen	zwischen	zwischen	APPR	APPR	_	_	-1	14	_	MO	_	_
+12	den	die	die	ART	ART	_	dat|pl|*	-1	13	_	NK	_	_
+13	Zeilen	Zeile	Zeile	NN	NN	_	dat|pl|*	-1	11	_	NK	_	_
+14	gelesen	lesen	lesen	VVPP	VVPP	_	_	-1	9	_	OC	_	_
+15	und	und	und	KON	KON	_	_	-1	9	_	CD	_	_
+16	sei	sein	sein	VAFIN	VAFIN	_	sg|3|pres|subj	-1	15	_	CJ	_	_
+17	dabei	dabei	dabei	PAV	PAV	_	_	-1	22	_	NK	_	_
+18	auf	auf	auf	APPR	APPR	_	_	-1	22	_	MO	_	_
+19	etwas	etwas	etwas	PIS	PIS	_	*|*|neut	-1	21	_	NK	_	_
+20	ganz	ganz	ganz	ADV	ADV	_	_	-1	22	_	MO	_	_
+21	Wichtiges	Wichtige	Wichtige	NN	NN	_	acc|sg|neut	-1	18	_	NK	_	_
+22	gestoßen	stoßen	stoßen	VVPP	VVPP	_	_	-1	16	_	OC	_	_
+23	.	.	.	$.	$.	_	_	-1	22	_	--	_	_
+
+1	Den	die	die	ART	ART	_	acc|sg|masc	-1	3	_	NK	_	_
+2	feinen	fein	fein	ADJA	ADJA	_	acc|sg|masc|pos	-1	3	_	NK	_	_
+3	Unterschied	Unterschied	Unterschied	NN	NN	_	acc|sg|masc	-1	0	_	--	_	_
+4	nämlich	nämlich	nämlich	ADV	ADV	_	_	-1	3	_	MO	_	_
+5	zwischen	zwischen	zwischen	APPR	APPR	_	_	-1	3	_	MNR	_	_
+6	dem	die	die	ART	ART	_	dat|sg|masc	-1	7	_	NK	_	_
+7	Spähen	Spähen	Spähen	NN	NN	_	dat|sg|masc	-1	5	_	NK	_	_
+8	und	und	und	KON	KON	_	_	-1	7	_	CD	_	_
+9	dem	die	die	ART	ART	_	dat|sg|masc	-1	10	_	NK	_	_
+10	Spitzeln	Spitzel|Spitzeln	Spitzel|Spitzeln	NN	NN	_	dat|sg|masc	-1	8	_	CJ	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+	sentence_start	0	133	410	528	586	662
+	token_offsets	sentence	0	offsets	0::7	8::3	12::8	21::5	27::3	31::10	42::3	46::7	54::7	62::1	64::3	68::3	72::10	83::9	93::11	105::5	111::5	117::12	130::1
+	token_offsets	sentence	1	offsets	133::3	137::4	142::5	148::3	152::5	158::4	163::4	168::6	175::6	182::5	188::1	190::4	195::2	198::9	208::4	213::3	217::3	221::8	230::8	239::5	245::1	247::2	250::2	253::13	267::2	270::6	277::1	279::3	283::13	297::9	307::4	312::8	321::10	332::5	338::1	340::3	344::8	353::6	360::8	369::7	377::8	386::4	391::8	400::6	407::1
+	token_offsets	sentence	2	offsets	410::2	413::11	425::2	428::10	439::3	443::11	455::7	463::7	471::3	475::2	478::5	484::6	491::1	493::3	497::3	501::3	505::12	518::6	525::1
+	token_offsets	sentence	3	offsets	528::5	534::4	539::3	543::2	546::3	550::6	557::9	567::8	576::6	583::1
+	token_offsets	sentence	4	offsets	586::4	591::6	598::4	603::5	609::3	613::11	625::3	629::8	638::12	651::7	659::1
+	token_offsets	sentence	5	offsets	662::4	667::2	670::8	679::2	682::6	689::13	703::1
+1	Während	während	während	APPR	APPR	_	_	-1	9	_	MO	_	_
+2	den	die	die	ART	ART	_	dat|pl|*	-1	3	_	NK	_	_
+3	Detektiv	Detektiv	Detektiv	NN	NN	_	dat|pl|*	-1	1	_	NK	_	_
+4	immer	immer	immer	ADV	ADV	_	_	-1	9	_	MO	_	_
+5	ein	eine	eine	ART	ART	_	acc|sg|neut	-1	6	_	NK	_	_
+6	Tatbestand	Tatbestand	Tatbestand	NN	NN	_	acc|sg|neut	-1	9	_	OA	_	_
+7	zum	zu	zu	APPRART	APPRART	_	dat|sg|masc	-1	9	_	MO	_	_
+8	Handeln	Handeln	Handeln	NN	NN	_	dat|sg|masc	-1	7	_	NK	_	_
+9	fordere	fordern	fordern	VVFIN	VVFIN	_	sg|3|pres|subj	-1	11	_	MO	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	sei	sein	sein	VAFIN	VAFIN	_	sg|3|pres|subj	-1	0	_	--	_	_
+12	das	die	die	ART	ART	_	nom|sg|neut	-1	13	_	NK	_	_
+13	Aushorchen	Aushorchen	Aushorchen	NN	NN	_	nom|sg|neut	-1	11	_	SB	_	_
+14	unseligen	unselig	unselig	ADJA	ADJA	_	gen|sg|neut|pos	-1	15	_	NK	_	_
+15	Angedenkens	Angedenken	Angedenken	NN	NN	_	gen|sg|neut	-1	13	_	AG	_	_
+16	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	11	_	NG	_	_
+17	damit	damit	damit	PAV	PAV	_	_	-1	18	_	NK	_	_
+18	vergleichbar	vergleichbar	vergleichbar	ADJD	ADJD	_	pos	-1	11	_	PD	_	_
+19	.	.	.	$.	$.	_	_	-1	18	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	3	_	JU	_	_
+2	doch	doch	doch	ADV	ADV	_	_	-1	3	_	MO	_	_
+3	macht	machen	machen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	der	die	die	ART	ART	_	nom|sg|masc	-1	6	_	NK	_	_
+5	junge	jung	jung	ADJA	ADJA	_	nom|sg|masc|pos	-1	6	_	NK	_	_
+6	Mann	Mann	Mann	NN	NN	_	nom|sg|masc	-1	3	_	SB	_	_
+7	auch	auch	auch	ADV	ADV	_	_	-1	3	_	MO	_	_
+8	keinen	keine	keine	PIAT	PIAT	_	acc|sg|masc	-1	9	_	NK	_	_
+9	Schmus	Schmus	Schmus	NN	NN	_	acc|sg|masc	-1	3	_	OA	_	_
+10	darum	darum	darum	PAV	PAV	_	_	-1	11	_	NK	_	_
+11	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+12	dass	dass	dass	KOUS	KOUS	_	_	-1	20	_	CP	_	_
+13	er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	20	_	SB	_	_
+14	natürlich	natürlich	natürlich	ADV	ADV	_	_	-1	20	_	MO	_	_
+15	auch	auch	auch	ADV	ADV	_	_	-1	20	_	MO	_	_
+16	mal	mal	mal	ADV	ADV	_	_	-1	20	_	MO	_	_
+17	ein	eine	eine	ART	ART	_	_	-1	18	_	NK	_	_
+18	bisschen	bisschen	bisschen	PIS	PIS	_	_	-1	19	_	OA	_	_
+19	lavieren	lavieren	lavieren	VVINF	VVINF	_	_	-1	20	_	OC	_	_
+20	müsse	müssen	müssen	VMFIN	VMFIN	_	sg|3|pres|subj	-1	9	_	OC	_	_
+21	,	,	,	$,	$,	_	_	-1	20	_	--	_	_
+22	um	um	um	KOUI	KOUI	_	_	-1	26	_	CP	_	_
+23	an	an	an	APPR	APPR	_	_	-1	26	_	MO	_	_
+24	Informationen	Information	Information	NN	NN	_	acc|pl|fem	-1	23	_	NK	_	_
+25	zu	zu	zu	PTKZU	PTKZU	_	_	-1	26	_	PM	_	_
+26	kommen	kommen	kommen	VVINF	VVINF	_	_	-1	20	_	MO	_	_
+27	,	,	,	$,	$,	_	_	-1	26	_	--	_	_
+28	die	die	die	ART	ART	_	acc|pl|fem	-1	29	_	NK	_	_
+29	Verwicklungen	Verwicklung	Verwicklung	NN	NN	_	acc|pl|fem	-1	30	_	OA	_	_
+30	aufhellen	aufhellen	aufhellen	VVINF	VVINF	_	_	-1	26	_	CJ	_	_
+31	oder	oder	oder	KON	KON	_	_	-1	30	_	CD	_	_
+32	Menschen	Mensch	Mensch	NN	NN	_	acc|pl|masc	-1	34	_	DA	_	_
+33	Gewissheit	Gewissheit	Gewissheit	NN	NN	_	nom|sg|fem	-1	34	_	OA	_	_
+34	geben	geben	geben	VVINF	VVINF	_	_	-1	31	_	CJ	_	_
+35	,	,	,	$,	$,	_	_	-1	34	_	--	_	_
+36	die	die	die	ART	ART	_	acc|sg|fem	-1	38	_	NK	_	_
+37	schwarze	schwarz	schwarz	ADJA	ADJA	_	acc|sg|fem|pos	-1	38	_	NK	_	_
+38	Schafe	Schaf	Schaf	NN	NN	_	acc|sg|fem	-1	41	_	OA	_	_
+39	entweder	entweder	entweder	KON	KON	_	_	-1	41	_	CD	_	_
+40	kräftig	kräftig	kräftig	ADJD	ADJD	_	pos	-1	41	_	MO	_	_
+41	abseifen	abseifen	abseifen	VVINF	VVINF	_	_	-1	34	_	CJ	_	_
+42	oder	oder	oder	KON	KON	_	_	-1	41	_	CD	_	_
+43	Einsicht	Einsicht	Einsicht	NN	NN	_	acc|sg|fem	-1	44	_	OA	_	_
+44	wecken	wecken	wecken	VVINF	VVINF	_	_	-1	42	_	CJ	_	_
+45	.	.	.	$.	$.	_	_	-1	44	_	--	_	_
+
+1	Im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	18	_	MO	_	_
+2	Unterschied	Unterschied	Unterschied	NN	NN	_	dat|sg|masc	-1	1	_	NK	_	_
+3	zu	zu	zu	APPR	APPR	_	_	-1	2	_	MNR	_	_
+4	Detektiven	Detektiv	Detektiv	NN	NN	_	dat|pl|neut	-1	3	_	NK	_	_
+5	der	die	die	ART	ART	_	gen|sg|fem	-1	7	_	NK	_	_
+6	bekannteren	bekannt	bekannt	ADJA	ADJA	_	gen|sg|fem|pos	-1	7	_	NK	_	_
+7	Prägung	Prägung	Prägung	NN	NN	_	gen|sg|fem	-1	4	_	AG	_	_
+8	nämlich	nämlich	nämlich	ADV	ADV	_	_	-1	18	_	MO	_	_
+9	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+10	T.	T.	T.	NE	NE	_	nom|sg|*	-1	9	_	SB	_	_
+11	keine	keine	keine	PIAT	PIAT	_	acc|sg|fem	-1	12	_	NK	_	_
+12	Rechte	Recht|Rechte	Recht|Rechte	NN	NN	_	acc|sg|fem	-1	9	_	OA	_	_
+13	,	,	,	$,	$,	_	_	-1	12	_	--	_	_
+14	die	die	die	PRELS	PRELS	_	nom|sg|fem	-1	18	_	SB	_	_
+15	ihm	er	er	PPER	PPER	_	dat|sg|masc|3	-1	18	_	DA	_	_
+16	bei	bei	bei	APPR	APPR	_	_	-1	18	_	MO	_	_
+17	Ermittlungen	Ermittlung	Ermittlung	NN	NN	_	dat|pl|fem	-1	16	_	NK	_	_
+18	helfen	helfen	helfen	VVINF	VVINF	_	_	-1	12	_	RC	_	_
+19	.	.	.	$.	$.	_	_	-1	18	_	--	_	_
+
+1	Eines	eine	eine	PIS	PIS	_	acc|sg|neut	-1	3	_	OA	_	_
+2	aber	aber	aber	ADV	ADV	_	_	-1	1	_	MO	_	_
+3	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	3	_	SB	_	_
+5	mit	mit	mit	APPR	APPR	_	_	-1	9	_	MO	_	_
+6	seinen	sein	sein	PPOSAT	PPOSAT	_	dat|pl|fem	-1	8	_	NK	_	_
+7	berühmten	berühmt	berühmt	ADJA	ADJA	_	dat|pl|fem|pos	-1	8	_	NK	_	_
+8	Kollegen	Kollege	Kollege	NN	NN	_	dat|pl|fem	-1	5	_	NK	_	_
+9	gemein	gemein	gemein	ADJD	ADJD	_	pos	-1	3	_	OC	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+1	Gute	gut	gut	ADJA	ADJA	_	nom|pl|masc|pos	-1	2	_	NK	_	_
+2	Krimis	Krimi	Krimi	NN	NN	_	nom|pl|masc	-1	3	_	SB	_	_
+3	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+4	immer	immer	immer	ADV	ADV	_	_	-1	10	_	MO	_	_
+5	ein	eine	eine	ART	ART	_	acc|sg|neut	-1	6	_	NK	_	_
+6	Spiegelbild	Spiegelbild	Spiegelbild	NN	NN	_	acc|sg|neut	-1	10	_	PD	_	_
+7	der	die	die	ART	ART	_	gen|sg|fem	-1	8	_	NK	_	_
+8	Probleme	Problem	Problem	NN	NN	_	gen|sg|fem	-1	6	_	AG	_	_
+9	Gesellschaft	Gesellschaft	Gesellschaft	NN	NN	_	nom|sg|fem	-1	8	_	NK	_	_
+10	gewesen	sein	sein	VAPP	VAPP	_	_	-1	3	_	OC	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Auch	auch	auch	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	T.	T.	T.	NE	NE	_	nom|sg|*	-1	3	_	SB	_	_
+3	arbeitet	arbeiten	arbeiten	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	in	in	in	APPR	APPR	_	_	-1	3	_	MO	_	_
+5	diesem	dies	dies	PDAT	PDAT	_	dat|sg|neut	-1	6	_	NK	_	_
+6	Spannungsfeld	Spannungsfeld	Spannungsfeld	NN	NN	_	dat|sg|neut	-1	4	_	NK	_	_
+7	.	.	.	$.	$.	_	_	-1	6	_	--	_	_
+

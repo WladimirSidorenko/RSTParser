@@ -1,0 +1,219 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::6	7::4	12::8
+1	Kühlen	kühl	kühl	ADJA	ADJA	_	acc|sg|masc|pos	-1	2	_	NK	_	_
+2	Kopf	Kopf	Kopf	NN	NN	_	acc|sg|masc	-1	3	_	OA	_	_
+3	bewahren	bewahren	bewahren	VVFIN	VVFIN	_	_	-1	0	_	--	_	_
+
+	sentence_start	0	127	163	265	312	391	463
+	token_offsets	sentence	0	offsets	0::3	4::16	21::3	25::6	32::11	44::3	48::3	52::3	56::20	77::6	84::11	96::4	101::1	103::11	115::6	122::1	124::1
+	token_offsets	sentence	1	offsets	127::2	130::3	134::7	142::5	148::11	160::1
+	token_offsets	sentence	2	offsets	163::5	169::3	173::4	178::7	186::2	189::7	197::4	202::4	207::3	211::2	214::9	224::4	229::2	232::3	236::9	246::3	250::3	254::7	262::1
+	token_offsets	sentence	3	offsets	265::4	270::1	272::3	276::8	285::4	290::5	296::7	304::4	309::1
+	token_offsets	sentence	4	offsets	312::3	316::16	333::2	336::3	340::9	350::7	358::5	364::5	370::3	374::6	381::6	388::1
+	token_offsets	sentence	5	offsets	391::3	395::6	402::3	406::3	410::16	427::13	441::1	443::3	447::4	452::7	460::1
+	token_offsets	sentence	6	offsets	463::4	468::6	475::2	478::4	483::3	487::13	501::21	523::1
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	2	_	NK	_	_
+2	Millionen-Kredit	Millionen-Kredit	Millionen-Kredit	NN	NN	_	nom|sg|masc	-1	6	_	SB	_	_
+3	des	die	die	ART	ART	_	gen|sg|neut	-1	4	_	NK	_	_
+4	Landes	Land	Land	NN	NN	_	gen|sg|neut	-1	2	_	AG	_	_
+5	Brandenburg	Brandenburg	Brandenburg	NE	NE	_	nom|sg|neut	-1	4	_	NK	_	_
+6	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+7	für	für	für	APPR	APPR	_	_	-1	6	_	MO	_	_
+8	den	die	die	ART	ART	_	acc|sg|masc	-1	9	_	NK	_	_
+9	Abwasserzweckverband	Abwasserzweckverband	Abwasserzweckverband	NN	NN	_	acc|sg|masc	-1	7	_	NK	_	_
+10	Emster	Emster	Emster	NN	NN	_	nom|sg|masc	-1	9	_	NK	_	_
+11	tatsächlich	tatsächlich	tatsächlich	ADJD	ADJD	_	pos	-1	6	_	MO	_	_
+12	eine	eine	eine	ART	ART	_	acc|sg|fem	-1	15	_	NK	_	_
+13	"	"	"	$(	$(	_	_	-1	12	_	--	_	_
+14	historische	historisch	historisch	ADJA	ADJA	_	acc|sg|fem|pos	-1	15	_	NK	_	_
+15	Chance	Chance	Chance	NN	NN	_	acc|sg|fem	-1	6	_	PD	_	_
+16	"	"	"	$(	$(	_	_	-1	15	_	--	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
+1	Da	da	da	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	Manfred	Manfred	Manfred	NE	NE	_	nom|sg|masc	-1	4	_	PNC	_	_
+4	Meske	Meske	Meske	NN	NN	_	nom|sg|masc	-1	2	_	SB	_	_
+5	zuzustimmen	zustimmen	zustimmen	VVIZU	VVIZU	_	_	-1	2	_	OC	_	_
+6	.	.	.	$.	$.	_	_	-1	5	_	--	_	_
+
+1	Zumal	zumal	zumal	KOUS	KOUS	_	_	-1	18	_	CP	_	_
+2	das	die	die	ART	ART	_	nom|sg|neut	-1	3	_	NK	_	_
+3	Land	Land	Land	NN	NN	_	nom|sg|neut	-1	18	_	SB	_	_
+4	bereits	bereits	bereits	ADV	ADV	_	_	-1	5	_	MO	_	_
+5	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	18	_	MO	_	_
+6	vorigen	vorig	vorig	ADJA	ADJA	_	dat|sg|neut|pos	-1	7	_	NK	_	_
+7	Jahr	Jahr	Jahr	NN	NN	_	dat|sg|neut	-1	5	_	NK	_	_
+8	mehr	mehr	mehr	ADV	ADV	_	*|*|*	-1	18	_	OA	_	_
+9	als	als	als	KOKOM	KOKOM	_	_	-1	11	_	CM	_	_
+10	30	30	30	CARD	CARD	_	_	-1	11	_	NMC	_	_
+11	Millionen	Million	Million	NN	NN	_	nom|pl|fem	-1	8	_	CC	_	_
+12	Mark	Mark	Mark	NN	NN	_	*|*|fem	-1	11	_	NK	_	_
+13	in	in	in	APPR	APPR	_	_	-1	11	_	MNR	_	_
+14	die	die	die	ART	ART	_	acc|sg|fem	-1	15	_	NK	_	_
+15	Sanierung	Sanierung	Sanierung	NN	NN	_	acc|sg|fem	-1	13	_	NK	_	_
+16	des	die	die	ART	ART	_	gen|sg|masc	-1	17	_	NK	_	_
+17	AZV	AZV	AZV	NN	NN	_	gen|sg|masc	-1	15	_	AG	_	_
+18	steckte	stecken	stecken	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+19	.	.	.	$.	$.	_	_	-1	18	_	--	_	_
+
+1	Geld	Geld	Geld	NN	NN	_	nom|sg|neut	-1	0	_	--	_	_
+2	,	,	,	$,	$,	_	_	-1	1	_	--	_	_
+3	das	die	die	PRELS	PRELS	_	nom|sg|neut	-1	8	_	SB	_	_
+4	woanders	woanders	woanders	ADV	ADV	_	_	-1	7	_	MO	_	_
+5	auch	auch	auch	ADV	ADV	_	_	-1	6	_	MO	_	_
+6	nötig	nötig	nötig	ADJD	ADJD	_	pos	-1	7	_	PD	_	_
+7	gewesen	sein	sein	VAPP	VAPP	_	_	-1	8	_	OC	_	_
+8	wäre	sein	sein	VAFIN	VAFIN	_	sg|3|past|subj	-1	1	_	RC	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|pl|*	-1	2	_	NK	_	_
+2	Verantwortlichen	Verantwortliche	Verantwortliche	NN	NN	_	nom|pl|*	-1	6	_	SB	_	_
+3	in	in	in	APPR	APPR	_	_	-1	2	_	MNR	_	_
+4	den	die	die	ART	ART	_	dat|pl|neut	-1	5	_	NK	_	_
+5	Gemeinden	Gemeinde	Gemeinde	NN	NN	_	dat|pl|neut	-1	3	_	NK	_	_
+6	sollten	sollen	sollen	VMFIN	VMFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+7	jetzt	jetzt	jetzt	ADV	ADV	_	_	-1	6	_	MO	_	_
+8	Nägel	Nagel	Nagel	NN	NN	_	acc|sg|masc	-1	11	_	OA	_	_
+9	mit	mit	mit	APPR	APPR	_	_	-1	8	_	MNR	_	_
+10	Köpfen	Kopf|Köpfen	Kopf|Köpfen	NN	NN	_	dat|pl|masc	-1	9	_	NK	_	_
+11	machen	machen	machen	VVINF	VVINF	_	_	-1	6	_	OC	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Region	Region	Region	NN	NN	_	nom|sg|fem	-1	6	_	OA	_	_
+3	aus	aus	aus	APPR	APPR	_	_	-1	6	_	MO	_	_
+4	der	die	die	ART	ART	_	dat|sg|fem	-1	5	_	NK	_	_
+5	Abwasser-Debatte	Abwasser-Debatte	Abwasser-Debatte	NN	NN	_	dat|sg|fem	-1	3	_	NK	_	_
+6	herauszuholen	herausholen	herausholen	VVIZU	VVIZU	_	_	-1	8	_	SB	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+9	ihre	ihr	ihr	PPOSAT	PPOSAT	_	nom|sg|fem	-1	10	_	NK	_	_
+10	Pflicht	Pflicht	Pflicht	NN	NN	_	nom|sg|fem	-1	8	_	PD	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Dazu	dazu	dazu	PAV	PAV	_	_	-1	7	_	NK	_	_
+2	bedarf	bedürfen	bedürfen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	EP	_	_
+4	auch	auch	auch	ADV	ADV	_	_	-1	7	_	MO	_	_
+5	der	die	die	ART	ART	_	dat|sg|fem	-1	7	_	NK	_	_
+6	transparenten	transparent	transparent	ADJA	ADJA	_	dat|sg|fem|pos	-1	7	_	NK	_	_
+7	Öffentlichkeitsarbeit	Öffentlichkeitsarbeit	Öffentlichkeitsarbeit	NN	NN	_	dat|sg|fem	-1	2	_	OG	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+
+	sentence_start	0	110	205	295	402	500	574
+	token_offsets	sentence	0	offsets	0::2	3::11	15::3	19::3	23::16	40::2	43::4	48::14	63::13	77::2	80::8	89::8	98::8	107::1
+	token_offsets	sentence	1	offsets	110::3	114::4	119::3	123::3	127::6	134::18	153::7	161::6	168::9	178::3	182::3	186::6	193::8	202::1
+	token_offsets	sentence	2	offsets	205::8	214::3	218::3	222::8	231::6	238::3	242::20	263::1	265::3	269::5	275::12	288::3	292::1
+	token_offsets	sentence	3	offsets	295::5	301::6	308::3	312::4	317::11	329::9	339::4	344::5	350::4	355::1	357::3	361::9	371::11	383::7	391::7	399::1
+	token_offsets	sentence	4	offsets	402::5	408::5	414::4	419::8	428::3	432::3	436::16	453::4	458::3	462::11	474::1	476::3	480::5	486::3	490::6	497::1
+	token_offsets	sentence	5	offsets	500::3	504::8	513::6	520::3	524::11	536::5	542::3	546::3	550::5	556::6	563::7	571::1
+	token_offsets	sentence	6	offsets	574::6	581::10	592::1	594::2	597::3	601::10	612::6	619::2	622::4	627::18	646::4	651::3	655::3	659::9	669::5	675::1
+1	In	in	in	APPR	APPR	_	_	-1	13	_	MO	_	_
+2	Brandenburg	Brandenburg	Brandenburg	NE	NE	_	dat|sg|neut	-1	1	_	NK	_	_
+3	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	die	die	die	ART	ART	_	nom|sg|fem	-1	5	_	NK	_	_
+5	Abwasser-Debatte	Abwasser-Debatte	Abwasser-Debatte	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+6	um	um	um	APPR	APPR	_	_	-1	5	_	MNR	_	_
+7	hoch	hoch	hoch	ADJD	ADJD	_	pos	-1	8	_	MO	_	_
+8	verschuldetete	verschuldetete	verschuldetete	ADJA	ADJA	_	nom|pl|masc|pos	-1	9	_	NK	_	_
+9	Zweckverbände	Zweckverband	Zweckverband	NN	NN	_	nom|pl|masc	-1	6	_	NK	_	_
+10	in	in	in	APPR	APPR	_	_	-1	13	_	MO	_	_
+11	ruhigere	ruhig	ruhig	ADJA	ADJA	_	acc|pl|neut|pos	-1	12	_	NK	_	_
+12	Gewässer	Gewässer	Gewässer	NN	NN	_	acc|pl|neut	-1	10	_	NK	_	_
+13	gekommen	kommen	kommen	VVPP	VVPP	_	_	-1	3	_	OC	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Das	die	die	ART	ART	_	nom|sg|neut	-1	2	_	NK	_	_
+2	Land	Land	Land	NN	NN	_	nom|sg|neut	-1	3	_	SB	_	_
+3	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	mit	mit	mit	APPR	APPR	_	_	-1	13	_	MO	_	_
+5	seinem	sein	sein	PPOSAT	PPOSAT	_	dat|sg|neut	-1	6	_	NK	_	_
+6	Schuldenmanagement	Schuldenmanagement	Schuldenmanagement	NN	NN	_	dat|sg|neut	-1	4	_	NK	_	_
+7	bereits	bereits	bereits	ADV	ADV	_	_	-1	13	_	MO	_	_
+8	vielen	viele	viele	PIAT	PIAT	_	dat|pl|masc	-1	9	_	NK	_	_
+9	Verbänden	Verband	Verband	NN	NN	_	dat|pl|masc	-1	13	_	DA	_	_
+10	aus	aus	aus	APPR	APPR	_	_	-1	13	_	MO	_	_
+11	der	die	die	ART	ART	_	dat|sg|fem	-1	12	_	NK	_	_
+12	Misere	Misere	Misere	NN	NN	_	dat|sg|fem	-1	10	_	NK	_	_
+13	geholfen	helfen	helfen	VVPP	VVPP	_	_	-1	3	_	OC	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Beispiel	Beispiel	Beispiel	NN	NN	_	nom|sg|neut	-1	2	_	SB	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	der	die	die	ART	ART	_	nom|sg|masc	-1	4	_	NK	_	_
+4	Lehniner	Lehniner	Lehniner	NN	NN	_	nom|sg|masc	-1	2	_	SB	_	_
+5	Trink-	Trink-	Trink-	TRUNC	TRUNC	_	_	-1	6	_	CJ	_	_
+6	und	und	und	KON	KON	_	_	-1	7	_	CD	_	_
+7	Abwasserzweckverband	Abwasserzweckverband	Abwasserzweckverband	NN	NN	_	nom|sg|masc	-1	4	_	NK	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	der	die	die	PRELS	PRELS	_	nom|sg|masc	-1	12	_	SB	_	_
+10	jetzt	jetzt	jetzt	ADV	ADV	_	_	-1	12	_	MO	_	_
+11	schuldenfrei	schuldenfrei	schuldenfrei	ADJD	ADJD	_	pos	-1	12	_	PD	_	_
+12	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	4	_	RC	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Zuvor	zuvor	zuvor	ADV	ADV	_	_	-1	15	_	MO	_	_
+2	hatten	haben	haben	VAFIN	VAFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+3	die	die	die	ART	ART	_	nom|pl|masc	-1	6	_	NK	_	_
+4	fünf	fünf	fünf	CARD	CARD	_	_	-1	6	_	NK	_	_
+5	zugehörigen	zugehörig	zugehörig	ADJA	ADJA	_	acc|pl|*|pos	-1	6	_	NK	_	_
+6	Gemeinden	Gemeinde	Gemeinde	NN	NN	_	acc|pl|*	-1	2	_	SB	_	_
+7	über	über	über	APPR	APPR	_	_	-1	9	_	MO	_	_
+8	Jahre	Jahr	Jahr	NN	NN	_	acc|pl|neut	-1	7	_	NK	_	_
+9	hohe	hoch	hoch	ADJA	ADJA	_	nom|sg|masc|pos	-1	14	_	NK	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	die	die	die	ART	ART	_	acc|pl|neut	-1	12	_	NK	_	_
+12	Haushalte	Haushalt	Haushalt	NN	NN	_	acc|pl|neut	-1	13	_	OA	_	_
+13	schmerzende	schmerzend	schmerzend	ADJA	ADJA	_	acc|pl|neut|pos	-1	9	_	CJ	_	_
+14	Umlagen	Umlage	Umlage	NN	NN	_	acc|pl|neut	-1	15	_	OA	_	_
+15	gezahlt	zahlen	zahlen	VVPP	VVPP	_	_	-1	2	_	OC	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+1	Jetzt	jetzt	jetzt	ADV	ADV	_	_	-1	4	_	MO	_	_
+2	ruhig	ruhig	ruhig	ADJD	ADJD	_	pos	-1	4	_	MO	_	_
+3	Blut	Blut	Blut	NN	NN	_	nom|sg|neut	-1	4	_	OA	_	_
+4	bewahren	bewahren	bewahren	VVINF	VVINF	_	_	-1	12	_	MO	_	_
+5	und	und	und	KON	KON	_	_	-1	4	_	CD	_	_
+6	die	die	die	ART	ART	_	nom|sg|fem	-1	7	_	NK	_	_
+7	Bürgerinitiative	Bürgerinitiative	Bürgerinitiative	NN	NN	_	nom|sg|fem	-1	10	_	OA	_	_
+8	klug	klug	klug	ADJD	ADJD	_	pos	-1	10	_	MO	_	_
+9	mit	mit	mit	PTKVZ	PTKVZ	_	_	-1	8	_	SVP	_	_
+10	einzubinden	einbinden	einbinden	VVIZU	VVIZU	_	_	-1	5	_	CJ	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+13	Gebot	Gebot	Gebot	NN	NN	_	nom|sg|neut	-1	12	_	PD	_	_
+14	der	die	die	ART	ART	_	gen|sg|fem	-1	15	_	NK	_	_
+15	Stunde	Stunde	Stunde	NN	NN	_	gen|sg|fem	-1	13	_	AG	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+1	Die	die	die	PDS	PDS	_	nom|sg|fem	-1	3	_	SB	_	_
+2	wiederum	wiederum	wiederum	ADV	ADV	_	_	-1	1	_	MNR	_	_
+3	sollte	sollen	sollen	VMFIN	VMFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+4	nun	nun	nun	ADV	ADV	_	_	-1	3	_	MO	_	_
+5	gleichfalls	gleichfalls	gleichfalls	ADV	ADV	_	_	-1	3	_	MO	_	_
+6	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	3	_	NG	_	_
+7	aus	aus	aus	APPR	APPR	_	_	-1	11	_	MO	_	_
+8	dem	die	die	ART	ART	_	dat|sg|neut	-1	9	_	NK	_	_
+9	Bauch	Bauch	Bauch	NN	NN	_	dat|sg|neut	-1	7	_	NK	_	_
+10	heraus	heraus	heraus	ADV	ADV	_	_	-1	7	_	AC	_	_
+11	agieren	agieren	agieren	VVINF	VVINF	_	_	-1	3	_	OC	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Bleibt	bleiben	bleiben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+2	abzuwarten	abwarten	abwarten	VVIZU	VVIZU	_	_	-1	1	_	OC	_	_
+3	,	,	,	$,	$,	_	_	-1	2	_	--	_	_
+4	ob	ob	ob	KOUS	KOUS	_	_	-1	15	_	CP	_	_
+5	das	die	die	ART	ART	_	nom|sg|neut	-1	7	_	NK	_	_
+6	jahrelange	jahrelang	jahrelang	ADJA	ADJA	_	nom|sg|neut|pos	-1	7	_	NK	_	_
+7	Ringen	Ring|Ringen	Ring|Ringen	NN	NN	_	nom|sg|neut	-1	15	_	SB	_	_
+8	um	um	um	APPR	APPR	_	_	-1	7	_	OP	_	_
+9	hohe	hoch	hoch	ADJA	ADJA	_	acc|pl|fem|pos	-1	10	_	NK	_	_
+10	Millionen-Schulden	Millionen-Schuld	Millionen-Schuld	NN	NN	_	acc|pl|fem	-1	8	_	NK	_	_
+11	bald	bald	bald	ADV	ADV	_	_	-1	15	_	MO	_	_
+12	vor	vor	vor	APPR	APPR	_	_	-1	15	_	MO	_	_
+13	dem	die	die	ART	ART	_	dat|sg|masc	-1	14	_	NK	_	_
+14	Abschluss	Abschluss	Abschluss	NN	NN	_	dat|sg|masc	-1	12	_	NK	_	_
+15	steht	stehen	stehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	1	_	SB	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+

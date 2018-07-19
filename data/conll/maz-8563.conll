@@ -1,0 +1,230 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::9
+1	Wohltäter	Wohltäter	Wohltäter	NN	NN	_	nom|sg|masc	-1	0	_	--	_	_
+
+	sentence_start	0	38	71	137	199	276	365	504	671	805	969	1139
+	token_offsets	sentence	0	offsets	0::5	6::6	13::4	18::3	22::6	29::5	35::1
+	token_offsets	sentence	1	offsets	38::4	43::5	49::6	56::11	68::1
+	token_offsets	sentence	2	offsets	71::4	76::3	80::5	86::4	91::7	99::11	111::3	115::3	119::14	134::1
+	token_offsets	sentence	3	offsets	137::3	141::5	147::5	153::3	157::5	163::1	165::3	169::4	174::4	179::2	182::4	187::4	192::3	196::1
+	token_offsets	sentence	4	offsets	199::3	203::5	209::3	213::6	220::1	221::0	223::3	227::7	235::3	239::4	244::3	248::4	253::10	264::8	273::1
+	token_offsets	sentence	5	offsets	276::3	280::3	284::8	293::2	296::3	300::1	302::13	316::1	318::5	324::1	326::7	334::4	339::8	348::3	352::9	362::1
+	token_offsets	sentence	6	offsets	365::4	370::4	375::4	380::6	387::3	391::9	401::4	406::3	410::9	420::3	424::1	426::13	440::1	442::13	456::2	459::3	463::8	472::13	486::14	501::1
+	token_offsets	sentence	7	offsets	504::3	508::8	517::8	526::5	532::3	536::6	543::2	546::17	564::1	566::2	569::3	573::7	581::2	584::7	592::1	594::4	599::9	609::2	612::8	621::1	623::3	627::3	631::8	640::6	647::10	658::2	661::6	668::1
+	token_offsets	sentence	8	offsets	671::3	675::5	681::6	688::5	694::3	698::3	702::4	707::6	714::3	718::3	722::13	736::3	740::3	744::2	747::3	751::4	756::7	764::3	768::3	772::8	781::10	792::3	796::5	802::1
+	token_offsets	sentence	9	offsets	805::9	815::6	822::6	829::10	840::8	849::3	853::3	857::9	867::10	878::1	880::3	884::4	889::15	905::9	915::10	926::3	930::4	935::14	950::2	953::12	966::1
+	token_offsets	sentence	10	offsets	969::11	981::6	988::9	998::1	1000::3	1004::3	1008::9	1018::9	1028::3	1032::20	1053::8	1062::3	1066::4	1071::6	1078::10	1089::1	1091::3	1095::4	1100::1	1102::14	1117::3	1121::5	1127::8	1136::1
+	token_offsets	sentence	11	offsets	1139::5	1145::3	1149::4	1154::2	1157::6	1164::10	1175::6	1182::4	1187::8	1196::1	1197::0	1199::5	1205::4	1210::2	1213::7	1221::1	1223::3	1227::5	1233::5
+1	Durch	durch	durch	APPR	APPR	_	_	-1	3	_	MO	_	_
+2	Arbeit	Arbeit	Arbeit	NN	NN	_	nom|sg|fem	-1	1	_	NK	_	_
+3	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	man	man	man	PIS	PIS	_	nom|sg|*	-1	3	_	SB	_	_
+5	selten	selten	selten	ADJD	ADJD	_	pos	-1	6	_	MO	_	_
+6	reich	reich	reich	ADJD	ADJD	_	pos	-1	3	_	OC	_	_
+7	.	.	.	$.	$.	_	_	-1	6	_	--	_	_
+
+1	Eher	eher	eher	ADV	ADV	_	_	-1	3	_	MO	_	_
+2	schon	schon	schon	ADV	ADV	_	_	-1	3	_	MO	_	_
+3	durchs	durchs	durchs	APPRART	APPRART	_	acc|sg|neut	-1	0	_	--	_	_
+4	Glücksspiel	Glücksspiel	Glücksspiel	NN	NN	_	acc|sg|neut	-1	3	_	NK	_	_
+5	.	.	.	$.	$.	_	_	-1	4	_	--	_	_
+
+1	Doch	doch	doch	KON	KON	_	_	-1	5	_	JU	_	_
+2	der	die	die	ART	ART	_	nom|sg|masc	-1	4	_	NK	_	_
+3	große	groß	groß	ADJA	ADJA	_	nom|sg|masc|pos	-1	4	_	NK	_	_
+4	Wurf	Wurf	Wurf	NN	NN	_	nom|sg|masc	-1	5	_	SB	_	_
+5	gelingt	gelingen	gelingen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+6	bekanntlich	bekanntlich	bekanntlich	ADV	ADV	_	_	-1	5	_	MO	_	_
+7	nur	nur	nur	ADV	ADV	_	_	-1	9	_	MO	_	_
+8	den	die	die	ART	ART	_	acc|sg|masc	-1	9	_	NK	_	_
+9	allerwenigsten	allerwenig	allerwenig	ADJA	ADJA	_	acc|sg|masc|sup	-1	5	_	SB	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Masse	Masse	Masse	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+3	hofft	hoffen	hoffen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	und	und	und	KON	KON	_	_	-1	3	_	CD	_	_
+5	hofft	hoffen	hoffen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	4	_	CJ	_	_
+6	-	-	-	$(	$(	_	_	-1	5	_	--	_	_
+7	und	und	und	KON	KON	_	_	-1	5	_	CD	_	_
+8	geht	gehen	gehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	7	_	CJ	_	_
+9	doch	doch	doch	ADV	ADV	_	_	-1	8	_	MO	_	_
+10	am	an	an	APPRART	APPRART	_	dat|sg|neut	-1	8	_	MO	_	_
+11	Ende	Ende	Ende	NN	NN	_	dat|sg|neut	-1	10	_	NK	_	_
+12	leer	leer	leer	ADJD	ADJD	_	pos	-1	8	_	MO	_	_
+13	aus	aus	aus	PTKVZ	PTKVZ	_	_	-1	8	_	SVP	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	All	alle	alle	PIAT	PIAT	_	*|*|*	-1	2	_	NK	_	_
+2	jenen	jen	jen	PDS	PDS	_	dat|pl|*	-1	3	_	SB	_	_
+3	sei	sein	sein	VAFIN	VAFIN	_	sg|3|pres|subj	-1	0	_	--	_	_
+4	gesagt	sagen	sagen	VVPP	VVPP	_	_	-1	3	_	PD	_	_
+5	:	:	:	$.	$.	_	_	-1	4	_	--	_	_
+6	Ihr	ihr	ihr	PPOSAT	PPOSAT	_	nom|sg|masc	-1	7	_	NK	_	_
+7	Einsatz	Einsatz	Einsatz	NN	NN	_	nom|sg|masc	-1	8	_	SB	_	_
+8	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	3	_	CJ	_	_
+9	mehr	mehr	mehr	ADV	ADV	_	*|*|*	-1	8	_	MO	_	_
+10	als	als	als	KOKOM	KOKOM	_	_	-1	13	_	CM	_	_
+11	eine	eine	eine	ART	ART	_	acc|sg|fem	-1	13	_	NK	_	_
+12	zerplatzte	zerplatzt	zerplatzt	ADJA	ADJA	_	acc|sg|fem|pos	-1	13	_	NK	_	_
+13	Illusion	Illusion	Illusion	NN	NN	_	acc|sg|fem	-1	9	_	CC	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Wer	wer	wer	PWS	PWS	_	nom|sg|masc	-1	9	_	SB	_	_
+2	zum	zu	zu	APPRART	APPRART	_	dat|sg|neut	-1	4	_	MO	_	_
+3	Beispiel	Beispiel	Beispiel	NN	NN	_	dat|sg|neut	-1	2	_	NK	_	_
+4	an	an	an	APPR	APPR	_	_	-1	9	_	OP	_	_
+5	der	die	die	ART	ART	_	dat|sg|fem	-1	7	_	NK	_	_
+6	"	"	"	$(	$(	_	_	-1	5	_	--	_	_
+7	Glücksspirale	Glücksspirale	Glücksspirale	NN	NN	_	dat|sg|fem	-1	4	_	NK	_	_
+8	"	"	"	$(	$(	_	_	-1	7	_	--	_	_
+9	dreht	drehen	drehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	11	_	SB	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	beweist	beweisen	beweisen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+12	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	11	_	OA	_	_
+13	indirekt	indirekt	indirekt	ADJD	ADJD	_	pos	-1	11	_	MO	_	_
+14	als	als	als	KOKOM	KOKOM	_	_	-1	15	_	CM	_	_
+15	Wohltäter	Wohltäter	Wohltäter	NN	NN	_	nom|sg|masc	-1	13	_	CC	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+1	Denn	denn	denn	KON	KON	_	_	-1	4	_	JU	_	_
+2	seit	seit	seit	APPR	APPR	_	_	-1	19	_	MO	_	_
+3	1991	1991	1991	CARD	CARD	_	_	-1	2	_	NK	_	_
+4	wurden	werden	werden	VAFIN	VAFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+5	105	@card@	@card@	CARD	CARD	_	_	-1	6	_	NMC	_	_
+6	Millionen	Million	Million	NN	NN	_	nom|pl|fem	-1	4	_	SB	_	_
+7	Mark	Mark	Mark	NN	NN	_	*|*|fem	-1	6	_	NK	_	_
+8	der	die	die	ART	ART	_	gen|pl|fem	-1	9	_	NK	_	_
+9	Einnahmen	Einnahme	Einnahme	NN	NN	_	gen|pl|fem	-1	6	_	AG	_	_
+10	der	die	die	ART	ART	_	gen|sg|fem	-1	12	_	NK	_	_
+11	"	"	"	$(	$(	_	_	-1	10	_	--	_	_
+12	Glücksspirale	Glücksspirale	Glücksspirale	NN	NN	_	gen|sg|fem	-1	9	_	AG	_	_
+13	"	"	"	$(	$(	_	_	-1	12	_	--	_	_
+14	zweckgebunden	zweckgebunden	zweckgebunden	ADJD	ADJD	_	pos	-1	19	_	MO	_	_
+15	an	an	an	APPR	APPR	_	_	-1	19	_	MO	_	_
+16	die	die	die	ART	ART	_	acc|sg|fem	-1	17	_	NK	_	_
+17	Stiftung	Stiftung	Stiftung	NN	NN	_	acc|sg|fem	-1	15	_	NK	_	_
+18	Denkmalschutz	Denkmalschutz	Denkmalschutz	NN	NN	_	nom|sg|masc	-1	17	_	NK	_	_
+19	weitergereicht	weiterreichen	weiterreichen	VVPP	VVPP	_	sg|3|pres|ind	-1	4	_	OC	_	_
+20	.	.	.	$.	$.	_	_	-1	19	_	--	_	_
+
+1	Die	die	die	PDS	PDS	_	nom|sg|fem	-1	3	_	SB	_	_
+2	wiederum	wiederum	wiederum	ADV	ADV	_	_	-1	3	_	MO	_	_
+3	förderte	fördern	fördern	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+4	damit	damit	damit	PAV	PAV	_	_	-1	6	_	NK	_	_
+5	264	@card@	@card@	CARD	CARD	_	_	-1	6	_	NK	_	_
+6	Bauten	Bau	Bau	NN	NN	_	nom|pl|masc	-1	3	_	SB	_	_
+7	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	3	_	MO	_	_
+8	Brandenburgischen	Brandenburgische	Brandenburgische	NN	NN	_	dat|sg|neut	-1	7	_	NK	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	um	um	um	KOUI	KOUI	_	_	-1	14	_	CP	_	_
+11	den	die	die	ART	ART	_	acc|sg|masc	-1	12	_	NK	_	_
+12	Verfall	Verfall	Verfall	NN	NN	_	acc|sg|masc	-1	14	_	OA	_	_
+13	zu	zu	zu	PTKZU	PTKZU	_	_	-1	14	_	PM	_	_
+14	stoppen	stoppen	stoppen	VVINF	VVINF	_	_	-1	3	_	MO	_	_
+15	,	,	,	$,	$,	_	_	-1	14	_	--	_	_
+16	ihre	ihr	ihr	PPOSAT	PPOSAT	_	acc|sg|fem	-1	17	_	NK	_	_
+17	Schönheit	Schönheit	Schönheit	NN	NN	_	acc|sg|fem	-1	19	_	OA	_	_
+18	zu	zu	zu	PTKZU	PTKZU	_	_	-1	19	_	PM	_	_
+19	bewahren	bewahren	bewahren	VVINF	VVINF	_	_	-1	12	_	OC	_	_
+20	,	,	,	$,	$,	_	_	-1	19	_	--	_	_
+21	sie	sie	sie	PPER	PPER	_	nom|pl|*|3	-1	27	_	OA	_	_
+22	den	die	die	ART	ART	_	acc|sg|masc	-1	23	_	NK	_	_
+23	Menschen	Mensch	Mensch	NN	NN	_	acc|sg|masc	-1	27	_	OA	_	_
+24	wieder	wieder	wieder	ADV	ADV	_	_	-1	27	_	MO	_	_
+25	zugänglich	zugänglich	zugänglich	ADJD	ADJD	_	pos	-1	27	_	MO	_	_
+26	zu	zu	zu	PTKZU	PTKZU	_	_	-1	27	_	PM	_	_
+27	machen	machen	machen	VVINF	VVINF	_	_	-1	19	_	MO	_	_
+28	.	.	.	$.	$.	_	_	-1	27	_	--	_	_
+
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	2	_	NK	_	_
+2	Bogen	Bogen	Bogen	NN	NN	_	nom|sg|masc	-1	3	_	SB	_	_
+3	reicht	reichen	reichen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	dabei	dabei	dabei	PAV	PAV	_	_	-1	8	_	NK	_	_
+5	von	von	von	APPR	APPR	_	_	-1	3	_	MO	_	_
+6	den	die	die	ART	ART	_	dat|pl|neut	-1	8	_	NK	_	_
+7	ganz	ganz	ganz	ADV	ADV	_	_	-1	8	_	MO	_	_
+8	Großen	groß	groß	ADJA	ADJA	_	dat|pl|*	-1	5	_	NK	_	_
+9	wie	wie	wie	KOKOM	KOKOM	_	_	-1	11	_	CM	_	_
+10	dem	die	die	ART	ART	_	dat|sg|neut	-1	11	_	NK	_	_
+11	Brandenburger	Brandenburger	Brandenburger	NN	NN	_	dat|sg|neut	-1	3	_	MO	_	_
+12	Dom	Dom	Dom	NN	NN	_	nom|sg|masc	-1	11	_	NK	_	_
+13	bis	bis	bis	KON	KON	_	_	-1	14	_	AC	_	_
+14	zu	zu	zu	APPR	APPR	_	_	-1	3	_	MO	_	_
+15	den	die	die	ART	ART	_	dat|pl|neut	-1	17	_	NK	_	_
+16	ganz	ganz	ganz	ADJD	ADJD	_	pos	-1	17	_	MO	_	_
+17	Kleinen	Kleine	Kleine	NN	NN	_	dat|pl|masc	-1	14	_	NK	_	_
+18	wie	wie	wie	KOKOM	KOKOM	_	_	-1	21	_	CM	_	_
+19	der	die	die	ART	ART	_	dat|sg|fem	-1	21	_	NK	_	_
+20	winzigen	winzig	winzig	ADJA	ADJA	_	dat|sg|fem|pos	-1	21	_	NK	_	_
+21	Dorfkirche	Dorfkirche	Dorfkirche	NN	NN	_	dat|sg|fem	-1	17	_	CC	_	_
+22	von	von	von	APPR	APPR	_	_	-1	21	_	PG	_	_
+23	Kanin	Kanin	Kanin	NN	NN	_	dat|sg|fem	-1	22	_	NK	_	_
+24	.	.	.	$.	$.	_	_	-1	23	_	--	_	_
+
+1	Gefördert	fördern	fördern	VVPP	VVPP	_	_	-1	2	_	OC	_	_
+2	werden	werden	werden	VAINF	VAINF	_	_	-1	0	_	--	_	_
+3	sowohl	sowohl	sowohl	KON	KON	_	_	-1	5	_	CD	_	_
+4	technische	technisch	technisch	ADJA	ADJA	_	nom|pl|*|pos	-1	5	_	NK	_	_
+5	Denkmale	Denkmal	Denkmal	NN	NN	_	nom|pl|*	-1	2	_	SB	_	_
+6	wie	wie	wie	KOKOM	KOKOM	_	_	-1	8	_	CM	_	_
+7	der	die	die	ART	ART	_	nom|sg|masc	-1	8	_	NK	_	_
+8	Beelitzer	Beelitzer	Beelitzer	NN	NN	_	nom|sg|masc	-1	5	_	CC	_	_
+9	Wasserturm	Wasserturm	Wasserturm	NN	NN	_	acc|sg|masc	-1	8	_	NK	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	als	als	als	KOKOM	KOKOM	_	_	-1	15	_	CM	_	_
+12	auch	auch	auch	ADV	ADV	_	_	-1	15	_	MO	_	_
+13	kunsthistorisch	kunsthistorisch	kunsthistorisch	ADJD	ADJD	_	pos	-1	14	_	MO	_	_
+14	wertvolle	wertvoll	wertvoll	ADJA	ADJA	_	acc|pl|neut|pos	-1	15	_	NK	_	_
+15	Wohnhäuser	Wohnhaus	Wohnhaus	NN	NN	_	acc|pl|neut	-1	5	_	CC	_	_
+16	wie	wie	wie	KOKOM	KOKOM	_	_	-1	17	_	CM	_	_
+17	Haus	Haus	Haus	NN	NN	_	acc|sg|neut	-1	15	_	CC	_	_
+18	Friedrichshuld	Friedrichshuld	Friedrichshuld	NN	NN	_	acc|sg|neut	-1	17	_	NK	_	_
+19	in	in	in	APPR	APPR	_	_	-1	17	_	MNR	_	_
+20	Philippsthal	Philippsthal	Philippsthal	NE	NE	_	dat|sg|neut	-1	19	_	NK	_	_
+21	.	.	.	$.	$.	_	_	-1	20	_	--	_	_
+
+1	Unterstützt	unterstützen	unterstützen	VVPP	VVPP	_	_	-1	2	_	OC	_	_
+2	werden	werden	werden	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	Bauherren	Bauherr	Bauherr	NN	NN	_	nom|pl|masc	-1	2	_	SB	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	die	die	die	PRELS	PRELS	_	nom|pl|masc	-1	11	_	SB	_	_
+6	ein	eine	eine	ART	ART	_	acc|sg|neut	-1	10	_	NK	_	_
+7	stimmiges	stimmig	stimmig	ADJA	ADJA	_	acc|sg|neut|pos	-1	10	_	NK	_	_
+8	Nutzungs-	Nutzungs-	Nutzungs-	TRUNC	TRUNC	_	_	-1	9	_	CJ	_	_
+9	und	und	und	KON	KON	_	_	-1	10	_	CD	_	_
+10	Finanzierungskonzept	Finanzierungskonzept	Finanzierungskonzept	NN	NN	_	acc|sg|neut	-1	11	_	OA	_	_
+11	vorlegen	vorlegen	vorlegen	VVINF	VVINF	_	_	-1	3	_	RC	_	_
+12	und	und	und	KON	KON	_	_	-1	11	_	CD	_	_
+13	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	15	_	OA	_	_
+14	selbst	selbst	selbst	ADV	ADV	_	_	-1	15	_	MO	_	_
+15	einbringen	einbringen	einbringen	VVINF	VVINF	_	_	-1	12	_	CJ	_	_
+16	-	-	-	$(	$(	_	_	-1	15	_	--	_	_
+17	mit	mit	mit	APPR	APPR	_	_	-1	15	_	MO	_	_
+18	Geld	Geld	Geld	NN	NN	_	dat|sg|neut	-1	17	_	NK	_	_
+19	,	,	,	$,	$,	_	_	-1	18	_	--	_	_
+20	Muskelhypothek	Muskelhypothek	Muskelhypothek	NN	NN	_	dat|sg|fem	-1	18	_	CJ	_	_
+21	und	und	und	KON	KON	_	_	-1	20	_	CD	_	_
+22	ihrem	ihr	ihr	PPOSAT	PPOSAT	_	dat|sg|masc	-1	23	_	NK	_	_
+23	Herzblut	Herzblut	Herzblut	NN	NN	_	dat|sg|masc	-1	21	_	CJ	_	_
+24	.	.	.	$.	$.	_	_	-1	23	_	--	_	_
+
+1	Falls	falls	falls	KOUS	KOUS	_	_	-1	9	_	CP	_	_
+2	Sie	Sie	Sie	PPER	PPER	_	nom|pl|*|3	-1	9	_	SB	_	_
+3	also	also	also	ADV	ADV	_	_	-1	9	_	MO	_	_
+4	an	an	an	APPR	APPR	_	_	-1	9	_	MO	_	_
+5	diesem	dies	dies	PDAT	PDAT	_	dat|sg|masc	-1	6	_	NK	_	_
+6	Wochenende	Wochenende	Wochenende	NN	NN	_	dat|sg|masc	-1	4	_	NK	_	_
+7	wieder	wieder	wieder	ADV	ADV	_	_	-1	9	_	MO	_	_
+8	leer	leer	leer	ADJD	ADJD	_	pos	-1	9	_	MO	_	_
+9	ausgehen	ausgehen	ausgehen	VVINF	VVINF	_	_	-1	17	_	CJ	_	_
+10	:	:	:	$.	$.	_	_	-1	9	_	--	_	_
+11	Alles	alle	alle	PIAT	PIAT	_	nom|sg|neut	-1	14	_	MO	_	_
+12	halb	halb	halb	ADJD	ADJD	_	pos	-1	14	_	MO	_	_
+13	so	so	so	ADV	ADV	_	_	-1	14	_	MO	_	_
+14	schlimm	schlimm	schlimm	ADJD	ADJD	_	pos	-1	9	_	OC	_	_
+15	,	,	,	$,	$,	_	_	-1	14	_	--	_	_
+16	Sie	Sie	Sie	PPER	PPER	_	nom|pl|*|3	-1	17	_	SB	_	_
+17	taten	tun	tun	VVFIN	VVFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+18	Gutes	gut	gut	ADJA	ADJA	_	nom|sg|neut|pos	-1	17	_	MO	_	_
+

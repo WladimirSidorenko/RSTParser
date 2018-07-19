@@ -1,0 +1,224 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::6	7::4	12::1
+1	Steuer	Steuer	Steuer	NN	NN	_	nom|sg|fem	-1	0	_	--	_	_
+2	frei	frei	frei	PTKVZ	PTKVZ	_	pos	-1	1	_	MNR	_	_
+3	!	!	!	$.	$.	_	_	-1	2	_	--	_	_
+
+	sentence_start	0	152
+	token_offsets	sentence	0	offsets	0::6	7::1	9::8	18::1	20::8	29::1	31::11	43::1	45::6	52::1	54::12	67::1	69::4	74::1	76::15	92::3	96::3	100::2	103::2	106::6	113::4	118::4	123::4	128::4	133::15	149::1
+	token_offsets	sentence	1	offsets	152::11	164::3	168::5	174::10	185::1	187::4	192::2	195::5	201::4	206::1	208::6	215::7	223::3	227::10	238::3	242::4	247::3	251::3	255::7	263::2	266::6	273::1
+1	Tabak-	Tabak-	Tabak-	TRUNC	TRUNC	_	_	-1	3	_	CJ	_	_
+2	,	,	,	$,	$,	_	_	-1	1	_	--	_	_
+3	Alkohol-	Alkohol-	Alkohol-	TRUNC	TRUNC	_	_	-1	5	_	CJ	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	Gewerbe-	Gewerbe-	Gewerbe-	TRUNC	TRUNC	_	_	-1	7	_	CJ	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	Einkommens-	Einkommens-	Einkommens-	TRUNC	TRUNC	_	_	-1	9	_	CJ	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	Grund-	Grund-	Grund-	TRUNC	TRUNC	_	_	-1	11	_	CJ	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	Vergnügungs-	Vergnügungs-	Vergnügungs-	TRUNC	TRUNC	_	_	-1	13	_	CJ	_	_
+12	,	,	,	$,	$,	_	_	-1	11	_	--	_	_
+13	Kfz-	Kfz-	Kfz-	TRUNC	TRUNC	_	_	-1	15	_	CJ	_	_
+14	,	,	,	$,	$,	_	_	-1	13	_	--	_	_
+15	Kapitalertrags-	Kapitalertrags-	Kapitalertrags-	TRUNC	TRUNC	_	_	-1	16	_	CJ	_	_
+16	und	und	und	KON	KON	_	_	-1	25	_	CD	_	_
+17	nun	nun	nun	ADV	ADV	_	_	-1	18	_	MO	_	_
+18	ab	ab	ab	APPR	APPR	_	_	-1	16	_	CJ	_	_
+19	1.	1.	1.	ADJA	ADJA	_	dat|sg|masc|pos	-1	20	_	NK	_	_
+20	Januar	Januar	Januar	NN	NN	_	dat|sg|masc	-1	18	_	NK	_	_
+21	2002	@card@	@card@	CARD	CARD	_	_	-1	20	_	NK	_	_
+22	auch	auch	auch	ADV	ADV	_	_	-1	25	_	MO	_	_
+23	noch	noch	noch	ADV	ADV	_	_	-1	25	_	MO	_	_
+24	eine	eine	eine	ART	ART	_	nom|sg|fem	-1	25	_	NK	_	_
+25	Bauabzugssteuer	Bauabzugssteuer	Bauabzugssteuer	NN	NN	_	nom|sg|fem	-1	0	_	--	_	_
+26	.	.	.	$.	$.	_	_	-1	25	_	--	_	_
+
+1	Deutschland	Deutschland	Deutschland	NE	NE	_	nom|sg|neut	-1	2	_	SB	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	2	_	NG	_	_
+4	bescheiden	bescheiden	bescheiden	ADJD	ADJD	_	pos	-1	2	_	PD	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	9	_	CP	_	_
+7	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	9	_	EP	_	_
+8	darum	darum	darum	PAV	PAV	_	_	-1	9	_	NK	_	_
+9	geht	gehen	gehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	2	_	MO	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	seinen	sein	sein	PPOSAT	PPOSAT	_	dat|pl|masc	-1	12	_	NK	_	_
+12	Bürgern	Bürger	Bürger	NN	NN	_	dat|pl|masc	-1	21	_	DA	_	_
+13	und	und	und	KON	KON	_	_	-1	12	_	CD	_	_
+14	Investoren	Investor	Investor	NN	NN	_	nom|pl|masc	-1	13	_	CJ	_	_
+15	das	die	die	ART	ART	_	acc|sg|neut	-1	16	_	NK	_	_
+16	Geld	Geld	Geld	NN	NN	_	acc|sg|neut	-1	21	_	OA	_	_
+17	aus	aus	aus	APPR	APPR	_	_	-1	21	_	MO	_	_
+18	den	die	die	ART	ART	_	dat|pl|masc	-1	19	_	NK	_	_
+19	Taschen	Tasche	Tasche	NN	NN	_	dat|pl|masc	-1	17	_	NK	_	_
+20	zu	zu	zu	PTKZU	PTKZU	_	_	-1	21	_	PM	_	_
+21	ziehen	ziehen	ziehen	VVINF	VVINF	_	_	-1	7	_	RE	_	_
+22	.	.	.	$.	$.	_	_	-1	21	_	--	_	_
+
+	sentence_start	0	67	159	256	471
+	token_offsets	sentence	0	offsets	0::6	7::3	11::3	15::10	26::5	32::7	40::6	47::3	51::6	58::5	64::1
+	token_offsets	sentence	1	offsets	67::3	71::20	92::3	96::10	107::6	114::1	116::2	119::3	123::18	142::2	145::10	156::1
+	token_offsets	sentence	2	offsets	159::3	163::15	179::3	183::4	188::9	198::4	203::6	210::1	212::13	226::3	230::3	234::8	243::2	246::6	253::1
+	token_offsets	sentence	3	offsets	256::4	261::6	268::14	283::3	287::6	294::1	296::7	304::1	306::1	308::3	312::9	322::7	330::5	336::3	340::9	350::9	360::3	364::1	366::6	373::1	375::1	377::11	389::4	394::14	409::4	414::2	417::3	421::4	426::9	436::1	438::9	448::3	452::7	460::7	468::1
+	token_offsets	sentence	4	offsets	471::5	477::6	484::4	489::3	493::15	509::6	516::5	522::1	523::0	525::3	529::13	543::5	549::4	554::4	559::6	566::2	569::7	577::1	579::13	593::3	597::10	608::1
+1	Gründe	Grund	Grund	NN	NN	_	nom|pl|masc	-1	7	_	OA	_	_
+2	für	für	für	APPR	APPR	_	_	-1	1	_	MNR	_	_
+3	die	die	die	ART	ART	_	acc|sg|fem	-1	4	_	NK	_	_
+4	Einführung	Einführung	Einführung	NN	NN	_	acc|sg|fem	-1	2	_	NK	_	_
+5	neuer	neu	neu	ADJA	ADJA	_	gen|pl|fem|pos	-1	6	_	NK	_	_
+6	Steuern	Steuer	Steuer	NN	NN	_	gen|pl|fem	-1	4	_	AG	_	_
+7	findet	finden	finden	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+8	der	die	die	ART	ART	_	nom|sg|masc	-1	9	_	NK	_	_
+9	Fiskus	Fiskus	Fiskus	NN	NN	_	nom|sg|masc	-1	7	_	SB	_	_
+10	immer	immer	immer	ADV	ADV	_	_	-1	7	_	SVP	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Kapitalertragssteuer	Kapitalertragssteuer	Kapitalertragssteuer	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+3	war	sein	sein	VAFIN	VAFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+4	eingeführt	einführen	einführen	VVPP	VVPP	_	_	-1	5	_	OC	_	_
+5	worden	werden	werden	VAPP	VAPP	_	_	-1	3	_	OC	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	um	um	um	KOUI	KOUI	_	_	-1	11	_	CP	_	_
+8	die	die	die	ART	ART	_	acc|sg|fem	-1	9	_	NK	_	_
+9	Schwarzgeld-Wäsche	Schwarzgeld-Wäsche	Schwarzgeld-Wäsche	NN	NN	_	acc|sg|fem	-1	11	_	OA	_	_
+10	zu	zu	zu	PTKZU	PTKZU	_	_	-1	11	_	PM	_	_
+11	erschweren	erschweren	erschweren	VVINF	VVINF	_	_	-1	4	_	MO	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Bauabzugssteuer	Bauabzugssteuer	Bauabzugssteuer	NN	NN	_	nom|sg|fem	-1	4	_	SB	_	_
+3	nun	nun	nun	ADV	ADV	_	_	-1	4	_	MO	_	_
+4	soll	sollen	sollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	angeblich	angeblich	angeblich	ADJD	ADJD	_	pos	-1	4	_	MO	_	_
+6	dazu	dazu	dazu	PAV	PAV	_	_	-1	7	_	NK	_	_
+7	dienen	dienen	dienen	VVINF	VVINF	_	_	-1	4	_	OC	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	Schwarzarbeit	Schwarzarbeit	Schwarzarbeit	NN	NN	_	nom|sg|fem	-1	14	_	OA	_	_
+10	auf	auf	auf	APPR	APPR	_	_	-1	14	_	MO	_	_
+11	die	die	die	ART	ART	_	acc|sg|fem	-1	12	_	NK	_	_
+12	Schliche	Schlich	Schlich	NN	NN	_	acc|sg|fem	-1	10	_	NK	_	_
+13	zu	zu	zu	PTKZU	PTKZU	_	_	-1	14	_	PM	_	_
+14	kommen	kommen	kommen	VVINF	VVINF	_	_	-1	7	_	OC	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+1	Doch	doch	doch	ADV	ADV	_	_	-1	19	_	MO	_	_
+2	werden	werden	werden	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	beispielsweise	beispielsweise	beispielsweise	ADV	ADV	_	_	-1	19	_	MO	_	_
+4	die	die	die	ART	ART	_	nom|pl|fem	-1	7	_	NK	_	_
+5	vielen	viele	viele	PIAT	PIAT	_	nom|pl|fem	-1	7	_	NK	_	_
+6	"	"	"	$(	$(	_	_	-1	5	_	--	_	_
+7	Freunde	Freund	Freund	NN	NN	_	acc|pl|masc	-1	2	_	SB	_	_
+8	"	"	"	$(	$(	_	_	-1	7	_	--	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	die	die	die	ART	ART	_	acc|pl|fem	-1	19	_	SB	_	_
+11	schwarzen	schwarz	schwarz	ADJA	ADJA	_	acc|pl|fem|pos	-1	12	_	NK	_	_
+12	Schafen	Schaf	Schaf	NN	NN	_	acc|pl|fem	-1	19	_	SB	_	_
+13	unter	unter	unter	APPR	APPR	_	_	-1	12	_	MNR	_	_
+14	den	die	die	ART	ART	_	dat|pl|fem	-1	15	_	NK	_	_
+15	Bauherren	Bauherr	Bauherr	NN	NN	_	dat|pl|fem	-1	13	_	NK	_	_
+16	offiziell	offiziell	offiziell	ADJD	ADJD	_	pos	-1	19	_	MO	_	_
+17	nur	nur	nur	ADV	ADV	_	_	-1	19	_	MO	_	_
+18	"	"	"	$(	$(	_	_	-1	17	_	--	_	_
+19	helfen	helfen	helfen	VVFIN	VVFIN	_	_	-1	7	_	RC	_	_
+20	"	"	"	$(	$(	_	_	-1	19	_	--	_	_
+21	,	,	,	$,	$,	_	_	-1	20	_	--	_	_
+22	tatsächlich	tatsächlich	tatsächlich	ADV	ADV	_	pos	-1	29	_	MO	_	_
+23	aber	aber	aber	ADV	ADV	_	_	-1	29	_	MO	_	_
+24	unversteuertes	unversteuert	unversteuert	ADJA	ADJA	_	acc|sg|neut|pos	-1	25	_	NK	_	_
+25	Geld	Geld	Geld	NN	NN	_	acc|sg|neut	-1	29	_	OA	_	_
+26	in	in	in	APPR	APPR	_	_	-1	29	_	MO	_	_
+27	die	die	die	ART	ART	_	acc|sg|fem	-1	28	_	NK	_	_
+28	Hand	Hand	Hand	NN	NN	_	acc|sg|fem	-1	26	_	NK	_	_
+29	kassieren	kassieren	kassieren	VVINF	VVINF	_	pl|3|pres|ind	-1	2	_	OC	_	_
+30	,	,	,	$,	$,	_	_	-1	29	_	--	_	_
+31	weiterhin	weiterhin	weiterhin	ADV	ADV	_	_	-1	34	_	MO	_	_
+32	ihr	ihr	ihr	PPOSAT	PPOSAT	_	acc|sg|neut	-1	33	_	NK	_	_
+33	Unwesen	Unwesen	Unwesen	NN	NN	_	acc|sg|neut	-1	34	_	OA	_	_
+34	treiben	treiben	treiben	VVINF	VVINF	_	_	-1	29	_	CJ	_	_
+35	.	.	.	$.	$.	_	_	-1	34	_	--	_	_
+
+1	Einen	eine	eine	ART	ART	_	acc|sg|masc	-1	2	_	NK	_	_
+2	Effekt	Effekt	Effekt	NN	NN	_	acc|sg|masc	-1	16	_	OA	_	_
+3	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	die	die	die	ART	ART	_	nom|sg|fem	-1	5	_	NK	_	_
+5	Bauabzugssteuer	Bauabzugssteuer	Bauabzugssteuer	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+6	sicher	sicher	sicher	ADJD	ADJD	_	pos	-1	16	_	MO	_	_
+7	haben	haben	haben	VAFIN	VAFIN	_	pl|3|pres|ind	-1	18	_	OC	_	_
+8	:	:	:	$.	$.	_	_	-1	7	_	--	_	_
+9	Die	die	die	ART	ART	_	nom|pl|fem	-1	10	_	NK	_	_
+10	Finanzbeamten	Finanzbeamte	Finanzbeamte	NN	NN	_	nom|pl|fem	-1	11	_	SB	_	_
+11	haben	haben	haben	VAFIN	VAFIN	_	pl|3|pres|ind	-1	7	_	CJ	_	_
+12	noch	noch	noch	ADV	ADV	_	_	-1	13	_	MO	_	_
+13	mehr	mehr	mehr	PIAT	PIAT	_	*|*|*	-1	14	_	NK	_	_
+14	Papier	Papier	Papier	NN	NN	_	nom|sg|neut	-1	11	_	SB	_	_
+15	zu	zu	zu	PTKZU	PTKZU	_	_	-1	16	_	PM	_	_
+16	bewegen	bewegen	bewegen	VVINF	VVINF	_	_	-1	11	_	OC	_	_
+17	,	,	,	$,	$,	_	_	-1	16	_	--	_	_
+18	kontrollieren	kontrollieren	kontrollieren	VVFIN	VVFIN	_	pl|3|pres|ind	-1	3	_	OC	_	_
+19	und	und	und	KON	KON	_	_	-1	18	_	CD	_	_
+20	bescheiden	bescheiden	bescheiden	ADJD	ADJD	_	pos	-1	19	_	CJ	_	_
+21	.	.	.	$.	$.	_	_	-1	20	_	--	_	_
+
+	sentence_start	0	121	282
+	token_offsets	sentence	0	offsets	0::3	4::3	8::6	15::4	20::9	30::4	35::1	37::3	41::1	43::4	48::3	52::18	71::3	75::12	88::4	93::6	100::6	107::3	111::6	118::1
+	token_offsets	sentence	1	offsets	121::4	126::5	132::6	139::3	143::8	152::12	165::1	167::3	171::2	174::13	188::9	198::2	201::3	205::4	210::4	215::27	243::9	253::5	259::1	261::3	265::3	269::9	279::1
+	token_offsets	sentence	2	offsets	282::7	290::4	295::2	298::3	302::1	304::3	308::3	312::6	319::8	328::1
+1	Was	was	was	PIS	PIS	_	nom|sg|neut	-1	5	_	OA	_	_
+2	auf	auf	auf	APPR	APPR	_	_	-1	5	_	MO	_	_
+3	keinen	keine	keine	PIAT	PIAT	_	acc|sg|masc	-1	4	_	NK	_	_
+4	Fall	Fall	Fall	NN	NN	_	acc|sg|masc	-1	2	_	NK	_	_
+5	passieren	passieren	passieren	VVINF	VVINF	_	_	-1	6	_	OC	_	_
+6	darf	dürfen	dürfen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	6	_	CJ	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	dass	dass	dass	KOUS	KOUS	_	_	-1	17	_	CP	_	_
+11	die	die	die	ART	ART	_	nom|pl|fem	-1	12	_	NK	_	_
+12	Bearbeitungszeiten	Bearbeitungszeit	Bearbeitungszeit	NN	NN	_	nom|pl|fem	-1	17	_	SB	_	_
+13	für	für	für	APPR	APPR	_	_	-1	12	_	MNR	_	_
+14	Steuersachen	Steuersache	Steuersache	NN	NN	_	acc|pl|fem	-1	13	_	NK	_	_
+15	noch	noch	noch	ADV	ADV	_	_	-1	16	_	MO	_	_
+16	länger	lang	lang	ADJD	ADJD	_	comp	-1	17	_	MO	_	_
+17	dauern	dauern	dauern	VVFIN	VVFIN	_	_	-1	6	_	MO	_	_
+18	als	als	als	KOKOM	KOKOM	_	_	-1	19	_	CM	_	_
+19	bisher	bisher	bisher	ADV	ADV	_	_	-1	16	_	CC	_	_
+20	.	.	.	$.	$.	_	_	-1	19	_	--	_	_
+
+1	Noch	noch	noch	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	immer	immer	immer	ADV	ADV	_	_	-1	3	_	MO	_	_
+3	warten	warten	warten	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+4	zum	zu	zu	APPRART	APPRART	_	dat|sg|neut	-1	3	_	MO	_	_
+5	Beispiel	Beispiel	Beispiel	NN	NN	_	dat|sg|neut	-1	4	_	NK	_	_
+6	Steuerzahler	Steuerzahler	Steuerzahler	NN	NN	_	nom|pl|masc	-1	3	_	SB	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	die	die	die	PRELS	PRELS	_	nom|pl|masc	-1	18	_	SB	_	_
+9	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	17	_	MO	_	_
+10	Oranienburger	Oranienburger	Oranienburger	NN	NN	_	dat|sg|masc	-1	9	_	NK	_	_
+11	Finanzamt	Finanzamt	Finanzamt	NN	NN	_	nom|sg|neut	-1	17	_	OA	_	_
+12	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	17	_	MO	_	_
+13	Mai	Mai	Mai	NN	NN	_	dat|sg|masc	-1	12	_	NK	_	_
+14	2001	@card@	@card@	CARD	CARD	_	_	-1	13	_	NK	_	_
+15	ihre	ihr	ihr	PPOSAT	PPOSAT	_	acc|pl|fem	-1	16	_	NK	_	_
+16	Einkommenssteuererklärungen	Einkommenssteuererklärungen	Einkommenssteuererklärungen	NN	NN	_	acc|pl|fem	-1	17	_	OA	_	_
+17	abgegeben	abgeben	abgeben	VVPP	VVPP	_	_	-1	18	_	OC	_	_
+18	haben	haben	haben	VAFIN	VAFIN	_	pl|3|pres|ind	-1	6	_	RC	_	_
+19	,	,	,	$,	$,	_	_	-1	18	_	--	_	_
+20	auf	auf	auf	APPR	APPR	_	_	-1	3	_	OP	_	_
+21	die	die	die	ART	ART	_	acc|sg|fem	-1	22	_	NK	_	_
+22	Bescheide	Bescheid	Bescheid	NN	NN	_	acc|sg|fem	-1	20	_	NK	_	_
+23	.	.	.	$.	$.	_	_	-1	22	_	--	_	_
+
+1	Oftmals	oftmals	oftmals	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	SB	_	_
+4	die	die	die	PDS	PDS	_	nom|pl|*	-1	2	_	PD	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	die	die	die	PRELS	PRELS	_	nom|pl|*	-1	9	_	OA	_	_
+7	was	was	was	PIS	PIS	_	acc|sg|neut	-1	9	_	OA	_	_
+8	zurück	zurück	zurück	ADV	ADV	_	_	-1	9	_	MO	_	_
+9	bekommen	bekommen	bekommen	VVINF	VVINF	_	pl|3|pres|ind	-1	4	_	RC	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+

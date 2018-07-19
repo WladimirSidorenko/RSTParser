@@ -1,0 +1,210 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::9
+1	Ehrgeizig	ehrgeizig	ehrgeizig	ADJD	ADJD	_	pos	-1	0	_	--	_	_
+
+	sentence_start	0	52	195	380	639	722	860	960	1042	1128
+	token_offsets	sentence	0	offsets	0::3	4::7	12::11	24::5	30::3	34::11	46::2	49::1
+	token_offsets	sentence	1	offsets	52::4	57::3	61::2	64::9	74::4	79::6	86::2	89::3	93::9	103::6	110::2	113::6	120::3	124::14	139::2	142::3	146::9	156::3	160::8	169::3	173::10	184::7	192::1
+	token_offsets	sentence	2	offsets	195::3	199::2	202::13	216::3	220::5	226::9	236::3	240::14	255::4	260::3	264::6	271::17	289::3	293::3	297::3	301::6	308::3	312::16	329::10	340::10	351::1	353::12	366::3	370::4	375::1	377::1
+	token_offsets	sentence	3	offsets	380::6	387::3	391::12	404::3	408::7	416::2	419::3	423::8	432::14	447::1	449::3	453::7	461::2	464::3	468::12	481::10	492::2	495::14	510::2	513::10	524::1	526::3	530::11	542::4	547::10	558::1	560::6	567::3	571::3	575::5	581::2	584::6	591::3	595::3	599::5	605::3	609::8	618::5	624::2	627::8	636::1
+	token_offsets	sentence	4	offsets	639::3	643::9	653::3	657::3	661::8	670::15	686::3	690::3	694::12	707::5	713::5	719::1
+	token_offsets	sentence	5	offsets	722::4	727::2	730::8	739::4	744::2	747::6	754::5	760::1	762::3	766::5	772::8	781::6	788::1	790::3	794::3	798::9	808::3	812::5	818::13	832::16	849::7	857::1
+	token_offsets	sentence	6	offsets	860::9	870::3	874::11	886::5	892::5	898::3	902::3	906::16	923::3	927::7	935::4	940::6	947::9	957::1
+	token_offsets	sentence	7	offsets	960::3	964::3	968::8	977::18	996::3	1000::3	1004::20	1025::4	1030::8	1039::1
+	token_offsets	sentence	8	offsets	1042::3	1046::3	1050::11	1062::3	1066::5	1072::2	1075::6	1082::5	1088::3	1092::10	1103::4	1108::16	1125::1
+	token_offsets	sentence	9	offsets	1128::3	1132::5	1138::2	1141::6	1148::2	1151::1	1153::3	1157::3	1161::6	1168::10	1179::4	1184::8	1193::5	1199::2	1202::6	1209::1
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	3	_	NK	_	_
+2	nächste	nah	nah	ADJA	ADJA	_	nom|sg|fem|pos	-1	3	_	NK	_	_
+3	Förderwelle	Förderwelle	Förderwelle	NN	NN	_	nom|sg|fem	-1	4	_	SB	_	_
+4	rollt	rollen	rollen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	auf	auf	auf	APPR	APPR	_	_	-1	4	_	MO	_	_
+6	Brandenburg	Brandenburg	Brandenburg	NE	NE	_	acc|sg|neut	-1	5	_	NK	_	_
+7	zu	zu	zu	PTKVZ	PTKVZ	_	_	-1	4	_	SVP	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+
+1	Mehr	mehr	mehr	ADV	ADV	_	*|*|*	-1	4	_	MO	_	_
+2	als	als	als	KOKOM	KOKOM	_	_	-1	4	_	CM	_	_
+3	20	20	20	CARD	CARD	_	_	-1	4	_	NMC	_	_
+4	Millionen	Million	Million	NN	NN	_	acc|pl|fem	-1	6	_	SB	_	_
+5	Mark	Mark	Mark	NN	NN	_	*|*|fem	-1	4	_	NK	_	_
+6	sollen	sollen	sollen	VMFIN	VMFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+7	in	in	in	APPR	APPR	_	_	-1	22	_	MO	_	_
+8	den	die	die	ART	ART	_	dat|pl|neut	-1	10	_	NK	_	_
+9	kommenden	kommend	kommend	ADJA	ADJA	_	dat|pl|neut|pos	-1	10	_	NK	_	_
+10	Jahren	Jahr	Jahr	NN	NN	_	dat|pl|neut	-1	7	_	NK	_	_
+11	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	22	_	MO	_	_
+12	Rahmen	Rahmen	Rahmen	NN	NN	_	dat|sg|masc	-1	11	_	NK	_	_
+13	des	die	die	ART	ART	_	gen|sg|neut	-1	14	_	NK	_	_
+14	Zis-Programmes	Zis-Programmes	Zis-Programmes	NN	NN	_	gen|sg|neut	-1	12	_	AG	_	_
+15	in	in	in	APPR	APPR	_	_	-1	14	_	MNR	_	_
+16	die	die	die	ART	ART	_	acc|sg|fem	-1	17	_	NK	_	_
+17	Sanierung	Sanierung	Sanierung	NN	NN	_	acc|sg|fem	-1	15	_	NK	_	_
+18	und	und	und	KON	KON	_	_	-1	17	_	CD	_	_
+19	Belebung	Belebung	Belebung	NN	NN	_	acc|sg|fem	-1	18	_	CJ	_	_
+20	der	die	die	ART	ART	_	gen|sg|fem	-1	21	_	NK	_	_
+21	Innenstadt	Innenstadt	Innenstadt	NN	NN	_	gen|sg|fem	-1	17	_	AG	_	_
+22	fließen	fließen	fließen	VVINF	VVINF	_	_	-1	6	_	OC	_	_
+23	.	.	.	$.	$.	_	_	-1	22	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|pl|fem	-1	3	_	NK	_	_
+2	13	13	13	CARD	CARD	_	_	-1	3	_	NK	_	_
+3	Projektbündel	Projektbündel	Projektbündel	NN	NN	_	nom|pl|fem	-1	9	_	SB	_	_
+4	mit	mit	mit	APPR	APPR	_	_	-1	3	_	MNR	_	_
+5	ihren	ihr	ihr	PPOSAT	PPOSAT	_	dat|pl|masc	-1	8	_	NK	_	_
+6	insgesamt	insgesamt	insgesamt	ADV	ADV	_	_	-1	7	_	MO	_	_
+7	140	@card@	@card@	CARD	CARD	_	_	-1	8	_	NK	_	_
+8	Einzelvorhaben	Einzelvorhaben	Einzelvorhaben	NN	NN	_	gen|pl|fem	-1	4	_	NK	_	_
+9	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+10	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	12	_	NK	_	_
+11	heller	hell	hell	ADJA	ADJA	_	nom|sg|masc|pos	-1	12	_	NK	_	_
+12	Hoffnungsschimmer	Hoffnungsschimmer	Hoffnungsschimmer	NN	NN	_	nom|sg|masc	-1	9	_	PD	_	_
+13	für	für	für	APPR	APPR	_	_	-1	12	_	MNR	_	_
+14	das	die	die	ART	ART	_	acc|sg|neut	-1	22	_	NK	_	_
+15	von	von	von	APPR	APPR	_	_	-1	20	_	SBP	_	_
+16	Wegzug	Wegzug	Wegzug	NN	NN	_	dat|sg|masc	-1	15	_	NK	_	_
+17	und	und	und	KON	KON	_	_	-1	16	_	CD	_	_
+18	wirtschaftlicher	wirtschaftlich	wirtschaftlich	ADJA	ADJA	_	dat|sg|fem|pos	-1	19	_	NK	_	_
+19	Depression	Depression	Depression	NN	NN	_	dat|sg|fem	-1	17	_	CJ	_	_
+20	gebeutelte	gebeutelt	gebeutelt	ADJA	ADJA	_	nom|sg|masc|pos	-1	22	_	NK	_	_
+21	"	"	"	$(	$(	_	_	-1	20	_	--	_	_
+22	Aschenputtel	Aschenputtel	Aschenputtel	NN	NN	_	nom|sg|neut	-1	13	_	NK	_	_
+23	der	die	die	ART	ART	_	gen|sg|fem	-1	24	_	NK	_	_
+24	Mark	Mark	Mark	NN	NN	_	gen|sg|fem	-1	22	_	AG	_	_
+25	"	"	"	$(	$(	_	_	-1	24	_	--	_	_
+26	.	.	.	$.	$.	_	_	-1	25	_	--	_	_
+
+1	Werden	werden	werden	VAFIN	VAFIN	_	pl|3|pres|ind	-1	40	_	MO	_	_
+2	sie	sie	sie	PPER	PPER	_	nom|pl|*|3	-1	1	_	SB	_	_
+3	verwirklicht	verwirklichen	verwirklichen	VVPP	VVPP	_	_	-1	1	_	OC	_	_
+4	und	und	und	KON	KON	_	_	-1	1	_	CD	_	_
+5	gelingt	gelingen	gelingen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	4	_	CJ	_	_
+6	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	5	_	SB	_	_
+7	der	die	die	ART	ART	_	dat|sg|fem	-1	9	_	NK	_	_
+8	nächsten	nah	nah	ADJA	ADJA	_	dat|sg|fem|pos	-1	9	_	NK	_	_
+9	Stadtregierung	Stadtregierung	Stadtregierung	NN	NN	_	dat|sg|fem	-1	5	_	DA	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	das	die	die	ART	ART	_	acc|sg|neut	-1	12	_	NK	_	_
+12	Debakel	Debakel	Debakel	NN	NN	_	acc|sg|neut	-1	20	_	OA	_	_
+13	um	um	um	APPR	APPR	_	_	-1	12	_	MNR	_	_
+14	die	die	die	ART	ART	_	acc|sg|fem	-1	16	_	NK	_	_
+15	gescheiterte	gescheitert	gescheitert	ADJA	ADJA	_	acc|sg|fem|pos	-1	16	_	NK	_	_
+16	Ansiedlung	Ansiedlung	Ansiedlung	NN	NN	_	acc|sg|fem	-1	13	_	NK	_	_
+17	am	an	an	APPRART	APPRART	_	dat|sg|neut	-1	20	_	MO	_	_
+18	Neustadt-Markt	Neustadt-Markt	Neustadt-Markt	NN	NN	_	dat|sg|neut	-1	17	_	NK	_	_
+19	zu	zu	zu	PTKZU	PTKZU	_	_	-1	20	_	PM	_	_
+20	überwinden	überwinden	überwinden	VVINF	VVINF	_	_	-1	6	_	RE	_	_
+21	,	,	,	$,	$,	_	_	-1	20	_	--	_	_
+22	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+23	Brandenburg	Brandenburg	Brandenburg	NE	NE	_	nom|sg|neut	-1	22	_	SB	_	_
+24	gute	gut	gut	ADJA	ADJA	_	acc|pl|fem|pos	-1	25	_	NK	_	_
+25	Aussichten	Aussicht	Aussicht	NN	NN	_	acc|pl|fem	-1	22	_	OA	_	_
+26	,	,	,	$,	$,	_	_	-1	25	_	--	_	_
+27	wieder	wieder	wieder	ADV	ADV	_	_	-1	32	_	MO	_	_
+28	auf	auf	auf	APPR	APPR	_	_	-1	32	_	MO	_	_
+29	die	die	die	ART	ART	_	acc|pl|masc	-1	30	_	NK	_	_
+30	Beine	Bein	Bein	NN	NN	_	acc|pl|masc	-1	28	_	NK	_	_
+31	zu	zu	zu	PTKZU	PTKZU	_	_	-1	32	_	PM	_	_
+32	kommen	kommen	kommen	VVINF	VVINF	_	_	-1	25	_	MNR	_	_
+33	und	und	und	KON	KON	_	_	-1	32	_	CD	_	_
+34	vor	vor	vor	APPR	APPR	_	_	-1	40	_	MO	_	_
+35	allem	alle	alle	PIS	PIS	_	dat|sg|neut	-1	34	_	NK	_	_
+36	ein	eine	eine	ART	ART	_	acc|sg|neut	-1	38	_	NK	_	_
+37	besseres	gut	gut	ADJA	ADJA	_	acc|sg|neut|comp	-1	38	_	NK	_	_
+38	Image	Image	Image	NN	NN	_	acc|sg|neut	-1	40	_	OA	_	_
+39	zu	zu	zu	PTKZU	PTKZU	_	_	-1	40	_	PM	_	_
+40	gewinnen	gewinnen	gewinnen	VVINF	VVINF	_	_	-1	33	_	CJ	_	_
+41	.	.	.	$.	$.	_	_	-1	40	_	--	_	_
+
+1	Das	die	die	ART	ART	_	nom|sg|neut	-1	6	_	NK	_	_
+2	innerhalb	innerhalb	innerhalb	APPR	APPR	_	_	-1	3	_	AC	_	_
+3	von	von	von	APPR	APPR	_	_	-1	5	_	MO	_	_
+4	Zis	Zis	Zis	ADJA	ADJA	_	dat|pl|*|pos	-1	3	_	NK	_	_
+5	geplante	geplant	geplant	ADJA	ADJA	_	nom|sg|fem|pos	-1	6	_	NK	_	_
+6	City-Management	City-Management	City-Management	NN	NN	_	nom|sg|neut	-1	7	_	SB	_	_
+7	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+8	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	10	_	NK	_	_
+9	wesentlicher	wesentlich	wesentlich	ADJA	ADJA	_	nom|sg|masc|pos	-1	10	_	NK	_	_
+10	Motor	Motor	Motor	NN	NN	_	nom|sg|masc	-1	7	_	SB	_	_
+11	dabei	dabei	dabei	PTKVZ	PTKVZ	_	_	-1	7	_	MO	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Dass	dass	dass	KOUS	KOUS	_	_	-1	4	_	CP	_	_
+2	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	4	_	EP	_	_
+3	Menschen	Mensch	Mensch	NN	NN	_	acc|pl|masc	-1	4	_	OA	_	_
+4	gibt	geben	geben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	21	_	MO	_	_
+5	in	in	in	APPR	APPR	_	_	-1	4	_	MO	_	_
+6	dieser	dies	dies	PDAT	PDAT	_	dat|sg|fem	-1	7	_	NK	_	_
+7	Stadt	Stadt	Stadt	NN	NN	_	dat|sg|fem	-1	5	_	NK	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	die	die	die	PRELS	PRELS	_	nom|sg|fem	-1	12	_	SB	_	_
+10	etwas	etwas	etwas	ADV	ADV	_	_	-1	11	_	MO	_	_
+11	bewirken	bewirken	bewirken	VVINF	VVINF	_	_	-1	12	_	OC	_	_
+12	können	können	können	VMINF	VMINF	_	_	-1	7	_	RC	_	_
+13	,	,	,	$,	$,	_	_	-1	12	_	--	_	_
+14	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+15	die	die	die	ART	ART	_	acc|sg|fem	-1	16	_	NK	_	_
+16	Umsetzung	Umsetzung	Umsetzung	NN	NN	_	acc|sg|fem	-1	21	_	OA	_	_
+17	des	die	die	ART	ART	_	gen|sg|neut	-1	20	_	NK	_	_
+18	jetzt	jetzt	jetzt	ADV	ADV	_	_	-1	19	_	MO	_	_
+19	ausgelaufenen	ausgelaufen	ausgelaufen	ADJA	ADJA	_	gen|sg|neut|pos	-1	20	_	NK	_	_
+20	Urban-Programmes	Urban-Programmes	Urban-Programmes	NN	NN	_	gen|sg|neut	-1	16	_	AG	_	_
+21	gezeigt	zeigen	zeigen	VVPP	VVPP	_	_	-1	14	_	OC	_	_
+22	.	.	.	$.	$.	_	_	-1	21	_	--	_	_
+
+1	Innerhalb	innerhalb	innerhalb	APPR	APPR	_	_	-1	13	_	MO	_	_
+2	der	die	die	ART	ART	_	gen|pl|neut	-1	5	_	NK	_	_
+3	vergangenen	vergangen	vergangen	ADJA	ADJA	_	gen|pl|neut|pos	-1	5	_	NK	_	_
+4	sechs	sechs	sechs	CARD	CARD	_	_	-1	5	_	NK	_	_
+5	Jahre	Jahr	Jahr	NN	NN	_	gen|pl|neut	-1	1	_	NK	_	_
+6	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+7	die	die	die	ART	ART	_	nom|sg|fem	-1	8	_	NK	_	_
+8	Bahnhofsvorstadt	Bahnhofsvorstadt	Bahnhofsvorstadt	NN	NN	_	nom|sg|fem	-1	6	_	SB	_	_
+9	ihr	ihr	ihr	PPOSAT	PPOSAT	_	acc|sg|neut	-1	10	_	NK	_	_
+10	Gesicht	Gesicht	Gesicht	NN	NN	_	acc|sg|neut	-1	13	_	OA	_	_
+11	fast	fast	fast	ADV	ADV	_	_	-1	12	_	MO	_	_
+12	völlig	völlig	völlig	ADJD	ADJD	_	pos	-1	13	_	MO	_	_
+13	verändert	verändern	verändern	VVPP	VVPP	_	_	-1	6	_	OC	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Aus	aus	aus	APPR	APPR	_	_	-1	9	_	MO	_	_
+2	dem	die	die	ART	ART	_	dat|sg|masc	-1	4	_	NK	_	_
+3	früheren	früh	früh	ADJA	ADJA	_	dat|sg|masc|comp	-1	4	_	NK	_	_
+4	Nachtjackenviertel	Nachtjackenviertel	Nachtjackenviertel	NN	NN	_	dat|sg|masc	-1	1	_	NK	_	_
+5	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+6	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	8	_	NK	_	_
+7	familienfreundlicher	familienfreundlicher	familienfreundlicher	ADJA	ADJA	_	nom|sg|masc|pos	-1	8	_	NK	_	_
+8	Kiez	Kiez	Kiez	NN	NN	_	nom|sg|masc	-1	9	_	PD	_	_
+9	geworden	werden	werden	VAPP	VAPP	_	_	-1	5	_	OC	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+1	Mit	mit	mit	APPR	APPR	_	_	-1	8	_	MO	_	_
+2	den	die	die	ART	ART	_	dat|pl|fem	-1	3	_	NK	_	_
+3	Erfahrungen	Erfahrung	Erfahrung	NN	NN	_	dat|pl|fem	-1	1	_	NK	_	_
+4	aus	aus	aus	APPR	APPR	_	_	-1	3	_	MNR	_	_
+5	Urban	Urban	Urban	NE	NE	_	dat|sg|neut	-1	4	_	NK	_	_
+6	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	3	_	MNR	_	_
+7	Gepäck	Gepäck	Gepäck	NN	NN	_	dat|sg|neut	-1	6	_	NK	_	_
+8	haben	haben	haben	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+9	die	die	die	ART	ART	_	nom|pl|masc	-1	10	_	NK	_	_
+10	Zis-Macher	Zis-Macher	Zis-Macher	NN	NN	_	nom|pl|masc	-1	8	_	SB	_	_
+11	gute	gut	gut	ADJA	ADJA	_	acc|pl|fem|pos	-1	12	_	NK	_	_
+12	Startbedingungen	Startbedingung	Startbedingung	NN	NN	_	acc|pl|fem	-1	8	_	OA	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Nun	nun	nun	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	kommt	kommen	kommen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	SB	_	_
+4	darauf	darauf	darauf	PAV	PAV	_	_	-1	2	_	NK	_	_
+5	an	an	an	PTKVZ	PTKVZ	_	_	-1	2	_	SVP	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	aus	aus	aus	APPR	APPR	_	_	-1	15	_	MO	_	_
+8	dem	die	die	PRELS	PRELS	_	dat|sg|neut	-1	7	_	NK	_	_
+9	vielen	viele	viele	PIAT	PIAT	_	dat|sg|neut|pos	-1	10	_	NK	_	_
+10	Steuergeld	Steuergeld	Steuergeld	NN	NN	_	dat|sg|neut	-1	15	_	DA	_	_
+11	auch	auch	auch	ADV	ADV	_	_	-1	15	_	MO	_	_
+12	wirklich	wirklich	wirklich	ADJD	ADJD	_	pos	-1	15	_	MO	_	_
+13	etwas	etwas	etwas	PIS	PIS	_	*|*|neut	-1	15	_	OA	_	_
+14	zu	zu	zu	PTKZU	PTKZU	_	_	-1	15	_	PM	_	_
+15	machen	machen	machen	VVINF	VVINF	_	_	-1	3	_	RE	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+

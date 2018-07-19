@@ -1,0 +1,212 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::7	8::7
+1	Schätze	Schatz	Schatz	NN	NN	_	nom|pl|masc	-1	0	_	--	_	_
+2	gehoben	gehoben	gehoben	ADJD	ADJD	_	_	-1	1	_	PD	_	_
+
+	sentence_start	0	118	297
+	token_offsets	sentence	0	offsets	0::3	4::10	15::9	25::3	29::8	38::5	44::9	54::1	56::6	63::4	68::3	72::8	81::3	85::14	100::8	109::5	115::1
+	token_offsets	sentence	1	offsets	118::3	122::8	131::13	145::6	152::5	158::7	166::7	174::3	178::23	202::3	206::10	217::13	231::4	236::5	242::3	246::1	248::3	252::3	256::3	260::6	267::11	279::9	289::4	294::1
+	token_offsets	sentence	2	offsets	297::3	301::8	310::3	314::6	321::14	336::3	340::2	343::3	347::6	354::10	365::10	376::1
+1	Als	als	als	KOKOM	KOKOM	_	_	-1	7	_	MO	_	_
+2	Raubritter	Raubritter	Raubritter	NE	NE	_	nom|sg|masc	-1	3	_	PNC	_	_
+3	Bassewitz	Bassewitz	Bassewitz	NN	NN	_	nom|sg|masc	-1	1	_	NK	_	_
+4	die	die	die	ART	ART	_	acc|sg|fem	-1	5	_	NK	_	_
+5	Kyritzer	Kyritzer	Kyritzer	NN	NN	_	acc|sg|fem	-1	7	_	OA	_	_
+6	einst	einst	einst	ADV	ADV	_	_	-1	7	_	MO	_	_
+7	bedrängte	bedrängen	bedrängen	VVFIN	VVFIN	_	sg|3|past|ind	-1	9	_	MO	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	sollen	sollen	sollen	VMFIN	VMFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+10	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	15	_	OA	_	_
+11	die	die	die	ART	ART	_	nom|pl|masc	-1	12	_	NK	_	_
+12	Bewohner	Bewohner	Bewohner	NN	NN	_	nom|pl|masc	-1	9	_	SB	_	_
+13	mit	mit	mit	APPR	APPR	_	_	-1	15	_	MO	_	_
+14	Knatterkrapfen	Knatterkrapfen	Knatterkrapfen	NN	NN	_	dat|pl|masc	-1	13	_	NK	_	_
+15	gestärkt	stärken	stärken	VVPP	VVPP	_	_	-1	16	_	OC	_	_
+16	haben	haben	haben	VAFIN	VAFIN	_	pl|3|pres|ind	-1	9	_	OC	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	2	_	NK	_	_
+2	Kyritzer	Kyritzer	Kyritzer	NN	NN	_	nom|sg|masc	-1	6	_	SB	_	_
+3	Bäckermeister	Bäckermeister	Bäckermeister	NN	NN	_	nom|sg|masc	-1	2	_	NK	_	_
+4	Thomas	Thomas	Thomas	NE	NE	_	nom|sg|masc	-1	5	_	PNC	_	_
+5	Haupt	Haupt	Haupt	NE	NE	_	nom|sg|masc	-1	2	_	NK	_	_
+6	brachte	bringen	bringen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+7	gestern	gestern	gestern	ADV	ADV	_	_	-1	6	_	MO	_	_
+8	zum	zu	zu	APPRART	APPRART	_	dat|sg|masc	-1	6	_	MO	_	_
+9	Spezialitätenwettbewerb	Spezialitätenwettbewerb	Spezialitätenwettbewerb	NN	NN	_	dat|sg|masc	-1	8	_	NK	_	_
+10	der	die	die	ART	ART	_	gen|pl|masc	-1	11	_	NK	_	_
+11	Prignitzer	Prignitzer	Prignitzer	NN	NN	_	gen|pl|masc	-1	9	_	AG	_	_
+12	Bäcker-Innung	Bäcker-Innung	Bäcker-Innung	NN	NN	_	nom|sg|fem	-1	11	_	NK	_	_
+13	eine	eine	eine	ART	ART	_	nom|sg|fem	-1	14	_	NK	_	_
+14	Tafel	Tafel	Tafel	NN	NN	_	nom|sg|fem	-1	23	_	SB	_	_
+15	mit	mit	mit	PTKVZ	PTKVZ	_	_	-1	6	_	SVP	_	_
+16	,	,	,	$,	$,	_	_	-1	15	_	--	_	_
+17	auf	auf	auf	APPR	APPR	_	_	-1	22	_	MO	_	_
+18	der	die	die	PRELS	PRELS	_	dat|sg|fem	-1	17	_	NK	_	_
+19	von	von	von	APPR	APPR	_	_	-1	22	_	OP	_	_
+20	dieser	dies	dies	PDAT	PDAT	_	dat|sg|fem	-1	21	_	NK	_	_
+21	Begebenheit	Begebenheit	Begebenheit	NN	NN	_	dat|sg|fem	-1	19	_	NK	_	_
+22	berichtet	berichten	berichten	VVPP	VVPP	_	_	-1	23	_	OC	_	_
+23	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	11	_	RC	_	_
+24	.	.	.	$.	$.	_	_	-1	23	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Rezeptur	Rezeptur	Rezeptur	NN	NN	_	nom|sg|fem	-1	6	_	SB	_	_
+3	für	für	für	APPR	APPR	_	_	-1	2	_	MNR	_	_
+4	seinen	sein	sein	PPOSAT	PPOSAT	_	acc|sg|masc	-1	5	_	NK	_	_
+5	Knatterkrapfen	Knatterkrapfen	Knatterkrapfen	NN	NN	_	acc|sg|masc	-1	3	_	NK	_	_
+6	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+7	er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	6	_	SB	_	_
+8	von	von	von	APPR	APPR	_	_	-1	11	_	MO	_	_
+9	seiner	sein	sein	PPOSAT	PPOSAT	_	dat|sg|fem	-1	10	_	NK	_	_
+10	Großmutter	Großmutter	Großmutter	NN	NN	_	dat|sg|fem	-1	8	_	NK	_	_
+11	übernommen	übernehmen	übernehmen	VVPP	VVPP	_	_	-1	6	_	OC	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+	sentence_start	0	91	244
+	token_offsets	sentence	0	offsets	0::4	5::3	9::7	17::13	31::8	40::10	51::3	55::1	57::3	61::2	64::4	69::4	74::7	82::5	88::1
+	token_offsets	sentence	1	offsets	91::8	100::6	107::3	111::11	123::5	129::4	134::3	138::8	147::6	154::3	158::9	168::4	173::1	175::6	182::8	191::3	195::3	199::8	208::3	212::8	221::8	230::3	234::6	241::1
+	token_offsets	sentence	2	offsets	244::4	249::14	264::12	277::4	282::3	286::11	298::6	305::8	314::3	318::6	325::10	336::1	338::4	343::4	348::5	354::3	358::5	364::6	371::4	376::1	378::7	386::4	391::3	395::10	406::8	415::9	425::10	436::1
+1	Auch	auch	auch	ADV	ADV	_	_	-1	4	_	MO	_	_
+2	die	die	die	ART	ART	_	nom|pl|*	-1	4	_	NK	_	_
+3	anderen	andere	andere	PIAT	PIAT	_	nom|pl|*	-1	4	_	NK	_	_
+4	Bäckermeister	Bäckermeister	Bäckermeister	NN	NN	_	nom|pl|masc	-1	5	_	SB	_	_
+5	stellten	stellen	stellen	VVFIN	VVFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+6	Rezepturen	Rezeptur	Rezeptur	NN	NN	_	acc|pl|fem	-1	5	_	OA	_	_
+7	vor	vor	vor	PTKVZ	PTKVZ	_	_	-1	5	_	SVP	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	die	die	die	PRELS	PRELS	_	nom|pl|fem	-1	14	_	SB	_	_
+10	so	so	so	ADV	ADV	_	_	-1	11	_	MO	_	_
+11	wohl	wohl	wohl	ADV	ADV	_	_	-1	14	_	MO	_	_
+12	kaum	kaum	kaum	ADV	ADV	_	_	-1	13	_	MO	_	_
+13	bekannt	bekannt	bekannt	ADJD	ADJD	_	pos	-1	14	_	PD	_	_
+14	waren	sein	sein	VAFIN	VAFIN	_	pl|3|past|ind	-1	6	_	RC	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+1	Einmalig	einmalig	einmalig	ADJD	ADJD	_	pos	-1	2	_	MO	_	_
+2	dürfte	dürfen	dürfen	VMFIN	VMFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+3	das	die	die	ART	ART	_	nom|sg|neut	-1	6	_	NK	_	_
+4	geflochtene	geflochten	geflochten	ADJA	ADJA	_	nom|sg|neut|pos	-1	6	_	NK	_	_
+5	Bunte	bunt	bunt	ADJA	ADJA	_	nom|sg|neut|pos	-1	6	_	NK	_	_
+6	Brot	Brot	Brot	NN	NN	_	nom|sg|neut	-1	2	_	SB	_	_
+7	von	von	von	APPR	APPR	_	_	-1	6	_	PG	_	_
+8	Winfried	Winfried	Winfried	NE	NE	_	dat|sg|neut	-1	7	_	NK	_	_
+9	Höfler	Höfler	Höfler	NN	NN	_	nom|pl|masc	-1	12	_	PD	_	_
+10	aus	aus	aus	APPR	APPR	_	_	-1	9	_	MNR	_	_
+11	Perleberg	Perleberg	Perleberg	NE	NE	_	dat|sg|neut	-1	10	_	NK	_	_
+12	sein	sein	sein	VAINF	VAINF	_	_	-1	2	_	OC	_	_
+13	,	,	,	$,	$,	_	_	-1	12	_	--	_	_
+14	ebenso	ebenso	ebenso	ADV	ADV	_	_	-1	15	_	MO	_	_
+15	einmalig	einmalig	einmalig	ADJD	ADJD	_	pos	-1	9	_	PAR	_	_
+16	wie	wie	wie	KOKOM	KOKOM	_	_	-1	18	_	CM	_	_
+17	die	die	die	ART	ART	_	nom|sg|fem	-1	18	_	NK	_	_
+18	Elbwelle	Elbwelle	Elbwelle	NN	NN	_	nom|sg|fem	-1	14	_	CC	_	_
+19	von	von	von	APPR	APPR	_	_	-1	18	_	PG	_	_
+20	Wolfgang	Wolfgang	Wolfgang	NE	NE	_	nom|sg|masc	-1	21	_	PNC	_	_
+21	Grünberg	Grünberg	Grünberg	NE	NE	_	dat|sg|masc	-1	19	_	NK	_	_
+22	aus	aus	aus	APPR	APPR	_	_	-1	21	_	MNR	_	_
+23	Lenzen	Lenzen	Lenzen	NE	NE	_	dat|sg|neut	-1	22	_	NK	_	_
+24	.	.	.	$.	$.	_	_	-1	23	_	--	_	_
+
+1	Eine	eine	eine	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Neuentwicklung	Neuentwicklung	Neuentwicklung	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+3	präsentierte	präsentieren	präsentieren	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+4	auch	auch	auch	ADV	ADV	_	_	-1	6	_	MO	_	_
+5	der	die	die	ART	ART	_	nom|sg|masc	-1	6	_	NK	_	_
+6	Fretzdorfer	Fretzdorfer	Fretzdorfer	NN	NN	_	nom|sg|masc	-1	3	_	SB	_	_
+7	Thomas	Thomas	Thomas	NE	NE	_	nom|sg|masc	-1	8	_	PNC	_	_
+8	Hausbalk	Hausbalk	Hausbalk	NN	NN	_	nom|sg|masc	-1	6	_	NK	_	_
+9	mit	mit	mit	APPR	APPR	_	_	-1	3	_	MO	_	_
+10	seinem	sein	sein	PPOSAT	PPOSAT	_	dat|sg|masc	-1	11	_	NK	_	_
+11	Schrotbrot	Schrotbrot	Schrotbrot	NN	NN	_	dat|sg|masc	-1	9	_	NK	_	_
+12	,	,	,	$,	$,	_	_	-1	11	_	--	_	_
+13	dass	dass	dass	KOUS	KOUS	_	_	-1	19	_	CP	_	_
+14	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	19	_	OA	_	_
+15	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	16	_	NG	_	_
+16	nur	nur	nur	ADV	ADV	_	_	-1	17	_	MO	_	_
+17	lange	lange	lange	ADV	ADV	_	_	-1	19	_	MO	_	_
+18	frisch	frisch	frisch	ADJD	ADJD	_	pos	-1	19	_	MO	_	_
+19	hält	halten	halten	VVFIN	VVFIN	_	sg|3|pres|ind	-1	3	_	MO	_	_
+20	,	,	,	$,	$,	_	_	-1	19	_	--	_	_
+21	sondern	sondern	sondern	KON	KON	_	_	-1	19	_	CD	_	_
+22	auch	auch	auch	ADV	ADV	_	_	-1	24	_	MO	_	_
+23	den	die	die	ART	ART	_	acc|sg|masc	-1	24	_	NK	_	_
+24	Ansprüchen	Anspruch	Anspruch	NN	NN	_	acc|sg|masc	-1	27	_	OA	_	_
+25	gesunder	gesund	gesund	ADJA	ADJA	_	gen|sg|fem|pos	-1	26	_	NK	_	_
+26	Ernährung	Ernährung	Ernährung	NN	NN	_	gen|sg|fem	-1	24	_	AG	_	_
+27	entspricht	entsprechen	entsprechen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	21	_	CJ	_	_
+28	.	.	.	$.	$.	_	_	-1	27	_	--	_	_
+
+	sentence_start	0	111	228	308
+	token_offsets	sentence	0	offsets	0::3	4::7	12::6	19::3	23::4	28::13	42::3	46::3	50::6	57::5	63::10	74::3	78::5	84::3	88::3	92::8	101::6	108::1
+	token_offsets	sentence	1	offsets	111::3	115::10	126::3	130::6	137::4	142::7	150::1	152::4	157::2	160::8	169::10	180::7	188::10	199::1	201::4	206::3	210::3	214::4	219::5	225::1
+	token_offsets	sentence	2	offsets	228::3	232::5	238::2	241::3	245::2	248::3	252::1	254::3	258::6	265::8	274::2	277::3	281::14	296::2	299::5	305::1
+	token_offsets	sentence	3	offsets	308::3	312::3	316::9	326::5	332::4	337::4	342::4	347::12	360::10	371::1
+1	Die	die	die	ART	ART	_	nom|pl|masc	-1	2	_	NK	_	_
+2	Meister	Meister	Meister	NN	NN	_	nom|pl|masc	-1	3	_	SB	_	_
+3	werden	werden	werden	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+4	nun	nun	nun	ADV	ADV	_	_	-1	11	_	MO	_	_
+5	ihre	ihr	ihr	PPOSAT	PPOSAT	_	acc|pl|masc	-1	6	_	NK	_	_
+6	Spezialitäten	Spezialität	Spezialität	NN	NN	_	acc|pl|masc	-1	11	_	OA	_	_
+7	auf	auf	auf	APPR	APPR	_	_	-1	6	_	MNR	_	_
+8	der	die	die	ART	ART	_	dat|sg|fem	-1	10	_	NK	_	_
+9	Grünen	grün	grün	ADJA	ADJA	_	dat|sg|fem|pos	-1	10	_	NK	_	_
+10	Woche	Woche	Woche	NN	NN	_	dat|sg|fem	-1	7	_	NK	_	_
+11	vorstellen	vorstellen	vorstellen	VVINF	VVINF	_	_	-1	3	_	OC	_	_
+12	und	und	und	KON	KON	_	_	-1	11	_	CD	_	_
+13	damit	damit	damit	PAV	PAV	_	_	-1	17	_	NK	_	_
+14	für	für	für	APPR	APPR	_	_	-1	17	_	OP	_	_
+15	die	die	die	ART	ART	_	acc|sg|fem	-1	16	_	NK	_	_
+16	Prignitz	Prignitz	Prignitz	NN	NN	_	acc|sg|fem	-1	14	_	NK	_	_
+17	werben	werben	werben	VVINF	VVINF	_	_	-1	12	_	CJ	_	_
+18	.	.	.	$.	$.	_	_	-1	17	_	--	_	_
+
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	2	_	NK	_	_
+2	Wettbewerb	Wettbewerb	Wettbewerb	NN	NN	_	nom|sg|masc	-1	3	_	SB	_	_
+3	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	jedoch	jedoch	jedoch	ADV	ADV	_	_	-1	6	_	MO	_	_
+5	auch	auch	auch	ADV	ADV	_	_	-1	6	_	MO	_	_
+6	gezeigt	zeigen	zeigen	VVPP	VVPP	_	_	-1	3	_	OC	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	dass	dass	dass	KOUS	KOUS	_	_	-1	13	_	CP	_	_
+9	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	13	_	MO	_	_
+10	Handwerk	Handwerk	Handwerk	NN	NN	_	dat|sg|masc	-1	9	_	NK	_	_
+11	verborgene	verborgen	verborgen	ADJA	ADJA	_	acc|pl|masc|pos	-1	12	_	NK	_	_
+12	Schätze	Schatz	Schatz	NN	NN	_	acc|pl|masc	-1	13	_	OA	_	_
+13	schlummern	schlummern	schlummern	VVINF	VVINF	_	_	-1	6	_	MO	_	_
+14	-	-	-	$(	$(	_	_	-1	13	_	--	_	_
+15	mehr	mehr	mehr	ADV	ADV	_	*|*|*	-1	13	_	OA	_	_
+16	als	als	als	KOUS	KOUS	_	_	-1	19	_	CM	_	_
+17	man	man	man	PIS	PIS	_	nom|sg|*	-1	19	_	SB	_	_
+18	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	19	_	OA	_	_
+19	denkt	denken	denken	VVFIN	VVFIN	_	sg|3|pres|ind	-1	15	_	CC	_	_
+20	.	.	.	$.	$.	_	_	-1	19	_	--	_	_
+
+1	Oft	oft	oft	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	fehlt	fehlen	fehlen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	SB	_	_
+4	nur	nur	nur	ADV	ADV	_	_	-1	5	_	MO	_	_
+5	am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	2	_	MO	_	_
+6	Mut	Mut	Mut	NN	NN	_	dat|sg|masc	-1	5	_	NK	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	mit	mit	mit	APPR	APPR	_	_	-1	15	_	MO	_	_
+9	diesen	dies	dies	PDAT	PDAT	_	dat|pl|fem	-1	10	_	NK	_	_
+10	Schätzen	Schatz|Schätzen	Schatz|Schätzen	NN	NN	_	dat|pl|fem	-1	8	_	NK	_	_
+11	an	an	an	APPR	APPR	_	_	-1	15	_	MO	_	_
+12	die	die	die	ART	ART	_	acc|sg|fem	-1	13	_	NK	_	_
+13	Öffentlichkeit	Öffentlichkeit	Öffentlichkeit	NN	NN	_	acc|sg|fem	-1	11	_	NK	_	_
+14	zu	zu	zu	PTKZU	PTKZU	_	_	-1	15	_	PM	_	_
+15	gehen	gehen	gehen	VVINF	VVINF	_	_	-1	3	_	RE	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+1	Mit	mit	mit	APPR	APPR	_	_	-1	9	_	MO	_	_
+2	der	die	die	ART	ART	_	dat|sg|fem	-1	3	_	NK	_	_
+3	PR-Aktion	PR-Aktion	PR-Aktion	NN	NN	_	dat|sg|fem	-1	1	_	NK	_	_
+4	wurde	werden	werden	VAFIN	VAFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+5	eben	eben	eben	ADV	ADV	_	_	-1	9	_	MO	_	_
+6	auch	auch	auch	ADV	ADV	_	_	-1	8	_	MO	_	_
+7	eine	eine	eine	ART	ART	_	nom|sg|fem	-1	8	_	NK	_	_
+8	Hemmschwelle	Hemmschwelle	Hemmschwelle	NN	NN	_	nom|sg|fem	-1	4	_	SB	_	_
+9	überwunden	überwinden	überwinden	VVPP	VVPP	_	_	-1	4	_	OC	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+

@@ -1,0 +1,220 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::10	11::4	16::4
+1	Unangenehm	unangenehm	unangenehm	ADJD	ADJD	_	pos	-1	0	_	--	_	_
+2	aber	aber	aber	KON	KON	_	_	-1	1	_	CD	_	_
+3	fair	fair	fair	ADJD	ADJD	_	pos	-1	2	_	CJ	_	_
+
+	sentence_start	0	73
+	token_offsets	sentence	0	offsets	0::2	3::11	15::4	20::5	26::4	31::8	40::3	44::19	64::5	70::1
+	token_offsets	sentence	1	offsets	73::3	77::10	88::8	97::5	103::3	107::4	112::7	120::1	122::3	126::4	131::3	135::5	141::3	145::3	149::6	156::9	166::6	173::2	176::3	180::13	194::11	206::11	218::1
+1	Im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	4	_	MO	_	_
+2	Löwenberger	Löwenberger	Löwenberger	NE	NE	_	*|*|*|pos	-1	3	_	PNC	_	_
+3	Land	Land	Land	NN	NN	_	dat|sg|neut	-1	1	_	NK	_	_
+4	steht	stehen	stehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	eine	eine	eine	ART	ART	_	nom|sg|fem	-1	6	_	NK	_	_
+6	Änderung	Änderung	Änderung	NN	NN	_	nom|sg|fem	-1	4	_	SB	_	_
+7	der	die	die	ART	ART	_	gen|pl|fem	-1	8	_	NK	_	_
+8	Kita-Öffnungszeiten	Kita-Öffnungszeit	Kita-Öffnungszeit	NN	NN	_	gen|pl|fem	-1	6	_	AG	_	_
+9	bevor	bevor	bevor	PTKVZ	PTKVZ	_	_	-1	4	_	SVP	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Verwaltung	Verwaltung	Verwaltung	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+3	reagiert	reagieren	reagieren	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	damit	damit	damit	PAV	PAV	_	_	-1	17	_	NK	_	_
+5	auf	auf	auf	APPR	APPR	_	_	-1	3	_	OP	_	_
+6	eine	eine	eine	ART	ART	_	acc|sg|fem	-1	7	_	NK	_	_
+7	Analyse	Analyse	Analyse	NN	NN	_	acc|sg|fem	-1	5	_	NK	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	die	die	die	PRELS	PRELS	_	nom|sg|fem	-1	22	_	SB	_	_
+10	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	22	_	OA	_	_
+11	vor	vor	vor	APPR	APPR	_	_	-1	13	_	MO	_	_
+12	allem	alle	alle	PIS	PIS	_	dat|sg|neut	-1	11	_	NK	_	_
+13	mit	mit	mit	APPR	APPR	_	_	-1	22	_	MO	_	_
+14	der	die	die	ART	ART	_	dat|sg|fem	-1	15	_	NK	_	_
+15	Anzahl	Anzahl	Anzahl	NN	NN	_	dat|sg|fem	-1	13	_	NK	_	_
+16	betreuter	betreuter	betreuter	ADJA	ADJA	_	gen|pl|neut|pos	-1	17	_	NK	_	_
+17	Kinder	Kind	Kind	NN	NN	_	gen|pl|neut	-1	15	_	AG	_	_
+18	zu	zu	zu	APPR	APPR	_	_	-1	22	_	MO	_	_
+19	den	die	die	ART	ART	_	dat|pl|masc	-1	21	_	NK	_	_
+20	verschiedenen	verschieden	verschieden	ADJA	ADJA	_	dat|pl|masc|pos	-1	21	_	NK	_	_
+21	Tageszeiten	Tageszeit	Tageszeit	NN	NN	_	dat|pl|masc	-1	18	_	NK	_	_
+22	beschäftigt	beschäftigen	beschäftigen	VVPP	VVPP	_	_	-1	7	_	RC	_	_
+23	.	.	.	$.	$.	_	_	-1	22	_	--	_	_
+
+	sentence_start	0	80	189	256	334
+	token_offsets	sentence	0	offsets	0::3	4::6	11::3	15::5	21::16	38::13	52::8	61::1	63::5	69::7	77::1
+	token_offsets	sentence	1	offsets	80::11	92::5	98::3	102::15	118::4	123::5	129::15	145::3	149::8	158::4	163::3	167::3	171::4	176::2	179::6	186::1
+	token_offsets	sentence	2	offsets	189::3	193::3	197::6	204::6	211::4	216::3	220::12	233::3	237::3	241::11	253::1
+	token_offsets	sentence	3	offsets	256::10	267::14	282::1	284::3	288::3	292::3	296::10	307::6	314::1	316::4	321::3	325::5	331::1
+	token_offsets	sentence	4	offsets	334::5	340::6	347::4	352::3	356::11	368::3	372::9	382::4	387::2	390::6	397::1
+1	Wer	wer	wer	PWS	PWS	_	nom|sg|masc	-1	7	_	SB	_	_
+2	hinter	hinter	hinter	APPR	APPR	_	_	-1	7	_	MO	_	_
+3	den	die	die	ART	ART	_	dat|pl|neut	-1	5	_	NK	_	_
+4	neuen	neu	neu	ADJA	ADJA	_	dat|pl|neut|pos	-1	5	_	NK	_	_
+5	Betreuungszeiten	Betreuungszeit	Betreuungszeit	NN	NN	_	dat|pl|neut	-1	2	_	NK	_	_
+6	Sparabsichten	Sparabsicht	Sparabsicht	NN	NN	_	acc|pl|fem	-1	7	_	OA	_	_
+7	vermutet	vermuten	vermuten	VVPP	VVPP	_	sg|3|pres|ind	-1	9	_	SB	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	liegt	liegen	liegen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+10	richtig	richtig	richtig	ADJD	ADJD	_	pos	-1	9	_	MO	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Bekanntlich	bekanntlich	bekanntlich	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	sitzt	sitzen	sitzen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	der	die	die	ART	ART	_	nom|sg|masc	-1	4	_	NK	_	_
+4	Landesregierung	Landesregierung	Landesregierung	NN	NN	_	nom|sg|masc	-1	2	_	SB	_	_
+5	beim	bei	bei	APPRART	APPRART	_	dat|sg|neut	-1	2	_	MO	_	_
+6	Thema	Thema	Thema	NN	NN	_	dat|sg|neut	-1	5	_	NK	_	_
+7	Kinderbetreuung	Kinderbetreuung	Kinderbetreuung	NN	NN	_	acc|sg|fem	-1	6	_	NK	_	_
+8	der	die	die	ART	ART	_	gen|sg|fem	-1	9	_	NK	_	_
+9	Rotstift	Rotstift	Rotstift	NN	NN	_	gen|sg|fem	-1	7	_	AG	_	_
+10	nach	nach	nach	PTKVZ	PTKVZ	_	_	-1	2	_	SVP	_	_
+11	wie	wie	wie	KOKOM	KOKOM	_	_	-1	12	_	CM	_	_
+12	vor	vor	vor	APPR	APPR	_	_	-1	2	_	MO	_	_
+13	viel	viel	viel	ADV	ADV	_	_	-1	15	_	MO	_	_
+14	zu	zu	zu	PTKA	PTKA	_	_	-1	15	_	MO	_	_
+15	locker	locker	locker	ADJD	ADJD	_	pos	-1	12	_	NK	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+1	Mit	mit	mit	APPR	APPR	_	_	-1	10	_	MO	_	_
+2	den	die	die	ART	ART	_	dat|pl|fem	-1	3	_	NK	_	_
+3	Folgen	Folge	Folge	NN	NN	_	dat|pl|fem	-1	1	_	NK	_	_
+4	müssen	müssen	müssen	VMFIN	VMFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+5	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	10	_	OA	_	_
+6	die	die	die	ART	ART	_	nom|pl|fem	-1	7	_	NK	_	_
+7	Verwaltungen	Verwaltung	Verwaltung	NN	NN	_	nom|pl|fem	-1	4	_	SB	_	_
+8	vor	vor	vor	APPR	APPR	_	_	-1	10	_	MO	_	_
+9	Ort	Ort	Ort	NN	NN	_	dat|sg|masc	-1	8	_	NK	_	_
+10	herumplagen	herumplagen	herumplagen	VVINF	VVINF	_	_	-1	4	_	OC	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Unpopuläre	unpopulär	unpopulär	ADJA	ADJA	_	acc|pl|fem|pos	-1	2	_	NK	_	_
+2	Entscheidungen	Entscheidung	Entscheidung	NN	NN	_	acc|pl|fem	-1	10	_	SB	_	_
+3	,	,	,	$,	$,	_	_	-1	2	_	--	_	_
+4	die	die	die	PRELS	PRELS	_	nom|pl|fem	-1	8	_	SB	_	_
+5	bis	bis	bis	APPR	APPR	_	_	-1	6	_	AC	_	_
+6	zur	zu	zu	APPRART	APPRART	_	dat|sg|fem	-1	8	_	MO	_	_
+7	Schließung	Schließung	Schließung	NN	NN	_	dat|sg|fem	-1	6	_	NK	_	_
+8	führen	führen	führen	VVINF	VVINF	_	pl|3|pres|ind	-1	2	_	RC	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+11	die	die	die	ART	ART	_	nom|pl|masc	-1	12	_	NK	_	_
+12	Folge	Folge	Folge	NN	NN	_	nom|pl|masc	-1	10	_	PD	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Davon	davon	davon	PAV	PAV	_	_	-1	2	_	NK	_	_
+2	wissen	wissen	wissen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	auch	auch	auch	ADV	ADV	_	_	-1	5	_	MO	_	_
+4	die	die	die	ART	ART	_	nom|pl|*	-1	5	_	NK	_	_
+5	Löwenberger	Löwenberger	Löwenberger	NE	NE	_	*|*|*|pos	-1	2	_	SB	_	_
+6	ein	eine	eine	ART	ART	_	acc|sg|neut	-1	8	_	NK	_	_
+7	trauriges	traurig	traurig	ADJA	ADJA	_	acc|sg|neut|pos	-1	8	_	NK	_	_
+8	Lied	Lied	Lied	NN	NN	_	acc|sg|neut	-1	10	_	OA	_	_
+9	zu	zu	zu	PTKZU	PTKZU	_	_	-1	10	_	PM	_	_
+10	singen	singen	singen	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+	sentence_start	0	120	300	363	491
+	token_offsets	sentence	0	offsets	0::3	4::8	13::8	22::7	30::3	34::3	38::7	46::1	48::3	52::7	60::4	65::3	69::15	85::9	95::8	104::2	107::9	117::1
+	token_offsets	sentence	1	offsets	120::7	128::4	133::4	138::4	143::6	150::1	152::4	157::8	166::4	171::3	175::2	178::7	186::1	188::5	194::5	200::6	207::3	211::3	215::12	228::1	230::3	234::9	244::9	254::7	262::3	266::6	273::2	276::3	280::11	292::4	297::1
+	token_offsets	sentence	2	offsets	300::3	304::11	316::8	325::1	327::6	334::3	338::6	345::14	360::1
+	token_offsets	sentence	3	offsets	363::3	367::14	382::5	388::1	390::3	394::8	403::11	415::1	417::3	421::4	426::5	432::16	449::6	456::1	458::5	464::6	471::3	475::5	481::7	489::1
+	token_offsets	sentence	4	offsets	491::1	493::4	498::5	504::12	517::1	519::3	523::5	529::3	533::11	545::12	558::9	568::12	581::3	585::1
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	4	_	NK	_	_
+2	eingangs	eingangs	eingangs	APPR	APPR	_	_	-1	3	_	MO	_	_
+3	erwähnte	erwähnt	erwähnt	ADJA	ADJA	_	nom|sg|fem|pos	-1	4	_	NK	_	_
+4	Analyse	Analyse	Analyse	NN	NN	_	nom|sg|fem	-1	5	_	SB	_	_
+5	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+6	der	die	die	ART	ART	_	nom|sg|masc	-1	7	_	NK	_	_
+7	Versuch	Versuch	Versuch	NN	NN	_	nom|sg|masc	-1	5	_	SB	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	auf	auf	auf	APPR	APPR	_	_	-1	17	_	OP	_	_
+10	weniger	wenige	wenige	PIAT	PIAT	_	acc|sg|neut	-1	11	_	NK	_	_
+11	Geld	Geld	Geld	NN	NN	_	acc|sg|neut	-1	9	_	NK	_	_
+12	für	für	für	APPR	APPR	_	_	-1	17	_	MO	_	_
+13	Kinderbetreuung	Kinderbetreuung	Kinderbetreuung	NN	NN	_	acc|sg|fem	-1	12	_	NK	_	_
+14	möglichst	möglichst	möglichst	ADV	ADV	_	_	-1	15	_	MO	_	_
+15	objektiv	objektiv	objektiv	ADJD	ADJD	_	pos	-1	17	_	MO	_	_
+16	zu	zu	zu	PTKZU	PTKZU	_	_	-1	17	_	PM	_	_
+17	reagieren	reagieren	reagieren	VVINF	VVINF	_	_	-1	7	_	OC	_	_
+18	.	.	.	$.	$.	_	_	-1	17	_	--	_	_
+
+1	Nunmehr	nunmehr	nunmehr	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	soll	sollen	sollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	eine	eine	eine	ART	ART	_	nom|sg|fem	-1	4	_	NK	_	_
+4	Kita	Kita	Kita	NE	NE	_	nom|sg|fem	-1	2	_	SB	_	_
+5	öffnen	öffnen	öffnen	VVFIN	VVFIN	_	_	-1	2	_	OC	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	30	_	CP	_	_
+8	zwischen	zwischen	zwischen	APPR	APPR	_	_	-1	9	_	MO	_	_
+9	zehn	zehn	zehn	CARD	CARD	_	_	-1	12	_	NK	_	_
+10	und	und	und	KON	KON	_	_	-1	9	_	CD	_	_
+11	15	15	15	CARD	CARD	_	_	-1	10	_	CJ	_	_
+12	Prozent	Prozent	Prozent	NN	NN	_	*|*|neut	-1	30	_	SB	_	_
+13	(	(	(	$(	$(	_	_	-1	12	_	--	_	_
+14	schon	schon	schon	ADV	ADV	_	_	-1	16	_	MO	_	_
+15	diese	dies	dies	PDAT	PDAT	_	nom|sg|fem	-1	16	_	NK	_	_
+16	Spanne	Spanne	Spanne	NN	NN	_	nom|sg|fem	-1	17	_	SB	_	_
+17	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	12	_	PAR	_	_
+18	ein	eine	eine	ART	ART	_	nom|sg|neut	-1	19	_	NK	_	_
+19	Zugeständnis	Zugeständnis	Zugeständnis	NN	NN	_	nom|sg|neut	-1	17	_	PD	_	_
+20	)	)	)	$(	$(	_	_	-1	19	_	--	_	_
+21	der	die	die	ART	ART	_	gen|pl|masc	-1	24	_	NK	_	_
+22	insgesamt	insgesamt	insgesamt	ADV	ADV	_	_	-1	23	_	MO	_	_
+23	betreuten	betreut	betreut	ADJA	ADJA	_	gen|pl|masc|pos	-1	24	_	NK	_	_
+24	Mädchen	Mädchen	Mädchen	NN	NN	_	gen|pl|masc	-1	19	_	AG	_	_
+25	und	und	und	KON	KON	_	_	-1	24	_	CD	_	_
+26	Jungen	Junge	Junge	NN	NN	_	gen|pl|masc	-1	25	_	CJ	_	_
+27	in	in	in	APPR	APPR	_	_	-1	30	_	MO	_	_
+28	der	die	die	ART	ART	_	dat|sg|fem	-1	29	_	NK	_	_
+29	Einrichtung	Einrichtung	Einrichtung	NN	NN	_	dat|sg|fem	-1	27	_	NK	_	_
+30	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	5	_	MO	_	_
+31	.	.	.	$.	$.	_	_	-1	30	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Einrichtung	Einrichtung	Einrichtung	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+3	schließt	schließen	schließen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	8	_	MO	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	werden	werden	werden	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+6	die	die	die	ART	ART	_	nom|pl|fem	-1	7	_	NK	_	_
+7	Zahlen	Zahl	Zahl	NN	NN	_	nom|pl|fem	-1	5	_	SB	_	_
+8	unterschritten	unterschreiten	unterschreiten	VVPP	VVPP	_	_	-1	5	_	OC	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+1	Aus	aus	aus	APPR	APPR	_	_	-1	7	_	MO	_	_
+2	demokratischer	demokratisch	demokratisch	ADJA	ADJA	_	dat|sg|fem|pos	-1	3	_	NK	_	_
+3	Sicht	Sicht	Sicht	NN	NN	_	dat|sg|fem	-1	1	_	NK	_	_
+4	(	(	(	$(	$(	_	_	-1	3	_	--	_	_
+5	die	die	die	ART	ART	_	nom|sg|fem	-1	6	_	NK	_	_
+6	Mehrheit	Mehrheit	Mehrheit	NN	NN	_	nom|sg|fem	-1	7	_	SB	_	_
+7	entscheidet	entscheiden	entscheiden	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+8	)	)	)	$(	$(	_	_	-1	7	_	--	_	_
+9	und	und	und	KON	KON	_	_	-1	1	_	CD	_	_
+10	auch	auch	auch	ADV	ADV	_	_	-1	11	_	MO	_	_
+11	unter	unter	unter	APPR	APPR	_	_	-1	9	_	CJ	_	_
+12	wirtschaftlichem	wirtschaftlich	wirtschaftlich	ADJA	ADJA	_	dat|sg|neut|pos	-1	13	_	NK	_	_
+13	Aspekt	Aspekt	Aspekt	NN	NN	_	dat|sg|neut	-1	11	_	NK	_	_
+14	(	(	(	$(	$(	_	_	-1	13	_	--	_	_
+15	woher	woher	woher	PWAV	PWAV	_	_	-1	16	_	MO	_	_
+16	nehmen	nehmen	nehmen	VVFIN	VVFIN	_	_	-1	13	_	PAR	_	_
+17	und	und	und	KON	KON	_	_	-1	16	_	CD	_	_
+18	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	19	_	NG	_	_
+19	stehlen	stehlen	stehlen	VVINF	VVINF	_	_	-1	17	_	CJ	_	_
+20	?	?	?	$.	$.	_	_	-1	19	_	--	_	_
+
+1	)	)	)	$(	$(	_	_	-1	2	_	--	_	_
+2	eine	eine	eine	ART	ART	_	nom|sg|fem	-1	4	_	NK	_	_
+3	faire	fair	fair	ADJA	ADJA	_	nom|sg|fem|pos	-1	4	_	NK	_	_
+4	Entscheidung	Entscheidung	Entscheidung	NN	NN	_	nom|sg|fem	-1	0	_	--	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	die	die	die	PRELS	PRELS	_	nom|sg|fem	-1	13	_	SB	_	_
+7	zudem	zudem	zudem	ADV	ADV	_	_	-1	8	_	MO	_	_
+8	bei	bei	bei	APPR	APPR	_	_	-1	13	_	MO	_	_
+9	veränderten	verändert	verändert	ADJA	ADJA	_	dat|pl|neut|pos	-1	10	_	NK	_	_
+10	Kinderzahlen	Kinderzahl	Kinderzahl	NN	NN	_	dat|pl|neut	-1	8	_	NK	_	_
+11	jederzeit	jederzeit	jederzeit	ADV	ADV	_	_	-1	13	_	MO	_	_
+12	korrigierbar	korrigierbar	korrigierbar	ADJD	ADJD	_	pos	-1	13	_	PD	_	_
+13	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	4	_	RC	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+

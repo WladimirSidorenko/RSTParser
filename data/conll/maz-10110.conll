@@ -1,0 +1,214 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::21
+1	Zukunftsinvestitionen	Zukunftsinvestition	Zukunftsinvestition	NN	NN	_	nom|pl|fem	-1	0	_	--	_	_
+
+	sentence_start	0	146	284	412
+	token_offsets	sentence	0	offsets	0::3	4::9	14::2	17::3	21::1	23::2	26::6	33::6	40::5	46::16	63::2	66::6	73::1	75::5	81::3	85::2	88::6	95::3	99::7	107::6	114::3	118::3	122::11	134::8	143::1
+	token_offsets	sentence	1	offsets	146::8	155::7	163::4	168::11	180::5	186::3	190::10	201::3	205::13	219::7	227::3	231::14	246::4	251::2	254::3	258::10	269::11	281::1
+	token_offsets	sentence	2	offsets	284::3	288::1	290::11	302::1	304::1	306::8	315::2	318::3	322::4	327::3	331::12	344::1	346::2	349::8	358::1	360::9	370::1	372::3	376::3	380::5	386::3	390::10	401::7	409::1
+	token_offsets	sentence	3	offsets	412::3	416::3	420::6	427::3	431::9	441::3	445::12	458::3	462::7	470::8	479::1
+1	Wie	wie	wie	KOKOM	KOKOM	_	_	-1	2	_	MO	_	_
+2	schwierig	schwierig	schwierig	ADJD	ADJD	_	pos	-1	4	_	PD	_	_
+3	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	4	_	SB	_	_
+4	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	in	in	in	APPR	APPR	_	_	-1	12	_	MO	_	_
+7	dieser	dies	dies	PDAT	PDAT	_	dat|sg|fem	-1	8	_	NK	_	_
+8	Region	Region	Region	NN	NN	_	dat|sg|fem	-1	6	_	NK	_	_
+9	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	10	_	NK	_	_
+10	Ausbildungsplatz	Ausbildungsplatz	Ausbildungsplatz	NN	NN	_	acc|sg|masc	-1	12	_	OA	_	_
+11	zu	zu	zu	PTKZU	PTKZU	_	_	-1	12	_	PM	_	_
+12	finden	finden	finden	VVINF	VVINF	_	_	-1	3	_	RE	_	_
+13	,	,	,	$,	$,	_	_	-1	12	_	--	_	_
+14	haben	haben	haben	VAFIN	VAFIN	_	pl|1|pres|ind	-1	4	_	CJ	_	_
+15	wir	wir	wir	PPER	PPER	_	nom|pl|*|1	-1	14	_	SB	_	_
+16	an	an	an	APPR	APPR	_	_	-1	24	_	MO	_	_
+17	dieser	dies	dies	PDAT	PDAT	_	dat|sg|fem	-1	20	_	NK	_	_
+18	und	und	und	KON	KON	_	_	-1	17	_	CD	_	_
+19	anderer	andere	andere	PIAT	PIAT	_	dat|sg|fem	-1	18	_	CJ	_	_
+20	Stelle	Stelle	Stelle	NN	NN	_	dat|sg|fem	-1	16	_	NK	_	_
+21	oft	oft	oft	ADV	ADV	_	_	-1	24	_	MO	_	_
+22	und	und	und	KON	KON	_	_	-1	21	_	CD	_	_
+23	ausführlich	ausführlich	ausführlich	ADJD	ADJD	_	pos	-1	22	_	CJ	_	_
+24	bewertet	bewerten	bewerten	VVPP	VVPP	_	_	-1	14	_	OC	_	_
+25	.	.	.	$.	$.	_	_	-1	24	_	--	_	_
+
+1	Trotzdem	trotzdem	trotzdem	PAV	PAV	_	_	-1	4	_	NK	_	_
+2	bemühen	bemühen	bemühen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	2	_	OA	_	_
+4	Unternehmen	Unternehmen	Unternehmen	NN	NN	_	nom|pl|neut	-1	2	_	SB	_	_
+5	sowie	sowie	sowie	KON	KON	_	_	-1	4	_	CD	_	_
+6	die	die	die	ART	ART	_	nom|pl|neut	-1	9	_	NK	_	_
+7	Industrie-	Industrie-	Industrie-	TRUNC	TRUNC	_	_	-1	8	_	CJ	_	_
+8	und	und	und	KON	KON	_	_	-1	9	_	CD	_	_
+9	Handelskammer	Handelskammer	Handelskammer	NN	NN	_	dat|sg|fem	-1	5	_	CJ	_	_
+10	Potsdam	Potsdam	Potsdam	NE	NE	_	nom|sg|neut	-1	9	_	NK	_	_
+11	den	die	die	ART	ART	_	dat|pl|masc	-1	12	_	NK	_	_
+12	Schulabgängern	Schulabgänger	Schulabgänger	NN	NN	_	dat|pl|masc	-1	17	_	DA	_	_
+13	Wege	Weg	Weg	NN	NN	_	acc|pl|masc	-1	17	_	OA	_	_
+14	in	in	in	APPR	APPR	_	_	-1	17	_	MO	_	_
+15	die	die	die	ART	ART	_	acc|sg|fem	-1	16	_	NK	_	_
+16	Ausbildung	Ausbildung	Ausbildung	NN	NN	_	acc|sg|fem	-1	14	_	NK	_	_
+17	aufzuzeigen	aufzeigen	aufzeigen	VVIZU	VVIZU	_	_	-1	2	_	OC	_	_
+18	.	.	.	$.	$.	_	_	-1	17	_	--	_	_
+
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	3	_	NK	_	_
+2	"	"	"	$(	$(	_	nom|sg|masc|pos	-1	3	_	--	_	_
+3	Berufemarkt	Berufemarkt	Berufemarkt	NN	NN	_	nom|sg|masc	-1	18	_	SB	_	_
+4	"	"	"	$(	$(	_	_	-1	3	_	--	_	_
+5	-	-	-	$(	$(	_	_	-1	4	_	--	_	_
+6	erstmals	erstmals	erstmals	ADV	ADV	_	_	-1	16	_	MO	_	_
+7	in	in	in	APPR	APPR	_	_	-1	16	_	MO	_	_
+8	der	die	die	ART	ART	_	dat|sg|fem	-1	9	_	NK	_	_
+9	Aula	Aula	Aula	NN	NN	_	dat|sg|fem	-1	7	_	NK	_	_
+10	der	die	die	ART	ART	_	gen|pl|neut	-1	11	_	NK	_	_
+11	Gesamtschule	Gesamtschule	Gesamtschule	NN	NN	_	gen|pl|neut	-1	9	_	AG	_	_
+12	"	"	"	$(	$(	_	_	-1	11	_	--	_	_
+13	Am	an	an	APPRART	APPRART	_	dat|sg|neut	-1	16	_	MO	_	_
+14	Weinberg	Weinberg	Weinberg	NN	NN	_	dat|sg|neut	-1	13	_	NK	_	_
+15	"	"	"	$(	$(	_	_	-1	14	_	--	_	_
+16	angeboten	anbieten	anbieten	VVPP	VVPP	_	_	-1	3	_	PAR	_	_
+17	-	-	-	$(	$(	_	_	-1	16	_	--	_	_
+18	war	sein	sein	VAFIN	VAFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+19	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	23	_	NK	_	_
+20	guter	gut	gut	ADJA	ADJA	_	nom|sg|masc|pos	-1	23	_	NK	_	_
+21	und	und	und	KON	KON	_	_	-1	20	_	CD	_	_
+22	sinnvoller	sinnvoll	sinnvoll	ADJA	ADJA	_	nom|sg|masc|pos	-1	21	_	CJ	_	_
+23	Beitrag	Beitrag	Beitrag	NN	NN	_	nom|sg|masc	-1	18	_	PD	_	_
+24	.	.	.	$.	$.	_	_	-1	23	_	--	_	_
+
+1	Das	die	die	PDS	PDS	_	nom|sg|neut	-1	2	_	SB	_	_
+2	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	allein	allein	allein	ADV	ADV	_	_	-1	10	_	MO	_	_
+4	das	die	die	ART	ART	_	acc|sg|neut	-1	5	_	NK	_	_
+5	Interesse	Interesse	Interesse	NN	NN	_	acc|sg|neut	-1	10	_	OA	_	_
+6	der	die	die	ART	ART	_	gen|pl|fem	-1	7	_	NK	_	_
+7	Schülerinnen	Schülerin	Schülerin	NN	NN	_	gen|pl|fem	-1	5	_	AG	_	_
+8	und	und	und	KON	KON	_	_	-1	7	_	CD	_	_
+9	Schüler	Schüler	Schüler	NN	NN	_	gen|pl|fem	-1	8	_	CJ	_	_
+10	bewiesen	beweisen	beweisen	VVPP	VVPP	_	_	-1	2	_	OC	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+	sentence_start	0	57
+	token_offsets	sentence	0	offsets	0::4	5::5	11::3	15::3	19::1	21::11	33::1	35::3	39::5	45::8	54::1
+	token_offsets	sentence	1	offsets	57::3	61::9	71::3	75::1	77::20	98::1	100::3	104::2	107::4	112::5	118::1	120::5	126::1	128::4	133::3	137::7	145::1	147::6	154::2	157::4	162::3	166::5	172::5	178::9	188::3	192::4	197::5	203::7	211::4	216::3	220::3	224::5	230::4	235::5	241::16	258::12	271::12	284::1
+1	Noch	noch	noch	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	etwas	etwas	etwas	ADV	ADV	_	_	-1	10	_	MO	_	_
+3	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	der	die	die	ART	ART	_	nom|sg|masc	-1	6	_	NK	_	_
+5	"	"	"	$(	$(	_	nom|sg|masc	-1	6	_	--	_	_
+6	Berufemarkt	Berufemarkt	Berufemarkt	NN	NN	_	nom|sg|masc	-1	3	_	SB	_	_
+7	"	"	"	$(	$(	_	_	-1	6	_	--	_	_
+8	ans	ans	ans	APPRART	APPRART	_	acc|sg|neut	-1	10	_	MO	_	_
+9	Licht	Licht	Licht	NN	NN	_	acc|sg|neut	-1	8	_	NK	_	_
+10	gebracht	bringen	bringen	VVPP	VVPP	_	_	-1	3	_	OC	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|pl|masc	-1	2	_	NK	_	_
+2	Vertreter	Vertreter	Vertreter	NN	NN	_	nom|pl|masc	-1	10	_	OA	_	_
+3	der	die	die	ART	ART	_	gen|sg|fem	-1	5	_	NK	_	_
+4	"	"	"	$(	$(	_	gen|sg|fem	-1	3	_	--	_	_
+5	Null-Bock-Generation	Null-Bock-Generation	Null-Bock-Generation	NN	NN	_	gen|sg|fem	-1	2	_	AG	_	_
+6	"	"	"	$(	$(	_	_	-1	5	_	--	_	_
+7	mag	mögen	mögen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+8	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	7	_	SB	_	_
+9	wohl	wohl	wohl	ADV	ADV	_	_	-1	7	_	MO	_	_
+10	geben	geben	geben	VVINF	VVINF	_	_	-1	7	_	OC	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	viele	viele	viele	PIS	PIS	_	acc|pl|*	-1	18	_	SB	_	_
+13	-	-	-	$(	$(	_	_	-1	12	_	--	_	_
+14	wohl	wohl	wohl	ADV	ADV	_	_	-1	18	_	MO	_	_
+15	die	die	die	ART	ART	_	nom|pl|*	-1	16	_	NK	_	_
+16	meisten	meiste	meiste	PIS	PIS	_	nom|pl|*	-1	18	_	SB	_	_
+17	-	-	-	$(	$(	_	_	-1	16	_	--	_	_
+18	wollen	wollen	wollen	VMFIN	VMFIN	_	pl|3|pres|ind	-1	7	_	CJ	_	_
+19	es	es	es	PPER	PPER	_	acc|sg|neut|3	-1	24	_	OA	_	_
+20	aber	aber	aber	ADV	ADV	_	_	-1	18	_	MO	_	_
+21	mit	mit	mit	APPR	APPR	_	_	-1	24	_	MO	_	_
+22	einer	eine	eine	ART	ART	_	dat|sg|fem	-1	23	_	NK	_	_
+23	Lehre	Lehre	Lehre	NN	NN	_	dat|sg|fem	-1	21	_	NK	_	_
+24	versuchen	versuchen	versuchen	VVINF	VVINF	_	pl|3|pres|ind	-1	18	_	OC	_	_
+25	und	und	und	KON	KON	_	_	-1	18	_	CD	_	_
+26	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	25	_	CJ	_	_
+27	guten	gut	gut	ADJA	ADJA	_	gen|sg|neut|pos	-1	28	_	NK	_	_
+28	Willens	Wille	Wille	NN	NN	_	gen|sg|neut	-1	26	_	PD	_	_
+29	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	37	_	OA	_	_
+30	bei	bei	bei	APPR	APPR	_	_	-1	37	_	MO	_	_
+31	der	die	die	ART	ART	_	dat|sg|fem	-1	32	_	NK	_	_
+32	Suche	Suche	Suche	NN	NN	_	dat|sg|fem	-1	30	_	NK	_	_
+33	nach	nach	nach	APPR	APPR	_	_	-1	32	_	OP	_	_
+34	einem	eine	eine	ART	ART	_	dat|sg|masc	-1	35	_	NK	_	_
+35	Ausbildungsplatz	Ausbildungsplatz	Ausbildungsplatz	NN	NN	_	dat|sg|masc	-1	33	_	NK	_	_
+36	entsprechend	entsprechend	entsprechend	ADJD	ADJD	_	pos	-1	37	_	MO	_	_
+37	anzustrengen	anstrengen	anstrengen	VVIZU	VVIZU	_	_	-1	8	_	RE	_	_
+38	.	.	.	$.	$.	_	_	-1	37	_	--	_	_
+
+	sentence_start	0	177	308
+	token_offsets	sentence	0	offsets	0::3	4::6	11::9	21::6	28::5	34::9	44::5	50::8	59::1	61::5	67::5	73::16	90::8	99::1	101::3	105::2	108::3	112::8	121::4	126::6	133::3	137::3	141::4	146::6	153::1	155::8	164::9	174::1
+	token_offsets	sentence	1	offsets	177::6	184::3	188::3	192::9	202::8	211::1	213::2	216::3	220::4	225::12	238::3	242::4	247::6	254::6	261::6	268::1	270::2	273::6	280::2	283::11	295::2	298::6	305::1
+	token_offsets	sentence	2	offsets	308::3	312::4	317::11	329::1	331::4	336::8	345::10	356::5	362::11	374::6	381::1
+1	Das	die	die	PDS	PDS	_	nom|sg|neut	-1	2	_	SB	_	_
+2	sollte	sollen	sollen	VMFIN	VMFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+3	honoriert	honorieren	honorieren	VVPP	VVPP	_	_	-1	4	_	OC	_	_
+4	werden	werden	werden	VAINF	VAINF	_	_	-1	2	_	OC	_	_
+5	indem	indem	indem	KOUS	KOUS	_	_	-1	8	_	MO	_	_
+6	möglichst	möglichst	möglichst	ADV	ADV	_	_	-1	7	_	MO	_	_
+7	viele	viele	viele	PIAT	PIAT	_	acc|pl|masc	-1	8	_	NK	_	_
+8	Betriebe	Betrieb	Betrieb	NN	NN	_	acc|pl|masc	-1	2	_	PAR	_	_
+9	-	-	-	$(	$(	_	_	-1	8	_	--	_	_
+10	trotz	trotz	trotz	APPR	APPR	_	_	-1	2	_	MO	_	_
+11	aller	alle	alle	PIAT	PIAT	_	gen|pl|masc	-1	13	_	NK	_	_
+12	wirtschaftlichen	wirtschaftlich	wirtschaftlich	ADJA	ADJA	_	gen|pl|masc|pos	-1	13	_	NK	_	_
+13	Probleme	Problem	Problem	NN	NN	_	gen|pl|masc	-1	10	_	NK	_	_
+14	,	,	,	$,	$,	_	_	-1	13	_	--	_	_
+15	die	die	die	PRELS	PRELS	_	nom|pl|masc	-1	24	_	SB	_	_
+16	in	in	in	APPR	APPR	_	_	-1	24	_	MO	_	_
+17	den	die	die	ART	ART	_	dat|pl|neut	-1	20	_	NK	_	_
+18	nächsten	nah	nah	ADJA	ADJA	_	dat|pl|neut|pos	-1	20	_	NK	_	_
+19	zwei	zwei	zwei	CARD	CARD	_	_	-1	20	_	NK	_	_
+20	Jahren	Jahr	Jahr	NN	NN	_	dat|pl|neut	-1	16	_	NK	_	_
+21	vor	vor	vor	APPR	APPR	_	_	-1	24	_	MO	_	_
+22	der	die	die	ART	ART	_	dat|sg|fem	-1	23	_	NK	_	_
+23	Türe	Türe	Türe	NN	NN	_	dat|sg|fem	-1	21	_	NK	_	_
+24	stehen	stehen	stehen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	13	_	RC	_	_
+25	-	-	-	$(	$(	_	_	-1	24	_	--	_	_
+26	intensiv	intensiv	intensiv	ADJD	ADJD	_	pos	-1	27	_	MO	_	_
+27	ausbilden	ausbilden	ausbilden	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+28	.	.	.	$.	$.	_	_	-1	27	_	--	_	_
+
+1	Längst	längst	längst	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	der	die	die	ART	ART	_	nom|sg|masc	-1	4	_	NK	_	_
+4	Zeitpunkt	Zeitpunkt	Zeitpunkt	NN	NN	_	nom|sg|masc	-1	2	_	SB	_	_
+5	absehbar	absehbar	absehbar	ADJD	ADJD	_	pos	-1	2	_	PD	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	zu	zu	zu	APPR	APPR	_	_	-1	13	_	MO	_	_
+8	dem	die	die	ART	ART	_	dat|sg|masc	-1	10	_	NK	_	_
+9	gute	gut	gut	ADJA	ADJA	_	acc|pl|masc|pos	-1	10	_	NK	_	_
+10	Facharbeiter	Facharbeiter	Facharbeiter	NN	NN	_	acc|pl|masc	-1	7	_	NK	_	_
+11	ins	in	in	APPRART	APPRART	_	acc|sg|neut	-1	13	_	MO	_	_
+12	Land	Land	Land	NN	NN	_	acc|sg|neut	-1	11	_	NK	_	_
+13	geholt	holen	holen	VVPP	VVPP	_	_	-1	14	_	OC	_	_
+14	werden	werden	werden	VAINF	VAINF	_	_	-1	15	_	OC	_	_
+15	müssen	müssen	müssen	VMFIN	VMFIN	_	pl|3|pres|ind	-1	2	_	CJ	_	_
+16	,	,	,	$,	$,	_	_	-1	15	_	--	_	_
+17	um	um	um	KOUI	KOUI	_	_	-1	22	_	CP	_	_
+18	Lücken	Lücke	Lücke	NN	NN	_	acc|pl|fem	-1	22	_	OA	_	_
+19	in	in	in	APPR	APPR	_	_	-1	18	_	MNR	_	_
+20	Unternehmen	Unternehmen	Unternehmen	NN	NN	_	dat|pl|neut	-1	19	_	NK	_	_
+21	zu	zu	zu	PTKZU	PTKZU	_	_	-1	22	_	PM	_	_
+22	füllen	füllen	füllen	VVINF	VVINF	_	_	-1	15	_	MO	_	_
+23	.	.	.	$.	$.	_	_	-1	22	_	--	_	_
+
+1	Das	die	die	PDS	PDS	_	nom|sg|neut	-1	2	_	SB	_	_
+2	wäre	sein	sein	VAFIN	VAFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+3	überflüssig	überflüssig	überflüssig	ADJD	ADJD	_	pos	-1	2	_	PD	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	10	_	CP	_	_
+6	deutsche	deutsch	deutsch	ADJA	ADJA	_	nom|pl|fem|pos	-1	7	_	NK	_	_
+7	Fachkräfte	Fachkraft	Fachkraft	NN	NN	_	nom|pl|fem	-1	10	_	SB	_	_
+8	jetzt	jetzt	jetzt	ADV	ADV	_	_	-1	9	_	MO	_	_
+9	ausgebildet	ausbilden	ausbilden	VVPP	VVPP	_	_	-1	10	_	OC	_	_
+10	werden	werden	werden	VAINF	VAINF	_	_	-1	2	_	MO	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+

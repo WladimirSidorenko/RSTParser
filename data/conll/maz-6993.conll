@@ -1,0 +1,200 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::4	5::5	11::6
+1	Drei	Drei	Drei	NN	NN	_	nom|sg|fem	-1	2	_	SB	_	_
+2	leere	leer	leer	ADJA	ADJA	_	sg|3|pres|subj	-1	0	_	--	_	_
+3	Kassen	Kasse	Kasse	NN	NN	_	nom|sg|neut	-1	2	_	OA	_	_
+
+	sentence_start	0	24	46	160	235	323	406	537
+	token_offsets	sentence	0	offsets	0::9	10::7	18::2	21::1
+	token_offsets	sentence	1	offsets	24::4	29::4	34::3	38::4	43::1
+	token_offsets	sentence	2	offsets	46::6	53::7	61::4	66::3	70::3	74::3	78::9	88::6	95::3	99::10	110::10	121::10	132::12	145::6	152::4	157::1
+	token_offsets	sentence	3	offsets	160::3	164::4	169::17	187::3	191::13	205::9	215::1	217::3	221::4	226::5	232::1
+	token_offsets	sentence	4	offsets	235::10	246::1	248::4	253::2	256::2	259::1	261::3	265::13	279::3	283::14	298::3	302::17	320::1
+	token_offsets	sentence	5	offsets	323::10	334::9	344::4	349::3	353::21	375::13	389::6	396::6	403::1
+	token_offsets	sentence	6	offsets	406::11	418::5	424::3	428::16	445::4	450::11	462::6	469::5	475::3	479::3	483::7	491::12	504::3	508::5	514::9	524::9	534::1
+	token_offsets	sentence	7	offsets	537::4	542::6	549::9	559::4	564::5	570::3	574::4	579::3	583::6	590::4	595::4	600::1	602::3	606::3	610::2	613::8	622::5	628::1
+1	Diepensee	Diepensee	Diepensee	NN	NN	_	nom|sg|fem	-1	2	_	SB	_	_
+2	siedelt	siedeln	siedeln	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	um	um	um	PTKVZ	PTKVZ	_	_	-1	2	_	SVP	_	_
+4	.	.	.	$.	$.	_	_	-1	3	_	--	_	_
+
+1	Ohne	ohne	ohne	APPR	APPR	_	_	-1	0	_	--	_	_
+2	Wenn	wenn	wenn	KOUS	KOUS	_	_	-1	1	_	MO	_	_
+3	und	und	und	KON	KON	_	_	-1	2	_	CD	_	_
+4	Aber	aber	aber	KON	KON	_	_	-1	3	_	CD	_	_
+5	.	.	.	$.	$.	_	_	-1	4	_	--	_	_
+
+1	Dessen	die	die	PDS	PDS	_	gen|sg|*	-1	2	_	SB	_	_
+2	konnten	können	können	VMFIN	VMFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+3	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	14	_	DA	_	_
+4	die	die	die	ART	ART	_	nom|pl|masc	-1	13	_	NK	_	_
+5	vor	vor	vor	APPR	APPR	_	_	-1	12	_	MO	_	_
+6	dem	die	die	ART	ART	_	dat|sg|neut	-1	8	_	NK	_	_
+7	möglichen	möglich	möglich	ADJA	ADJA	_	dat|sg|neut|pos	-1	8	_	NK	_	_
+8	Ausbau	Ausbau	Ausbau	NN	NN	_	dat|sg|neut	-1	5	_	NK	_	_
+9	des	die	die	ART	ART	_	gen|sg|neut	-1	10	_	NK	_	_
+10	Flughafens	Flughafen	Flughafen	NN	NN	_	gen|sg|neut	-1	8	_	AG	_	_
+11	Schönefeld	Schönefeld	Schönefeld	NN	NN	_	nom|sg|neut	-1	10	_	NK	_	_
+12	weichenden	weichenden	weichenden	ADJA	ADJA	_	gen|sg|neut|pos	-1	13	_	NK	_	_
+13	Dorfbewohner	Dorfbewohner	Dorfbewohner	NN	NN	_	nom|pl|masc	-1	2	_	SB	_	_
+14	gewiss	gewiss	gewiss	ADJD	ADJD	_	pos	-1	15	_	PD	_	_
+15	sein	sein	sein	VAINF	VAINF	_	_	-1	2	_	OC	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+1	Bis	bis	bis	APPR	APPR	_	_	-1	6	_	MO	_	_
+2	eine	eine	eine	ART	ART	_	acc|sg|fem	-1	3	_	NK	_	_
+3	Presseinformation	Presseinformation	Presseinformation	NN	NN	_	acc|sg|fem	-1	1	_	NK	_	_
+4	der	die	die	ART	ART	_	gen|pl|masc	-1	5	_	NK	_	_
+5	Ausbau-Planer	Ausbau-Planer	Ausbau-Planer	NN	NN	_	gen|pl|masc	-1	3	_	AG	_	_
+6	einschlug	einschlagen	einschlagen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	wie	wie	wie	KOUS	KOUS	_	_	-1	10	_	CM	_	_
+9	eine	eine	eine	ART	ART	_	nom|sg|fem	-1	10	_	NK	_	_
+10	Bombe	Bombe	Bombe	NN	NN	_	nom|sg|fem	-1	6	_	MO	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Umsiedlung	Umsiedlung	Umsiedlung	NN	NN	_	nom|sg|fem	-1	3	_	MO	_	_
+2	,	,	,	$,	$,	_	_	-1	1	_	--	_	_
+3	hieß	heißen	heißen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+4	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	3	_	EP	_	_
+5	da	da	da	PTKVZ	PTKVZ	_	_	-1	3	_	SVP	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	nur	nur	nur	ADV	ADV	_	_	-1	8	_	MO	_	_
+8	vorbehaltlich	vorbehaltlich	vorbehaltlich	APPR	APPR	_	_	-1	3	_	MO	_	_
+9	der	die	die	ART	ART	_	dat|sg|fem	-1	10	_	NK	_	_
+10	Privatisierung	Privatisierung	Privatisierung	NN	NN	_	dat|sg|fem	-1	8	_	NK	_	_
+11	der	die	die	ART	ART	_	gen|sg|fem	-1	12	_	NK	_	_
+12	Flughafen-Holding	Flughafen-Holding	Flughafen-Holding	NN	NN	_	gen|sg|fem	-1	10	_	AG	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Überrascht	überrascht	überrascht	ADJD	ADJD	_	pos	-1	2	_	MO	_	_
+2	reagierte	reagieren	reagieren	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+3	auch	auch	auch	ADV	ADV	_	_	-1	6	_	MO	_	_
+4	der	die	die	ART	ART	_	nom|sg|masc	-1	6	_	NK	_	_
+5	Königs-Wusterhausener	Königs-Wusterhausener	Königs-Wusterhausener	ADJA	ADJA	_	*|*|*|pos	-1	6	_	NK	_	_
+6	Bürgermeister	Bürgermeister	Bürgermeister	NN	NN	_	nom|sg|masc	-1	2	_	SB	_	_
+7	Jochen	Jochen	Jochen	NE	NE	_	nom|sg|masc	-1	8	_	PNC	_	_
+8	Wagner	Wagner	Wagner	NE	NE	_	nom|sg|masc	-1	6	_	NK	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+1	Schließlich	schließlich	schließlich	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	gaben	geben	geben	VVFIN	VVFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+3	die	die	die	ART	ART	_	nom|pl|fem	-1	4	_	NK	_	_
+4	Stadtverordneten	Stadtverordnete	Stadtverordnete	NN	NN	_	nom|pl|fem	-1	2	_	SB	_	_
+5	erst	erst	erst	ADV	ADV	_	_	-1	6	_	MO	_	_
+6	Montagabend	Montagabend	Montagabend	NN	NN	_	acc|sg|masc	-1	2	_	OA	_	_
+7	grünes	grün	grün	ADJA	ADJA	_	acc|sg|neut|pos	-1	8	_	NK	_	_
+8	Licht	Licht	Licht	NN	NN	_	acc|sg|neut	-1	2	_	OA	_	_
+9	für	für	für	APPR	APPR	_	_	-1	8	_	MNR	_	_
+10	die	die	die	ART	ART	_	acc|sg|fem	-1	12	_	NK	_	_
+11	weitere	weit	weit	ADJA	ADJA	_	acc|sg|fem|comp	-1	12	_	NK	_	_
+12	Erschließung	Erschließung	Erschließung	NN	NN	_	acc|sg|fem	-1	9	_	NK	_	_
+13	des	die	die	ART	ART	_	gen|sg|neut	-1	15	_	NK	_	_
+14	neuen	neu	neu	ADJA	ADJA	_	gen|sg|neut|pos	-1	15	_	NK	_	_
+15	Ortsteils	Ortsteil	Ortsteil	NN	NN	_	gen|sg|neut	-1	12	_	AG	_	_
+16	Diepensee	Diepensee	Diepensee	NN	NN	_	nom|sg|masc	-1	15	_	NK	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
+1	Soll	sollen	sollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+2	dieser	diese	diese	PDS	PDS	_	nom|sg|masc	-1	3	_	NK	_	_
+3	Beschluss	Beschluss	Beschluss	NN	NN	_	nom|sg|masc	-1	1	_	SB	_	_
+4	bald	bald	bald	ADV	ADV	_	_	-1	1	_	MO	_	_
+5	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	1	_	NG	_	_
+6	mal	mal	mal	ADV	ADV	_	_	-1	5	_	MO	_	_
+7	mehr	mehr	mehr	ADV	ADV	_	_	-1	5	_	MO	_	_
+8	das	die	die	ART	ART	_	nom|sg|neut	-1	9	_	NK	_	_
+9	Papier	Papier	Papier	NN	NN	_	nom|sg|neut	-1	1	_	SB	_	_
+10	wert	wert	wert	ADJD	ADJD	_	pos	-1	11	_	PD	_	_
+11	sein	sein	sein	VAINF	VAINF	_	_	-1	1	_	OC	_	_
+12	,	,	,	$,	$,	_	_	-1	11	_	--	_	_
+13	auf	auf	auf	APPR	APPR	_	_	-1	16	_	MO	_	_
+14	dem	die	die	PRELS	PRELS	_	dat|sg|neut	-1	13	_	NK	_	_
+15	er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	17	_	SB	_	_
+16	gedruckt	drucken	drucken	VVPP	VVPP	_	_	-1	17	_	OC	_	_
+17	wurde	werden	werden	VAFIN	VAFIN	_	sg|3|past|ind	-1	9	_	RC	_	_
+18	?	?	?	$.	$.	_	_	-1	17	_	--	_	_
+
+	sentence_start	0	20	121	229	435
+	token_offsets	sentence	0	offsets	0::3	4::4	9::7	17::1
+	token_offsets	sentence	1	offsets	20::11	32::5	38::4	43::7	51::3	55::13	69::3	73::3	77::14	92::3	96::17	114::3	118::1
+	token_offsets	sentence	2	offsets	121::14	136::4	141::3	145::27	173::6	180::6	187::14	202::9	212::3	216::3	220::5	226::1
+	token_offsets	sentence	3	offsets	229::4	234::7	242::3	246::22	269::1	271::4	276::1	278::11	290::3	294::6	301::1	303::6	310::3	314::6	321::3	325::3	329::6	336::3	340::3	344::9	354::3	358::10	369::10	380::1	382::3	386::4	391::3	395::3	399::10	410::10	421::10	432::1
+	token_offsets	sentence	4	offsets	435::10	446::8	455::2	458::10	469::6	476::6	483::5	489::4	494::14	509::8	518::10	529::1
+1	Das	die	die	PDS	PDS	_	nom|sg|neut	-1	2	_	SB	_	_
+2	wäre	sein	sein	VAFIN	VAFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+3	denkbar	denkbar	denkbar	ADJD	ADJD	_	pos	-1	2	_	PD	_	_
+4	.	.	.	$.	$.	_	_	-1	3	_	--	_	_
+
+1	Schließlich	schließlich	schließlich	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	läuft	laufen	laufen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	Ende	Ende	Ende	NN	NN	_	*|sg|neut	-1	2	_	MO	_	_
+4	Oktober	Oktober	Oktober	NN	NN	_	*|sg|masc	-1	3	_	NK	_	_
+5	die	die	die	ART	ART	_	acc|sg|fem	-1	6	_	NK	_	_
+6	Angebotsfrist	Angebotsfrist	Angebotsfrist	NN	NN	_	acc|sg|fem	-1	2	_	OA	_	_
+7	für	für	für	APPR	APPR	_	_	-1	6	_	MNR	_	_
+8	die	die	die	ART	ART	_	acc|sg|fem	-1	9	_	NK	_	_
+9	Privatisierung	Privatisierung	Privatisierung	NN	NN	_	acc|sg|fem	-1	7	_	NK	_	_
+10	der	die	die	ART	ART	_	gen|sg|fem	-1	11	_	NK	_	_
+11	Flughafen-Holding	Flughafen-Holding	Flughafen-Holding	NN	NN	_	gen|sg|fem	-1	9	_	AG	_	_
+12	aus	aus	aus	PTKVZ	PTKVZ	_	_	-1	2	_	SVP	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Möglicherweise	möglicherweise	möglicherweise	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	legt	legen	legen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	das	die	die	ART	ART	_	nom|sg|neut	-1	4	_	NK	_	_
+4	Baukonzern-Bieterkonsortium	Baukonzern-Bieterkonsortium	Baukonzern-Bieterkonsortium	NN	NN	_	nom|sg|neut	-1	2	_	SB	_	_
+5	wieder	wieder	wieder	ADV	ADV	_	_	-1	2	_	MO	_	_
+6	keinen	keine	keine	PIAT	PIAT	_	acc|sg|masc	-1	8	_	NK	_	_
+7	verhandelbaren	verhandelbaren	verhandelbaren	ADJA	ADJA	_	acc|sg|masc|pos	-1	8	_	NK	_	_
+8	Vorschlag	Vorschlag	Vorschlag	NN	NN	_	acc|sg|masc	-1	2	_	OA	_	_
+9	auf	auf	auf	APPR	APPR	_	_	-1	2	_	MO	_	_
+10	den	die	die	ART	ART	_	acc|sg|masc	-1	11	_	NK	_	_
+11	Tisch	Tisch	Tisch	NN	NN	_	acc|sg|masc	-1	9	_	NK	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Dann	dann	dann	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	müssten	müssen	müssen	VMFIN	VMFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	die	die	die	ART	ART	_	nom|pl|masc	-1	4	_	NK	_	_
+4	Holding-Gesellschafter	Holding-Gesellschafter	Holding-Gesellschafter	NN	NN	_	nom|pl|masc	-1	2	_	SB	_	_
+5	-	-	-	$(	$(	_	_	-1	4	_	--	_	_
+6	Bund	Bund	Bund	NN	NN	_	nom|sg|masc	-1	4	_	APP	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	Brandenburg	Brandenburg	Brandenburg	NE	NE	_	nom|sg|neut	-1	6	_	CJ	_	_
+9	und	und	und	KON	KON	_	_	-1	8	_	CD	_	_
+10	Berlin	Berlin	Berlin	NE	NE	_	nom|sg|neut	-1	9	_	CJ	_	_
+11	-	-	-	$(	$(	_	_	-1	10	_	--	_	_
+12	sowohl	sowohl	sowohl	KON	KON	_	_	-1	14	_	CD	_	_
+13	die	die	die	ART	ART	_	acc|pl|*	-1	14	_	NK	_	_
+14	Kosten	Kosten	Kosten	NN	NN	_	acc|pl|*	-1	31	_	OA	_	_
+15	für	für	für	APPR	APPR	_	_	-1	14	_	MNR	_	_
+16	den	die	die	ART	ART	_	acc|sg|masc	-1	17	_	NK	_	_
+17	Ausbau	Ausbau	Ausbau	NN	NN	_	acc|sg|masc	-1	15	_	NK	_	_
+18	und	und	und	KON	KON	_	_	-1	17	_	CD	_	_
+19	die	die	die	ART	ART	_	acc|sg|fem	-1	20	_	NK	_	_
+20	Anbindung	Anbindung	Anbindung	NN	NN	_	acc|sg|fem	-1	18	_	CJ	_	_
+21	des	die	die	ART	ART	_	gen|sg|neut	-1	22	_	NK	_	_
+22	Flughafens	Flughafen	Flughafen	NN	NN	_	gen|sg|neut	-1	20	_	AG	_	_
+23	Schönefeld	Schönefeld	Schönefeld	NN	NN	_	nom|sg|neut	-1	22	_	NK	_	_
+24	,	,	,	$,	$,	_	_	-1	23	_	--	_	_
+25	als	als	als	KOKOM	KOKOM	_	_	-1	15	_	CD	_	_
+26	auch	auch	auch	ADV	ADV	_	_	-1	27	_	MO	_	_
+27	für	für	für	APPR	APPR	_	_	-1	25	_	CJ	_	_
+28	die	die	die	ART	ART	_	acc|sg|fem	-1	29	_	NK	_	_
+29	Umsiedlung	Umsiedlung	Umsiedlung	NN	NN	_	acc|sg|fem	-1	27	_	NK	_	_
+30	Diepensees	Diepensees	Diepensees	NN	NN	_	gen|sg|masc	-1	29	_	NK	_	_
+31	aufbringen	aufbringen	aufbringen	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+32	.	.	.	$.	$.	_	_	-1	31	_	--	_	_
+
+1	Vorbehalte	Vorbehalt	Vorbehalt	NN	NN	_	nom|pl|masc	-1	2	_	SB	_	_
+2	scheinen	scheinen	scheinen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	da	da	da	ADV	ADV	_	_	-1	11	_	MO	_	_
+4	angesichts	angesichts	angesichts	APPR	APPR	_	_	-1	11	_	MO	_	_
+5	leerer	leer	leer	ADJA	ADJA	_	gen|pl|fem|pos	-1	6	_	NK	_	_
+6	Kassen	Kasse	Kasse	NN	NN	_	gen|pl|fem	-1	4	_	NK	_	_
+7	aller	alle	alle	PIAT	PIAT	_	gen|pl|fem	-1	9	_	NK	_	_
+8	drei	drei	drei	CARD	CARD	_	_	-1	9	_	NK	_	_
+9	Gesellschafter	Gesellschafter	Gesellschafter	NN	NN	_	gen|pl|masc	-1	6	_	AG	_	_
+10	durchaus	durchaus	durchaus	ADV	ADV	_	_	-1	11	_	MO	_	_
+11	angebracht	anbringen	anbringen	VVPP	VVPP	_	_	-1	2	_	OC	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+

@@ -1,0 +1,211 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::6	7::3	11::11
+1	Zurück	zurück	zurück	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	zur	zu	zu	APPRART	APPRART	_	dat|sg|fem	-1	0	_	--	_	_
+3	Heimatwurst	Heimatwurst	Heimatwurst	NN	NN	_	dat|sg|fem	-1	2	_	NK	_	_
+
+	sentence_start	0	116
+	token_offsets	sentence	0	offsets	0::13	14::1	16::3	20::6	27::4	32::5	38::3	42::3	46::5	52::4	57::3	61::9	71::3	75::3	79::9	89::3	93::9	103::9	113::1
+	token_offsets	sentence	1	offsets	116::6	123::1	125::3	129::3	133::5	139::3	143::3	147::10	158::11	170::4	175::6	182::1	184::6	191::4	196::3	200::10	211::14	226::4	231::13	245::3	249::3	253::13	267::2	270::10	281::2	284::12	297::5	303::2	306::3	310::4	315::1	317::4	322::6	329::1	331::2	334::3	338::11	350::7	358::6	365::1
+1	Schlachtefest	Schlachtefest	Schlachtefest	NN	NN	_	nom|sg|neut	-1	6	_	SB	_	_
+2	-	-	-	$(	$(	_	_	-1	1	_	--	_	_
+3	mit	mit	mit	APPR	APPR	_	_	-1	1	_	MNR	_	_
+4	diesem	dies	dies	PDAT	PDAT	_	dat|sg|neut	-1	5	_	NK	_	_
+5	Wort	Wort	Wort	NN	NN	_	dat|sg|neut	-1	3	_	NK	_	_
+6	hätte	haben	haben	VAFIN	VAFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+7	man	man	man	PIS	PIS	_	nom|sg|*	-1	6	_	SB	_	_
+8	vor	vor	vor	APPR	APPR	_	_	-1	18	_	MO	_	_
+9	einem	eine	eine	ART	ART	_	dat|sg|masc	-1	10	_	NK	_	_
+10	Jahr	Jahr	Jahr	NN	NN	_	dat|sg|masc	-1	8	_	NK	_	_
+11	den	die	die	ART	ART	_	acc|sg|masc	-1	12	_	NK	_	_
+12	Schrecken	Schrecken	Schrecken	NN	NN	_	acc|sg|masc	-1	18	_	OA	_	_
+13	auf	auf	auf	APPR	APPR	_	_	-1	12	_	MNR	_	_
+14	die	die	die	ART	ART	_	acc|pl|masc	-1	15	_	NK	_	_
+15	Gesichter	Gesicht	Gesicht	NN	NN	_	acc|pl|masc	-1	13	_	NK	_	_
+16	der	die	die	ART	ART	_	gen|pl|*	-1	17	_	NK	_	_
+17	Deutschen	Deutsche	Deutsche	NN	NN	_	gen|pl|*	-1	15	_	AG	_	_
+18	getrieben	treiben	treiben	VVPP	VVPP	_	_	-1	6	_	OC	_	_
+19	.	.	.	$.	$.	_	_	-1	18	_	--	_	_
+
+1	Damals	damals	damals	ADV	ADV	_	_	-1	39	_	MO	_	_
+2	,	,	,	$,	$,	_	_	-1	1	_	--	_	_
+3	als	als	als	KOUS	KOUS	_	_	-1	11	_	CP	_	_
+4	die	die	die	ART	ART	_	nom|sg|fem	-1	5	_	NK	_	_
+5	Angst	Angst	Angst	NN	NN	_	nom|sg|fem	-1	11	_	SB	_	_
+6	vor	vor	vor	APPR	APPR	_	_	-1	5	_	MNR	_	_
+7	dem	die	die	ART	ART	_	dat|sg|masc	-1	8	_	NK	_	_
+8	Rinderwahn	Rinderwahn	Rinderwahn	NN	NN	_	dat|sg|masc	-1	6	_	NK	_	_
+9	irrationale	irrational	irrational	ADJA	ADJA	_	acc|pl|masc|pos	-1	10	_	NK	_	_
+10	Züge	Zug	Zug	NN	NN	_	acc|pl|masc	-1	11	_	OA	_	_
+11	annahm	annehmen	annehmen	VVFIN	VVFIN	_	sg|3|past|ind	-1	1	_	MNR	_	_
+12	,	,	,	$,	$,	_	_	-1	11	_	--	_	_
+13	hätten	haben	haben	VAFIN	VAFIN	_	pl|3|past|subj	-1	0	_	--	_	_
+14	auch	auch	auch	ADV	ADV	_	_	-1	17	_	MO	_	_
+15	die	die	die	ART	ART	_	nom|pl|*	-1	17	_	NK	_	_
+16	cleversten	cleversten	cleversten	ADJA	ADJA	_	nom|pl|*|pos	-1	17	_	NK	_	_
+17	Werbestrategen	Werbestratege	Werbestratege	NN	NN	_	nom|pl|*	-1	13	_	SB	_	_
+18	eine	eine	eine	ART	ART	_	acc|sg|fem	-1	19	_	NK	_	_
+19	Veranstaltung	Veranstaltung	Veranstaltung	NN	NN	_	acc|sg|fem	-1	13	_	OA	_	_
+20	wie	wie	wie	KOKOM	KOKOM	_	_	-1	22	_	CM	_	_
+21	das	die	die	ART	ART	_	nom|sg|neut	-1	22	_	NK	_	_
+22	Schlachtefest	Schlachtefest	Schlachtefest	NN	NN	_	nom|sg|neut	-1	39	_	MO	_	_
+23	am	an	an	APPRART	APPRART	_	dat|sg|neut	-1	39	_	MO	_	_
+24	Wochenende	Wochenende	Wochenende	NN	NN	_	dat|sg|neut	-1	23	_	NK	_	_
+25	in	in	in	APPR	APPR	_	_	-1	39	_	MO	_	_
+26	Paaren/Glien	Paaren/Glien	Paaren/Glien	NN	NN	_	dat|pl|fem	-1	25	_	NK	_	_
+27	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	39	_	NG	_	_
+28	an	an	an	APPR	APPR	_	_	-1	39	_	MO	_	_
+29	den	die	die	ART	ART	_	acc|sg|masc	-1	30	_	NK	_	_
+30	Mann	Mann	Mann	NN	NN	_	acc|sg|masc	-1	28	_	NK	_	_
+31	,	,	,	$,	$,	_	_	-1	30	_	--	_	_
+32	oder	oder	oder	KON	KON	_	_	-1	28	_	CD	_	_
+33	besser	gut	gut	ADJD	ADJD	_	comp	-1	32	_	CJ	_	_
+34	,	,	,	$,	$,	_	_	-1	33	_	--	_	_
+35	an	an	an	APPR	APPR	_	_	-1	38	_	MO	_	_
+36	den	die	die	ART	ART	_	acc|sg|masc	-1	37	_	NK	_	_
+37	Verbraucher	Verbraucher	Verbraucher	NN	NN	_	acc|sg|masc	-1	35	_	NK	_	_
+38	bringen	bringen	bringen	VVINF	VVINF	_	_	-1	39	_	OC	_	_
+39	können	können	können	VMINF	VMINF	_	_	-1	19	_	RC	_	_
+40	.	.	.	$.	$.	_	_	-1	39	_	--	_	_
+
+	sentence_start	0	54	198	277
+	token_offsets	sentence	0	offsets	0::3	4::9	14::5	20::3	24::6	31::3	35::3	39::4	44::6	51::1
+	token_offsets	sentence	1	offsets	54::4	59::10	70::3	74::3	78::9	88::3	92::8	101::13	115::1	117::3	121::6	128::3	132::12	145::3	149::3	153::9	163::15	179::6	186::8	195::1
+	token_offsets	sentence	2	offsets	198::2	201::4	206::3	210::8	219::5	225::11	237::7	245::3	249::1	251::4	256::10	267::6	274::1
+	token_offsets	sentence	3	offsets	277::8	286::8	295::3	299::11	311::2	314::5	320::5	326::1	328::6	335::12	348::13	362::2	365::4	370::1
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	BSE-Panik	BSE-Panik	BSE-Panik	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+3	liegt	liegen	liegen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	nun	nun	nun	ADV	ADV	_	_	-1	3	_	MO	_	_
+5	länger	lang	lang	ADJD	ADJD	_	comp	-1	3	_	MO	_	_
+6	als	als	als	KOKOM	KOKOM	_	_	-1	8	_	CM	_	_
+7	ein	eine	eine	ART	ART	_	nom|sg|neut	-1	8	_	NK	_	_
+8	Jahr	Jahr	Jahr	NN	NN	_	nom|sg|neut	-1	5	_	CC	_	_
+9	zurück	zurück	zurück	PTKVZ	PTKVZ	_	_	-1	3	_	SVP	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+1	Fast	fast	fast	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	unmerklich	unmerklich	unmerklich	ADJD	ADJD	_	pos	-1	8	_	MO	_	_
+3	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	das	die	die	ART	ART	_	nom|sg|neut	-1	5	_	NK	_	_
+5	Vertrauen	Vertrauen	Vertrauen	NN	NN	_	nom|sg|neut	-1	3	_	SB	_	_
+6	der	die	die	ART	ART	_	gen|pl|masc	-1	7	_	NK	_	_
+7	Menschen	Mensch	Mensch	NN	NN	_	gen|pl|masc	-1	5	_	AG	_	_
+8	zurückgekehrt	zurückkehren	zurückkehren	VVPP	VVPP	_	_	-1	3	_	OC	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	der	die	die	ART	ART	_	nom|sg|masc	-1	11	_	NK	_	_
+11	Absatz	Absatz	Absatz	NN	NN	_	nom|sg|masc	-1	14	_	SB	_	_
+12	von	von	von	APPR	APPR	_	_	-1	11	_	PG	_	_
+13	Fleischwaren	Fleischware	Fleischware	NN	NN	_	dat|pl|fem	-1	12	_	NK	_	_
+14	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	3	_	CJ	_	_
+15	die	die	die	ART	ART	_	acc|pl|fem	-1	17	_	NK	_	_
+16	gewohnten	gewohnt	gewohnt	ADJA	ADJA	_	acc|pl|fem|pos	-1	17	_	NK	_	_
+17	Größenordnungen	Größenordnung	Größenordnung	NN	NN	_	acc|pl|fem	-1	19	_	OA	_	_
+18	wieder	wieder	wieder	ADV	ADV	_	_	-1	19	_	MO	_	_
+19	erreicht	erreichen	erreichen	VVPP	VVPP	_	_	-1	14	_	OC	_	_
+20	.	.	.	$.	$.	_	_	-1	19	_	--	_	_
+
+1	Ob	ob	ob	KOUS	KOUS	_	_	-1	8	_	CP	_	_
+2	dies	dies	dies	PDS	PDS	_	nom|sg|neut	-1	8	_	SB	_	_
+3	das	die	die	ART	ART	_	nom|sg|neut	-1	4	_	NK	_	_
+4	Ergebnis	Ergebnis	Ergebnis	NN	NN	_	nom|sg|neut	-1	8	_	PD	_	_
+5	einer	eine	eine	ART	ART	_	gen|sg|fem	-1	7	_	NK	_	_
+6	veränderten	verändert	verändert	ADJA	ADJA	_	gen|sg|fem|pos	-1	7	_	NK	_	_
+7	Politik	Politik	Politik	NN	NN	_	gen|sg|fem	-1	4	_	AG	_	_
+8	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	10	_	MO	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	darf	dürfen	dürfen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+11	bezweifelt	bezweifeln	bezweifeln	VVPP	VVPP	_	_	-1	12	_	OC	_	_
+12	werden	werden	werden	VAINF	VAINF	_	_	-1	10	_	OC	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Vielmehr	vielmehr	vielmehr	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	scheinen	scheinen	scheinen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	die	die	die	ART	ART	_	nom|pl|masc	-1	4	_	NK	_	_
+4	Verbraucher	Verbraucher	Verbraucher	NN	NN	_	nom|pl|masc	-1	2	_	SB	_	_
+5	zu	zu	zu	APPR	APPR	_	_	-1	11	_	MO	_	_
+6	ihren	ihr	ihr	PPOSAT	PPOSAT	_	dat|pl|fem	-1	10	_	NK	_	_
+7	alten	alt	alt	ADJA	ADJA	_	dat|pl|fem|pos	-1	10	_	NK	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	lieben	lieb	lieb	ADJA	ADJA	_	dat|pl|fem|pos	-1	7	_	CJ	_	_
+10	Gewohnheiten	Gewohnheit	Gewohnheit	NN	NN	_	dat|pl|fem	-1	5	_	NK	_	_
+11	zurückgekehrt	zurückkehren	zurückkehren	VVPP	VVPP	_	_	-1	13	_	OC	_	_
+12	zu	zu	zu	PTKZU	PTKZU	_	_	-1	13	_	PM	_	_
+13	sein	sein	sein	VAINF	VAINF	_	_	-1	2	_	OC	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+	sentence_start	0	51	104	160	216	335
+	token_offsets	sentence	0	offsets	0::5	6::10	17::7	25::4	30::8	39::2	42::5	48::1
+	token_offsets	sentence	1	offsets	51::3	55::10	66::8	75::5	81::2	84::7	92::8	101::1
+	token_offsets	sentence	2	offsets	104::3	108::13	122::2	125::12	138::6	145::5	151::5	157::1
+	token_offsets	sentence	3	offsets	160::3	164::8	173::8	182::8	191::12	204::8	213::1
+	token_offsets	sentence	4	offsets	216::5	222::3	226::17	244::13	258::3	262::3	266::15	282::9	292::3	296::4	301::5	307::14	322::9	332::1
+	token_offsets	sentence	5	offsets	335::6	342::6	349::5	355::8	364::1	366::4	371::5	377::3	381::5	387::12	400::2	403::4	408::4	413::3	417::5	423::6	430::1
+1	Eines	eine	eine	PIS	PIS	_	nom|sg|neut	-1	3	_	SB	_	_
+2	allerdings	allerdings	allerdings	ADV	ADV	_	_	-1	1	_	MO	_	_
+3	scheint	scheinen	scheinen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	5	_	OA	_	_
+5	geändert	ändern	ändern	VVPP	VVPP	_	_	-1	7	_	OC	_	_
+6	zu	zu	zu	PTKZU	PTKZU	_	_	-1	7	_	PM	_	_
+7	haben	haben	haben	VAINF	VAINF	_	_	-1	3	_	OC	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|pl|*	-1	3	_	NK	_	_
+2	regionalen	regional	regional	ADJA	ADJA	_	nom|pl|*|pos	-1	3	_	NK	_	_
+3	Produkte	Produkt	Produkt	NN	NN	_	acc|pl|neut	-1	4	_	SB	_	_
+4	haben	haben	haben	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+5	an	an	an	APPR	APPR	_	_	-1	7	_	MO	_	_
+6	Ansehen	Ansehen	Ansehen	NN	NN	_	acc|pl|fem	-1	5	_	NK	_	_
+7	gewonnen	gewinnen	gewinnen	VVPP	VVPP	_	_	-1	4	_	OC	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+
+1	Das	die	die	ART	ART	_	nom|sg|neut	-1	2	_	NK	_	_
+2	Schlachtefest	Schlachtefest	Schlachtefest	NN	NN	_	nom|sg|neut	-1	5	_	SB	_	_
+3	in	in	in	APPR	APPR	_	_	-1	2	_	MNR	_	_
+4	Paaren/Glien	Paaren/Glien	Paaren/Glien	NN	NN	_	dat|pl|fem	-1	3	_	NK	_	_
+5	stützt	stützen	stützen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+6	diese	dies	dies	PDAT	PDAT	_	acc|sg|fem	-1	7	_	NK	_	_
+7	These	These	These	NN	NN	_	acc|sg|fem	-1	5	_	OA	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|pl|masc	-1	2	_	NK	_	_
+2	Menschen	Mensch	Mensch	NN	NN	_	nom|pl|masc	-1	3	_	SB	_	_
+3	genießen	genießen	genießen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+4	vermehrt	vermehrt	vermehrt	ADJD	ADJD	_	pos	-1	3	_	MO	_	_
+5	einheimische	einheimisch	einheimisch	ADJA	ADJA	_	acc|pl|neut|pos	-1	6	_	NK	_	_
+6	Produkte	Produkt	Produkt	NN	NN	_	acc|pl|neut	-1	3	_	OA	_	_
+7	.	.	.	$.	$.	_	_	-1	6	_	--	_	_
+
+1	Statt	statt	statt	APPR	APPR	_	_	-1	8	_	MO	_	_
+2	der	die	die	ART	ART	_	dat|sg|fem	-1	4	_	NK	_	_
+3	plastikverpackten	plastikverpackt	plastikverpackt	ADJA	ADJA	_	dat|sg|fem|pos	-1	4	_	NK	_	_
+4	Einheitswurst	Einheitswurst	Einheitswurst	NN	NN	_	dat|sg|fem	-1	1	_	NK	_	_
+5	aus	aus	aus	APPR	APPR	_	_	-1	4	_	MNR	_	_
+6	der	die	die	ART	ART	_	dat|sg|fem	-1	7	_	NK	_	_
+7	Supermarkttheke	Supermarkttheke	Supermarkttheke	NN	NN	_	dat|sg|fem	-1	5	_	NK	_	_
+8	verlangen	verlangen	verlangen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+9	sie	sie	sie	PPER	PPER	_	nom|pl|*|3	-1	8	_	SB	_	_
+10	nach	nach	nach	APPR	APPR	_	_	-1	8	_	MO	_	_
+11	Waren	Ware	Ware	NN	NN	_	dat|pl|fem	-1	10	_	NK	_	_
+12	ortsansässiger	ortsansässig	ortsansässig	ADJA	ADJA	_	gen|pl|masc|pos	-1	13	_	NK	_	_
+13	Fleischer	Fleischer	Fleischer	NN	NN	_	gen|pl|masc	-1	11	_	AG	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Sollte	sollen	sollen	VMFIN	VMFIN	_	sg|3|past|ind	-1	6	_	RE	_	_
+2	dieser	diese	diese	PDS	PDS	_	nom|sg|masc	-1	3	_	NK	_	_
+3	Trend	Trend	Trend	NN	NN	_	nom|sg|masc	-1	1	_	SB	_	_
+4	anhalten	anhalten	anhalten	VVINF	VVINF	_	_	-1	1	_	OC	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	dann	dann	dann	ADV	ADV	_	_	-1	16	_	MO	_	_
+7	hätte	haben	haben	VAFIN	VAFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+8	die	die	die	ART	ART	_	nom|sg|fem	-1	10	_	NK	_	_
+9	ganze	ganz	ganz	ADJA	ADJA	_	nom|sg|fem|pos	-1	10	_	NK	_	_
+10	BSE-Hysterie	BSE-Hysterie	BSE-Hysterie	NN	NN	_	nom|sg|fem	-1	7	_	SB	_	_
+11	am	an	an	APPRART	APPRART	_	dat|sg|neut	-1	16	_	MO	_	_
+12	Ende	Ende	Ende	NN	NN	_	dat|sg|neut	-1	11	_	NK	_	_
+13	doch	doch	doch	KON	KON	_	_	-1	16	_	MO	_	_
+14	ihr	ihr	ihr	PPOSAT	PPOSAT	_	acc|sg|neut	-1	15	_	NK	_	_
+15	Gutes	Gute	Gute	NN	NN	_	acc|sg|neut	-1	16	_	OA	_	_
+16	gehabt	haben	haben	VAPP	VAPP	_	_	-1	7	_	OC	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+

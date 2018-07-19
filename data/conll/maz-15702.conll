@@ -1,0 +1,196 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::10	11::5	17::2	20::6	27::3
+1	Eigentlich	eigentlich	eigentlich	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	fehlt	fehlen	fehlen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	ja	ja	ja	ADV	ADV	_	_	-1	2	_	MO	_	_
+4	keiner	keine	keine	PIS	PIS	_	nom|sg|masc	-1	2	_	SB	_	_
+5	...	...	...	$.	$.	_	_	-1	4	_	--	_	_
+
+	sentence_start	0	109	200	315	412	443	590	667	778	949
+	token_offsets	sentence	0	offsets	0::3	4::13	18::10	29::3	33::3	37::12	50::3	54::14	69::8	78::7	86::9	96::9	106::1
+	token_offsets	sentence	1	offsets	109::3	113::5	119::8	128::8	137::3	141::13	155::3	159::4	164::5	170::7	178::3	182::10	193::3	197::1
+	token_offsets	sentence	2	offsets	200::3	204::11	216::2	219::9	229::3	233::2	236::8	245::5	251::8	260::12	273::1	275::3	279::3	283::5	289::3	293::10	304::7	312::1
+	token_offsets	sentence	3	offsets	315::8	324::5	330::4	335::18	354::6	361::3	365::11	377::4	382::3	386::12	399::9	409::1
+	token_offsets	sentence	4	offsets	412::7	420::3	424::2	427::12	440::1
+	token_offsets	sentence	5	offsets	443::10	454::3	458::2	461::5	467::1	469::7	477::4	482::3	486::17	504::7	512::11	524::1	526::4	531::1	533::4	538::4	543::1	545::2	548::3	552::8	561::6	568::2	571::4	576::4	581::5	587::1
+	token_offsets	sentence	6	offsets	590::3	594::8	603::4	608::4	613::9	623::6	630::6	637::1	639::3	643::2	646::9	656::3	660::3	664::1
+	token_offsets	sentence	7	offsets	667::2	670::7	678::5	684::18	703::1	705::3	709::4	714::2	717::8	726::3	730::6	737::9	747::3	751::3	755::13	769::5	775::1
+	token_offsets	sentence	8	offsets	778::3	782::5	788::3	792::4	797::3	801::10	812::2	815::12	828::5	834::11	846::1	848::2	851::3	855::4	860::10	871::6	878::1	880::4	885::3	889::7	897::8	906::10	917::4	922::5	928::5	934::11	946::1
+	token_offsets	sentence	9	offsets	949::2	952::9	962::9	972::3	976::6	983::8	992::4	997::3	1001::9	1011::8	1020::1	1021::0	1023::10	1034::3	1038::10	1049::6	1056::1	1058::4	1063::6	1070::13	1084::4	1089::1
+1	Von	von	von	APPR	APPR	_	_	-1	12	_	MO	_	_
+2	spektakulären	spektakulär	spektakulär	ADJA	ADJA	_	dat|pl|neut|pos	-1	3	_	NK	_	_
+3	Ausbrüchen	Ausbruch	Ausbruch	NN	NN	_	dat|pl|neut	-1	1	_	NK	_	_
+4	aus	aus	aus	APPR	APPR	_	_	-1	3	_	MNR	_	_
+5	den	die	die	ART	ART	_	dat|pl|neut	-1	6	_	NK	_	_
+6	Gefängnissen	Gefängnis	Gefängnis	NN	NN	_	dat|pl|neut	-1	4	_	NK	_	_
+7	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+8	Justizminister	Justizminister	Justizminister	NN	NN	_	nom|sg|masc	-1	7	_	SB	_	_
+9	Schelter	Schelter	Schelter	NN	NN	_	nom|sg|masc	-1	8	_	NK	_	_
+10	bislang	bislang	bislang	ADV	ADV	_	_	-1	12	_	MO	_	_
+11	verschont	verschonen	verschonen	VVPP	VVPP	_	_	-1	12	_	PD	_	_
+12	geblieben	bleiben	bleiben	VVPP	VVPP	_	_	-1	7	_	OC	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Für	für	für	APPR	APPR	_	_	-1	4	_	MO	_	_
+2	seine	sein	sein	PPOSAT	PPOSAT	_	acc|sg|fem	-1	3	_	NK	_	_
+3	Amtszeit	Amtszeit	Amtszeit	NN	NN	_	acc|sg|fem	-1	1	_	NK	_	_
+4	verbucht	verbuchen	verbuchen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	die	die	die	ART	ART	_	nom|sg|fem	-1	6	_	NK	_	_
+6	Justizchronik	Justizchronik	Justizchronik	NN	NN	_	nom|sg|fem	-1	4	_	SB	_	_
+7	nun	nun	nun	ADV	ADV	_	_	-1	4	_	MO	_	_
+8	aber	aber	aber	ADV	ADV	_	_	-1	4	_	MO	_	_
+9	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	10	_	NK	_	_
+10	Vorgang	Vorgang	Vorgang	NN	NN	_	acc|sg|masc	-1	4	_	OA	_	_
+11	der	die	die	ART	ART	_	gen|sg|fem	-1	13	_	NK	_	_
+12	besonderen	besonder	besonder	ADJA	ADJA	_	gen|sg|fem|pos	-1	13	_	NK	_	_
+13	Art	Art	Art	NN	NN	_	gen|sg|fem	-1	10	_	AG	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Haftanstalt	Haftanstalt	Haftanstalt	NN	NN	_	nom|sg|fem	-1	5	_	SB	_	_
+3	in	in	in	APPR	APPR	_	_	-1	2	_	MNR	_	_
+4	Spremberg	Spremberg	Spremberg	NN	NN	_	dat|sg|neut	-1	3	_	NK	_	_
+5	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+6	am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	10	_	MO	_	_
+7	Dienstag	Dienstag	Dienstag	NN	NN	_	dat|sg|masc	-1	6	_	NK	_	_
+8	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	9	_	NK	_	_
+9	Häftling	Häftling	Häftling	NN	NN	_	acc|sg|masc	-1	10	_	OA	_	_
+10	freigelassen	freilassen	freilassen	VVPP	VVPP	_	_	-1	5	_	OC	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	der	die	die	PRELS	PRELS	_	nom|sg|masc	-1	17	_	SB	_	_
+13	gar	gar	gar	ADV	ADV	_	_	-1	14	_	MO	_	_
+14	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	17	_	NG	_	_
+15	zur	zu	zu	APPRART	APPRART	_	dat|sg|fem	-1	17	_	MO	_	_
+16	Entlassung	Entlassung	Entlassung	NN	NN	_	dat|sg|fem	-1	15	_	NK	_	_
+17	anstand	anstehen	anstehen	VVFIN	VVFIN	_	sg|3|past|ind	-1	9	_	RC	_	_
+18	.	.	.	$.	$.	_	_	-1	17	_	--	_	_
+
+1	Schlicht	schlicht	schlicht	ADJD	ADJD	_	_	-1	11	_	MO	_	_
+2	durch	durch	durch	APPR	APPR	_	_	-1	5	_	MO	_	_
+3	eine	eine	eine	ART	ART	_	acc|sg|fem	-1	4	_	NK	_	_
+4	Namensverwechslung	Namensverwechslung	Namensverwechslung	NN	NN	_	acc|sg|fem	-1	2	_	NK	_	_
+5	konnte	können	können	VMFIN	VMFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+6	der	die	die	ART	ART	_	nom|sg|masc	-1	8	_	NK	_	_
+7	verurteilte	verurteilt	verurteilt	ADJA	ADJA	_	nom|sg|masc|pos	-1	8	_	NK	_	_
+8	Dieb	Dieb	Dieb	NN	NN	_	nom|sg|masc	-1	5	_	SB	_	_
+9	das	die	die	ART	ART	_	acc|sg|neut	-1	10	_	NK	_	_
+10	Gefängnistor	Gefängnistor	Gefängnistor	NN	NN	_	acc|sg|neut	-1	11	_	OA	_	_
+11	passieren	passieren	passieren	VVINF	VVINF	_	_	-1	5	_	OC	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Seither	seither	seither	ADV	ADV	_	_	-1	4	_	MO	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	2	_	SB	_	_
+4	verschwunden	verschwinden	verschwinden	VVPP	VVPP	_	_	-1	2	_	OC	_	_
+5	.	.	.	$.	$.	_	_	-1	4	_	--	_	_
+
+1	Gefährlich	gefährlich	gefährlich	ADJD	ADJD	_	pos	-1	2	_	PD	_	_
+2	sei	sein	sein	VAFIN	VAFIN	_	sg|3|pres|subj	-1	6	_	SB	_	_
+3	er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	2	_	SB	_	_
+4	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	2	_	NG	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	beeilte	beeilen	beeilen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+7	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	11	_	OA	_	_
+8	das	die	die	ART	ART	_	nom|sg|neut	-1	9	_	NK	_	_
+9	Justizministerium	Justizministerien	Justizministerien	NN	NN	_	nom|sg|neut	-1	6	_	SB	_	_
+10	gestern	gestern	gestern	ADV	ADV	_	_	-1	6	_	MO	_	_
+11	mitzuteilen	mitteilen	mitteilen	VVIZU	VVIZU	_	_	-1	6	_	OC	_	_
+12	,	,	,	$,	$,	_	_	-1	11	_	--	_	_
+13	aber	aber	aber	KON	KON	_	_	-1	6	_	CD	_	_
+14	-	-	-	$(	$(	_	_	-1	13	_	--	_	_
+15	klar	klar	klar	ADJD	ADJD	_	pos	-1	16	_	MO	_	_
+16	doch	doch	doch	ADV	ADV	_	_	-1	21	_	MO	_	_
+17	-	-	-	$(	$(	_	_	-1	16	_	--	_	_
+18	in	in	in	APPR	APPR	_	_	-1	21	_	MO	_	_
+19	die	die	die	ART	ART	_	acc|sg|fem	-1	20	_	NK	_	_
+20	Freiheit	Freiheit	Freiheit	NN	NN	_	acc|sg|fem	-1	18	_	NK	_	_
+21	gehört	gehören	gehören	VVFIN	VVFIN	_	sg|3|pres|ind	-1	13	_	CJ	_	_
+22	er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	21	_	SB	_	_
+23	auch	auch	auch	ADV	ADV	_	_	-1	21	_	MO	_	_
+24	noch	noch	noch	ADV	ADV	_	_	-1	25	_	MO	_	_
+25	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	21	_	NG	_	_
+26	.	.	.	$.	$.	_	_	-1	25	_	--	_	_
+
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	2	_	NK	_	_
+2	Minister	Minister	Minister	NN	NN	_	nom|sg|masc	-1	3	_	SB	_	_
+3	muss	müssen	müssen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	6	_	OA	_	_
+5	natürlich	natürlich	natürlich	ADV	ADV	_	_	-1	3	_	MO	_	_
+6	fragen	fragen	fragen	VVINF	VVINF	_	_	-1	7	_	OC	_	_
+7	lassen	lassen	lassen	VVINF	VVINF	_	_	-1	3	_	OC	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	was	was	was	PRELS	PRELS	_	nom|sg|neut	-1	13	_	SB	_	_
+10	in	in	in	APPR	APPR	_	_	-1	13	_	MO	_	_
+11	Spremberg	Spremberg	Spremberg	NN	NN	_	dat|sg|neut	-1	10	_	NK	_	_
+12	los	los	los	ADJD	ADJD	_	_	-1	13	_	PD	_	_
+13	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	6	_	OC	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Da	da	da	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	bekommt	bekommen	bekommen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	einer	eine	eine	ART	ART	_	nom|sg|masc	-1	4	_	NK	_	_
+4	Entlassungspapiere	Entlassungspapier	Entlassungspapier	NN	NN	_	acc|pl|neut	-1	2	_	SB	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	nur	nur	nur	ADV	ADV	_	_	-1	16	_	MO	_	_
+7	weil	weil	weil	KOUS	KOUS	_	_	-1	16	_	CP	_	_
+8	er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	16	_	SB	_	_
+9	zufällig	zufällig	zufällig	ADJD	ADJD	_	pos	-1	16	_	MO	_	_
+10	den	die	die	ART	ART	_	acc|sg|masc	-1	12	_	NK	_	_
+11	selben	selb	selb	PDAT	PDAT	_	acc|sg|masc	-1	12	_	NK	_	_
+12	Nachnamen	Nachname	Nachname	NN	NN	_	nom|pl|masc	-1	16	_	OA	_	_
+13	wie	wie	wie	KOKOM	KOKOM	_	_	-1	15	_	CM	_	_
+14	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	15	_	NK	_	_
+15	Mitgefangener	Mitgefangene	Mitgefangene	NN	NN	_	nom|sg|masc	-1	12	_	CC	_	_
+16	trägt	tragen	tragen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	2	_	MO	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	2	_	JU	_	_
+2	hätte	haben	haben	VAFIN	VAFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+3	die	die	die	ART	ART	_	nom|sg|fem	-1	4	_	NK	_	_
+4	Frau	Frau	Frau	NN	NN	_	nom|sg|fem	-1	2	_	SB	_	_
+5	des	die	die	ART	ART	_	gen|sg|masc	-1	14	_	NK	_	_
+6	eigentlich	eigentlich	eigentlich	ADV	ADV	_	_	-1	10	_	MO	_	_
+7	zu	zu	zu	APPR	APPR	_	_	-1	10	_	MO	_	_
+8	Entlassenden	Entlassende	Entlassende	NN	NN	_	dat|pl|*	-1	7	_	NK	_	_
+9	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	10	_	NG	_	_
+10	nachgefragt	nachfragen	nachfragen	VVPP	VVPP	_	_	-1	2	_	OC	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	wo	wo	wo	PWAV	PWAV	_	_	-1	16	_	MO	_	_
+13	ihr	ihr	ihr	PPER	PPER	_	nom|sg|masc	-1	16	_	SB	_	_
+14	Mann	Mann	Mann	NN	NN	_	nom|sg|masc	-1	4	_	AG	_	_
+15	eigentlich	eigentlich	eigentlich	ADV	ADV	_	_	-1	16	_	MO	_	_
+16	bleibt	bleiben	bleiben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	18	_	SB	_	_
+17	,	,	,	$,	$,	_	_	-1	16	_	--	_	_
+18	wäre	sein	sein	VAFIN	VAFIN	_	sg|3|past|subj	-1	2	_	CJ	_	_
+19	der	die	die	ART	ART	_	nom|sg|masc	-1	21	_	NK	_	_
+20	falsche	falsch	falsch	ADJA	ADJA	_	nom|sg|masc|pos	-1	21	_	NK	_	_
+21	Abgänger	Abgänger	Abgänger	NN	NN	_	nom|sg|masc	-1	18	_	SB	_	_
+22	vielleicht	vielleicht	vielleicht	ADV	ADV	_	_	-1	26	_	MO	_	_
+23	noch	noch	noch	ADV	ADV	_	_	-1	25	_	MO	_	_
+24	immer	immer	immer	ADV	ADV	_	_	-1	25	_	MO	_	_
+25	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	26	_	NG	_	_
+26	aufgefallen	auffallen	auffallen	VVPP	VVPP	_	_	-1	18	_	OC	_	_
+27	.	.	.	$.	$.	_	_	-1	26	_	--	_	_
+
+1	In	in	in	APPR	APPR	_	_	-1	3	_	MO	_	_
+2	Spremberg	Spremberg	Spremberg	NN	NN	_	dat|sg|neut	-1	1	_	NK	_	_
+3	verfahren	verfahren	verfahren	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+4	die	die	die	ART	ART	_	nom|pl|*	-1	5	_	NK	_	_
+5	Wärter	Wärter	Wärter	NN	NN	_	*|*|*	-1	3	_	SB	_	_
+6	offenbar	offenbar	offenbar	ADJD	ADJD	_	pos	-1	3	_	MO	_	_
+7	nach	nach	nach	APPR	APPR	_	_	-1	3	_	MO	_	_
+8	der	die	die	ART	ART	_	dat|sg|fem	-1	10	_	NK	_	_
+9	einfachen	einfach	einfach	ADJA	ADJA	_	dat|sg|fem|pos	-1	10	_	NK	_	_
+10	Rechnung	Rechnung	Rechnung	NN	NN	_	dat|sg|fem	-1	7	_	NK	_	_
+11	:	:	:	$.	$.	_	_	-1	10	_	--	_	_
+12	Hauptsache	Hauptsache	Hauptsache	NN	NN	_	nom|sg|fem	-1	15	_	SB	_	_
+13	die	die	die	ART	ART	_	nom|sg|fem	-1	14	_	NK	_	_
+14	Gesamtzahl	Gesamtzahl	Gesamtzahl	NN	NN	_	nom|sg|fem	-1	15	_	SB	_	_
+15	stimmt	stimmen	stimmen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	3	_	RS	_	_
+16	,	,	,	$,	$,	_	_	-1	15	_	--	_	_
+17	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	20	_	CP	_	_
+18	abends	abends	abends	ADV	ADV	_	_	-1	19	_	MO	_	_
+19	zugeschlossen	zuschließen	zuschließen	VVPP	VVPP	_	_	-1	20	_	OC	_	_
+20	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	15	_	MO	_	_
+21	.	.	.	$.	$.	_	_	-1	20	_	--	_	_
+

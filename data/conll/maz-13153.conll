@@ -1,0 +1,205 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::14
+1	Nachahmenswert	Nachahmenswert	Nachahmenswert	NN	NN	_	nom|sg|masc	-1	0	_	--	_	_
+
+	sentence_start	0	42	150
+	token_offsets	sentence	0	offsets	0::11	12::3	16::3	20::9	30::8	39::1
+	token_offsets	sentence	1	offsets	42::2	45::1	47::10	58::3	62::2	65::5	71::9	81::4	86::2	89::1	91::4	96::17	114::7	122::5	128::11	140::6	147::1
+	token_offsets	sentence	2	offsets	150::10	161::3	165::4	170::6	177::11	189::15	205::8	214::4	219::12	232::3	236::10	247::2	250::3	254::11	266::4	271::8	280::15	296::3	300::10	311::7	319::1
+1	Integration	Integration	Integration	NN	NN	_	nom|sg|fem	-1	2	_	SB	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	ein	eine	eine	ART	ART	_	nom|sg|neut	-1	5	_	NK	_	_
+4	wichtiges	wichtig	wichtig	ADJA	ADJA	_	nom|sg|neut|pos	-1	5	_	NK	_	_
+5	Anliegen	Anliegen	Anliegen	NN	NN	_	nom|sg|neut	-1	2	_	PD	_	_
+6	.	.	.	$.	$.	_	_	-1	5	_	--	_	_
+
+1	Ja	ja	ja	PTKANT	PTKANT	_	_	-1	4	_	DM	_	_
+2	,	,	,	$,	$,	_	_	-1	1	_	--	_	_
+3	heutzutage	heutzutage	heutzutage	ADV	ADV	_	_	-1	4	_	MO	_	_
+4	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	4	_	SB	_	_
+6	sogar	sogar	sogar	ADV	ADV	_	_	-1	7	_	MO	_	_
+7	wichtiger	wichtig	wichtig	ADJD	ADJD	_	comp	-1	4	_	PD	_	_
+8	denn	denn	denn	KON	KON	_	_	-1	16	_	CD	_	_
+9	je	je	je	ADV	ADV	_	_	-1	16	_	MO	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	dass	dass	dass	KOUS	KOUS	_	_	-1	16	_	CP	_	_
+12	gesellschaftliche	gesellschaftlich	gesellschaftlich	ADJA	ADJA	_	nom|pl|masc|pos	-1	13	_	NK	_	_
+13	Gruppen	Gruppe	Gruppe	NN	NN	_	nom|pl|masc	-1	16	_	SB	_	_
+14	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	15	_	NG	_	_
+15	ausgegrenzt	ausgrenzen	ausgrenzen	VVPP	VVPP	_	_	-1	16	_	OC	_	_
+16	werden	werden	werden	VAINF	VAINF	_	_	-1	5	_	RE	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
+1	Angesichts	angesichts	angesichts	APPR	APPR	_	_	-1	8	_	MO	_	_
+2	der	die	die	ART	ART	_	gen|pl|fem	-1	7	_	NK	_	_
+3	seit	seit	seit	APPR	APPR	_	_	-1	5	_	MO	_	_
+4	Jahren	Jahr	Jahr	NN	NN	_	dat|pl|neut	-1	3	_	NK	_	_
+5	obwaltenden	obwaltend	obwaltend	ADJA	ADJA	_	gen|pl|fem|pos	-1	7	_	NK	_	_
+6	rechtsradikalen	rechtsradikal	rechtsradikal	ADJA	ADJA	_	dat|sg|fem|pos	-1	7	_	NK	_	_
+7	Umtriebe	Umtrieb	Umtrieb	NN	NN	_	dat|sg|fem	-1	1	_	NK	_	_
+8	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+9	insbesondere	insbesondere	insbesondere	ADV	ADV	_	_	-1	11	_	MO	_	_
+10	die	die	die	ART	ART	_	nom|pl|fem	-1	11	_	NK	_	_
+11	Bemühungen	Bemühung	Bemühung	NN	NN	_	nom|pl|fem	-1	8	_	SB	_	_
+12	um	um	um	APPR	APPR	_	_	-1	11	_	OP	_	_
+13	die	die	die	ART	ART	_	acc|sg|fem	-1	14	_	NK	_	_
+14	Integration	Integration	Integration	NN	NN	_	acc|sg|fem	-1	12	_	NK	_	_
+15	hier	hier	hier	ADV	ADV	_	_	-1	16	_	MO	_	_
+16	lebender	lebender	lebender	ADJD	ADJD	_	comp	-1	17	_	MO	_	_
+17	Nicht-Deutscher	nicht-deutsch	nicht-deutsch	ADJA	ADJA	_	gen|pl|masc|pos	-1	20	_	DA	_	_
+18	und	und	und	KON	KON	_	_	-1	17	_	CD	_	_
+19	Aussiedler	Aussiedler	Aussiedler	NN	NN	_	gen|pl|masc	-1	18	_	CJ	_	_
+20	wichtig	wichtig	wichtig	ADJD	ADJD	_	pos	-1	8	_	PD	_	_
+21	.	.	.	$.	$.	_	_	-1	20	_	--	_	_
+
+	sentence_start	0	91	257	362	472
+	token_offsets	sentence	0	offsets	0::3	4::3	8::6	15::2	18::5	24::6	31::13	45::3	49::4	54::10	65::10	76::11	88::1
+	token_offsets	sentence	1	offsets	91::2	94::3	98::2	101::5	107::5	113::4	118::1	120::4	125::3	129::6	136::12	149::11	161::3	165::21	187::3	191::17	209::11	221::4	226::6	233::8	242::11	254::1
+	token_offsets	sentence	2	offsets	257::3	261::4	266::2	269::8	278::1	280::4	285::5	291::11	303::7	311::4	316::8	325::3	329::3	333::8	342::10	353::5	359::1
+	token_offsets	sentence	3	offsets	362::4	367::7	375::6	382::4	387::2	390::2	393::6	400::5	406::6	413::14	428::10	439::2	442::7	450::6	457::5	463::5	469::1
+	token_offsets	sentence	4	offsets	472::5	478::1	480::3	484::3	488::4	493::2	496::5	502::7	510::3	514::1	516::7	524::2	527::9	537::4	542::12	555::1	556::0	558::3	562::11	574::5	580::5	586::1	588::12	601::6	608::7	616::17	634::7	642::7	650::1	652::4	657::2	660::3	664::7	672::4	677::6	684::11	696::3	700::4	705::10	716::5	722::1
+1	Und	und	und	KON	KON	_	_	-1	3	_	JU	_	_
+2	wie	wie	wie	KOKOM	KOKOM	_	_	-1	12	_	CM	_	_
+3	könnte	können	können	VMFIN	VMFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+4	so	so	so	ADV	ADV	_	_	-1	5	_	MO	_	_
+5	etwas	etwas	etwas	ADV	ADV	_	_	-1	3	_	SB	_	_
+6	besser	gut	gut	ADJD	ADJD	_	comp	-1	7	_	MO	_	_
+7	funktionieren	funktionieren	funktionieren	VVINF	VVINF	_	pl|3|pres|ind	-1	3	_	OC	_	_
+8	als	als	als	KOKOM	KOKOM	_	_	-1	9	_	CM	_	_
+9	über	über	über	APPR	APPR	_	_	-1	5	_	CC	_	_
+10	gemeinsame	gemeinsam	gemeinsam	ADJA	ADJA	_	acc|pl|fem|pos	-1	12	_	NK	_	_
+11	sportliche	sportlich	sportlich	ADJA	ADJA	_	acc|pl|fem|pos	-1	12	_	NK	_	_
+12	Aktivitäten	Aktivität	Aktivität	NN	NN	_	acc|pl|fem	-1	9	_	NK	_	_
+13	?	?	?	$.	$.	_	_	-1	12	_	--	_	_
+
+1	So	so	so	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	SB	_	_
+4	aller	alle	alle	PIAT	PIAT	_	dat|sg|fem	-1	5	_	NK	_	_
+5	Ehren	Ehre|Ehren	Ehre|Ehren	NN	NN	_	dat|sg|fem	-1	6	_	DA	_	_
+6	wert	wert	wert	ADJD	ADJD	_	pos	-1	2	_	PD	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	21	_	CP	_	_
+9	der	die	die	ART	ART	_	nom|sg|masc	-1	10	_	NK	_	_
+10	Verein	Verein	Verein	NN	NN	_	nom|sg|masc	-1	21	_	SB	_	_
+11	Freizeitpark	Freizeitpark	Freizeitpark	NN	NN	_	nom|sg|masc	-1	10	_	NK	_	_
+12	Wittenberge	Wittenberge	Wittenberge	NN	NN	_	acc|pl|masc	-1	11	_	NK	_	_
+13	die	die	die	ART	ART	_	acc|pl|masc	-1	14	_	NK	_	_
+14	Integrationsprogramme	Integrationsprogramm	Integrationsprogramm	NN	NN	_	acc|pl|neut	-1	21	_	OA	_	_
+15	der	die	die	ART	ART	_	gen|pl|fem	-1	17	_	NK	_	_
+16	Brandenburgischen	brandenburgisch	brandenburgisch	ADJA	ADJA	_	gen|pl|fem|pos	-1	17	_	NK	_	_
+17	Sportjugend	Sportjugend	Sportjugend	NN	NN	_	gen|pl|fem	-1	14	_	AG	_	_
+18	seit	seit	seit	APPR	APPR	_	_	-1	21	_	MO	_	_
+19	Jahren	Jahr	Jahr	NN	NN	_	dat|pl|neut	-1	18	_	NK	_	_
+20	intensiv	intensiv	intensiv	ADJD	ADJD	_	pos	-1	21	_	MO	_	_
+21	unterstützt	unterstützen	unterstützen	VVPP	VVPP	_	_	-1	3	_	RE	_	_
+22	.	.	.	$.	$.	_	_	-1	21	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	4	_	JU	_	_
+2	zwar	zwar	zwar	ADV	ADV	_	_	-1	4	_	MO	_	_
+3	so	so	so	ADV	ADV	_	_	-1	4	_	MO	_	_
+4	intensiv	intensiv	intensiv	ADJD	ADJD	_	pos	-1	0	_	--	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	dass	dass	dass	KOUS	KOUS	_	_	-1	16	_	CP	_	_
+7	deren	die	die	PDAT	PDAT	_	gen|sg|fem	-1	8	_	NK	_	_
+8	Funktionäre	Funktionär	Funktionär	NN	NN	_	nom|pl|masc	-1	16	_	SB	_	_
+9	bereits	bereits	bereits	ADV	ADV	_	_	-1	15	_	MO	_	_
+10	eine	eine	eine	ART	ART	_	nom|sg|fem	-1	11	_	NK	_	_
+11	Vorliebe	Vorliebe	Vorliebe	NN	NN	_	nom|sg|fem	-1	15	_	OA	_	_
+12	für	für	für	APPR	APPR	_	_	-1	11	_	MNR	_	_
+13	die	die	die	ART	ART	_	acc|sg|fem	-1	14	_	NK	_	_
+14	Prignitz	Prignitz	Prignitz	NN	NN	_	acc|sg|fem	-1	12	_	NK	_	_
+15	entwickelt	entwickeln	entwickeln	VVPP	VVPP	_	_	-1	16	_	OC	_	_
+16	haben	haben	haben	VAFIN	VAFIN	_	pl|3|pres|ind	-1	3	_	RE	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
+1	Aber	aber	aber	ADV	ADV	_	_	-1	4	_	MO	_	_
+2	darüber	darüber	darüber	PAV	PAV	_	_	-1	11	_	NK	_	_
+3	hinaus	hinaus	hinaus	ADV	ADV	_	_	-1	4	_	MO	_	_
+4	gibt	geben	geben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	4	_	EP	_	_
+6	in	in	in	APPR	APPR	_	_	-1	4	_	MO	_	_
+7	diesem	dies	dies	PDAT	PDAT	_	dat|sg|masc	-1	8	_	NK	_	_
+8	Kreis	Kreis	Kreis	NN	NN	_	dat|sg|masc	-1	6	_	NK	_	_
+9	ebenso	ebenso	ebenso	ADV	ADV	_	_	-1	4	_	MO	_	_
+10	ehrenamtliches	ehrenamtlich	ehrenamtlich	ADJA	ADJA	_	nom|sg|neut|pos	-1	11	_	NK	_	_
+11	Engagement	Engagement	Engagement	NN	NN	_	nom|sg|neut	-1	4	_	OA	_	_
+12	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	11	_	MNR	_	_
+13	Dienste	Dienst	Dienst	NN	NN	_	dat|sg|masc	-1	12	_	NK	_	_
+14	dieser	dies	dies	PDAT	PDAT	_	gen|pl|fem	-1	16	_	NK	_	_
+15	guten	gut	gut	ADJA	ADJA	_	acc|sg|masc|pos	-1	16	_	NK	_	_
+16	Sache	Sache	Sache	NN	NN	_	acc|sg|masc	-1	4	_	OA	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
+1	Einer	eine	eine	PIS	PIS	_	nom|sg|masc	-1	11	_	SB	_	_
+2	,	,	,	$,	$,	_	_	-1	1	_	--	_	_
+3	der	die	die	PRELS	PRELS	_	nom|sg|masc	-1	9	_	SB	_	_
+4	sie	sie	sie	PPER	PPER	_	acc|pl|neut|3	-1	8	_	OA	_	_
+5	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	8	_	OA	_	_
+6	zu	zu	zu	APPR	APPR	_	_	-1	8	_	MO	_	_
+7	eigen	eigen	eigen	ADJD	ADJD	_	pos	-1	6	_	NK	_	_
+8	gemacht	machen	machen	VVPP	VVPP	_	_	-1	9	_	OC	_	_
+9	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	1	_	RC	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	erhielt	erhalten	erhalten	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+12	am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	11	_	MO	_	_
+13	Sonnabend	Sonnabend	Sonnabend	NN	NN	_	dat|sg|masc	-1	12	_	NK	_	_
+14	eine	eine	eine	ART	ART	_	acc|sg|fem	-1	15	_	NK	_	_
+15	Auszeichnung	Auszeichnung	Auszeichnung	NN	NN	_	acc|sg|fem	-1	11	_	OA	_	_
+16	:	:	:	$.	$.	_	_	-1	15	_	--	_	_
+17	Der	die	die	ART	ART	_	nom|sg|masc	-1	18	_	NK	_	_
+18	Pritzwalker	Pritzwalker	Pritzwalker	NN	NN	_	nom|sg|masc	-1	29	_	SB	_	_
+19	Harry	Harry	Harry	NE	NE	_	nom|sg|masc	-1	20	_	PNC	_	_
+20	Stüwe	Stüwe	Stüwe	NE	NE	_	nom|sg|masc	-1	18	_	NK	_	_
+21	,	,	,	$,	$,	_	_	-1	20	_	--	_	_
+22	regelmäßigen	regelmäßig	regelmäßig	ADJA	ADJA	_	dat|pl|masc|pos	-1	23	_	NK	_	_
+23	Lesern	Leser	Leser	NN	NN	_	dat|pl|masc	-1	27	_	DA	_	_
+24	unserer	unser	unser	PPOSAT	PPOSAT	_	gen|pl|fem	-1	25	_	NK	_	_
+25	Lokal-Sportseiten	Lokal-Sportseiten	Lokal-Sportseiten	NN	NN	_	gen|pl|fem	-1	23	_	AG	_	_
+26	bestens	bestens	bestens	ADV	ADV	_	_	-1	27	_	MO	_	_
+27	bekannt	bekannt	bekannt	ADJD	ADJD	_	pos	-1	18	_	PAR	_	_
+28	,	,	,	$,	$,	_	_	-1	27	_	--	_	_
+29	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	15	_	OC	_	_
+30	in	in	in	APPR	APPR	_	_	-1	39	_	MO	_	_
+31	der	die	die	ART	ART	_	dat|sg|fem	-1	32	_	NK	_	_
+32	Urkunde	Urkunde	Urkunde	NN	NN	_	dat|sg|fem	-1	30	_	NK	_	_
+33	eine	eine	eine	ART	ART	_	acc|sg|fem	-1	35	_	NK	_	_
+34	schöne	schön	schön	ADJA	ADJA	_	acc|sg|fem|pos	-1	35	_	NK	_	_
+35	Bestätigung	Bestätigung	Bestätigung	NN	NN	_	acc|sg|fem	-1	39	_	OA	_	_
+36	für	für	für	APPR	APPR	_	_	-1	35	_	MNR	_	_
+37	sein	sein	sein	PPOSAT	PPOSAT	_	acc|sg|neut	-1	38	_	NK	_	_
+38	Engagement	Engagement	Engagement	NN	NN	_	acc|sg|neut	-1	36	_	NK	_	_
+39	sehen	sehen	sehen	VVINF	VVINF	_	_	-1	29	_	OC	_	_
+40	.	.	.	$.	$.	_	_	-1	39	_	--	_	_
+
+	sentence_start	0	124
+	token_offsets	sentence	0	offsets	0::3	4::3	8::12	21::1	23::6	30::11	42::4	47::5	53::3	57::14	72::1	74::7	82::4	87::3	91::14	106::3	110::3	114::6	121::1
+	token_offsets	sentence	1	offsets	124::3	128::8	137::5	143::5	149::13	163::1
+1	Und	und	und	KON	KON	_	_	-1	7	_	JU	_	_
+2	zum	zu	zu	APPRART	APPRART	_	dat|sg|masc	-1	7	_	MO	_	_
+3	Weitermachen	Weitermachen	Weitermachen	NN	NN	_	dat|sg|masc	-1	2	_	NK	_	_
+4	:	:	:	$.	$.	_	_	-1	3	_	--	_	_
+5	Solche	solche	solche	PIAT	PIAT	_	nom|pl|fem	-1	6	_	NK	_	_
+6	Aktivitäten	Aktivität	Aktivität	NN	NN	_	nom|pl|fem	-1	7	_	SB	_	_
+7	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+8	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	9	_	NG	_	_
+9	nur	nur	nur	ADV	ADV	_	_	-1	10	_	MO	_	_
+10	nachahmenswert	nachahmenswert	nachahmenswert	ADJD	ADJD	_	pos	-1	7	_	PD	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	sondern	sondern	sondern	KON	KON	_	_	-1	10	_	CD	_	_
+13	auch	auch	auch	ADV	ADV	_	_	-1	15	_	MO	_	_
+14	ein	eine	eine	ART	ART	_	nom|sg|neut	-1	15	_	NK	_	_
+15	Aushängeschild	Aushängeschild	Aushängeschild	NN	NN	_	nom|sg|neut	-1	12	_	CJ	_	_
+16	für	für	für	APPR	APPR	_	_	-1	15	_	MNR	_	_
+17	die	die	die	ART	ART	_	acc|sg|fem	-1	18	_	NK	_	_
+18	Region	Region	Region	NN	NN	_	acc|sg|fem	-1	16	_	NK	_	_
+19	.	.	.	$.	$.	_	_	-1	18	_	--	_	_
+
+1	Sie	Sie	Sie	PPER	PPER	_	nom|pl|*|3	-1	2	_	SB	_	_
+2	bedürfen	bedürfen	bedürfen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	unser	wir	wir	PPER	PPER	_	acc|pl|*|1	-1	2	_	DA	_	_
+4	aller	alle	alle	PIAT	PIAT	_	*|sg|fem	-1	5	_	NK	_	_
+5	Unterstützung	Unterstützung	Unterstützung	NN	NN	_	*|sg|fem	-1	2	_	OA	_	_
+6	.	.	.	$.	$.	_	_	-1	5	_	--	_	_
+

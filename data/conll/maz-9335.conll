@@ -1,0 +1,224 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::14	15::7
+1	Unökonomisches	Unökonomisches	Unökonomisches	ADJA	ADJA	_	nom|sg|neut|pos	-1	2	_	NK	_	_
+2	Angebot	Angebot	Angebot	NN	NN	_	nom|sg|neut	-1	0	_	--	_	_
+
+	sentence_start	0	79	129
+	token_offsets	sentence	0	offsets	0::3	4::8	13::2	16::11	28::13	42::3	46::3	50::5	56::9	66::9	76::1
+	token_offsets	sentence	1	offsets	79::2	82::5	88::11	100::6	107::3	111::3	115::10	126::1
+	token_offsets	sentence	2	offsets	129::4	134::3	138::9	148::6	155::3	159::16	176::2	179::5	185::7	193::5	199::3	203::13	217::11	229::1
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Stimmung	Stimmung	Stimmung	NN	NN	_	nom|sg|fem	-1	6	_	SB	_	_
+3	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	2	_	MNR	_	_
+4	Pritzwalker	Pritzwalker	Pritzwalker	NN	NN	_	dat|sg|neut	-1	3	_	NK	_	_
+5	Minimal-Markt	Minimal-Markt	Minimal-Markt	NN	NN	_	acc|sg|masc	-1	4	_	NK	_	_
+6	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+7	auf	auf	auf	APPR	APPR	_	_	-1	10	_	MO	_	_
+8	einem	eine	eine	ART	ART	_	dat|sg|masc	-1	9	_	NK	_	_
+9	Tiefpunkt	Tiefpunkt	Tiefpunkt	NN	NN	_	dat|sg|masc	-1	7	_	NK	_	_
+10	angelangt	angelangen	angelangen	VVPP	VVPP	_	_	-1	6	_	PD	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	15	15	15	CARD	CARD	_	_	-1	3	_	NK	_	_
+2	feste	fest	fest	ADJA	ADJA	_	nom|pl|masc|pos	-1	3	_	NK	_	_
+3	Mitarbeiter	Mitarbeiter	Mitarbeiter	NN	NN	_	nom|pl|masc	-1	4	_	SB	_	_
+4	stehen	stehen	stehen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+5	vor	vor	vor	APPR	APPR	_	_	-1	4	_	MO	_	_
+6	der	die	die	ART	ART	_	dat|sg|fem	-1	7	_	NK	_	_
+7	Entlassung	Entlassung	Entlassung	NN	NN	_	dat|sg|fem	-1	5	_	NK	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+
+1	Wohl	wohl	wohl	ADV	ADV	_	_	-1	3	_	MO	_	_
+2	die	die	die	ART	ART	_	nom|pl|fem	-1	3	_	NK	_	_
+3	wenigsten	wenigste	wenigste	PIS	PIS	_	nom|pl|fem	-1	4	_	SB	_	_
+4	werden	werden	werden	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+5	ein	eine	eine	ART	ART	_	acc|sg|neut	-1	6	_	NK	_	_
+6	Übernahmeangebot	Übernahmeangebot	Übernahmeangebot	NN	NN	_	acc|sg|neut	-1	13	_	OA	_	_
+7	in	in	in	APPR	APPR	_	_	-1	6	_	MNR	_	_
+8	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	10	_	NK	_	_
+9	anderen	andere	andere	PIAT	PIAT	_	acc|sg|masc	-1	10	_	NK	_	_
+10	Markt	Markt	Markt	NN	NN	_	acc|sg|masc	-1	7	_	NK	_	_
+11	des	die	die	ART	ART	_	gen|sg|neut	-1	12	_	NK	_	_
+12	Rewe-Konzerns	Rewe-Konzern	Rewe-Konzern	NN	NN	_	gen|sg|neut	-1	10	_	AG	_	_
+13	akzeptieren	akzeptieren	akzeptieren	VVINF	VVINF	_	_	-1	4	_	OC	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+	sentence_start	0	126	210	360
+	token_offsets	sentence	0	offsets	0::3	4::6	11::2	14::5	20::11	32::6	39::1	40::0	42::4	47::3	51::5	57::4	62::2	65::7	73::6	80::3	84::7	92::1	94::3	98::2	101::12	114::8	123::1
+	token_offsets	sentence	1	offsets	126::3	130::3	134::4	139::3	143::6	150::5	156::2	159::5	165::1	167::3	171::2	174::14	189::12	202::4	207::1
+	token_offsets	sentence	2	offsets	210::3	214::7	222::4	227::4	232::3	236::5	242::2	245::12	258::5	264::2	267::4	272::1	274::3	278::4	283::4	288::7	296::4	301::5	307::5	313::3	317::6	324::3	328::3	332::11	344::6	351::5	357::1
+	token_offsets	sentence	3	offsets	360::4	365::8	374::5	380::3	384::8	393::1	395::6	402::3	406::5	412::3	416::4	421::3	425::1	427::4	432::3	436::6	443::7	451::1
+1	Sie	Sie	Sie	PPER	PPER	_	nom|pl|*|3	-1	2	_	SB	_	_
+2	werden	werden	werden	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	es	es	es	PPER	PPER	_	acc|sg|neut|3	-1	5	_	OA	_	_
+4	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	6	_	NG	_	_
+5	akzeptieren	akzeptieren	akzeptieren	VVINF	VVINF	_	_	-1	6	_	OC	_	_
+6	können	können	können	VMINF	VMINF	_	_	-1	2	_	OC	_	_
+7	:	:	:	$.	$.	_	_	-1	6	_	--	_	_
+8	Denn	denn	denn	KON	KON	_	_	-1	2	_	CD	_	_
+9	zum	zu	zu	APPRART	APPRART	_	dat|sg|masc	-1	11	_	MO	_	_
+10	einen	eine	eine	PIS	PIS	_	dat|sg|masc	-1	9	_	NK	_	_
+11	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	8	_	CJ	_	_
+12	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	11	_	SB	_	_
+13	zumeist	zumeist	zumeist	ADV	ADV	_	_	-1	11	_	MO	_	_
+14	Frauen	Frau	Frau	NN	NN	_	nom|pl|fem	-1	11	_	SB	_	_
+15	mit	mit	mit	APPR	APPR	_	_	-1	14	_	MNR	_	_
+16	Kindern	Kind	Kind	NN	NN	_	dat|pl|neut	-1	15	_	NK	_	_
+17	,	,	,	$,	$,	_	_	-1	16	_	--	_	_
+18	die	die	die	PRELS	PRELS	_	nom|pl|neut	-1	21	_	SB	_	_
+19	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	21	_	MO	_	_
+20	Einzelhandel	Einzelhandel	Einzelhandel	NN	NN	_	dat|sg|masc	-1	19	_	NK	_	_
+21	arbeiten	arbeiten	arbeiten	VVINF	VVINF	_	pl|3|pres|ind	-1	16	_	RC	_	_
+22	.	.	.	$.	$.	_	_	-1	21	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	3	_	JU	_	_
+2	die	die	die	PDS	PDS	_	nom|pl|*	-1	3	_	SB	_	_
+3	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+4	nun	nun	nun	ADV	ADV	_	_	-1	3	_	MO	_	_
+5	einmal	einmal	einmal	ADV	ADV	_	_	-1	3	_	MO	_	_
+6	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	3	_	NG	_	_
+7	so	so	so	ADV	ADV	_	_	-1	8	_	MO	_	_
+8	mobil	mobil	mobil	ADJD	ADJD	_	pos	-1	3	_	PD	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	wie	wie	wie	KOUS	KOUS	_	_	-1	14	_	CP	_	_
+11	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	14	_	SB	_	_
+12	alleinstehende	alleinstehend	alleinstehend	ADJA	ADJA	_	acc|pl|masc|pos	-1	13	_	NK	_	_
+13	Arbeitnehmer	Arbeitnehmer	Arbeitnehmer	NN	NN	_	acc|pl|masc	-1	14	_	PD	_	_
+14	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	7	_	CC	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+1	Zum	zu	zu	APPRART	APPRART	_	dat|sg|neut	-1	6	_	MO	_	_
+2	anderen	andere	andere	PIS	PIS	_	dat|sg|neut	-1	1	_	NK	_	_
+3	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+4	auch	auch	auch	ADV	ADV	_	_	-1	6	_	MO	_	_
+5	die	die	die	ART	ART	_	nom|sg|fem	-1	6	_	NK	_	_
+6	Löhne	Lohn	Lohn	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+7	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	6	_	MNR	_	_
+8	Einzelhandel	Einzelhandel	Einzelhandel	NN	NN	_	dat|sg|masc	-1	7	_	NK	_	_
+9	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	3	_	NG	_	_
+10	so	so	so	ADV	ADV	_	_	-1	11	_	MO	_	_
+11	hoch	hoch	hoch	ADJD	ADJD	_	pos	-1	3	_	PD	_	_
+12	,	,	,	$,	$,	_	_	-1	11	_	--	_	_
+13	als	als	als	KOKOM	KOKOM	_	_	-1	26	_	CM	_	_
+14	dass	dass	dass	KOUS	KOUS	_	_	-1	26	_	CP	_	_
+15	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	25	_	OA	_	_
+16	täglich	täglich	täglich	ADJD	ADJD	_	pos	-1	1	_	MO	_	_
+17	eine	eine	eine	ART	ART	_	nom|sg|fem	-1	19	_	NK	_	_
+18	weite	weit	weit	ADJA	ADJA	_	nom|sg|fem|pos	-1	19	_	NK	_	_
+19	Fahrt	Fahrt	Fahrt	NN	NN	_	nom|sg|fem	-1	26	_	SB	_	_
+20	zur	zu	zu	APPRART	APPRART	_	dat|sg|fem	-1	19	_	MNR	_	_
+21	Arbeit	Arbeit	Arbeit	NN	NN	_	dat|sg|fem	-1	20	_	NK	_	_
+22	für	für	für	APPR	APPR	_	_	-1	25	_	MO	_	_
+23	die	die	die	ART	ART	_	acc|sg|fem	-1	24	_	NK	_	_
+24	Mitarbeiter	Mitarbeiter	Mitarbeiter	NN	NN	_	acc|sg|fem	-1	22	_	NK	_	_
+25	lohnen	lohnen	lohnen	VVINF	VVINF	_	_	-1	26	_	OC	_	_
+26	würde	werden	werden	VAFIN	VAFIN	_	sg|3|past|subj	-1	10	_	CC	_	_
+27	.	.	.	$.	$.	_	_	-1	26	_	--	_	_
+
+1	Eine	eine	eine	ART	ART	_	nom|sg|fem	-1	3	_	NK	_	_
+2	einfache	einfach	einfach	ADJA	ADJA	_	nom|sg|fem|pos	-1	3	_	NK	_	_
+3	Frage	Frage	Frage	NN	NN	_	nom|sg|fem	-1	7	_	SB	_	_
+4	der	die	die	ART	ART	_	gen|sg|fem	-1	5	_	NK	_	_
+5	Ökonomie	Ökonomie	Ökonomie	NN	NN	_	gen|sg|fem	-1	3	_	AG	_	_
+6	:	:	:	$.	$.	_	_	-1	5	_	--	_	_
+7	Frisst	fressen	fressen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+8	der	die	die	ART	ART	_	nom|sg|masc	-1	9	_	NK	_	_
+9	Sprit	Sprit	Sprit	NN	NN	_	nom|sg|masc	-1	7	_	SB	_	_
+10	den	die	die	ART	ART	_	acc|sg|masc	-1	11	_	NK	_	_
+11	Lohn	Lohn	Lohn	NN	NN	_	acc|sg|masc	-1	7	_	OA	_	_
+12	auf	auf	auf	PTKVZ	PTKVZ	_	_	-1	7	_	SVP	_	_
+13	,	,	,	$,	$,	_	_	-1	12	_	--	_	_
+14	kann	können	können	VMFIN	VMFIN	_	sg|3|pres|ind	-1	7	_	CJ	_	_
+15	man	man	man	PIS	PIS	_	nom|sg|*	-1	14	_	SB	_	_
+16	daheim	daheim	daheim	ADV	ADV	_	_	-1	17	_	MO	_	_
+17	bleiben	bleiben	bleiben	VVINF	VVINF	_	_	-1	14	_	OC	_	_
+18	.	.	.	$.	$.	_	_	-1	17	_	--	_	_
+
+	sentence_start	0	70	196	255	321
+	token_offsets	sentence	0	offsets	0::1	2::2	5::2	8::1	10::3	14::3	18::13	32::4	37::16	54::12	67::1
+	token_offsets	sentence	1	offsets	70::5	76::3	80::13	94::2	97::7	105::4	110::9	120::1	122::4	127::3	131::4	136::7	144::3	148::4	153::11	165::12	178::9	188::4	193::1
+	token_offsets	sentence	2	offsets	196::2	199::4	204::3	208::9	218::10	229::1	231::6	238::13	252::1
+	token_offsets	sentence	3	offsets	255::3	259::7	267::4	272::4	277::5	283::4	288::5	294::2	297::6	304::6	311::6	318::1
+	token_offsets	sentence	4	offsets	321::6	328::3	332::6	339::1	341::4	346::3	350::5	356::9	366::3	370::5	376::8	385::10	396::6	403::7	411::1	413::3	417::3	421::4	426::7	434::3	438::17	456::4	461::6	468::9	478::5	484::1
+1	"	"	"	$(	$(	_	_	-1	2	_	--	_	_
+2	co	co	co	ADJA	ADJA	_	_	-1	10	_	MO	_	_
+3	op	op	op	ADJA	ADJA	_	_	-1	2	_	MO	_	_
+4	"	"	"	$(	$(	_	_	-1	3	_	--	_	_
+5	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+6	den	die	die	ART	ART	_	acc|sg|masc	-1	7	_	NK	_	_
+7	Beschäftigten	Beschäftigte	Beschäftigte	NN	NN	_	acc|sg|masc	-1	10	_	DA	_	_
+8	kein	keine	keine	PIAT	PIAT	_	acc|sg|neut	-1	9	_	NK	_	_
+9	Übernahmeangebot	Übernahmeangebot	Übernahmeangebot	NN	NN	_	acc|sg|neut	-1	10	_	OA	_	_
+10	unterbreitet	unterbreiten	unterbreiten	VVPP	VVPP	_	sg|3|pres|ind	-1	5	_	OC	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Unter	unter	unter	APPR	APPR	_	_	-1	7	_	MO	_	_
+2	den	die	die	ART	ART	_	dat|pl|*	-1	3	_	NK	_	_
+3	Beschäftigten	Beschäftigte	Beschäftigte	NN	NN	_	dat|pl|*	-1	1	_	NK	_	_
+4	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	3	_	MNR	_	_
+5	Minimal	Minimal	Minimal	NN	NN	_	dat|sg|neut	-1	4	_	NK	_	_
+6	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+7	gemunkelt	munkeln	munkeln	VVPP	VVPP	_	_	-1	6	_	OC	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	dass	dass	dass	KOUS	KOUS	_	_	-1	18	_	CP	_	_
+10	man	man	man	PIS	PIS	_	nom|sg|*	-1	18	_	SB	_	_
+11	dort	dort	dort	ADV	ADV	_	_	-1	18	_	MO	_	_
+12	künftig	künftig	künftig	ADJD	ADJD	_	pos	-1	18	_	MO	_	_
+13	nur	nur	nur	ADV	ADV	_	_	-1	18	_	MO	_	_
+14	noch	noch	noch	ADV	ADV	_	_	-1	13	_	MO	_	_
+15	geringfügig	geringfügig	geringfügig	ADJD	ADJD	_	pos	-1	17	_	MO	_	_
+16	Beschäftigte	Beschäftigte	Beschäftigte	NN	NN	_	nom|pl|*	-1	17	_	OA	_	_
+17	anstellen	anstellen	anstellen	VVINF	VVINF	_	_	-1	18	_	OC	_	_
+18	will	wollen	wollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	6	_	SB	_	_
+19	.	.	.	$.	$.	_	_	-1	18	_	--	_	_
+
+1	Ob	ob	ob	KOUS	KOUS	_	_	-1	5	_	CP	_	_
+2	dies	dies	dies	PDS	PDS	_	nom|sg|neut	-1	5	_	SB	_	_
+3	den	die	die	ART	ART	_	dat|pl|masc	-1	4	_	NK	_	_
+4	Tatsachen	Tatsache	Tatsache	NN	NN	_	dat|pl|masc	-1	5	_	DA	_	_
+5	entspricht	entsprechen	entsprechen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	7	_	SB	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	bleibt	bleiben	bleiben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+8	dahingestellt	dahinstellen	dahinstellen	VVPP	VVPP	_	_	-1	7	_	PD	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	2	_	NK	_	_
+2	Konzern	Konzern	Konzern	NN	NN	_	nom|sg|masc	-1	3	_	SB	_	_
+3	will	wollen	wollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	11	_	OA	_	_
+5	heute	heute	heute	ADV	ADV	_	_	-1	3	_	MO	_	_
+6	noch	noch	noch	ADV	ADV	_	_	-1	7	_	MO	_	_
+7	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	3	_	NG	_	_
+8	zu	zu	zu	APPR	APPR	_	_	-1	11	_	OP	_	_
+9	seinen	sein	sein	PPOSAT	PPOSAT	_	dat|pl|masc	-1	10	_	NK	_	_
+10	Plänen	Plan	Plan	NN	NN	_	dat|pl|masc	-1	8	_	NK	_	_
+11	äußern	äußern	äußern	VVINF	VVINF	_	_	-1	3	_	OC	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Sicher	sicher	sicher	ADJD	ADJD	_	pos	-1	2	_	PD	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	jedoch	jedoch	jedoch	ADV	ADV	_	_	-1	2	_	MO	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	dass	dass	dass	KOUS	KOUS	_	_	-1	14	_	CP	_	_
+6	bei	bei	bei	APPR	APPR	_	_	-1	12	_	MO	_	_
+7	einer	eine	eine	ART	ART	_	dat|sg|fem	-1	8	_	NK	_	_
+8	Übernahme	Übernahme	Übernahme	NN	NN	_	dat|sg|fem	-1	6	_	NK	_	_
+9	die	die	die	ART	ART	_	acc|pl|neut	-1	11	_	NK	_	_
+10	alten	alt	alt	ADJA	ADJA	_	nom|pl|*|pos	-1	11	_	NK	_	_
+11	Verträge	Vertrag	Vertrag	NN	NN	_	acc|pl|masc	-1	14	_	SB	_	_
+12	übernommen	übernehmen	übernehmen	VVPP	VVPP	_	_	-1	13	_	OC	_	_
+13	werden	werden	werden	VAINF	VAINF	_	_	-1	14	_	OC	_	_
+14	müssten	müssen	müssen	VMFIN	VMFIN	_	pl|3|pres|ind	-1	2	_	MO	_	_
+15	,	,	,	$,	$,	_	_	-1	14	_	--	_	_
+16	und	und	und	KON	KON	_	_	-1	2	_	CD	_	_
+17	der	die	die	ART	ART	_	nom|sg|masc	-1	19	_	NK	_	_
+18	neue	neu	neu	ADJA	ADJA	_	nom|sg|masc|pos	-1	19	_	NK	_	_
+19	Inhaber	Inhaber	Inhaber	NN	NN	_	nom|sg|masc	-1	25	_	SB	_	_
+20	bei	bei	bei	APPR	APPR	_	_	-1	19	_	MNR	_	_
+21	Lohnverhandlungen	Lohnverhandlung	Lohnverhandlung	NN	NN	_	dat|pl|fem	-1	20	_	NK	_	_
+22	dann	dann	dann	ADV	ADV	_	_	-1	25	_	MO	_	_
+23	keinen	keine	keine	PIAT	PIAT	_	acc|sg|masc	-1	24	_	NK	_	_
+24	Spielraum	Spielraum	Spielraum	NN	NN	_	acc|sg|masc	-1	25	_	OA	_	_
+25	hätte	haben	haben	VAFIN	VAFIN	_	sg|3|past|subj	-1	16	_	CJ	_	_
+26	.	.	.	$.	$.	_	_	-1	25	_	--	_	_
+

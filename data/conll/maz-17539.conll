@@ -1,0 +1,196 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::14
+1	Gewissensfrage	Gewissensfrage	Gewissensfrage	NN	NN	_	nom|sg|fem	-1	0	_	--	_	_
+
+	sentence_start	0	116	368
+	token_offsets	sentence	0	offsets	0::8	9::6	16::4	21::3	25::11	37::17	55::4	60::4	65::3	69::5	75::16	92::13	106::6	113::1
+	token_offsets	sentence	1	offsets	116::2	119::5	125::7	133::7	141::3	145::3	149::13	163::4	168::10	179::6	186::3	190::5	196::3	200::3	204::14	219::1	221::4	226::3	230::23	254::3	258::3	262::13	276::2	279::11	291::3	295::3	299::23	323::1	325::13	339::1	341::13	355::2	358::6	365::1
+	token_offsets	sentence	2	offsets	368::4	373::2	376::10	387::4	392::2	395::4	400::11	412::14	427::9	437::1
+1	Schwerer	Schwere	Schwere	NN	NN	_	nom|pl|masc	-1	2	_	SB	_	_
+2	hätten	haben	haben	VAFIN	VAFIN	_	pl|3|past|subj	-1	0	_	--	_	_
+3	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	12	_	OA	_	_
+4	die	die	die	ART	ART	_	nom|pl|masc	-1	5	_	NK	_	_
+5	Güterfelder	Güterfeld	Güterfeld	NN	NN	_	nom|pl|masc	-1	2	_	SB	_	_
+6	Gemeindevertreter	Gemeindevertreter	Gemeindevertreter	NN	NN	_	nom|pl|masc	-1	13	_	SB	_	_
+7	wohl	wohl	wohl	ADV	ADV	_	_	-1	13	_	MO	_	_
+8	kaum	kaum	kaum	ADV	ADV	_	_	-1	13	_	MO	_	_
+9	aus	aus	aus	APPR	APPR	_	_	-1	12	_	MO	_	_
+10	ihrer	ihr	ihr	PPOSAT	PPOSAT	_	dat|sg|fem	-1	11	_	NK	_	_
+11	Eigenständigkeit	Eigenständigkeit	Eigenständigkeit	NN	NN	_	dat|sg|fem	-1	9	_	NK	_	_
+12	verabschieden	verabschieden	verabschieden	VVINF	VVINF	_	_	-1	13	_	OC	_	_
+13	können	können	können	VMINF	VMINF	_	_	-1	2	_	OC	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	In	in	in	APPR	APPR	_	_	-1	10	_	MO	_	_
+2	ihrer	ihr	ihr	PPOSAT	PPOSAT	_	dat|sg|fem	-1	4	_	NK	_	_
+3	letzten	letzt	letzt	ADJA	ADJA	_	dat|sg|fem|pos	-1	4	_	NK	_	_
+4	Sitzung	Sitzung	Sitzung	NN	NN	_	dat|sg|fem	-1	1	_	NK	_	_
+5	vor	vor	vor	APPR	APPR	_	_	-1	4	_	MNR	_	_
+6	der	die	die	ART	ART	_	dat|sg|fem	-1	7	_	NK	_	_
+7	Eingemeindung	Eingemeindung	Eingemeindung	NN	NN	_	dat|sg|fem	-1	5	_	NK	_	_
+8	nach	nach	nach	APPR	APPR	_	_	-1	7	_	MNR	_	_
+9	Stahnsdorf	Stahnsdorf	Stahnsdorf	NN	NN	_	dat|sg|neut	-1	8	_	NK	_	_
+10	stehen	stehen	stehen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+11	sie	sie	sie	PPER	PPER	_	nom|pl|*|3	-1	10	_	SB	_	_
+12	heute	heute	heute	ADV	ADV	_	_	-1	10	_	MO	_	_
+13	vor	vor	vor	APPR	APPR	_	_	-1	10	_	MO	_	_
+14	der	die	die	ART	ART	_	dat|sg|fem	-1	15	_	NK	_	_
+15	Gewissensfrage	Gewissensfrage	Gewissensfrage	NN	NN	_	dat|sg|fem	-1	13	_	NK	_	_
+16	,	,	,	$,	$,	_	_	-1	15	_	--	_	_
+17	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	31	_	OA	_	_
+18	zum	zu	zu	APPRART	APPRART	_	dat|sg|neut	-1	31	_	MO	_	_
+19	Ausgliederungsverfahren	Ausgliederungsverfahren	Ausgliederungsverfahren	NN	NN	_	dat|sg|neut	-1	18	_	NK	_	_
+20	für	für	für	APPR	APPR	_	_	-1	19	_	MNR	_	_
+21	das	die	die	ART	ART	_	acc|sg|neut	-1	22	_	NK	_	_
+22	Gewerbegebiet	Gewerbegebiet	Gewerbegebiet	NN	NN	_	acc|sg|neut	-1	20	_	NK	_	_
+23	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	22	_	MNR	_	_
+24	Priesterweg	Priesterweg	Priesterweg	NN	NN	_	dat|sg|masc	-1	23	_	NK	_	_
+25	aus	aus	aus	APPR	APPR	_	_	-1	24	_	MNR	_	_
+26	dem	die	die	ART	ART	_	dat|sg|neut	-1	27	_	NK	_	_
+27	Landschaftsschutzgebiet	Landschaftsschutzgebiet	Landschaftsschutzgebiet	NN	NN	_	dat|sg|neut	-1	25	_	NK	_	_
+28	"	"	"	$(	$(	_	_	-1	27	_	--	_	_
+29	Parforceheide	Parforceheide	Parforceheide	NN	NN	_	dat|sg|neut	-1	24	_	PAR	_	_
+30	"	"	"	$(	$(	_	_	-1	29	_	--	_	_
+31	positionieren	positionieren	positionieren	VVINF	VVINF	_	_	-1	33	_	OC	_	_
+32	zu	zu	zu	PTKZU	PTKZU	_	_	-1	33	_	PM	_	_
+33	müssen	müssen	müssen	VMINF	VMINF	_	_	-1	15	_	OC	_	_
+34	.	.	.	$.	$.	_	_	-1	33	_	--	_	_
+
+1	Auch	auch	auch	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	in	in	in	APPR	APPR	_	_	-1	4	_	MO	_	_
+3	Güterfelde	Güterfeld	Güterfeld	NN	NN	_	acc|sg|fem	-1	2	_	NK	_	_
+4	gibt	geben	geben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	4	_	EP	_	_
+6	dazu	dazu	dazu	PAV	PAV	_	_	-1	9	_	NK	_	_
+7	bekanntlich	bekanntlich	bekanntlich	ADV	ADV	_	pos	-1	8	_	MO	_	_
+8	gegensätzliche	gegensätzlich	gegensätzlich	ADJA	ADJA	_	acc|pl|fem|pos	-1	9	_	NK	_	_
+9	Meinungen	Meinung	Meinung	NN	NN	_	acc|pl|fem	-1	4	_	OA	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+	sentence_start	0	154	323	673
+	token_offsets	sentence	0	offsets	0::5	6::4	11::2	14::5	20::6	27::2	30::3	34::11	46::1	48::3	52::3	56::6	63::11	75::4	80::3	84::8	93::11	105::4	110::7	118::5	124::6	131::13	145::5	151::1
+	token_offsets	sentence	1	offsets	154::2	157::4	162::4	167::3	171::7	179::3	183::7	191::8	200::2	203::8	212::4	217::1	219::3	223::5	229::19	249::9	259::1	261::4	266::10	277::4	282::5	288::5	294::5	300::9	310::9	320::1
+	token_offsets	sentence	2	offsets	323::5	329::3	333::11	345::12	358::1	360::3	364::3	368::14	383::6	390::5	396::6	403::11	415::4	420::1	422::6	429::3	433::11	445::18	464::3	468::5	474::8	483::12	496::5	502::4	507::4	512::1	513::0	515::3	519::4	524::12	537::6	544::3	548::5	554::4	559::1	561::3	565::5	571::4	576::3	580::9	590::3	594::8	603::2	606::12	619::1	621::5	627::13	641::2	644::5	650::12	663::6	670::1
+	token_offsets	sentence	3	offsets	673::4	678::1	680::2	683::10	694::4	699::9	709::1	711::6	718::17	736::4	741::4	746::5	752::14	767::2	770::7	778::5	784::1
+1	Dabei	dabei	dabei	PAV	PAV	_	_	-1	2	_	NK	_	_
+2	geht	gehen	gehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	EP	_	_
+4	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	5	_	NG	_	_
+5	allein	allein	allein	ADV	ADV	_	_	-1	6	_	MO	_	_
+6	um	um	um	APPR	APPR	_	_	-1	2	_	OP	_	_
+7	den	die	die	ART	ART	_	acc|sg|masc	-1	8	_	NK	_	_
+8	Bauernmarkt	Bauernmarkt	Bauernmarkt	NN	NN	_	acc|sg|masc	-1	6	_	NK	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	mit	mit	mit	APPR	APPR	_	_	-1	22	_	MO	_	_
+11	dem	die	die	PRELS	PRELS	_	dat|sg|masc	-1	10	_	NK	_	_
+12	einige	einige	einige	PIAT	PIAT	_	dat|sg|masc|comp	-1	13	_	NK	_	_
+13	Abgeordnete	Abgeordnete	Abgeordnete	NN	NN	_	dat|sg|masc	-1	23	_	SB	_	_
+14	nach	nach	nach	APPR	APPR	_	_	-1	13	_	MNR	_	_
+15	den	die	die	ART	ART	_	dat|pl|fem	-1	17	_	NK	_	_
+16	jüngsten	jung	jung	ADJA	ADJA	_	dat|pl|fem|sup	-1	17	_	NK	_	_
+17	Ereignissen	Ereignis	Ereignis	NN	NN	_	dat|pl|fem	-1	14	_	NK	_	_
+18	wohl	wohl	wohl	ADV	ADV	_	_	-1	22	_	MO	_	_
+19	sowieso	sowieso	sowieso	ADV	ADV	_	_	-1	22	_	MO	_	_
+20	schon	schon	schon	ADV	ADV	_	_	-1	21	_	MO	_	_
+21	längst	längst	längst	ADV	ADV	_	_	-1	22	_	MO	_	_
+22	abgeschlossen	abschließen	abschließen	VVPP	VVPP	_	_	-1	23	_	OC	_	_
+23	haben	haben	haben	VAFIN	VAFIN	_	pl|3|pres|ind	-1	8	_	RC	_	_
+24	.	.	.	$.	$.	_	_	-1	23	_	--	_	_
+
+1	Es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	SB	_	_
+2	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	auch	auch	auch	ADV	ADV	_	_	-1	5	_	MO	_	_
+4	die	die	die	ART	ART	_	nom|sg|fem	-1	5	_	NK	_	_
+5	Zukunft	Zukunft	Zukunft	NN	NN	_	nom|sg|fem	-1	2	_	SB	_	_
+6	der	die	die	ART	ART	_	gen|sg|fem	-1	8	_	NK	_	_
+7	anderen	andere	andere	PIAT	PIAT	_	gen|sg|fem	-1	8	_	NK	_	_
+8	Betriebe	Betrieb	Betrieb	NN	NN	_	nom|pl|masc	-1	5	_	AG	_	_
+9	zu	zu	zu	PTKZU	PTKZU	_	_	-1	10	_	PM	_	_
+10	bewerten	bewerten	bewerten	VVINF	VVINF	_	_	-1	11	_	OC	_	_
+11	sein	sein	sein	VAINF	VAINF	_	_	-1	2	_	OC	_	_
+12	,	,	,	$,	$,	_	_	-1	11	_	--	_	_
+13	die	die	die	PRELS	PRELS	_	acc|sg|fem	-1	16	_	SB	_	_
+14	keine	keine	keine	PIAT	PIAT	_	acc|sg|fem	-1	15	_	NK	_	_
+15	Nutzungsuntersagung	Nutzungsuntersagung	Nutzungsuntersagung	NN	NN	_	acc|sg|fem	-1	16	_	OA	_	_
+16	erhielten	erhalten	erhalten	VVFIN	VVFIN	_	pl|3|past|ind	-1	5	_	RC	_	_
+17	,	,	,	$,	$,	_	_	-1	16	_	--	_	_
+18	aber	aber	aber	KON	KON	_	_	-1	16	_	CD	_	_
+19	seinerzeit	seinerzeit	seinerzeit	ADV	ADV	_	_	-1	25	_	MO	_	_
+20	auch	auch	auch	ADV	ADV	_	_	-1	25	_	MO	_	_
+21	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	25	_	NG	_	_
+22	durch	durch	durch	APPR	APPR	_	_	-1	25	_	MO	_	_
+23	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	24	_	NK	_	_
+24	Bauantrag	Bauantrag	Bauantrag	NN	NN	_	acc|sg|masc	-1	22	_	NK	_	_
+25	auffielen	auffallen	auffallen	VVFIN	VVFIN	_	pl|3|past|ind	-1	18	_	CJ	_	_
+26	.	.	.	$.	$.	_	_	-1	25	_	--	_	_
+
+1	Trotz	trotz	trotz	APPR	APPR	_	_	-1	15	_	MO	_	_
+2	der	die	die	ART	ART	_	dat|sg|fem	-1	4	_	NK	_	_
+3	rechtlichen	rechtlich	rechtlich	ADJA	ADJA	_	dat|sg|fem|pos	-1	4	_	NK	_	_
+4	Verfehlungen	Verfehlung	Verfehlung	NN	NN	_	dat|sg|fem	-1	1	_	NK	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	die	die	die	PRELS	PRELS	_	nom|sg|fem	-1	13	_	SB	_	_
+7	dem	die	die	ART	ART	_	dat|sg|masc	-1	8	_	NK	_	_
+8	Marktbetreiber	Marktbetreiber	Marktbetreiber	NN	NN	_	dat|sg|masc	-1	12	_	DA	_	_
+9	Jürgen	Jürgen	Jürgen	NE	NE	_	nom|sg|masc	-1	10	_	PNC	_	_
+10	Wache	Wache	Wache	NN	NN	_	nom|sg|masc	-1	8	_	NK	_	_
+11	sicher	sicher	sicher	ADJD	ADJD	_	pos	-1	12	_	MO	_	_
+12	vorzuwerfen	vorwerfen	vorwerfen	VVIZU	VVIZU	_	_	-1	13	_	OC	_	_
+13	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	4	_	RC	_	_
+14	,	,	,	$,	$,	_	_	-1	13	_	--	_	_
+15	sollte	sollen	sollen	VMFIN	VMFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+16	den	die	die	ART	ART	_	acc|sg|masc	-1	17	_	NK	_	_
+17	Güterfelder	Güterfeld	Güterfeld	NN	NN	_	acc|sg|masc	-1	15	_	SB	_	_
+18	Gemeindevertretern	Gemeindevertreter	Gemeindevertreter	NN	NN	_	nom|sg|masc	-1	17	_	NK	_	_
+19	bei	bei	bei	APPR	APPR	_	_	-1	25	_	MO	_	_
+20	ihrer	ihr	ihr	PPOSAT	PPOSAT	_	dat|sg|fem	-1	22	_	NK	_	_
+21	heutigen	heutig	heutig	ADJA	ADJA	_	dat|sg|fem|pos	-1	22	_	NK	_	_
+22	Entscheidung	Entscheidung	Entscheidung	NN	NN	_	dat|sg|fem	-1	19	_	NK	_	_
+23	eines	eine	eine	PIS	PIS	_	gen|sg|masc	-1	24	_	DA	_	_
+24	klar	klar	klar	ADJD	ADJD	_	pos	-1	25	_	PD	_	_
+25	sein	sein	sein	VAINF	VAINF	_	_	-1	15	_	OC	_	_
+26	:	:	:	$.	$.	_	_	-1	25	_	--	_	_
+27	Wer	wer	wer	PWS	PWS	_	nom|sg|masc	-1	33	_	SB	_	_
+28	fest	fest	fest	ADJD	ADJD	_	_	-1	29	_	MO	_	_
+29	entschlossen	entschlossen	entschlossen	ADJD	ADJD	_	pos	-1	33	_	OC	_	_
+30	zurück	zurück	zurück	PTKVZ	PTKVZ	_	_	-1	31	_	MO	_	_
+31	zur	zu	zu	APPRART	APPRART	_	dat|sg|fem	-1	29	_	MO	_	_
+32	Natur	Natur	Natur	NN	NN	_	dat|sg|fem	-1	31	_	NK	_	_
+33	will	wollen	wollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	35	_	SB	_	_
+34	,	,	,	$,	$,	_	_	-1	33	_	--	_	_
+35	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	15	_	CJ	_	_
+36	jetzt	jetzt	jetzt	ADV	ADV	_	_	-1	43	_	MO	_	_
+37	auch	auch	auch	ADV	ADV	_	_	-1	43	_	MO	_	_
+38	das	die	die	ART	ART	_	nom|sg|neut	-1	39	_	NK	_	_
+39	Schicksal	Schicksal	Schicksal	NN	NN	_	nom|sg|neut	-1	43	_	OA	_	_
+40	von	von	von	APPR	APPR	_	_	-1	39	_	PG	_	_
+41	Menschen	Mensch	Mensch	NN	NN	_	dat|pl|masc	-1	40	_	NK	_	_
+42	zu	zu	zu	PTKZU	PTKZU	_	_	-1	43	_	PM	_	_
+43	verantworten	verantworten	verantworten	VVINF	VVINF	_	_	-1	35	_	OC	_	_
+44	,	,	,	$,	$,	_	_	-1	43	_	--	_	_
+45	deren	die	die	PRELAT	PRELAT	_	gen|pl|masc	-1	46	_	AG	_	_
+46	Arbeitsplätze	Arbeitsplatz	Arbeitsplatz	NN	NN	_	acc|pl|masc	-1	50	_	SB	_	_
+47	er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	50	_	SB	_	_
+48	dafür	dafür	dafür	PAV	PAV	_	_	-1	50	_	NK	_	_
+49	gleichzeitig	gleichzeitig	gleichzeitig	ADJD	ADJD	_	pos	-1	50	_	MO	_	_
+50	opfert	opfern	opfern	VVFIN	VVFIN	_	_	-1	41	_	RC	_	_
+51	.	.	.	$.	$.	_	_	-1	50	_	--	_	_
+
+1	Egal	egal	egal	ADJD	ADJD	_	pos	-1	10	_	PD	_	_
+2	,	,	,	$,	$,	_	_	-1	1	_	--	_	_
+3	ob	ob	ob	KOUS	KOUS	_	_	-1	4	_	CP	_	_
+4	öffentlich	öffentlich	öffentlich	ADJD	ADJD	_	pos	-1	1	_	CJ	_	_
+5	oder	oder	oder	KON	KON	_	_	-1	4	_	CD	_	_
+6	insgeheim	insgeheim	insgeheim	ADV	ADV	_	_	-1	9	_	MO	_	_
+7	-	-	-	$(	$(	_	_	-1	6	_	--	_	_
+8	diesem	dies	dies	PDAT	PDAT	_	dat|sg|masc	-1	9	_	NK	_	_
+9	Gewissenskonflikt	Gewissenskonflikt	Gewissenskonflikt	NN	NN	_	dat|sg|masc	-1	5	_	CJ	_	_
+10	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+11	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	15	_	OA	_	_
+12	jeder	jede	jede	PIAT	PIAT	_	nom|sg|masc	-1	13	_	NK	_	_
+13	Volksvertreter	Volksvertreter	Volksvertreter	NN	NN	_	nom|sg|masc	-1	10	_	SB	_	_
+14	zu	zu	zu	PTKZU	PTKZU	_	_	-1	15	_	PM	_	_
+15	stellen	stellen	stellen	VVINF	VVINF	_	_	-1	16	_	OC	_	_
+16	haben	haben	haben	VAFIN	VAFIN	_	pl|3|pres|ind	-1	10	_	OC	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+

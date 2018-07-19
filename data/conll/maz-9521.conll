@@ -1,0 +1,216 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::5	6::2	9::5
+1	Posse	Posse	Posse	NN	NN	_	nom|pl|masc	-1	0	_	--	_	_
+2	um	um	um	APPR	APPR	_	_	-1	1	_	MNR	_	_
+3	Bosse	Boss	Boss	NN	NN	_	acc|pl|neut	-1	2	_	NK	_	_
+
+	sentence_start	0	48	165	215	372	635	764	805
+	token_offsets	sentence	0	offsets	0::7	8::3	12::7	20::3	24::3	28::16	45::1
+	token_offsets	sentence	1	offsets	48::7	56::1	58::4	63::3	67::3	71::17	89::3	93::16	110::7	118::3	122::1	124::3	128::4	133::10	144::11	156::5	162::1
+	token_offsets	sentence	2	offsets	165::8	174::7	182::3	186::3	190::5	196::5	202::3	206::5	212::1
+	token_offsets	sentence	3	offsets	215::14	230::5	236::5	242::3	246::6	253::3	257::3	261::7	269::8	278::6	285::1	287::4	292::2	295::2	298::6	305::4	310::9	320::5	326::14	341::2	344::3	348::5	354::9	364::4	369::1
+	token_offsets	sentence	4	offsets	372::7	380::3	384::5	390::3	394::4	399::4	404::3	408::1	410::5	416::11	428::1	430::3	434::8	443::3	447::8	456::9	466::1	468::5	474::5	480::2	483::6	490::3	494::10	505::8	514::4	519::4	524::1	525::0	527::5	533::4	538::1	540::4	545::3	549::19	569::3	573::3	577::16	594::6	601::7	609::3	613::1	614::0	616::5	622::4	627::4	632::1
+	token_offsets	sentence	5	offsets	635::4	640::1	642::3	646::4	651::5	657::5	663::3	667::6	674::5	680::4	685::7	693::11	705::1	707::3	711::10	722::9	732::1	734::3	738::12	751::7	759::3
+	token_offsets	sentence	6	offsets	764::4	769::8	778::3	782::15	798::3	802::1
+	token_offsets	sentence	7	offsets	805::3	809::5	815::3	819::3	823::8	832::6	839::4	844::6	851::6	858::2	861::17	879::7	887::1	888::0	890::4	895::5	901::7	909::3	913::11	925::4	930::11	942::18	961::1
+1	Kichern	Kichern	Kichern	NN	NN	_	nom|sg|neut	-1	0	_	--	_	_
+2	und	und	und	KON	KON	_	_	-1	1	_	CD	_	_
+3	Prusten	Prusten	Prusten	NN	NN	_	dat|pl|masc	-1	2	_	CJ	_	_
+4	auf	auf	auf	APPR	APPR	_	_	-1	1	_	MNR	_	_
+5	dem	die	die	ART	ART	_	dat|sg|masc	-1	6	_	NK	_	_
+6	Fraktionsgestühl	Fraktionsgestühl	Fraktionsgestühl	NN	NN	_	dat|sg|masc	-1	4	_	NK	_	_
+7	.	.	.	$.	$.	_	_	-1	6	_	--	_	_
+
+1	Zurecht	zurecht	zurecht	PTKVZ	PTKVZ	_	_	-1	12	_	MO	_	_
+2	,	,	,	$,	$,	_	_	-1	1	_	--	_	_
+3	denn	denn	denn	KON	KON	_	_	-1	1	_	CD	_	_
+4	was	was	was	PRELS	PRELS	_	nom|sg|neut	-1	10	_	OA	_	_
+5	der	die	die	ART	ART	_	nom|sg|masc	-1	6	_	NK	_	_
+6	Oberbürgermeister	Oberbürgermeister	Oberbürgermeister	NN	NN	_	nom|sg|masc	-1	10	_	SB	_	_
+7	den	die	die	ART	ART	_	acc|sg|masc	-1	8	_	NK	_	_
+8	Stadtverordneten	Stadtverordnete	Stadtverordnete	NN	NN	_	acc|sg|masc	-1	10	_	OA	_	_
+9	gestern	gestern	gestern	ADV	ADV	_	_	-1	10	_	MO	_	_
+10	bot	bieten	bieten	VVFIN	VVFIN	_	sg|3|past|ind	-1	3	_	CJ	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	war	sein	sein	VAFIN	VAFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+13	eine	eine	eine	ART	ART	_	nom|sg|fem	-1	16	_	NK	_	_
+14	konsequent	konsequent	konsequent	ADJD	ADJD	_	pos	-1	15	_	MO	_	_
+15	inszenierte	inszeniert	inszeniert	ADJA	ADJA	_	nom|sg|fem|pos	-1	16	_	NK	_	_
+16	Posse	Posse	Posse	NN	NN	_	nom|sg|fem	-1	12	_	PD	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
+1	Freilich	freilich	freilich	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	braucht	brauchen	brauchen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	man	man	man	PIS	PIS	_	nom|sg|*	-1	2	_	SB	_	_
+4	für	für	für	APPR	APPR	_	_	-1	2	_	MO	_	_
+5	derbe	derb	derb	ADJA	ADJA	_	acc|sg|fem|pos	-1	6	_	NK	_	_
+6	Späße	Spaß	Spaß	NN	NN	_	acc|sg|fem	-1	4	_	NK	_	_
+7	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	8	_	NK	_	_
+8	Opfer	Opfer	Opfer	NN	NN	_	nom|sg|masc	-1	2	_	OA	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+1	Finanzstadtrat	Finanzstadtrat	Finanzstadtrat	NN	NN	_	nom|sg|masc	-1	3	_	SB	_	_
+2	Bosse	Boss	Boss	NN	NN	_	nom|sg|masc	-1	1	_	NK	_	_
+3	hatte	haben	haben	VAFIN	VAFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+4	vor	vor	vor	APPR	APPR	_	_	-1	10	_	MO	_	_
+5	Wochen	Woche	Woche	NN	NN	_	dat|pl|fem	-1	4	_	NK	_	_
+6	aus	aus	aus	APPR	APPR	_	_	-1	9	_	MO	_	_
+7	der	die	die	ART	ART	_	dat|sg|fem	-1	8	_	NK	_	_
+8	Zeitung	Zeitung	Zeitung	NN	NN	_	dat|sg|fem	-1	6	_	NK	_	_
+9	erfahren	erfahren	erfahren	VVINF	VVINF	_	_	-1	10	_	OC	_	_
+10	müssen	müssen	müssen	VMINF	VMINF	_	_	-1	3	_	OC	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	dass	dass	dass	KOUS	KOUS	_	_	-1	24	_	CP	_	_
+13	er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	24	_	SB	_	_
+14	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	23	_	MO	_	_
+15	Sommer	Sommer	Sommer	NN	NN	_	dat|sg|masc	-1	14	_	NK	_	_
+16	2002	@card@	@card@	CARD	CARD	_	_	-1	15	_	NK	_	_
+17	zugunsten	zugunsten	zugunsten	APPR	APPR	_	_	-1	23	_	MO	_	_
+18	eines	eine	eine	ART	ART	_	gen|sg|masc	-1	19	_	NK	_	_
+19	CDU-Kandidaten	CDU-Kandidat	CDU-Kandidat	NN	NN	_	gen|sg|masc	-1	17	_	NK	_	_
+20	in	in	in	APPR	APPR	_	_	-1	23	_	MO	_	_
+21	die	die	die	ART	ART	_	acc|sg|fem	-1	22	_	NK	_	_
+22	Wüste	Wüste	Wüste	NN	NN	_	acc|sg|fem	-1	20	_	NK	_	_
+23	geschickt	schicken	schicken	VVPP	VVPP	_	_	-1	24	_	OC	_	_
+24	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	10	_	MO	_	_
+25	.	.	.	$.	$.	_	_	-1	24	_	--	_	_
+
+1	Gestern	gestern	gestern	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	nun	nun	nun	ADV	ADV	_	_	-1	3	_	MO	_	_
+3	lobte	loben	loben	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+4	ihn	er	er	PPER	PPER	_	acc|sg|masc|3	-1	3	_	SB	_	_
+5	sein	sein	sein	PPOSAT	PPOSAT	_	nom|sg|masc	-1	6	_	NK	_	_
+6	Chef	Chef	Chef	NN	NN	_	nom|sg|masc	-1	3	_	SB	_	_
+7	als	als	als	KOKOM	KOKOM	_	_	-1	3	_	MO	_	_
+8	"	"	"	$(	$(	_	_	-1	7	_	--	_	_
+9	alten	alt	alt	ADJA	ADJA	_	dat|sg|masc|pos	-1	10	_	NK	_	_
+10	Fahrensmann	Fahrensmann	Fahrensmann	NN	NN	_	dat|sg|masc	-1	7	_	NK	_	_
+11	"	"	"	$(	$(	_	_	-1	10	_	--	_	_
+12	und	und	und	KON	KON	_	_	-1	3	_	CD	_	_
+13	erklärte	erklären	erklären	VVFIN	VVFIN	_	sg|3|past|ind	-1	12	_	CJ	_	_
+14	dem	die	die	ART	ART	_	dat|sg|masc	-1	15	_	NK	_	_
+15	Publikum	Publikum	Publikum	NN	NN	_	dat|sg|masc	-1	13	_	DA	_	_
+16	wortreich	wortreich	wortreich	ADJD	ADJD	_	pos	-1	13	_	MO	_	_
+17	,	,	,	$,	$,	_	_	-1	16	_	--	_	_
+18	warum	warum	warum	PWAV	PWAV	_	_	-1	24	_	MO	_	_
+19	schon	schon	schon	ADV	ADV	_	_	-1	20	_	MO	_	_
+20	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	24	_	MO	_	_
+21	Januar	Januar	Januar	NN	NN	_	dat|sg|masc	-1	20	_	NK	_	_
+22	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	23	_	NK	_	_
+23	Nachfolger	Nachfolger	Nachfolger	NN	NN	_	nom|sg|masc	-1	26	_	SB	_	_
+24	bestellt	bestellen	bestellen	VVPP	VVPP	_	_	-1	25	_	PD	_	_
+25	sein	sein	sein	VAINF	VAINF	_	_	-1	26	_	OC	_	_
+26	muss	müssen	müssen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	13	_	OC	_	_
+27	:	:	:	$.	$.	_	_	-1	26	_	--	_	_
+28	Nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	26	_	NG	_	_
+29	etwa	etwa	etwa	ADV	ADV	_	_	-1	26	_	MO	_	_
+30	,	,	,	$,	$,	_	_	-1	29	_	--	_	_
+31	weil	weil	weil	KOUS	KOUS	_	_	-1	39	_	CP	_	_
+32	die	die	die	ART	ART	_	nom|sg|fem	-1	33	_	NK	_	_
+33	Regierungsabsprache	Regierungsabsprache	Regierungsabsprache	NN	NN	_	nom|sg|fem	-1	39	_	SB	_	_
+34	mit	mit	mit	APPR	APPR	_	_	-1	33	_	MNR	_	_
+35	den	die	die	ART	ART	_	dat|pl|neut	-1	36	_	NK	_	_
+36	Christdemokraten	Christdemokrat	Christdemokrat	NN	NN	_	dat|pl|neut	-1	34	_	NK	_	_
+37	soeben	soeben	soeben	ADV	ADV	_	_	-1	38	_	MO	_	_
+38	perfekt	perfekt	perfekt	ADJD	ADJD	_	pos	-1	39	_	PD	_	_
+39	war	sein	sein	VAFIN	VAFIN	_	sg|3|past|ind	-1	26	_	MO	_	_
+40	;	;	;	$.	$.	_	_	-1	39	_	--	_	_
+41	davon	davon	davon	PAV	PAV	_	_	-1	43	_	NK	_	_
+42	kein	keine	keine	PIAT	PIAT	_	nom|sg|neut	-1	43	_	NK	_	_
+43	Wort	Wort	Wort	NN	NN	_	nom|sg|neut	-1	25	_	PD	_	_
+44	.	.	.	$.	$.	_	_	-1	43	_	--	_	_
+
+1	Nein	nein	nein	PTKANT	PTKANT	_	_	-1	5	_	DM	_	_
+2	,	,	,	$,	$,	_	_	-1	1	_	--	_	_
+3	der	die	die	ART	ART	_	nom|sg|masc	-1	4	_	NK	_	_
+4	Neue	Neue	Neue	NN	NN	_	nom|sg|masc	-1	5	_	SB	_	_
+5	könne	können	können	VMFIN	VMFIN	_	sg|3|pres|subj	-1	0	_	--	_	_
+6	schon	schon	schon	ADV	ADV	_	_	-1	7	_	MO	_	_
+7	mal	mal	mal	ADV	ADV	_	_	-1	5	_	MO	_	_
+8	seinen	sein	sein	PPOSAT	PPOSAT	_	acc|sg|masc	-1	9	_	NK	_	_
+9	Umzug	Umzug	Umzug	NN	NN	_	acc|sg|masc	-1	12	_	OA	_	_
+10	nach	nach	nach	APPR	APPR	_	_	-1	9	_	MNR	_	_
+11	Potsdam	Potsdam	Potsdam	NE	NE	_	dat|sg|neut	-1	10	_	NK	_	_
+12	vorbereiten	vorbereiten	vorbereiten	VVFIN	VVFIN	_	_	-1	5	_	OC	_	_
+13	,	,	,	$,	$,	_	_	-1	12	_	--	_	_
+14	die	die	die	ART	ART	_	acc|pl|*	-1	15	_	NK	_	_
+15	Kinderlein	Kinderlein	Kinderlein	NN	NN	_	acc|pl|*	-1	16	_	OA	_	_
+16	umschulen	umschulen	umschulen	VVINF	VVINF	_	_	-1	12	_	OC	_	_
+17	,	,	,	$,	$,	_	_	-1	16	_	--	_	_
+18	das	die	die	ART	ART	_	acc|sg|neut	-1	19	_	NK	_	_
+19	Aufgabenfeld	Aufgabenfeld	Aufgabenfeld	NN	NN	_	acc|sg|neut	-1	20	_	OA	_	_
+20	ansehen	ansehen	ansehen	VVINF	VVINF	_	_	-1	16	_	CJ	_	_
+21	...	...	...	$.	$.	_	_	-1	20	_	--	_	_
+
+1	Alle	alle	alle	PIS	PIS	_	nom|pl|*	-1	2	_	SB	_	_
+2	spielten	spielen	spielen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	die	die	die	ART	ART	_	acc|sg|fem	-1	4	_	NK	_	_
+4	Stegreifkomödie	Stegreifkomödie	Stegreifkomödie	NN	NN	_	acc|sg|fem	-1	2	_	OA	_	_
+5	mit	mit	mit	PTKVZ	PTKVZ	_	_	-1	2	_	SVP	_	_
+6	.	.	.	$.	$.	_	_	-1	5	_	--	_	_
+
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	2	_	NK	_	_
+2	Preis	Preis	Preis	NN	NN	_	nom|sg|masc	-1	7	_	SB	_	_
+3	für	für	für	APPR	APPR	_	_	-1	2	_	MNR	_	_
+4	die	die	die	ART	ART	_	acc|sg|fem	-1	6	_	NK	_	_
+5	schönste	schön	schön	ADJA	ADJA	_	acc|sg|fem|sup	-1	6	_	NK	_	_
+6	Pointe	Pointe	Pointe	NN	NN	_	acc|sg|fem	-1	3	_	NK	_	_
+7	geht	gehen	gehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+8	wieder	wieder	wieder	ADV	ADV	_	_	-1	7	_	MO	_	_
+9	einmal	einmal	einmal	ADV	ADV	_	_	-1	7	_	MO	_	_
+10	an	an	an	APPR	APPR	_	_	-1	7	_	MO	_	_
+11	CDU-Fraktionschef	CDU-Fraktionschef	CDU-Fraktionschef	NN	NN	_	acc|pl|masc	-1	10	_	NK	_	_
+12	Kapuste	Kapuste	Kapuste	NN	NN	_	acc|pl|masc	-1	16	_	OA	_	_
+13	:	:	:	$.	$.	_	_	-1	12	_	--	_	_
+14	Auch	auch	auch	ADV	ADV	_	_	-1	15	_	MO	_	_
+15	Bosse	Boss	Boss	NN	NN	_	nom|pl|masc	-1	12	_	SB	_	_
+16	bekomme	bekommen	bekommen	VVFIN	VVFIN	_	sg|3|pres|subj	-1	7	_	CJ	_	_
+17	nun	nun	nun	ADV	ADV	_	_	-1	16	_	MO	_	_
+18	schließlich	schließlich	schließlich	ADV	ADV	_	_	-1	16	_	MO	_	_
+19	mehr	mehr	mehr	PIAT	PIAT	_	*|*|*	-1	21	_	NK	_	_
+20	persönliche	persönlich	persönlich	ADJA	ADJA	_	acc|sg|fem|pos	-1	21	_	NK	_	_
+21	Planungssicherheit	Planungssicherheit	Planungssicherheit	NN	NN	_	acc|sg|fem	-1	16	_	OA	_	_
+22	.	.	.	$.	$.	_	_	-1	21	_	--	_	_
+
+	sentence_start	0	41	114
+	token_offsets	sentence	0	offsets	0::3	4::3	8::9	18::7	26::5	32::5	38::1
+	token_offsets	sentence	1	offsets	41::3	45::17	63::7	71::3	75::10	86::6	93::13	107::3	111::1
+	token_offsets	sentence	2	offsets	114::2	117::3	121::3	125::5	131::9	141::8	150::1	151::0	153::8	162::8	171::5	177::3	181::11	193::1	195::13	209::2	212::3	216::7	224::1	226::1
+1	Nur	nur	nur	ADV	ADV	_	_	-1	3	_	MO	_	_
+2	das	die	die	ART	ART	_	nom|sg|neut	-1	3	_	NK	_	_
+3	Opferlamm	Opferlamm	Opferlamm	NN	NN	_	nom|sg|neut	-1	4	_	SB	_	_
+4	schmiss	schmeißen	schmeißen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+5	seine	sein	sein	PPOSAT	PPOSAT	_	acc|sg|fem	-1	6	_	NK	_	_
+6	Rolle	Rolle	Rolle	NN	NN	_	acc|sg|fem	-1	4	_	OA	_	_
+7	.	.	.	$.	$.	_	_	-1	6	_	--	_	_
+
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	2	_	NK	_	_
+2	Noch-Beigeordnete	Noch-Beigeordnete	Noch-Beigeordnete	NN	NN	_	nom|sg|masc	-1	3	_	SB	_	_
+3	reichte	reichen	reichen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+4	das	die	die	ART	ART	_	acc|sg|neut	-1	5	_	NK	_	_
+5	Manuskript	Manuskript	Manuskript	NN	NN	_	acc|sg|neut	-1	3	_	OA	_	_
+6	seiner	sein	sein	PPOSAT	PPOSAT	_	gen|sg|fem	-1	7	_	NK	_	_
+7	Haushaltsrede	Haushaltsrede	Haushaltsrede	NN	NN	_	gen|sg|fem	-1	5	_	AG	_	_
+8	aus	aus	aus	PTKVZ	PTKVZ	_	_	-1	3	_	SVP	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+1	Es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	SB	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	mit	mit	mit	APPR	APPR	_	_	-1	6	_	MO	_	_
+4	einer	eine	eine	ART	ART	_	dat|sg|fem	-1	5	_	NK	_	_
+5	Karikatur	Karikatur	Karikatur	NN	NN	_	dat|sg|fem	-1	3	_	NK	_	_
+6	verziert	verzieren	verzieren	VVPP	VVPP	_	_	-1	2	_	PD	_	_
+7	:	:	:	$.	$.	_	_	-1	6	_	--	_	_
+8	Matthias	Matthias	Matthias	NE	NE	_	gen|sg|*	-1	9	_	AG	_	_
+9	Platzeck	Platzeck	Platzeck	NN	NN	_	dat|sg|masc	-1	10	_	SB	_	_
+10	trägt	tragen	tragen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	2	_	CJ	_	_
+11	das	die	die	ART	ART	_	acc|sg|neut	-1	12	_	NK	_	_
+12	Transparent	Transparent	Transparent	NN	NN	_	acc|sg|neut	-1	10	_	OA	_	_
+13	"	"	"	$(	$(	_	_	-1	12	_	--	_	_
+14	Unverschuldet	unverschuldet	unverschuldet	ADJD	ADJD	_	pos	-1	17	_	MO	_	_
+15	in	in	in	APPR	APPR	_	_	-1	17	_	MO	_	_
+16	Not	Not	Not	NN	NN	_	acc|sg|fem	-1	15	_	NK	_	_
+17	geraten	geraten|raten	geraten|raten	VVPP	VVPP	_	_	-1	10	_	MO	_	_
+18	"	"	"	$(	$(	_	_	-1	17	_	--	_	_
+19	.	.	.	$.	$.	_	_	-1	18	_	--	_	_
+

@@ -1,0 +1,218 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::7	8::6
+1	Falsche	falsch	falsch	ADJA	ADJA	_	nom|pl|masc|pos	-1	2	_	NK	_	_
+2	Bilder	Bild	Bild	NN	NN	_	nom|pl|masc	-1	0	_	--	_	_
+
+	sentence_start	0	202	218	416	494	626
+	token_offsets	sentence	0	offsets	0::3	4::13	18::3	22::10	33::3	37::9	47::4	52::2	55::11	67::1	69::2	72::3	76::6	83::3	87::8	96::3	100::7	108::7	116::13	130::6	137::3	141::1	143::3	147::4	152::3	156::3	160::3	164::9	174::4	179::5	185::4	190::8	199::1
+	token_offsets	sentence	1	offsets	202::2	205::9	215::1
+	token_offsets	sentence	2	offsets	218::3	222::4	227::2	230::3	234::5	240::13	254::9	264::3	268::1	270::3	274::6	281::7	289::1	291::4	296::1	298::11	310::1	312::3	316::1	318::22	341::1	343::3	347::3	351::8	360::10	371::6	378::1	380::8	389::4	394::10	405::7	413::1
+	token_offsets	sentence	3	offsets	416::4	421::3	425::10	436::2	439::7	447::5	453::6	460::7	468::6	475::4	480::10	491::1
+	token_offsets	sentence	4	offsets	494::4	499::10	510::5	516::4	521::3	525::8	534::8	543::11	555::2	558::4	563::4	568::7	576::4	581::3	585::14	600::8	609::13	623::1
+	token_offsets	sentence	5	offsets	626::3	630::4	635::3	639::1	641::3	645::6	652::4	657::4	662::3	666::2	669::13	683::7	691::3
+1	Das	die	die	ART	ART	_	nom|sg|neut	-1	2	_	NK	_	_
+2	Zusammenleben	Zusammenleben	Zusammenleben	NN	NN	_	nom|sg|neut	-1	23	_	SB	_	_
+3	von	von	von	APPR	APPR	_	_	-1	2	_	PG	_	_
+4	Ausländern	Ausländer	Ausländer	NN	NN	_	dat|pl|masc	-1	3	_	NK	_	_
+5	und	und	und	KON	KON	_	_	-1	4	_	CD	_	_
+6	Deutschen	Deutsche	Deutsche	NN	NN	_	dat|pl|*	-1	5	_	CJ	_	_
+7	hier	hier	hier	ADV	ADV	_	_	-1	8	_	MO	_	_
+8	in	in	in	APPR	APPR	_	_	-1	2	_	MNR	_	_
+9	Brandenburg	Brandenburg	Brandenburg	NE	NE	_	dat|sg|neut	-1	8	_	NK	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	wo	wo	wo	PWAV	PWAV	_	_	-1	21	_	MO	_	_
+12	der	die	die	ART	ART	_	nom|sg|masc	-1	13	_	NK	_	_
+13	Anteil	Anteil	Anteil	NN	NN	_	nom|sg|masc	-1	21	_	SB	_	_
+14	der	die	die	ART	ART	_	gen|pl|masc	-1	15	_	NK	_	_
+15	Menschen	Mensch	Mensch	NN	NN	_	gen|pl|masc	-1	13	_	AG	_	_
+16	aus	aus	aus	APPR	APPR	_	_	-1	13	_	MNR	_	_
+17	anderen	andere	andere	PIS	PIS	_	dat|pl|neut|pos	-1	18	_	NK	_	_
+18	Ländern	Land	Land	NN	NN	_	dat|pl|neut	-1	16	_	NK	_	_
+19	verschwindend	verschwindend	verschwindend	ADJD	ADJD	_	pos	-1	20	_	MO	_	_
+20	gering	gering	gering	ADJD	ADJD	_	pos	-1	21	_	PD	_	_
+21	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	9	_	RC	_	_
+22	,	,	,	$,	$,	_	_	-1	21	_	--	_	_
+23	war	sein	sein	VAFIN	VAFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+24	auch	auch	auch	ADV	ADV	_	_	-1	25	_	MO	_	_
+25	vor	vor	vor	APPR	APPR	_	_	-1	29	_	MO	_	_
+26	dem	die	die	ART	ART	_	dat|sg|masc	-1	28	_	NK	_	_
+27	11.	11.	11.	ADJA	ADJA	_	dat|sg|masc|pos	-1	28	_	NK	_	_
+28	September	September	September	NN	NN	_	dat|sg|masc	-1	25	_	NK	_	_
+29	2001	@card@	@card@	ADJA	ADJA	_	dat|sg|masc|pos	-1	23	_	SB	_	_
+30	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	32	_	NG	_	_
+31	ohne	ohne	ohne	APPR	APPR	_	_	-1	23	_	CJ	_	_
+32	Probleme	Problem	Problem	NN	NN	_	acc|pl|neut	-1	31	_	NK	_	_
+33	.	.	.	$.	$.	_	_	-1	32	_	--	_	_
+
+1	Im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	0	_	--	_	_
+2	Gegenteil	Gegenteil	Gegenteil	NN	NN	_	dat|sg|neut	-1	1	_	NK	_	_
+3	.	.	.	$.	$.	_	_	-1	2	_	--	_	_
+
+1	Wer	wer	wer	PWS	PWS	_	nom|sg|masc	-1	8	_	SB	_	_
+2	etwa	etwa	etwa	ADV	ADV	_	_	-1	3	_	MO	_	_
+3	in	in	in	APPR	APPR	_	_	-1	8	_	MO	_	_
+4	den	die	die	ART	ART	_	dat|pl|neut	-1	6	_	NK	_	_
+5	alten	alt	alt	ADJA	ADJA	_	dat|pl|neut|pos	-1	6	_	NK	_	_
+6	Bundesländern	Bundesland	Bundesland	NN	NN	_	dat|pl|neut	-1	3	_	NK	_	_
+7	unterwegs	unterwegs	unterwegs	ADV	ADV	_	_	-1	8	_	MO	_	_
+8	war	sein	sein	VAFIN	VAFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	der	die	die	PRELS	PRELS	_	nom|sg|masc	-1	11	_	SB	_	_
+11	musste	müssen	müssen	VMFIN	VMFIN	_	nom|sg|masc|sup	-1	8	_	CJ	_	_
+12	erleben	erleben	erleben	VVINF	VVINF	_	_	-1	11	_	OC	_	_
+13	,	,	,	$,	$,	_	_	-1	12	_	--	_	_
+14	dass	dass	dass	KOUS	KOUS	_	_	-1	26	_	CP	_	_
+15	"	"	"	$(	$(	_	_	-1	14	_	--	_	_
+16	Brandenburg	Brandenburg	Brandenburg	NE	NE	_	nom|sg|neut	-1	26	_	SB	_	_
+17	"	"	"	$(	$(	_	_	-1	16	_	--	_	_
+18	und	und	und	KON	KON	_	_	-1	16	_	CD	_	_
+19	"	"	"	$(	$(	_	_	-1	18	_	--	_	_
+20	Ausländerfeindlichkeit	Ausländerfeindlichkeit	Ausländerfeindlichkeit	NN	NN	_	nom|sg|fem	-1	18	_	CJ	_	_
+21	"	"	"	$(	$(	_	_	-1	20	_	--	_	_
+22	oft	oft	oft	ADV	ADV	_	_	-1	23	_	MO	_	_
+23	als	als	als	KOKOM	KOKOM	_	_	-1	25	_	MO	_	_
+24	Synonyme	Synonym	Synonym	NN	NN	_	nom|pl|masc	-1	23	_	NK	_	_
+25	betrachtet	betrachten	betrachten	VVPP	VVPP	_	_	-1	26	_	OC	_	_
+26	wurden	werden	werden	VAFIN	VAFIN	_	pl|3|past|ind	-1	12	_	OC	_	_
+27	-	-	-	$(	$(	_	_	-1	26	_	--	_	_
+28	durchaus	durchaus	durchaus	ADV	ADV	_	_	-1	31	_	MO	_	_
+29	kein	keine	keine	PIAT	PIAT	_	nom|sg|masc	-1	31	_	NK	_	_
+30	angenehmer	angenehm	angenehm	ADJA	ADJA	_	nom|sg|masc|pos	-1	31	_	NK	_	_
+31	Zustand	Zustand	Zustand	NN	NN	_	nom|sg|masc	-1	26	_	CJ	_	_
+32	.	.	.	$.	$.	_	_	-1	31	_	--	_	_
+
+1	Nach	nach	nach	APPR	APPR	_	_	-1	11	_	MO	_	_
+2	den	die	die	ART	ART	_	dat|pl|masc	-1	3	_	NK	_	_
+3	Anschlägen	Anschlag	Anschlag	NN	NN	_	dat|pl|masc	-1	1	_	NK	_	_
+4	in	in	in	APPR	APPR	_	_	-1	3	_	MNR	_	_
+5	Amerika	Amerika	Amerika	NE	NE	_	dat|sg|neut	-1	4	_	NK	_	_
+6	wurde	werden	werden	VAFIN	VAFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+7	dieser	dies	dies	PDAT	PDAT	_	nom|sg|masc	-1	8	_	NK	_	_
+8	Zustand	Zustand	Zustand	NN	NN	_	nom|sg|masc	-1	6	_	SB	_	_
+9	leider	leider	leider	ADV	ADV	_	_	-1	11	_	MO	_	_
+10	noch	noch	noch	ADV	ADV	_	_	-1	11	_	MO	_	_
+11	verschärft	verschärfen	verschärfen	VVPP	VVPP	_	_	-1	6	_	OC	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Denn	denn	denn	KON	KON	_	_	-1	3	_	JU	_	_
+2	inzwischen	inzwischen	inzwischen	ADV	ADV	_	_	-1	17	_	MO	_	_
+3	hatte	haben	haben	VAFIN	VAFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+4	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	17	_	OA	_	_
+5	der	die	die	ART	ART	_	nom|sg|masc	-1	7	_	NK	_	_
+6	wachsame	wachsam	wachsam	ADJA	ADJA	_	nom|sg|masc|pos	-1	7	_	NK	_	_
+7	Deutsche	Deutsche	Deutsche	NN	NN	_	nom|sg|masc	-1	3	_	SB	_	_
+8	bekanntlich	bekanntlich	bekanntlich	ADV	ADV	_	_	-1	17	_	MO	_	_
+9	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	17	_	MO	_	_
+10	Kopf	Kopf	Kopf	NN	NN	_	dat|sg|masc	-1	9	_	NK	_	_
+11	sein	sein	sein	PPOSAT	PPOSAT	_	acc|sg|neut	-1	13	_	NK	_	_
+12	eigenes	eigen	eigen	ADJA	ADJA	_	acc|sg|neut|pos	-1	13	_	NK	_	_
+13	Bild	Bild	Bild	NN	NN	_	acc|sg|neut	-1	17	_	OA	_	_
+14	des	die	die	ART	ART	_	gen|sg|masc	-1	16	_	NK	_	_
+15	islamistischen	islamistischen	islamistischen	ADJA	ADJA	_	gen|sg|masc|pos	-1	16	_	NK	_	_
+16	Kämpfers	Kämpfer	Kämpfer	NN	NN	_	gen|sg|masc	-1	13	_	AG	_	_
+17	zurechtgelegt	zurechtlegen	zurechtlegen	VVPP	VVPP	_	_	-1	3	_	OC	_	_
+18	.	.	.	$.	$.	_	_	-1	17	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	2	_	JU	_	_
+2	wehe	wehen	wehen	VVFIN	VVFIN	_	sg|3|pres|subj	-1	0	_	--	_	_
+3	dem	die	die	PDS	PDS	_	dat|sg|neut	-1	2	_	OA	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	der	die	die	PRELS	PRELS	_	nom|sg|masc	-1	12	_	SB	_	_
+6	diesem	dies	dies	PDAT	PDAT	_	dat|sg|neut	-1	7	_	NK	_	_
+7	Bild	Bild	Bild	NN	NN	_	dat|sg|neut	-1	12	_	DA	_	_
+8	auch	auch	auch	ADV	ADV	_	_	-1	12	_	MO	_	_
+9	nur	nur	nur	ADV	ADV	_	_	-1	10	_	MO	_	_
+10	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	12	_	MO	_	_
+11	entferntesten	entfernt	entfernt	ADJA	ADJA	_	dat|sg|masc|sup	-1	10	_	NK	_	_
+12	ähnelte	ähneln	ähneln	VVFIN	VVFIN	_	sg|3|past|ind	-1	3	_	RC	_	_
+13	...	...	...	$.	$.	_	_	-1	12	_	--	_	_
+
+	sentence_start	0	98	205	261	425
+	token_offsets	sentence	0	offsets	0::2	3::6	10::1	12::3	16::3	20::3	24::7	32::2	35::3	39::11	51::12	64::2	67::5	73::14	88::6	95::1
+	token_offsets	sentence	1	offsets	98::2	101::6	108::1	110::3	114::6	121::10	132::9	142::1	144::3	148::3	152::15	168::18	187::6	194::7	202::1
+	token_offsets	sentence	2	offsets	205::3	209::1	211::4	216::10	227::6	234::6	241::11	253::4	258::1
+	token_offsets	sentence	3	offsets	261::3	265::1	267::4	272::15	288::3	292::3	296::15	312::5	318::2	321::12	334::13	348::3	352::3	356::5	362::3	366::13	380::3	384::8	393::3	397::9	407::7	415::6	422::1
+	token_offsets	sentence	4	offsets	425::4	430::3	434::2	437::1	439::3	443::14	458::1	460::6	467::7	475::6	482::2	485::3	489::6	496::14	511::1
+1	Es	Es	Es	NN	NN	_	nom|sg|neut|3	-1	2	_	SB	_	_
+2	schien	scheinen	scheinen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+3	,	,	,	$,	$,	_	_	-1	2	_	--	_	_
+4	als	als	als	KOUS	KOUS	_	_	-1	5	_	CM	_	_
+5	sei	sein	sein	VAFIN	VAFIN	_	sg|3|pres|subj	-1	2	_	OC	_	_
+6	das	die	die	ART	ART	_	nom|sg|neut	-1	7	_	NK	_	_
+7	Bemühen	Bemühen	Bemühen	NN	NN	_	nom|sg|neut	-1	5	_	SB	_	_
+8	um	um	um	APPR	APPR	_	_	-1	14	_	MO	_	_
+9	ein	eine	eine	ART	ART	_	acc|sg|neut	-1	11	_	NK	_	_
+10	friedliches	friedlich	friedlich	ADJA	ADJA	_	acc|sg|neut|pos	-1	11	_	NK	_	_
+11	Miteinandern	Miteinandern	Miteinandern	NN	NN	_	acc|sg|neut	-1	8	_	NK	_	_
+12	um	um	um	APPR	APPR	_	_	-1	14	_	MO	_	_
+13	Jahre	Jahr	Jahr	NN	NN	_	acc|pl|neut	-1	12	_	NK	_	_
+14	zurückgeworfen	zurückwerfen	zurückwerfen	VVPP	VVPP	_	_	-1	15	_	OC	_	_
+15	worden	werden	werden	VAPP	VAPP	_	_	-1	5	_	OC	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+1	Es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	SB	_	_
+2	schien	scheinen	scheinen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+3	,	,	,	$,	$,	_	_	-1	2	_	--	_	_
+4	als	als	als	KOUS	KOUS	_	_	-1	5	_	CM	_	_
+5	hätten	haben	haben	VAFIN	VAFIN	_	pl|3|past|subj	-1	2	_	OC	_	_
+6	diejenigen	diejenigen	diejenigen	PDS	PDS	_	nom|pl|*	-1	5	_	SB	_	_
+7	verspielt	verspielen	verspielen	VVPP	VVPP	_	_	-1	5	_	OC	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	die	die	die	PRELS	PRELS	_	nom|pl|*	-1	14	_	SB	_	_
+10	das	die	die	ART	ART	_	acc|sg|neut	-1	11	_	NK	_	_
+11	Multikulturelle	Multikulturelle	Multikulturelle	NN	NN	_	acc|sg|neut	-1	13	_	OA	_	_
+12	gesellschaftsfähig	gesellschaftsfähig	gesellschaftsfähig	ADJD	ADJD	_	pos	-1	13	_	MO	_	_
+13	machen	machen	machen	VVINF	VVINF	_	_	-1	14	_	OC	_	_
+14	wollten	wollen	wollen	VMFIN	VMFIN	_	pl|3|past|ind	-1	6	_	RC	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+1	Gut	gut	gut	ADJD	ADJD	_	pos	-1	8	_	PD	_	_
+2	,	,	,	$,	$,	_	_	-1	1	_	--	_	_
+3	dass	dass	dass	KOUS	KOUS	_	_	-1	8	_	CP	_	_
+4	inzwischen	inzwischen	inzwischen	ADV	ADV	_	_	-1	7	_	MO	_	_
+5	wieder	wieder	wieder	ADV	ADV	_	_	-1	6	_	MO	_	_
+6	länger	lang	lang	ADJD	ADJD	_	comp	-1	7	_	MO	_	_
+7	nachgedacht	nachdenken	nachdenken	VVPP	VVPP	_	_	-1	8	_	OC	_	_
+8	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+1	Gut	gut	gut	ADJD	ADJD	_	pos	-1	0	_	--	_	_
+2	,	,	,	$,	$,	_	_	-1	1	_	--	_	_
+3	dass	dass	dass	KOUS	KOUS	_	_	-1	22	_	CP	_	_
+4	Veranstaltungen	Veranstaltung	Veranstaltung	NN	NN	_	nom|pl|fem	-1	22	_	SB	_	_
+5	wie	wie	wie	KOKOM	KOKOM	_	_	-1	8	_	CM	_	_
+6	die	die	die	ART	ART	_	nom|sg|fem	-1	8	_	NK	_	_
+7	Interkulturelle	interkulturell	interkulturell	ADJA	ADJA	_	nom|sg|fem|pos	-1	8	_	NK	_	_
+8	Woche	Woche	Woche	NN	NN	_	nom|sg|fem	-1	11	_	MO	_	_
+9	in	in	in	APPR	APPR	_	_	-1	11	_	MO	_	_
+10	Ludwigsfelde	Ludwigsfelde	Ludwigsfelde	NN	NN	_	dat|sg|neut	-1	9	_	NK	_	_
+11	weitergeführt	weiterführen	weiterführen	VVPP	VVPP	_	_	-1	22	_	OC	_	_
+12	und	und	und	KON	KON	_	_	-1	11	_	CD	_	_
+13	als	als	als	KOKOM	KOKOM	_	_	-1	21	_	MO	_	_
+14	Forum	Forum	Forum	NN	NN	_	nom|sg|neut	-1	13	_	NK	_	_
+15	der	die	die	ART	ART	_	gen|sg|fem	-1	16	_	NK	_	_
+16	Verständigung	Verständigung	Verständigung	NN	NN	_	gen|sg|fem	-1	14	_	AG	_	_
+17	für	für	für	APPR	APPR	_	_	-1	16	_	MNR	_	_
+18	Deutsche	Deutsche	Deutsche	NN	NN	_	acc|pl|*	-1	17	_	NK	_	_
+19	und	und	und	KON	KON	_	_	-1	18	_	CD	_	_
+20	Ausländer	Ausländer	Ausländer	NN	NN	_	acc|pl|masc	-1	19	_	CJ	_	_
+21	genutzt	nutzen	nutzen	VVPP	VVPP	_	_	-1	12	_	CJ	_	_
+22	werden	werden	werden	VAINF	VAINF	_	_	-1	1	_	MO	_	_
+23	.	.	.	$.	$.	_	_	-1	22	_	--	_	_
+
+1	Denn	denn	denn	KON	KON	_	_	-1	8	_	JU	_	_
+2	nur	nur	nur	ADV	ADV	_	_	-1	3	_	MO	_	_
+3	so	so	so	ADV	ADV	_	_	-1	14	_	MO	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	mit	mit	mit	APPR	APPR	_	_	-1	14	_	MO	_	_
+6	Beharrlichkeit	Beharrlichkeit	Beharrlichkeit	NN	NN	_	dat|sg|fem	-1	5	_	NK	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	werden	werden	werden	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+9	falsche	falsch	falsch	ADJA	ADJA	_	nom|pl|neut|pos	-1	10	_	NK	_	_
+10	Bilder	Bild	Bild	NN	NN	_	nom|pl|neut	-1	8	_	SB	_	_
+11	in	in	in	APPR	APPR	_	_	-1	14	_	MO	_	_
+12	den	die	die	ART	ART	_	dat|pl|neut	-1	13	_	NK	_	_
+13	Köpfen	Kopf|Köpfen	Kopf|Köpfen	NN	NN	_	dat|pl|neut	-1	11	_	NK	_	_
+14	zurechtgerückt	zurechtrücken	zurechtrücken	VVPP	VVPP	_	_	-1	8	_	OC	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+

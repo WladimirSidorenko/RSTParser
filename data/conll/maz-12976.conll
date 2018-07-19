@@ -1,0 +1,169 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::12
+1	Normal-Krise	Normal-Krise	Normal-Krise	NN	NN	_	nom|sg|fem	-1	0	_	--	_	_
+
+	sentence_start	0	135	302	509	623	748	935
+	token_offsets	sentence	0	offsets	0::14	15::6	22::7	30::3	34::2	37::4	42::7	50::6	57::10	68::13	82::1	83::0	85::3	89::5	95::3	99::3	103::3	107::6	114::3	118::13	132::1
+	token_offsets	sentence	1	offsets	135::2	138::13	152::9	162::3	166::2	169::4	174::4	179::13	193::1	195::3	199::11	211::4	216::5	222::3	226::5	232::1	234::7	242::3	246::4	251::1	253::12	266::1	268::2	271::3	275::15	291::7	299::1
+	token_offsets	sentence	2	offsets	302::4	307::3	311::10	322::5	328::6	335::1	337::2	340::6	347::2	350::7	358::2	361::3	365::3	369::6	376::6	383::3	387::11	399::10	410::12	423::1	425::5	431::3	435::15	451::3	455::3	459::3	463::7	471::11	483::2	486::3	490::15	506::1
+	token_offsets	sentence	3	offsets	509::13	523::7	531::7	539::8	548::4	553::6	560::5	566::6	573::11	585::10	596::5	602::10	613::6	620::1
+	token_offsets	sentence	4	offsets	623::2	626::4	631::5	637::4	642::1	644::4	649::3	653::5	659::13	673::3	677::5	683::7	691::3	695::3	699::3	703::14	718::13	732::6	739::5	745::1
+	token_offsets	sentence	5	offsets	748::3	752::7	760::1	762::3	766::8	775::2	778::6	785::1	787::1	789::3	793::12	806::5	812::4	817::6	824::1	826::3	830::3	834::6	841::17	859::10	870::1	871::0	873::8	882::3	886::5	892::6	899::3	903::8	912::4	917::3	921::6	928::3	932::1
+	token_offsets	sentence	6	offsets	935::10	946::4	951::2	954::6	961::1
+1	Umweltminister	Umweltminister	Umweltminister	NN	NN	_	nom|sg|masc	-1	4	_	SB	_	_
+2	Jürgen	Jürgen	Jürgen	NE	NE	_	nom|sg|masc	-1	3	_	PNC	_	_
+3	Trittin	Trittin	Trittin	NE	NE	_	nom|sg|masc	-1	1	_	NK	_	_
+4	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	es	es	es	PPER	PPER	_	acc|sg|neut|3	-1	10	_	OA	_	_
+6	erst	erst	erst	ADV	ADV	_	_	-1	10	_	MO	_	_
+7	gestern	gestern	gestern	ADV	ADV	_	_	-1	10	_	MO	_	_
+8	wieder	wieder	wieder	ADV	ADV	_	_	-1	10	_	MO	_	_
+9	unumwunden	unumwunden	unumwunden	ADJD	ADJD	_	pos	-1	10	_	MO	_	_
+10	ausgesprochen	aussprechen	aussprechen	VVPP	VVPP	_	_	-1	4	_	OC	_	_
+11	:	:	:	$.	$.	_	_	-1	10	_	--	_	_
+12	Die	die	die	ART	ART	_	nom|sg|fem	-1	13	_	NK	_	_
+13	Krise	Krise	Krise	NN	NN	_	nom|sg|fem	-1	14	_	SB	_	_
+14	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	4	_	CJ	_	_
+15	bei	bei	bei	APPR	APPR	_	_	-1	14	_	MO	_	_
+16	den	die	die	ART	ART	_	dat|pl|fem	-1	17	_	NK	_	_
+17	Grünen	Grüne	Grüne	NN	NN	_	dat|pl|fem	-1	15	_	NK	_	_
+18	der	die	die	ART	ART	_	gen|sg|fem	-1	19	_	NK	_	_
+19	Normalzustand	Normalzustand	Normalzustand	NN	NN	_	gen|sg|fem	-1	17	_	AG	_	_
+20	.	.	.	$.	$.	_	_	-1	19	_	--	_	_
+
+1	So	so	so	ADV	ADV	_	_	-1	3	_	MO	_	_
+2	schonungslose	schonungslos	schonungslos	ADJA	ADJA	_	nom|sg|fem|pos	-1	3	_	NK	_	_
+3	Offenheit	Offenheit	Offenheit	NN	NN	_	nom|sg|fem	-1	4	_	SB	_	_
+4	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	an	an	an	APPR	APPR	_	_	-1	8	_	MO	_	_
+6	sich	sich	sich	PRF	PRF	_	dat|sg|3	-1	5	_	NK	_	_
+7	zwar	zwar	zwar	ADV	ADV	_	_	-1	5	_	MO	_	_
+8	bemerkenswert	bemerkenswert	bemerkenswert	ADJD	ADJD	_	pos	-1	4	_	PD	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	sie	sie	sie	PPER	PPER	_	nom|sg|fem|3	-1	11	_	SB	_	_
+11	beantwortet	beantworten	beantworten	VVFIN	VVFIN	_	sg|3|pres|ind	-1	4	_	CJ	_	_
+12	aber	aber	aber	ADV	ADV	_	_	-1	11	_	MO	_	_
+13	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	11	_	NG	_	_
+14	die	die	die	ART	ART	_	acc|sg|fem	-1	15	_	NK	_	_
+15	Frage	Frage	Frage	NN	NN	_	acc|sg|fem	-1	11	_	OA	_	_
+16	,	,	,	$,	$,	_	_	-1	15	_	--	_	_
+17	weshalb	weshalb	weshalb	PWAV	PWAV	_	_	-1	26	_	MO	_	_
+18	man	man	man	PIS	PIS	_	nom|sg|*	-1	26	_	SB	_	_
+19	eine	eine	eine	ART	ART	_	acc|sg|fem	-1	21	_	NK	_	_
+20	"	"	"	$(	$(	_	_	-1	19	_	--	_	_
+21	Krisenpartei	Krisenpartei	Krisenpartei	NN	NN	_	acc|sg|fem	-1	26	_	OA	_	_
+22	"	"	"	$(	$(	_	acc|sg|fem	-1	21	_	--	_	_
+23	in	in	in	APPR	APPR	_	_	-1	26	_	MO	_	_
+24	der	die	die	ART	ART	_	dat|sg|fem	-1	25	_	NK	_	_
+25	Bundesregierung	Bundesregierung	Bundesregierung	NN	NN	_	dat|sg|fem	-1	23	_	NK	_	_
+26	braucht	brauchen	brauchen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	15	_	OC	_	_
+27	.	.	.	$.	$.	_	_	-1	26	_	--	_	_
+
+1	Wenn	wenn	wenn	KOUS	KOUS	_	_	-1	5	_	CP	_	_
+2	die	die	die	ART	ART	_	nom|pl|*	-1	3	_	NK	_	_
+3	Vorzeichen	Vorzeichen	Vorzeichen	NN	NN	_	nom|pl|*	-1	5	_	SB	_	_
+4	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	5	_	NG	_	_
+5	trügen	trügen	trügen	VVINF	VVINF	_	_	-1	7	_	RE	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	so	so	so	ADV	ADV	_	_	-1	8	_	MO	_	_
+8	könnte	können	können	VMFIN	VMFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+9	in	in	in	APPR	APPR	_	_	-1	8	_	MO	_	_
+10	Rostock	Rostock	Rostock	NE	NE	_	dat|sg|neut	-1	9	_	NK	_	_
+11	in	in	in	APPR	APPR	_	_	-1	19	_	MO	_	_
+12	der	die	die	ART	ART	_	dat|sg|fem	-1	13	_	NK	_	_
+13	Tat	Tat	Tat	NN	NN	_	dat|sg|fem	-1	11	_	NK	_	_
+14	wieder	wieder	wieder	ADV	ADV	_	_	-1	8	_	MO	_	_
+15	einmal	einmal	einmal	ADV	ADV	_	_	-1	8	_	MO	_	_
+16	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	18	_	NK	_	_
+17	klassischer	klassisch	klassisch	ADJA	ADJA	_	nom|sg|masc|pos	-1	18	_	NK	_	_
+18	Kompromiss	Kompromiss	Kompromiss	NN	NN	_	nom|sg|masc	-1	8	_	SB	_	_
+19	herauskommen	herauskommen	herauskommen	VVINF	VVINF	_	_	-1	8	_	OC	_	_
+20	-	-	-	$(	$(	_	_	-1	19	_	--	_	_
+21	gegen	gegen	gegen	APPR	APPR	_	_	-1	18	_	MNR	_	_
+22	den	die	die	ART	ART	_	acc|sg|masc	-1	23	_	NK	_	_
+23	Militär-Einsatz	Militär-Einsatz	Militär-Einsatz	NN	NN	_	acc|sg|masc	-1	21	_	NK	_	_
+24	und	und	und	KON	KON	_	_	-1	21	_	CD	_	_
+25	für	für	für	APPR	APPR	_	_	-1	24	_	CJ	_	_
+26	die	die	die	ART	ART	_	acc|sg|fem	-1	28	_	NK	_	_
+27	weitere	weit	weit	ADJA	ADJA	_	acc|sg|fem|comp	-1	28	_	NK	_	_
+28	Beteiligung	Beteiligung	Beteiligung	NN	NN	_	acc|sg|fem	-1	25	_	NK	_	_
+29	an	an	an	APPR	APPR	_	_	-1	28	_	OP	_	_
+30	der	die	die	ART	ART	_	dat|sg|fem	-1	31	_	NK	_	_
+31	Bundesregierung	Bundesregierung	Bundesregierung	NN	NN	_	dat|sg|fem	-1	29	_	NK	_	_
+32	.	.	.	$.	$.	_	_	-1	31	_	--	_	_
+
+1	Außenminister	Außenminister	Außenminister	NN	NN	_	nom|sg|masc	-1	5	_	SB	_	_
+2	Joschka	Joschka	Joschka	NE	NE	_	nom|sg|masc	-1	3	_	PNC	_	_
+3	Fischer	Fischer	Fischer	NE	NE	_	nom|sg|masc	-1	1	_	NK	_	_
+4	freilich	freilich	freilich	ADV	ADV	_	_	-1	1	_	MO	_	_
+5	darf	dürfen	dürfen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+6	seiner	sein	sein	PPOSAT	PPOSAT	_	dat|sg|fem	-1	7	_	NK	_	_
+7	Basis	Basis	Basis	NN	NN	_	dat|sg|fem	-1	5	_	SB	_	_
+8	solche	solche	solche	PIAT	PIAT	_	acc|pl|fem	-1	10	_	NK	_	_
+9	politischen	politisch	politisch	ADJA	ADJA	_	acc|pl|fem|pos	-1	10	_	NK	_	_
+10	Kindereien	Kinderei	Kinderei	NN	NN	_	acc|pl|fem	-1	12	_	OA	_	_
+11	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	5	_	NG	_	_
+12	durchgehen	durchgehen	durchgehen	VVINF	VVINF	_	_	-1	13	_	OC	_	_
+13	lassen	lassen	lassen	VVINF	VVINF	_	_	-1	5	_	OC	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	SB	_	_
+2	kann	können	können	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	2	_	NG	_	_
+4	sein	sein	sein	VAINF	VAINF	_	_	-1	2	_	OC	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	dass	dass	dass	KOUS	KOUS	_	_	-1	12	_	CP	_	_
+7	die	die	die	ART	ART	_	nom|sg|fem	-1	8	_	NK	_	_
+8	Basis	Basis	Basis	NN	NN	_	nom|sg|fem	-1	12	_	SB	_	_
+9	gewissermaßen	gewissermaßen	gewissermaßen	ADV	ADV	_	_	-1	12	_	MO	_	_
+10	die	die	die	ART	ART	_	nom|sg|fem	-1	11	_	NK	_	_
+11	Moral	Moral	Moral	NN	NN	_	nom|sg|fem	-1	12	_	OA	_	_
+12	pachtet	pachten	pachten	VVFIN	VVFIN	_	sg|3|pres|ind	-1	2	_	MO	_	_
+13	und	und	und	KON	KON	_	_	-1	12	_	CD	_	_
+14	ihn	er	er	PPER	PPER	_	acc|sg|masc|3	-1	19	_	OA	_	_
+15	die	die	die	ART	ART	_	acc|sg|fem	-1	17	_	NK	_	_
+16	realpolitische	realpolitisch	realpolitisch	ADJA	ADJA	_	acc|sg|fem|pos	-1	17	_	NK	_	_
+17	Schmutzarbeit	Schmutzarbeit	Schmutzarbeit	NN	NN	_	acc|sg|fem	-1	18	_	OA	_	_
+18	machen	machen	machen	VVINF	VVINF	_	_	-1	19	_	OC	_	_
+19	lässt	lassen	lassen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	13	_	CJ	_	_
+20	.	.	.	$.	$.	_	_	-1	19	_	--	_	_
+
+1	Den	die	die	ART	ART	_	acc|sg|masc	-1	2	_	NK	_	_
+2	Einsatz	Einsatz	Einsatz	NN	NN	_	acc|sg|masc	-1	7	_	OA	_	_
+3	"	"	"	$(	$(	_	_	-1	2	_	--	_	_
+4	zur	zu	zu	APPRART	APPRART	_	dat|sg|fem	-1	7	_	CVC	_	_
+5	Kenntnis	Kenntnis	Kenntnis	NN	NN	_	dat|sg|fem	-1	4	_	NK	_	_
+6	zu	zu	zu	PTKZU	PTKZU	_	_	-1	7	_	PM	_	_
+7	nehmen	nehmen	nehmen	VVINF	VVINF	_	_	-1	16	_	SB	_	_
+8	"	"	"	$(	$(	_	_	-1	7	_	--	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	wie	wie	wie	KOUS	KOUS	_	_	-1	14	_	CP	_	_
+11	Brandenburgs	Brandenburg	Brandenburg	NE	NE	_	gen|sg|neut	-1	12	_	AG	_	_
+12	Grüne	Grüne	Grüne	NN	NN	_	nom|pl|*	-1	14	_	SB	_	_
+13	dies	dies	dies	PDS	PDS	_	acc|sg|neut	-1	12	_	OA	_	_
+14	wollen	wollen	wollen	VMINF	VMINF	_	pl|3|pres|ind	-1	7	_	MO	_	_
+15	,	,	,	$,	$,	_	_	-1	14	_	--	_	_
+16	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+17	der	die	die	ART	ART	_	nom|sg|masc	-1	18	_	NK	_	_
+18	Gipfel	Gipfel	Gipfel	NN	NN	_	nom|sg|masc	-1	16	_	PD	_	_
+19	parteipolitischer	parteipolitisch	parteipolitisch	ADJA	ADJA	_	gen|sg|fem|pos	-1	20	_	NK	_	_
+20	Bigotterie	Bigotterie	Bigotterie	NN	NN	_	gen|sg|fem	-1	18	_	AG	_	_
+21	:	:	:	$.	$.	_	_	-1	20	_	--	_	_
+22	Entweder	entweder	entweder	KON	KON	_	_	-1	25	_	CD	_	_
+23	die	die	die	ART	ART	_	nom|sg|fem	-1	24	_	NK	_	_
+24	Basis	Basis	Basis	NN	NN	_	nom|sg|fem	-1	25	_	SB	_	_
+25	stützt	stützen	stützen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	16	_	PD	_	_
+26	den	die	die	ART	ART	_	acc|sg|masc	-1	27	_	NK	_	_
+27	Minister	Minister	Minister	NN	NN	_	acc|sg|masc	-1	25	_	OA	_	_
+28	oder	oder	oder	KON	KON	_	_	-1	25	_	CD	_	_
+29	sie	sie	sie	PPER	PPER	_	nom|sg|fem|3	-1	30	_	SB	_	_
+30	stürzt	stürzen	stürzen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	28	_	CJ	_	_
+31	ihn	er	er	PPER	PPER	_	acc|sg|masc|3	-1	30	_	OA	_	_
+32	.	.	.	$.	$.	_	_	-1	31	_	--	_	_
+
+1	Dazwischen	dazwischen	dazwischen	PAV	PAV	_	_	-1	4	_	NK	_	_
+2	gibt	geben	geben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	EP	_	_
+4	nichts	nichts	nichts	PIS	PIS	_	*|*|neut	-1	2	_	OA	_	_
+5	.	.	.	$.	$.	_	_	-1	4	_	--	_	_
+

@@ -1,0 +1,178 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::3	4::10
+1	Das	die	die	ART	ART	_	nom|sg|neut	-1	2	_	NK	_	_
+2	Büchergeld	Büchergeld	Büchergeld	NN	NN	_	nom|sg|neut	-1	0	_	--	_	_
+
+	sentence_start	0	163	199	260	401	453	561	653	692	796
+	token_offsets	sentence	0	offsets	0::3	4::7	12::3	16::5	22::3	26::1	28::6	35::10	46::4	51::4	56::9	66::11	78::1	80::8	89::7	97::4	102::5	108::6	115::3	119::16	136::8	145::15	161::1
+	token_offsets	sentence	1	offsets	163::8	172::6	179::4	184::3	188::8	197::1
+	token_offsets	sentence	2	offsets	199::4	204::6	211::6	218::6	225::12	238::7	246::4	251::3	255::2	258::1
+	token_offsets	sentence	3	offsets	260::3	264::5	270::6	277::4	282::3	286::5	292::4	297::4	302::17	320::12	333::1	335::3	339::7	347::6	354::4	359::9	369::6	376::2	379::8	388::10	399::1
+	token_offsets	sentence	4	offsets	401::5	407::4	412::2	415::5	421::3	425::3	429::3	433::17	451::1
+	token_offsets	sentence	5	offsets	453::4	458::2	461::6	468::5	474::13	488::4	493::4	498::5	504::3	508::18	527::1	529::6	536::6	543::6	550::8	559::1
+	token_offsets	sentence	6	offsets	561::3	565::5	571::5	577::3	581::4	586::1	588::6	595::4	600::4	605::3	609::3	613::6	620::10	631::8	640::10	651::1
+	token_offsets	sentence	7	offsets	653::4	658::4	663::11	675::4	680::9	690::1
+	token_offsets	sentence	8	offsets	692::4	697::5	703::4	708::8	717::10	728::9	738::1	740::4	745::3	749::11	761::19	781::3	785::8	794::1
+	token_offsets	sentence	9	offsets	796::7	804::3	808::4	813::3	817::15	833::7	841::1	843::2	846::4	851::5	857::4	862::1	864::4	869::3	873::5	879::14	894::3	898::20	919::4	924::15	940::4	945::6	952::7	960::1	962::4	967::2	970::3	974::16	991::7	999::4	1004::1
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Litanei	Litanei	Litanei	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+3	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	3	_	NG	_	_
+5	neu	neu	neu	ADJD	ADJD	_	pos	-1	3	_	PD	_	_
+6	:	:	:	$.	$.	_	_	-1	5	_	--	_	_
+7	Eltern	Eltern	Eltern	NN	NN	_	nom|pl|*	-1	8	_	SB	_	_
+8	beschweren	beschweren	beschweren	VVFIN	VVFIN	_	pl|3|pres|ind	-1	3	_	CJ	_	_
+9	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	8	_	OA	_	_
+10	über	über	über	APPR	APPR	_	_	-1	8	_	OP	_	_
+11	veraltete	veraltet	veraltet	ADJA	ADJA	_	acc|pl|neut|pos	-1	12	_	NK	_	_
+12	Schulbücher	Schulbuch	Schulbuch	NN	NN	_	acc|pl|neut	-1	10	_	NK	_	_
+13	,	,	,	$,	$,	_	_	-1	12	_	--	_	_
+14	Kommunen	Kommune	Kommune	NN	NN	_	acc|sg|neut	-1	15	_	OA	_	_
+15	jammern	jammern	jammern	VVFIN	VVFIN	_	_	-1	21	_	OC	_	_
+16	über	über	über	APPR	APPR	_	_	-1	15	_	OP	_	_
+17	leere	leer	leer	ADJA	ADJA	_	acc|pl|fem|pos	-1	18	_	NK	_	_
+18	Kassen	Kasse	Kasse	NN	NN	_	acc|pl|fem	-1	16	_	NK	_	_
+19	und	und	und	KON	KON	_	_	-1	18	_	CD	_	_
+20	Schulbuchverlage	Schulbuchverlag	Schulbuchverlag	NN	NN	_	acc|sg|fem	-1	19	_	CJ	_	_
+21	beklagen	beklagen	beklagen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	8	_	CJ	_	_
+22	Umsatzeinbrüche	Umsatzeinbruch	Umsatzeinbruch	NN	NN	_	acc|pl|masc	-1	21	_	OA	_	_
+23	.	.	.	$.	$.	_	_	-1	22	_	--	_	_
+
+1	Trommeln	Trommel|Trommeln	Trommel|Trommeln	NN	NN	_	nom|sg|neut	-1	2	_	SB	_	_
+2	gehört	gehören	gehören	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	halt	halt	halt	ADV	ADV	_	_	-1	2	_	MO	_	_
+4	zum	zu	zu	APPRART	APPRART	_	dat|sg|masc	-1	2	_	OP	_	_
+5	Geschäft	Geschäft	Geschäft	NN	NN	_	dat|sg|masc	-1	4	_	NK	_	_
+6	.	.	.	$.	$.	_	_	-1	5	_	--	_	_
+
+1	Doch	doch	doch	KON	KON	_	_	-1	4	_	JU	_	_
+2	unterm	unterm	unterm	APPRART	APPRART	_	dat|sg|masc	-1	4	_	MO	_	_
+3	Strich	Strich	Strich	NN	NN	_	dat|sg|masc	-1	2	_	NK	_	_
+4	stehen	stehen	stehen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+5	Brandenburgs	Brandenburg	Brandenburg	NE	NE	_	gen|sg|neut	-1	6	_	AG	_	_
+6	Schulen	Schule	Schule	NN	NN	_	dat|pl|fem	-1	4	_	SB	_	_
+7	ganz	ganz	ganz	ADV	ADV	_	_	-1	8	_	MO	_	_
+8	gut	gut	gut	ADJD	ADJD	_	pos	-1	4	_	MO	_	_
+9	da	da	da	PTKVZ	PTKVZ	_	_	-1	4	_	SVP	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+1	Zum	zu	zu	APPRART	APPRART	_	dat|sg|neut	-1	10	_	MO	_	_
+2	einen	eine	eine	PIS	PIS	_	dat|sg|neut	-1	1	_	NK	_	_
+3	wurden	werden	werden	VAFIN	VAFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+4	nach	nach	nach	APPR	APPR	_	_	-1	10	_	MO	_	_
+5	der	die	die	ART	ART	_	dat|sg|fem	-1	6	_	NK	_	_
+6	Wende	Wende	Wende	NN	NN	_	dat|sg|fem	-1	4	_	NK	_	_
+7	fast	fast	fast	ADV	ADV	_	_	-1	8	_	MO	_	_
+8	alle	alle	alle	PIAT	PIAT	_	acc|pl|neut	-1	9	_	NK	_	_
+9	Schulbuchbestände	Schulbuchbestände	Schulbuchbestände	NN	NN	_	acc|pl|neut	-1	3	_	SB	_	_
+10	ausgetauscht	austauschen	austauschen	VVPP	VVPP	_	_	-1	3	_	OC	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	zum	zu	zu	APPRART	APPRART	_	dat|sg|neut	-1	14	_	MO	_	_
+13	anderen	andere	andere	PIS	PIS	_	dat|sg|neut	-1	12	_	NK	_	_
+14	müssen	müssen	müssen	VMFIN	VMFIN	_	pl|3|pres|ind	-1	3	_	CJ	_	_
+15	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	20	_	OA	_	_
+16	märkische	märkisch	märkisch	ADJA	ADJA	_	nom|pl|masc|pos	-1	17	_	NK	_	_
+17	Eltern	Eltern	Eltern	NN	NN	_	nom|pl|*	-1	14	_	SB	_	_
+18	am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	20	_	OP	_	_
+19	Buchkauf	Buchkauf	Buchkauf	NN	NN	_	dat|sg|masc	-1	18	_	NK	_	_
+20	beteiligen	beteiligen	beteiligen	VVINF	VVINF	_	_	-1	14	_	OC	_	_
+21	.	.	.	$.	$.	_	_	-1	20	_	--	_	_
+
+1	Dafür	dafür	dafür	PAV	PAV	_	_	-1	5	_	NK	_	_
+2	gibt	geben	geben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	EP	_	_
+4	sogar	sogar	sogar	ADV	ADV	_	_	-1	2	_	MO	_	_
+5	Lob	Lob	Lob	NN	NN	_	acc|sg|neut	-1	2	_	OA	_	_
+6	von	von	von	APPR	APPR	_	_	-1	5	_	MNR	_	_
+7	den	die	die	ART	ART	_	dat|pl|fem	-1	8	_	NK	_	_
+8	Schulbuchverlagen	Schulbuchverlag	Schulbuchverlag	NN	NN	_	dat|pl|fem	-1	6	_	NK	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+1	Denn	denn	denn	KON	KON	_	_	-1	6	_	JU	_	_
+2	in	in	in	APPR	APPR	_	_	-1	6	_	MO	_	_
+3	vielen	viele	viele	PIAT	PIAT	_	dat|pl|neut	-1	5	_	NK	_	_
+4	alten	alt	alt	ADJA	ADJA	_	dat|pl|neut|pos	-1	5	_	NK	_	_
+5	Bundesländern	Bundesland	Bundesland	NN	NN	_	dat|pl|neut	-1	2	_	NK	_	_
+6	gilt	gelten	gelten	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+7	noch	noch	noch	ADV	ADV	_	_	-1	6	_	MO	_	_
+8	immer	immer	immer	ADV	ADV	_	_	-1	7	_	MO	_	_
+9	die	die	die	ART	ART	_	acc|sg|fem	-1	10	_	NK	_	_
+10	Lernmittelfreiheit	Lernmittelfreiheit	Lernmittelfreiheit	NN	NN	_	acc|sg|fem	-1	6	_	SB	_	_
+11	:	:	:	$.	$.	_	_	-1	10	_	--	_	_
+12	Eltern	Eltern	Eltern	NN	NN	_	nom|pl|*	-1	13	_	SB	_	_
+13	müssen	müssen	müssen	VMFIN	VMFIN	_	pl|3|pres|ind	-1	6	_	CJ	_	_
+14	nichts	nichts	nichts	PIS	PIS	_	*|*|neut	-1	15	_	OA	_	_
+15	zuzahlen	zuzahlen	zuzahlen	VVINF	VVINF	_	_	-1	13	_	OC	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	2	_	NK	_	_
+2	Preis	Preis	Preis	NN	NN	_	nom|sg|masc	-1	4	_	SB	_	_
+3	dafür	dafür	dafür	PAV	PAV	_	_	-1	2	_	NK	_	_
+4	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	hoch	hoch	hoch	ADJD	ADJD	_	pos	-1	4	_	PD	_	_
+6	-	-	-	$(	$(	_	_	-1	5	_	--	_	_
+7	gerade	gerade	gerade	ADV	ADV	_	_	-1	8	_	MO	_	_
+8	dort	dort	dort	ADV	ADV	_	_	-1	15	_	MO	_	_
+9	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	4	_	CJ	_	_
+10	oft	oft	oft	ADV	ADV	_	_	-1	15	_	MO	_	_
+11	mit	mit	mit	APPR	APPR	_	_	-1	15	_	MO	_	_
+12	völlig	völlig	völlig	ADJD	ADJD	_	pos	-1	13	_	MO	_	_
+13	veraltetem	veraltet	veraltet	ADJA	ADJA	_	dat|sg|neut|pos	-1	14	_	NK	_	_
+14	Material	Material	Material	NN	NN	_	dat|sg|neut	-1	11	_	NK	_	_
+15	gearbeitet	arbeiten	arbeiten	VVPP	VVPP	_	_	-1	9	_	OC	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+1	Doch	doch	doch	KON	KON	_	_	-1	4	_	JU	_	_
+2	auch	auch	auch	ADV	ADV	_	_	-1	3	_	MO	_	_
+3	Brandenburg	Brandenburg	Brandenburg	NE	NE	_	nom|sg|neut	-1	4	_	SB	_	_
+4	muss	müssen	müssen	VMFIN	VMFIN	_	_	-1	0	_	--	_	_
+5	aufpassen	aufpassen	aufpassen	VVINF	VVINF	_	_	-1	4	_	OC	_	_
+6	.	.	.	$.	$.	_	_	-1	5	_	--	_	_
+
+1	Wenn	wenn	wenn	KOUS	KOUS	_	_	-1	6	_	CP	_	_
+2	immer	immer	immer	ADV	ADV	_	_	-1	3	_	MO	_	_
+3	mehr	mehr	mehr	PIAT	PIAT	_	*|*|*	-1	4	_	NK	_	_
+4	Kommunen	Kommune	Kommune	NN	NN	_	nom|pl|fem	-1	6	_	OA	_	_
+5	finanziell	finanziell	finanziell	ADJD	ADJD	_	pos	-1	6	_	MO	_	_
+6	ausbluten	ausbluten	ausbluten	VVINF	VVINF	_	pl|3|pres|ind	-1	8	_	MO	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+9	die	die	die	ART	ART	_	nom|sg|fem	-1	11	_	NK	_	_
+10	regelmäßige	regelmäßig	regelmäßig	ADJA	ADJA	_	nom|sg|fem|pos	-1	11	_	NK	_	_
+11	Schulbucherneuerung	Schulbucherneuerung	Schulbucherneuerung	NN	NN	_	nom|sg|fem	-1	8	_	SB	_	_
+12	zur	zu	zu	APPRART	APPRART	_	dat|sg|fem	-1	8	_	MO	_	_
+13	Illusion	Illusion	Illusion	NN	NN	_	dat|sg|fem	-1	12	_	NK	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Deshalb	deshalb	deshalb	PAV	PAV	_	_	-1	21	_	NK	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	auch	auch	auch	ADV	ADV	_	_	-1	5	_	MO	_	_
+4	die	die	die	ART	ART	_	nom|sg|fem	-1	5	_	NK	_	_
+5	Landesregierung	Landesregierung	Landesregierung	NN	NN	_	nom|sg|fem	-1	2	_	SB	_	_
+6	gefragt	fragen	fragen	VVPP	VVPP	_	_	-1	11	_	PD	_	_
+7	:	:	:	$.	$.	_	_	-1	6	_	--	_	_
+8	Es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	9	_	SB	_	_
+9	kann	können	können	VMFIN	VMFIN	_	sg|3|pres|ind	-1	2	_	CJ	_	_
+10	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	9	_	NG	_	_
+11	sein	sein	sein	VAINF	VAINF	_	_	-1	9	_	OC	_	_
+12	,	,	,	$,	$,	_	_	-1	11	_	--	_	_
+13	dass	dass	dass	KOUS	KOUS	_	_	-1	30	_	CP	_	_
+14	für	für	für	APPR	APPR	_	_	-1	23	_	MO	_	_
+15	teure	teuer	teuer	ADJA	ADJA	_	acc|pl|masc|pos	-1	16	_	NK	_	_
+16	Modellprojekte	Modellprojekt	Modellprojekt	NN	NN	_	acc|pl|masc	-1	14	_	NK	_	_
+17	wie	wie	wie	KOKOM	KOKOM	_	_	-1	18	_	CM	_	_
+18	Schnellläuferklassen	Schnellläuferklassen	Schnellläuferklassen	NN	NN	_	acc|pl|fem	-1	16	_	CC	_	_
+19	oder	oder	oder	KON	KON	_	_	-1	18	_	CD	_	_
+20	Ganztagsschulen	Ganztagsschule	Ganztagsschule	NN	NN	_	acc|sg|neut	-1	19	_	CJ	_	_
+21	Geld	Geld	Geld	NN	NN	_	acc|sg|neut	-1	30	_	SB	_	_
+22	locker	locker	locker	ADJD	ADJD	_	comp	-1	23	_	MO	_	_
+23	gemacht	machen	machen	VVPP	VVPP	_	_	-1	30	_	OC	_	_
+24	,	,	,	$,	$,	_	_	-1	23	_	--	_	_
+25	aber	aber	aber	ADV	ADV	_	_	-1	29	_	MO	_	_
+26	an	an	an	APPR	APPR	_	_	-1	29	_	MO	_	_
+27	der	die	die	ART	ART	_	dat|sg|fem	-1	28	_	NK	_	_
+28	Grundausstattung	Grundausstattung	Grundausstattung	NN	NN	_	dat|sg|fem	-1	26	_	NK	_	_
+29	gespart	sparen	sparen	VVPP	VVPP	_	_	-1	23	_	CJ	_	_
+30	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	9	_	MO	_	_
+31	.	.	.	$.	$.	_	_	-1	30	_	--	_	_
+

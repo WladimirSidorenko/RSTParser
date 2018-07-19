@@ -1,0 +1,192 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::2	3::4	8::7
+1	Zu	zu	zu	PTKA	PTKA	_	_	-1	2	_	MO	_	_
+2	kurz	kurz	kurz	ADJD	ADJD	_	pos	-1	3	_	MO	_	_
+3	gedacht	denken|gedenken	denken|gedenken	VVPP	VVPP	_	_	-1	0	_	--	_	_
+
+	sentence_start	0	100	254	314	352	461	603	692	873	947
+	token_offsets	sentence	0	offsets	0::4	5::3	9::3	13::2	16::1	17::0	19::8	28::2	31::6	38::5	44::6	51::2	54::5	60::2	63::6	70::13	84::12	97::1
+	token_offsets	sentence	1	offsets	100::3	104::12	117::6	124::9	134::3	138::3	142::6	149::5	155::9	165::7	173::3	177::10	188::3	192::5	198::8	207::7	215::4	220::3	224::7	232::10	243::7	251::1
+	token_offsets	sentence	2	offsets	254::3	258::10	269::9	279::6	286::3	290::4	295::9	305::5	311::1
+	token_offsets	sentence	3	offsets	314::3	318::3	322::6	329::7	337::3	341::7	349::1
+	token_offsets	sentence	4	offsets	352::2	355::7	363::4	368::3	372::13	386::1	388::5	394::6	401::3	405::5	411::8	420::6	427::3	431::6	438::3	442::5	448::9	458::1
+	token_offsets	sentence	5	offsets	461::3	465::11	477::1	479::4	484::3	488::15	504::6	511::4	516::3	520::2	523::3	527::5	533::2	536::6	543::6	550::5	556::11	568::3	572::7	580::11	592::7	600::1
+	token_offsets	sentence	6	offsets	603::3	607::6	614::12	627::6	634::7	642::14	657::1	659::3	663::7	671::4	676::6	683::5	689::1
+	token_offsets	sentence	7	offsets	692::3	696::3	700::4	705::3	709::7	717::6	724::12	737::4	742::7	750::1	752::8	761::4	766::10	777::6	784::1	786::2	789::3	793::3	797::7	805::6	812::3	816::5	822::1	824::13	838::1	840::6	847::8	856::2	859::4	864::5	870::1
+	token_offsets	sentence	8	offsets	873::3	877::7	885::4	890::9	900::12	913::1	915::5	921::3	925::11	937::6	944::1
+	token_offsets	sentence	9	offsets	947::2	950::4	955::6	962::1	964::4	969::5	975::13	989::12	1002::3	1006::2	1009::9	1019::6	1026::8	1035::4	1040::1
+1	Auch	auch	auch	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	das	die	die	PDS	PDS	_	acc|sg|neut	-1	3	_	OA	_	_
+3	gab	geben	geben	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+4	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	3	_	EP	_	_
+5	:	:	:	$.	$.	_	_	-1	4	_	--	_	_
+6	Johannes	Johannes	Johannes	NE	NE	_	nom|sg|masc	-1	8	_	PNC	_	_
+7	B.	B.	B.	NE	NE	_	nom|sg|masc	-1	8	_	PNC	_	_
+8	Kerner	Kerner	Kerner	NE	NE	_	nom|sg|masc	-1	9	_	SB	_	_
+9	hatte	haben	haben	VAFIN	VAFIN	_	sg|3|past|ind	-1	3	_	MO	_	_
+10	nichts	nichts	nichts	PIS	PIS	_	*|*|neut	-1	9	_	SB	_	_
+11	zu	zu	zu	PTKZU	PTKZU	_	_	-1	12	_	PM	_	_
+12	sagen	sagen	sagen	VVINF	VVINF	_	_	-1	9	_	OC	_	_
+13	in	in	in	APPR	APPR	_	_	-1	12	_	MO	_	_
+14	seiner	sein	sein	PPOSAT	PPOSAT	_	dat|sg|fem	-1	16	_	NK	_	_
+15	gleichnamigen	gleichnamig	gleichnamig	ADJA	ADJA	_	dat|sg|fem|pos	-1	16	_	NK	_	_
+16	ZDF-Talkshow	ZDF-Talkshow	ZDF-Talkshow	NN	NN	_	dat|sg|fem	-1	13	_	NK	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	4	_	NK	_	_
+2	emanzipierte	emanzipiert	emanzipiert	ADJA	ADJA	_	nom|sg|fem|pos	-1	4	_	NK	_	_
+3	Verona	Verona	Verona	NE	NE	_	nom|sg|fem	-1	4	_	PNC	_	_
+4	Feldbusch	Feldbusch	Feldbusch	NE	NE	_	nom|sg|fem	-1	10	_	SB	_	_
+5	und	und	und	KON	KON	_	_	-1	4	_	CD	_	_
+6	die	die	die	ART	ART	_	nom|sg|fem	-1	7	_	NK	_	_
+7	Emanze	Emanze	Emanze	NN	NN	_	nom|sg|fem	-1	5	_	CJ	_	_
+8	Alice	Alice	Alice	NE	NE	_	nom|sg|fem	-1	9	_	PNC	_	_
+9	Schwarzer	Schwarze	Schwarze	NN	NN	_	nom|sg|fem	-1	7	_	NK	_	_
+10	machten	machen	machen	VVFIN	VVFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+11	den	die	die	ART	ART	_	acc|sg|masc	-1	12	_	NK	_	_
+12	Talkmaster	Talkmaster	Talkmaster	NN	NN	_	acc|sg|masc	-1	10	_	OA	_	_
+13	mit	mit	mit	APPR	APPR	_	_	-1	10	_	MO	_	_
+14	ihrem	ihr	ihr	PPOSAT	PPOSAT	_	dat|sg|masc	-1	16	_	NK	_	_
+15	verbalen	verbal	verbal	ADJA	ADJA	_	dat|sg|masc|pos	-1	16	_	NK	_	_
+16	Gefecht	Gefecht	Gefecht	NN	NN	_	dat|sg|masc	-1	13	_	NK	_	_
+17	über	über	über	APPR	APPR	_	_	-1	16	_	MNR	_	_
+18	das	die	die	ART	ART	_	acc|sg|neut	-1	20	_	NK	_	_
+19	gängige	gängig	gängig	ADJA	ADJA	_	acc|sg|neut|pos	-1	20	_	NK	_	_
+20	Frauenbild	Frauenbild	Frauenbild	NN	NN	_	acc|sg|neut	-1	17	_	NK	_	_
+21	mundtot	mundtot	mundtot	ADJD	ADJD	_	pos	-1	10	_	MO	_	_
+22	.	.	.	$.	$.	_	_	-1	21	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|pl|fem	-1	3	_	NK	_	_
+2	staunenden	staunend	staunend	ADJA	ADJA	_	nom|pl|fem|pos	-1	3	_	NK	_	_
+3	Zuschauer	Zuschauer	Zuschauer	NN	NN	_	nom|pl|fem	-1	4	_	OA	_	_
+4	störte	stören	stören	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+5	das	die	die	PDS	PDS	_	acc|sg|neut	-1	4	_	OA	_	_
+6	aber	aber	aber	ADV	ADV	_	_	-1	4	_	MO	_	_
+7	überhaupt	überhaupt	überhaupt	ADV	ADV	_	_	-1	8	_	MO	_	_
+8	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	4	_	NG	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	4	_	JU	_	_
+2	die	die	die	ART	ART	_	nom|pl|*	-1	3	_	NK	_	_
+3	Quoten	Quote	Quote	NN	NN	_	nom|pl|*	-1	4	_	SB	_	_
+4	steigen	steigen	steigen	VVINF	VVINF	_	pl|3|pres|ind	-1	0	_	--	_	_
+5	und	und	und	KON	KON	_	_	-1	4	_	CD	_	_
+6	steigen	steigen	steigen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	5	_	CJ	_	_
+7	.	.	.	$.	$.	_	_	-1	6	_	--	_	_
+
+1	Da	da	da	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	dachten	denken	denken	VVFIN	VVFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+3	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	2	_	OA	_	_
+4	die	die	die	ART	ART	_	nom|pl|masc	-1	5	_	NK	_	_
+5	Mainzelmänner	Mainzelmänner	Mainzelmänner	NN	NN	_	nom|pl|masc	-1	2	_	SB	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	warum	warum	warum	PWAV	PWAV	_	_	-1	8	_	MO	_	_
+8	sollen	sollen	sollen	VMFIN	VMFIN	_	pl|1|pres|ind	-1	2	_	CJ	_	_
+9	wir	wir	wir	PPER	PPER	_	nom|pl|*|1	-1	8	_	SB	_	_
+10	unser	unser	unser	PPOSAT	PPOSAT	_	acc|sg|neut	-1	11	_	NK	_	_
+11	Zugpferd	Zugpferd	Zugpferd	NN	NN	_	acc|sg|neut	-1	17	_	OA	_	_
+12	Kerner	Kerner	Kerner	NE	NE	_	nom|sg|*	-1	11	_	NK	_	_
+13	nur	nur	nur	ADV	ADV	_	_	-1	14	_	MO	_	_
+14	einmal	einmal	einmal	ADV	ADV	_	_	-1	17	_	MO	_	_
+15	die	die	die	ART	ART	_	nom|sg|fem	-1	16	_	NK	_	_
+16	Woche	Woche	Woche	NN	NN	_	nom|sg|fem	-1	17	_	MO	_	_
+17	loslassen	loslassen	loslassen	VVINF	VVINF	_	_	-1	8	_	OC	_	_
+18	?	?	?	$.	$.	_	_	-1	17	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	2	_	JU	_	_
+2	beschlossen	beschließen	beschließen	VVPP	VVPP	_	_	-1	0	_	--	_	_
+3	,	,	,	$,	$,	_	_	-1	2	_	--	_	_
+4	dass	dass	dass	KOUS	KOUS	_	_	-1	21	_	CP	_	_
+5	der	die	die	ART	ART	_	nom|sg|masc	-1	6	_	NK	_	_
+6	Sympathieträger	Sympathieträger	Sympathieträger	NN	NN	_	nom|sg|masc	-1	21	_	SB	_	_
+7	gleich	gleich	gleich	ADJD	ADJD	_	_	-1	8	_	MO	_	_
+8	vier	vier	vier	CARD	CARD	_	_	-1	9	_	NK	_	_
+9	Mal	Mal	Mal	NN	NN	_	*|*|neut	-1	21	_	MO	_	_
+10	in	in	in	APPR	APPR	_	_	-1	21	_	MO	_	_
+11	der	die	die	ART	ART	_	dat|sg|fem	-1	12	_	NK	_	_
+12	Woche	Woche	Woche	NN	NN	_	dat|sg|fem	-1	10	_	NK	_	_
+13	zu	zu	zu	APPR	APPR	_	_	-1	21	_	MO	_	_
+14	später	spät	spät	ADJA	ADJA	_	dat|sg|fem|pos	-1	15	_	NK	_	_
+15	Stunde	Stunde	Stunde	NN	NN	_	dat|sg|fem	-1	13	_	NK	_	_
+16	seine	sein	sein	PPOSAT	PPOSAT	_	acc|pl|masc	-1	17	_	NK	_	_
+17	Prominenten	Prominente	Prominente	NN	NN	_	acc|pl|masc	-1	21	_	OA	_	_
+18	und	und	und	KON	KON	_	_	-1	17	_	CD	_	_
+19	weniger	wenige	wenige	PIAT	PIAT	_	nom|pl|masc	-1	20	_	NK	_	_
+20	Prominenten	Prominente	Prominente	NN	NN	_	nom|pl|masc	-1	18	_	CJ	_	_
+21	befragt	befragen	befragen	VVPP	VVPP	_	_	-1	2	_	OC	_	_
+22	.	.	.	$.	$.	_	_	-1	21	_	--	_	_
+
+1	Auf	auf	auf	APPR	APPR	_	_	-1	4	_	MO	_	_
+2	diesen	dies	dies	PDAT	PDAT	_	acc|sg|masc	-1	3	_	NK	_	_
+3	Sendeplätzen	Sendeplatz	Sendeplatz	NN	NN	_	acc|sg|masc	-1	1	_	NK	_	_
+4	laufen	laufen	laufen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+5	nämlich	nämlich	nämlich	ADV	ADV	_	_	-1	4	_	MO	_	_
+6	Wiederholungen	Wiederholung	Wiederholung	NN	NN	_	nom|pl|fem	-1	4	_	SB	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	die	die	die	PRELS	PRELS	_	nom|pl|fem	-1	12	_	SB	_	_
+9	ohnehin	ohnehin	ohnehin	ADV	ADV	_	_	-1	12	_	MO	_	_
+10	kein	keine	keine	PIAT	PIAT	_	nom|sg|masc	-1	11	_	NK	_	_
+11	Mensch	Mensch	Mensch	NN	NN	_	nom|sg|masc	-1	12	_	SB	_	_
+12	sieht	sehen	sehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	6	_	RC	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Das	die	die	PDS	PDS	_	nom|sg|neut	-1	2	_	SB	_	_
+2	mag	mögen	mögen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	zwar	zwar	zwar	ADV	ADV	_	_	-1	2	_	MO	_	_
+4	dem	die	die	ART	ART	_	dat|sg|masc	-1	5	_	NK	_	_
+5	Zweiten	Zweite	Zweite	NN	NN	_	dat|sg|masc	-1	9	_	DA	_	_
+6	unterm	unterm	unterm	APPRART	APPRART	_	dat|sg|masc	-1	9	_	MO	_	_
+7	Quotenstrich	Quotenstrich	Quotenstrich	NN	NN	_	dat|sg|masc	-1	6	_	NK	_	_
+8	mehr	mehr	mehr	ADV	ADV	_	_	-1	9	_	OA	_	_
+9	bringen	bringen	bringen	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	trotzdem	trotzdem	trotzdem	PAV	PAV	_	_	-1	12	_	NK	_	_
+12	darf	dürfen	dürfen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	2	_	CJ	_	_
+13	bezweifelt	bezweifeln	bezweifeln	VVPP	VVPP	_	_	-1	14	_	OC	_	_
+14	werden	werden	werden	VAINF	VAINF	_	_	-1	12	_	OC	_	_
+15	,	,	,	$,	$,	_	_	-1	14	_	--	_	_
+16	ob	ob	ob	KOUS	KOUS	_	_	-1	30	_	CP	_	_
+17	das	die	die	PDS	PDS	_	nom|sg|neut	-1	30	_	SB	_	_
+18	der	die	die	ART	ART	_	dat|sg|fem	-1	19	_	NK	_	_
+19	Sendung	Sendung	Sendung	NN	NN	_	dat|sg|fem	-1	30	_	DA	_	_
+20	selbst	selbst	selbst	ADV	ADV	_	_	-1	19	_	MNR	_	_
+21	und	und	und	KON	KON	_	_	-1	19	_	CD	_	_
+22	ihrer	ihr	ihr	PPOSAT	PPOSAT	_	dat|sg|fem	-1	24	_	NK	_	_
+23	"	"	"	$(	$(	_	dat|sg|fem|pos	-1	22	_	--	_	_
+24	Allzweckwaffe	Allzweckwaffe	Allzweckwaffe	NN	NN	_	dat|sg|fem	-1	26	_	DA	_	_
+25	"	"	"	$(	$(	_	_	-1	24	_	--	_	_
+26	Kerner	Kerner	Kerner	NN	NN	_	dat|sg|masc	-1	21	_	CJ	_	_
+27	wirklich	wirklich	wirklich	ADJD	ADJD	_	pos	-1	30	_	MO	_	_
+28	zu	zu	zu	APPR	APPR	_	_	-1	30	_	MO	_	_
+29	Gute	Gute	Gute	NN	NN	_	dat|sg|neut	-1	28	_	NK	_	_
+30	kommt	kommen	kommen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	12	_	MO	_	_
+31	.	.	.	$.	$.	_	_	-1	30	_	--	_	_
+
+1	Wie	wie	wie	KOUS	KOUS	_	_	-1	5	_	MO	_	_
+2	schnell	schnell	schnell	ADJD	ADJD	_	pos	-1	5	_	MO	_	_
+3	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	5	_	OA	_	_
+4	Talkshows	Talkshow	Talkshow	NN	NN	_	nom|pl|masc	-1	5	_	SB	_	_
+5	verschleißen	verschleißen	verschleißen	VVINF	VVINF	_	_	-1	10	_	MO	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	haben	haben	haben	VAFIN	VAFIN	_	pl|1|pres|ind	-1	0	_	--	_	_
+8	wir	wir	wir	PPER	PPER	_	nom|pl|*|1	-1	7	_	SB	_	_
+9	hinlänglich	hinlänglich	hinlänglich	ADJD	ADJD	_	pos	-1	10	_	MO	_	_
+10	erlebt	erleben	erleben	VVPP	VVPP	_	_	-1	7	_	OC	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	SB	_	_
+2	wäre	sein	sein	VAFIN	VAFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+3	schade	schade	schade	ADJD	ADJD	_	pos	-1	2	_	PD	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	14	_	CP	_	_
+6	durch	durch	durch	APPR	APPR	_	_	-1	13	_	MO	_	_
+7	kurzfristiges	kurzfristig	kurzfristig	ADJA	ADJA	_	acc|sg|neut|pos	-1	8	_	NK	_	_
+8	Quotendenken	Quotendenken	Quotendenken	NN	NN	_	acc|sg|neut	-1	6	_	NK	_	_
+9	ein	eine	eine	ART	ART	_	acc|sg|neut	-1	12	_	NK	_	_
+10	so	so	so	ADV	ADV	_	_	-1	11	_	MO	_	_
+11	beliebtes	beliebt	beliebt	ADJA	ADJA	_	nom|sg|neut|pos	-1	12	_	NK	_	_
+12	Format	Format	Format	NN	NN	_	nom|sg|neut	-1	14	_	SB	_	_
+13	verheizt	verheizen	verheizen	VVPP	VVPP	_	_	-1	14	_	OC	_	_
+14	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	1	_	RE	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+

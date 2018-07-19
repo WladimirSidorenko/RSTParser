@@ -1,0 +1,196 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::8	9::4	14::5	20::1
+1	Fürchtet	fürchten	fürchten	VVFIN	VVFIN	_	_	-1	0	_	--	_	_
+2	euch	ihr	ihr	PPER	PPER	_	dat|pl|*|2	-1	1	_	SB	_	_
+3	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	1	_	NG	_	_
+4	!	!	!	$.	$.	_	_	-1	3	_	--	_	_
+
+	sentence_start	0	61	199	375	433	606	682	890	1029
+	token_offsets	sentence	0	offsets	0::3	4::8	13::17	31::7	39::3	43::5	49::8	58::1
+	token_offsets	sentence	1	offsets	61::3	65::6	72::3	76::3	80::3	84::3	88::3	92::7	100::7	108::3	112::4	117::5	123::5	129::7	137::5	143::3	147::8	156::11	168::13	182::2	185::3	189::6	196::1
+	token_offsets	sentence	2	offsets	199::7	207::3	211::6	218::10	229::6	236::3	240::9	250::8	259::3	263::1	265::9	275::3	279::3	283::4	288::5	294::3	298::3	302::4	307::8	316::11	328::5	334::4	339::4	344::8	353::14	368::3	372::1
+	token_offsets	sentence	3	offsets	375::3	379::4	384::3	388::4	393::6	400::5	406::2	409::7	417::5	423::6	430::1
+	token_offsets	sentence	4	offsets	433::4	438::3	442::4	447::7	455::3	459::8	468::7	476::1	478::6	485::3	489::2	492::4	497::3	501::10	512::10	523::10	534::3	538::4	543::6	550::3	554::3	558::3	562::17	580::9	590::7	598::4	603::1
+	token_offsets	sentence	5	offsets	606::2	609::7	617::3	621::6	628::11	640::1	642::5	648::6	655::4	660::3	664::6	671::7	679::1
+	token_offsets	sentence	6	offsets	682::3	686::18	705::3	709::5	715::5	721::4	726::5	732::1	734::3	738::9	748::3	752::5	758::15	774::3	778::3	782::2	785::13	799::4	804::2	807::3	811::14	826::5	832::3	836::4	841::5	847::6	854::2	857::3	861::3	865::3	869::6	876::2	879::7	887::1
+	token_offsets	sentence	7	offsets	890::5	896::5	902::3	906::9	916::14	931::5	937::1	939::4	944::5	950::1	952::3	956::3	960::4	965::3	969::5	975::5	981::11	993::3	997::6	1004::5	1010::3	1014::11	1026::1
+	token_offsets	sentence	8	offsets	1029::8	1038::4	1043::5	1049::1
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	3	_	NK	_	_
+2	einstige	einstig	einstig	ADJA	ADJA	_	nom|sg|fem|pos	-1	3	_	NK	_	_
+3	Fußball-Weltmacht	Fußball-Weltmacht	Fußball-Weltmacht	NN	NN	_	nom|sg|fem	-1	4	_	SB	_	_
+4	zittert	zittern	zittern	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	vor	vor	vor	APPR	APPR	_	_	-1	4	_	MO	_	_
+6	einem	eine	eine	ART	ART	_	dat|sg|masc	-1	7	_	NK	_	_
+7	Winzling	Winzling	Winzling	NN	NN	_	dat|sg|masc	-1	5	_	NK	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+
+1	Mit	mit	mit	APPR	APPR	_	_	-1	9	_	MO	_	_
+2	seinem	sein	sein	PPOSAT	PPOSAT	_	dat|sg|neut	-1	3	_	NK	_	_
+3	Tor	Tor	Tor	NN	NN	_	dat|sg|neut	-1	1	_	NK	_	_
+4	zum	zu	zu	APPRART	APPRART	_	dat|sg|neut	-1	3	_	MNR	_	_
+5	1:0	1:0	1:0	CARD	CARD	_	_	-1	4	_	NK	_	_
+6	für	für	für	APPR	APPR	_	_	-1	5	_	MNR	_	_
+7	die	die	die	ART	ART	_	acc|pl|masc	-1	8	_	NK	_	_
+8	Ukraine	Ukraine	Ukraine	NE	NE	_	acc|pl|masc	-1	6	_	NK	_	_
+9	stürzte	stürzen	stürzen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+10	der	die	die	ART	ART	_	nom|sg|masc	-1	15	_	NK	_	_
+11	1,62	@card@	@card@	CARD	CARD	_	_	-1	12	_	NK	_	_
+12	Meter	Meter	Meter	NN	NN	_	*|*|masc	-1	13	_	AMS	_	_
+13	große	groß	groß	ADJA	ADJA	_	nom|sg|masc|pos	-1	15	_	NK	_	_
+14	Gennadi	Gennadi	Gennadi	NE	NE	_	nom|sg|masc	-1	15	_	PNC	_	_
+15	Subow	Subow	Subow	NE	NE	_	nom|sg|masc	-1	9	_	SB	_	_
+16	die	die	die	ART	ART	_	acc|sg|fem	-1	18	_	NK	_	_
+17	deutsche	deutsch	deutsch	ADJA	ADJA	_	acc|sg|fem|pos	-1	18	_	NK	_	_
+18	Nationalelf	Nationalelf	Nationalelf	NN	NN	_	acc|sg|fem	-1	9	_	OA	_	_
+19	vorübergehend	vorübergehend	vorübergehend	ADJD	ADJD	_	pos	-1	9	_	MO	_	_
+20	in	in	in	APPR	APPR	_	_	-1	9	_	MO	_	_
+21	ein	eine	eine	ART	ART	_	acc|sg|neut	-1	22	_	NK	_	_
+22	Trauma	Trauma	Trauma	NN	NN	_	acc|sg|neut	-1	20	_	NK	_	_
+23	.	.	.	$.	$.	_	_	-1	22	_	--	_	_
+
+1	Nachdem	nachdem	nachdem	KOUS	KOUS	_	_	-1	9	_	CP	_	_
+2	den	die	die	ART	ART	_	acc|sg|masc	-1	5	_	NK	_	_
+3	tapfer	tapfer	tapfer	ADJD	ADJD	_	pos	-1	4	_	MO	_	_
+4	kämpfenden	kämpfend	kämpfend	ADJA	ADJA	_	acc|sg|masc|pos	-1	5	_	NK	_	_
+5	Gästen	Gast	Gast	NN	NN	_	acc|sg|masc	-1	9	_	SB	_	_
+6	der	die	die	ART	ART	_	nom|sg|masc	-1	7	_	NK	_	_
+7	Ausgleich	Ausgleich	Ausgleich	NN	NN	_	nom|sg|masc	-1	8	_	DA	_	_
+8	gelungen	gelingen	gelingen	VVPP	VVPP	_	_	-1	9	_	OC	_	_
+9	war	sein	sein	VAFIN	VAFIN	_	sg|3|past|ind	-1	11	_	MO	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	wechselte	wechseln	wechseln	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+12	der	die	die	ART	ART	_	nom|sg|masc	-1	11	_	SB	_	_
+13	wie	wie	wie	KOKOM	KOKOM	_	_	-1	15	_	CM	_	_
+14	eine	eine	eine	ART	ART	_	nom|sg|fem	-1	15	_	NK	_	_
+15	Mumie	Mumie	Mumie	NN	NN	_	nom|sg|fem	-1	11	_	MO	_	_
+16	auf	auf	auf	APPR	APPR	_	_	-1	15	_	MNR	_	_
+17	der	die	die	ART	ART	_	dat|sg|fem	-1	18	_	NK	_	_
+18	Bank	Bank	Bank	NN	NN	_	dat|sg|fem	-1	16	_	NK	_	_
+19	sitzende	sitzend	sitzend	ADJA	ADJA	_	acc|sg|fem|pos	-1	21	_	NK	_	_
+20	ukrainische	ukrainisch	ukrainisch	ADJA	ADJA	_	acc|sg|fem|pos	-1	21	_	NK	_	_
+21	Coach	Coach	Coach	NN	NN	_	acc|sg|fem	-1	11	_	OA	_	_
+22	noch	noch	noch	ADV	ADV	_	_	-1	11	_	MO	_	_
+23	zwei	zwei	zwei	CARD	CARD	_	_	-1	25	_	NK	_	_
+24	ähnliche	ähnlich	ähnlich	ADJA	ADJA	_	acc|pl|neut|pos	-1	25	_	NK	_	_
+25	Leichtgewichte	Leichtgewicht	Leichtgewicht	NN	NN	_	acc|pl|neut	-1	11	_	OA	_	_
+26	ein	ein	ein	PTKVZ	PTKVZ	_	_	-1	11	_	SVP	_	_
+27	.	.	.	$.	$.	_	_	-1	26	_	--	_	_
+
+1	Was	was	was	PWS	PWS	_	nom|sg|neut	-1	2	_	OA	_	_
+2	soll	sollen	sollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	das	die	die	PDS	PDS	_	nom|sg|neut	-1	2	_	SB	_	_
+4	erst	erst	erst	ADV	ADV	_	_	-1	5	_	MO	_	_
+5	morgen	morgen	morgen	ADV	ADV	_	_	-1	3	_	MNR	_	_
+6	Abend	abend	abend	ADV	ADV	_	_	-1	7	_	MO	_	_
+7	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	10	_	MO	_	_
+8	zweiten	zweit	zweit	ADJA	ADJA	_	dat|sg|masc|pos	-1	9	_	NK	_	_
+9	Spiel	Spiel	Spiel	NN	NN	_	dat|sg|masc	-1	7	_	NK	_	_
+10	werden	werden	werden	VAINF	VAINF	_	_	-1	2	_	OC	_	_
+11	?	?	?	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Wenn	wenn	wenn	KOUS	KOUS	_	_	-1	7	_	CP	_	_
+2	die	die	die	ART	ART	_	nom|pl|neut	-1	4	_	NK	_	_
+3	drei	drei	drei	CARD	CARD	_	_	-1	4	_	NK	_	_
+4	Knirpse	Knirps	Knirps	NN	NN	_	nom|pl|masc	-1	7	_	SB	_	_
+5	von	von	von	APPR	APPR	_	_	-1	4	_	PG	_	_
+6	Anbeginn	Anbeginn	Anbeginn	NN	NN	_	dat|sg|masc	-1	5	_	NK	_	_
+7	wirbeln	wirbeln	wirbeln	VVINF	VVINF	_	pl|3|pres|ind	-1	9	_	MO	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	könnte	können	können	VMFIN	VMFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+10	der	die	die	ART	ART	_	nom|sg|masc	-1	16	_	NK	_	_
+11	um	um	um	APPR	APPR	_	_	-1	15	_	MO	_	_
+12	Ehre	Ehre	Ehre	NN	NN	_	acc|sg|fem	-1	11	_	NK	_	_
+13	und	und	und	KON	KON	_	_	-1	12	_	CD	_	_
+14	Reputation	Reputation	Reputation	NN	NN	_	acc|sg|fem	-1	13	_	CJ	_	_
+15	kämpfenden	kämpfend	kämpfend	ADJA	ADJA	_	gen|sg|fem|pos	-1	16	_	NK	_	_
+16	Mannschaft	Mannschaft	Mannschaft	NN	NN	_	gen|sg|fem	-1	9	_	SB	_	_
+17	von	von	von	APPR	APPR	_	_	-1	16	_	PG	_	_
+18	Rudi	Rudi	Rudi	NE	NE	_	nom|sg|masc	-1	19	_	PNC	_	_
+19	Völler	Völler	Völler	NE	NE	_	dat|sg|masc	-1	17	_	NK	_	_
+20	der	die	die	ART	ART	_	nom|sg|masc	-1	21	_	NK	_	_
+21	Weg	Weg	Weg	NN	NN	_	nom|sg|masc	-1	19	_	APP	_	_
+22	zur	zu	zu	APPRART	APPRART	_	dat|sg|fem	-1	21	_	MNR	_	_
+23	Weltmeisterschaft	Weltmeisterschaft	Weltmeisterschaft	NN	NN	_	dat|sg|fem	-1	22	_	NK	_	_
+24	endgültig	endgültig	endgültig	ADJD	ADJD	_	pos	-1	25	_	MO	_	_
+25	verbaut	verbauen	verbauen	VVPP	VVPP	_	_	-1	26	_	PD	_	_
+26	sein	sein	sein	VAINF	VAINF	_	_	-1	9	_	OC	_	_
+27	.	.	.	$.	$.	_	_	-1	26	_	--	_	_
+
+1	Je	je	je	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	kleiner	klein	klein	ADJD	ADJD	_	comp	-1	5	_	MO	_	_
+3	die	die	die	ART	ART	_	nom|sg|fem	-1	4	_	NK	_	_
+4	Kicker	Kicker	Kicker	NN	NN	_	nom|sg|fem	-1	5	_	OA	_	_
+5	daherkommen	daherkommen	daherkommen	VVINF	VVINF	_	_	-1	8	_	CC	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	desto	desto	desto	KON	KON	_	_	-1	8	_	MO	_	_
+8	größer	groß	groß	ADJD	ADJD	_	comp	-1	12	_	MO	_	_
+9	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+10	der	die	die	ART	ART	_	nom|sg|masc	-1	11	_	NK	_	_
+11	Gegner	Gegner	Gegner	NN	NN	_	nom|sg|masc	-1	9	_	SB	_	_
+12	geredet	reden	reden	VVPP	VVPP	_	_	-1	9	_	OC	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Fußball-Kleinmacht	Fußball-Kleinmacht	Fußball-Kleinmacht	NN	NN	_	nom|sg|fem	-1	5	_	SB	_	_
+3	vom	von	von	APPRART	APPRART	_	dat|sg|masc	-1	2	_	MNR	_	_
+4	Dnepr	Dnepr	Dnepr	NN	NN	_	dat|sg|masc	-1	3	_	NK	_	_
+5	steht	stehen	stehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+6	kurz	kurz	kurz	ADJD	ADJD	_	pos	-1	5	_	MO	_	_
+7	davor	davor	davor	PAV	PAV	_	_	-1	8	_	NK	_	_
+8	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+9	das	die	die	PRELS	PRELS	_	nom|sg|neut	-1	18	_	NK	_	_
+10	scheinbar	scheinbar	scheinbar	ADJD	ADJD	_	pos	-1	17	_	MO	_	_
+11	mit	mit	mit	APPR	APPR	_	_	-1	17	_	MO	_	_
+12	einem	eine	eine	ART	ART	_	dat|sg|neut	-1	13	_	NK	_	_
+13	Dauerabonnement	Dauerabonnement	Dauerabonnement	NN	NN	_	dat|sg|neut	-1	11	_	NK	_	_
+14	für	für	für	APPR	APPR	_	_	-1	13	_	MNR	_	_
+15	die	die	die	ART	ART	_	acc|sg|fem	-1	16	_	NK	_	_
+16	WM	WM	WM	NE	NE	_	acc|sg|fem	-1	14	_	NK	_	_
+17	ausgestattete	ausgestattet	ausgestattet	ADJA	ADJA	_	acc|sg|neut|pos	-1	18	_	NK	_	_
+18	Team	Team	Team	NN	NN	_	acc|sg|neut	-1	33	_	OA	_	_
+19	in	in	in	APPR	APPR	_	_	-1	18	_	MNR	_	_
+20	der	die	die	ART	ART	_	dat|sg|fem	-1	22	_	NK	_	_
+21	schwarz-weißen	schwarz-weiß	schwarz-weiß	ADJA	ADJA	_	dat|sg|fem|pos	-1	22	_	NK	_	_
+22	Kluft	Kluft	Kluft	NN	NN	_	dat|sg|fem	-1	19	_	NK	_	_
+23	und	und	und	KON	KON	_	_	-1	18	_	CD	_	_
+24	eine	eine	eine	ART	ART	_	nom|sg|fem	-1	26	_	NK	_	_
+25	ganze	ganz	ganz	ADJA	ADJA	_	nom|sg|fem|pos	-1	26	_	NK	_	_
+26	Nation	Nation	Nation	NN	NN	_	nom|sg|fem	-1	23	_	CJ	_	_
+27	in	in	in	APPR	APPR	_	_	-1	33	_	MO	_	_
+28	das	die	die	ART	ART	_	acc|sg|neut	-1	29	_	NK	_	_
+29	Tal	Tal	Tal	NN	NN	_	acc|sg|neut	-1	27	_	NK	_	_
+30	der	die	die	ART	ART	_	gen|pl|fem	-1	31	_	NK	_	_
+31	Tränen	Träne|Tränen	Träne|Tränen	NN	NN	_	gen|pl|fem	-1	29	_	AG	_	_
+32	zu	zu	zu	PTKZU	PTKZU	_	_	-1	33	_	PM	_	_
+33	treiben	treiben	treiben	VVINF	VVINF	_	_	-1	5	_	OC	_	_
+34	.	.	.	$.	$.	_	_	-1	33	_	--	_	_
+
+1	Dabei	dabei	dabei	PAV	PAV	_	_	-1	20	_	NK	_	_
+2	haben	haben	haben	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	die	die	die	ART	ART	_	nom|pl|fem	-1	5	_	NK	_	_
+4	deutschen	deutsch	deutsch	ADJA	ADJA	_	nom|pl|fem|pos	-1	5	_	NK	_	_
+5	Nationalkicker	Nationalkicker	Nationalkicker	NN	NN	_	nom|pl|fem	-1	2	_	SB	_	_
+6	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	9	_	NK	_	_
+7	"	"	"	$(	$(	_	_	-1	6	_	--	_	_
+8	Rudi	Rudi	Rudi	NE	NE	_	gen|sg|*	-1	9	_	AG	_	_
+9	Riese	Riese	Riese	NN	NN	_	nom|pl|masc	-1	2	_	OA	_	_
+10	"	"	"	$(	$(	_	_	-1	9	_	--	_	_
+11	auf	auf	auf	APPR	APPR	_	_	-1	9	_	MNR	_	_
+12	der	die	die	ART	ART	_	dat|sg|fem	-1	13	_	NK	_	_
+13	Bank	Bank	Bank	NN	NN	_	dat|sg|fem	-1	11	_	NK	_	_
+14	und	und	und	KON	KON	_	_	-1	13	_	CD	_	_
+15	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	17	_	NK	_	_
+16	Franz	Franz	Franz	NE	NE	_	acc|sg|masc	-1	17	_	PNC	_	_
+17	Beckenbauer	Beckenbauer	Beckenbauer	NE	NE	_	acc|sg|masc	-1	14	_	CJ	_	_
+18	mit	mit	mit	APPR	APPR	_	_	-1	17	_	MNR	_	_
+19	heißem	heiß	heiß	ADJA	ADJA	_	dat|sg|masc|pos	-1	20	_	NK	_	_
+20	Draht	Draht	Draht	NN	NN	_	dat|sg|masc	-1	18	_	NK	_	_
+21	zum	zu	zu	APPRART	APPRART	_	dat|sg|masc	-1	20	_	MNR	_	_
+22	Fußballgott	Fußballgott	Fußballgott	NN	NN	_	dat|sg|masc	-1	21	_	NK	_	_
+23	.	.	.	$.	$.	_	_	-1	22	_	--	_	_
+
+1	Fürchtet	fürchten	fürchten	VVFIN	VVFIN	_	_	-1	0	_	--	_	_
+2	euch	ihr	ihr	PPER	PPER	_	dat|pl|*|2	-1	1	_	SB	_	_
+3	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	1	_	NG	_	_
+4	!	!	!	$.	$.	_	_	-1	3	_	--	_	_
+

@@ -1,0 +1,224 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::5	6::3	10::9
+1	Reise	Reise	Reise	NN	NN	_	nom|sg|fem	-1	0	_	--	_	_
+2	ins	in	in	APPRART	APPRART	_	acc|sg|neut	-1	1	_	MNR	_	_
+3	Ungewisse	ungewiss	ungewiss	ADJA	ADJA	_	acc|sg|neut|pos	-1	2	_	NK	_	_
+
+	sentence_start	0	104	189
+	token_offsets	sentence	0	offsets	0::4	5::12	18::3	22::7	30::9	40::6	47::5	53::3	57::10	68::3	72::10	83::10	94::6	101::1
+	token_offsets	sentence	1	offsets	104::4	109::3	113::8	122::6	129::7	137::3	141::3	145::7	153::19	173::2	176::9	186::1
+	token_offsets	sentence	2	offsets	189::3	193::10	204::7	212::4	217::5	223::1	225::3	229::1	231::5	237::5	243::9	253::8	262::2	265::1	267::3	271::4	276::3	280::13	294::3	298::3	302::8	311::3	315::1
+1	Eine	eine	eine	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Entscheidung	Entscheidung	Entscheidung	NN	NN	_	nom|sg|fem	-1	6	_	SB	_	_
+3	von	von	von	APPR	APPR	_	_	-1	2	_	PG	_	_
+4	einiger	einige	einige	PIAT	PIAT	_	dat|sg|fem	-1	5	_	NK	_	_
+5	Tragweite	Tragweite	Tragweite	NN	NN	_	dat|sg|fem	-1	3	_	NK	_	_
+6	müssen	müssen	müssen	VMFIN	VMFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+7	heute	heute	heute	ADV	ADV	_	_	-1	6	_	MO	_	_
+8	die	die	die	ART	ART	_	acc|pl|neut	-1	9	_	NK	_	_
+9	Mitglieder	Mitglied	Mitglied	NN	NN	_	acc|pl|neut	-1	13	_	OA	_	_
+10	des	die	die	ART	ART	_	gen|sg|masc	-1	11	_	NK	_	_
+11	Prignitzer	Prignitzer	Prignitzer	NN	NN	_	gen|sg|masc	-1	9	_	AG	_	_
+12	Kreistages	Kreistag	Kreistag	NN	NN	_	gen|sg|masc	-1	11	_	NK	_	_
+13	fällen	fällen	fällen	VVINF	VVINF	_	_	-1	6	_	OC	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Denn	denn	denn	KON	KON	_	_	-1	3	_	JU	_	_
+2	sie	sie	sie	PPER	PPER	_	nom|pl|*|3	-1	3	_	SB	_	_
+3	besetzen	besetzen	besetzen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+4	nichts	nichts	nichts	PIS	PIS	_	*|*|neut	-1	3	_	OA	_	_
+5	weniger	wenige	wenige	PIS	PIS	_	*|*|*	-1	3	_	OA	_	_
+6	als	als	als	KOKOM	KOKOM	_	_	-1	9	_	CM	_	_
+7	die	die	die	ART	ART	_	nom|sg|fem	-1	9	_	NK	_	_
+8	oberste	ober	ober	ADJA	ADJA	_	nom|sg|fem|pos	-1	9	_	NK	_	_
+9	Verwaltungsposition	Verwaltungsposition	Verwaltungsposition	NN	NN	_	nom|sg|fem	-1	5	_	CC	_	_
+10	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	9	_	MNR	_	_
+11	Landkreis	Landkreis	Landkreis	NN	NN	_	dat|sg|neut	-1	10	_	NK	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	3	_	NK	_	_
+2	amtierende	amtierend	amtierend	ADJA	ADJA	_	nom|sg|masc|pos	-1	3	_	NK	_	_
+3	Landrat	Landrat	Landrat	NN	NN	_	nom|sg|masc	-1	9	_	SB	_	_
+4	Hans	Hans	Hans	NE	NE	_	nom|sg|masc	-1	5	_	PNC	_	_
+5	Lange	Lange	Lange	NE	NE	_	nom|sg|masc	-1	3	_	NK	_	_
+6	(	(	(	$(	$(	_	_	-1	5	_	--	_	_
+7	CDU	CDU	CDU	NE	NE	_	nom|sg|fem	-1	3	_	PAR	_	_
+8	)	)	)	$(	$(	_	_	-1	7	_	--	_	_
+9	tritt	treten	treten	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+10	gegen	gegen	gegen	APPR	APPR	_	_	-1	9	_	MO	_	_
+11	Margarete	Margarete	Margarete	NE	NE	_	acc|sg|fem	-1	10	_	NK	_	_
+12	Vierjahn	Vierjahn	Vierjahn	NN	NN	_	acc|sg|fem	-1	9	_	SB	_	_
+13	an	an	an	PTKVZ	PTKVZ	_	_	-1	9	_	SVP	_	_
+14	,	,	,	$,	$,	_	_	-1	13	_	--	_	_
+15	die	die	die	PRELS	PRELS	_	nom|sg|fem	-1	21	_	OA	_	_
+16	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	21	_	DA	_	_
+17	die	die	die	ART	ART	_	nom|sg|fem	-1	18	_	NK	_	_
+18	Unterstützung	Unterstützung	Unterstützung	NN	NN	_	nom|sg|fem	-1	22	_	SB	_	_
+19	der	die	die	ART	ART	_	gen|sg|fem	-1	20	_	NK	_	_
+20	SPD	SPD	SPD	NE	NE	_	gen|sg|fem	-1	18	_	AG	_	_
+21	erworben	erwerben	erwerben	VVPP	VVPP	_	_	-1	22	_	OC	_	_
+22	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	12	_	RC	_	_
+23	.	.	.	$.	$.	_	_	-1	22	_	--	_	_
+
+	sentence_start	0	121	233	291	376	483	574	680	780
+	token_offsets	sentence	0	offsets	0::5	6::3	10::8	19::3	23::3	27::3	31::14	46::13	60::3	64::15	80::7	88::1	90::4	95::3	99::8	108::4	113::4	118::1
+	token_offsets	sentence	1	offsets	121::4	126::4	131::5	137::6	144::3	148::5	154::2	157::10	168::4	173::3	177::7	185::4	190::3	194::6	201::13	215::7	223::6	230::1
+	token_offsets	sentence	2	offsets	233::3	237::3	241::4	246::3	250::6	257::1	259::3	263::2	266::3	270::1	272::4	277::4	282::5	288::1
+	token_offsets	sentence	3	offsets	291::3	295::7	303::5	309::4	314::3	318::4	323::4	328::5	334::1	336::4	341::2	344::3	348::6	355::3	359::9	369::3	373::1
+	token_offsets	sentence	4	offsets	376::9	386::8	395::8	404::3	408::4	413::4	418::7	426::3	430::13	444::3	448::3	452::6	459::20	480::1
+	token_offsets	sentence	5	offsets	483::5	489::3	493::4	498::9	508::5	514::1	516::3	520::9	530::10	541::4	546::5	552::4	557::4	562::8	571::1
+	token_offsets	sentence	6	offsets	574::3	578::12	591::5	597::4	602::3	606::6	613::2	616::8	625::3	629::3	633::4	638::5	644::1	646::5	652::10	663::8	672::4	677::1
+	token_offsets	sentence	7	offsets	680::5	686::5	692::3	696::7	704::10	715::8	724::3	728::11	740::13	754::4	759::14	774::2	777::1
+	token_offsets	sentence	8	offsets	780::3	784::2	787::5	793::3	797::11	809::10	820::5	826::3	830::5	836::4	841::5	847::3	851::9	861::3	865::4	870::1
+1	Würde	werden	werden	VAFIN	VAFIN	_	sg|3|past|subj	-1	13	_	MO	_	_
+2	die	die	die	ART	ART	_	nom|sg|fem	-1	3	_	NK	_	_
+3	Position	Position	Position	NN	NN	_	nom|sg|fem	-1	1	_	SB	_	_
+4	wie	wie	wie	KOKOM	KOKOM	_	_	-1	5	_	CM	_	_
+5	die	die	die	PDS	PDS	_	acc|sg|fem	-1	3	_	CC	_	_
+6	der	die	die	ART	ART	_	acc|sg|fem	-1	8	_	NK	_	_
+7	hauptamtlichen	hauptamtlich	hauptamtlich	ADJA	ADJA	_	gen|pl|neut|pos	-1	8	_	NK	_	_
+8	Bürgermeister	Bürgermeister	Bürgermeister	NN	NN	_	gen|pl|neut	-1	5	_	AG	_	_
+9	per	per	per	APPR	APPR	_	_	-1	11	_	MO	_	_
+10	Volksabstimmung	Volksabstimmung	Volksabstimmung	NN	NN	_	gen|sg|fem	-1	9	_	NK	_	_
+11	besetzt	besetzen	besetzen	VVPP	VVPP	_	_	-1	1	_	OC	_	_
+12	,	,	,	$,	$,	_	_	-1	11	_	--	_	_
+13	wäre	sein	sein	VAFIN	VAFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+14	das	die	die	ART	ART	_	nom|sg|neut	-1	15	_	NK	_	_
+15	Ergebnis	Ergebnis	Ergebnis	NN	NN	_	nom|sg|neut	-1	13	_	SB	_	_
+16	wohl	wohl	wohl	ADV	ADV	_	_	-1	13	_	MO	_	_
+17	klar	klar	klar	ADJD	ADJD	_	pos	-1	13	_	PD	_	_
+18	.	.	.	$.	$.	_	_	-1	17	_	--	_	_
+
+1	Denn	denn	denn	KON	KON	_	_	-1	4	_	JU	_	_
+2	Hans	Hans	Hans	NE	NE	_	nom|sg|masc	-1	3	_	PNC	_	_
+3	Lange	Lange	Lange	NE	NE	_	nom|sg|masc	-1	4	_	SB	_	_
+4	dürfte	dürfen	dürfen	VMFIN	VMFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+5	vor	vor	vor	APPR	APPR	_	_	-1	7	_	MO	_	_
+6	allem	alle	alle	PIS	PIS	_	dat|sg|neut	-1	5	_	NK	_	_
+7	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	17	_	MO	_	_
+8	westlichen	westlich	westlich	ADJA	ADJA	_	dat|sg|masc|pos	-1	9	_	NK	_	_
+9	Teil	Teil	Teil	NN	NN	_	dat|sg|masc	-1	7	_	NK	_	_
+10	des	die	die	ART	ART	_	gen|sg|masc	-1	11	_	NK	_	_
+11	Kreises	Kreis	Kreis	NN	NN	_	gen|sg|masc	-1	9	_	AG	_	_
+12	dann	dann	dann	ADV	ADV	_	_	-1	17	_	MO	_	_
+13	mit	mit	mit	APPR	APPR	_	_	-1	16	_	MO	_	_
+14	großer	groß	groß	ADJA	ADJA	_	dat|sg|fem|pos	-1	15	_	NK	_	_
+15	Unterstützung	Unterstützung	Unterstützung	NN	NN	_	dat|sg|fem	-1	13	_	NK	_	_
+16	rechnen	rechnen	rechnen	VVINF	VVINF	_	_	-1	17	_	OC	_	_
+17	dürfen	dürfen	dürfen	VMINF	VMINF	_	_	-1	4	_	OC	_	_
+18	.	.	.	$.	$.	_	_	-1	17	_	--	_	_
+
+1	Bei	bei	bei	APPR	APPR	_	_	-1	3	_	MO	_	_
+2	ihm	er	er	PPER	PPER	_	dat|sg|*|3	-1	1	_	NK	_	_
+3	weiß	wissen	wissen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	der	die	die	ART	ART	_	nom|sg|masc	-1	5	_	NK	_	_
+5	Bürger	Bürger	Bürger	NN	NN	_	nom|sg|masc	-1	3	_	SB	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	was	was	was	PRELS	PRELS	_	acc|sg|neut	-1	9	_	OA	_	_
+8	er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	9	_	SB	_	_
+9	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	3	_	OC	_	_
+10	-	-	-	$(	$(	_	_	-1	9	_	--	_	_
+11	oder	oder	oder	KON	KON	_	_	-1	9	_	CD	_	_
+12	auch	auch	auch	ADV	ADV	_	_	-1	13	_	MO	_	_
+13	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	11	_	CJ	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Mit	mit	mit	APPR	APPR	_	_	-1	4	_	MO	_	_
+2	einigem	einige	einige	PIAT	PIAT	_	dat|sg|neut	-1	3	_	NK	_	_
+3	Recht	Recht	Recht	NN	NN	_	dat|sg|neut	-1	1	_	NK	_	_
+4	kann	können	können	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	man	man	man	PIS	PIS	_	nom|sg|*	-1	4	_	SB	_	_
+6	aber	aber	aber	ADV	ADV	_	_	-1	4	_	MO	_	_
+7	auch	auch	auch	ADV	ADV	_	_	-1	4	_	MO	_	_
+8	sagen	sagen	sagen	VVINF	VVINF	_	_	-1	4	_	OC	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	dass	dass	dass	KOUS	KOUS	_	_	-1	16	_	CP	_	_
+11	er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	16	_	SB	_	_
+12	mit	mit	mit	APPR	APPR	_	_	-1	15	_	MO	_	_
+13	seinem	sein	sein	PPOSAT	PPOSAT	_	dat|sg|neut	-1	14	_	NK	_	_
+14	Amt	Amt	Amt	NN	NN	_	dat|sg|neut	-1	12	_	NK	_	_
+15	gewachsen	wachsen	wachsen	VVPP	VVPP	_	_	-1	16	_	OC	_	_
+16	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	4	_	MO	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
+1	Margarete	Margarete	Margarete	NE	NE	_	nom|sg|fem	-1	2	_	PNC	_	_
+2	Vierjahn	Vierjahn	Vierjahn	NN	NN	_	nom|sg|fem	-1	4	_	SB	_	_
+3	hingegen	hingegen	hingegen	ADV	ADV	_	_	-1	2	_	MO	_	_
+4	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	zwar	zwar	zwar	ADV	ADV	_	_	-1	4	_	MO	_	_
+6	ohne	ohne	ohne	APPR	APPR	_	_	-1	4	_	MO	_	_
+7	Zweifel	Zweifel	Zweifel	NN	NN	_	acc|pl|masc	-1	6	_	NK	_	_
+8	die	die	die	ART	ART	_	acc|pl|masc	-1	9	_	NK	_	_
+9	Qualifikation	Qualifikation	Qualifikation	NN	NN	_	nom|sg|fem	-1	4	_	OA	_	_
+10	für	für	für	APPR	APPR	_	_	-1	9	_	MNR	_	_
+11	die	die	die	ART	ART	_	acc|sg|fem	-1	13	_	NK	_	_
+12	höhere	hoch	hoch	ADJA	ADJA	_	acc|sg|fem|comp	-1	13	_	NK	_	_
+13	Verwaltungstätigkeit	Verwaltungstätigkeit	Verwaltungstätigkeit	NN	NN	_	acc|sg|fem	-1	10	_	NK	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Wofür	wofür	wofür	PWAV	PWAV	_	_	-1	5	_	MO	_	_
+2	sie	sie	sie	PPER	PPER	_	nom|pl|*|3	-1	5	_	SB	_	_
+3	aber	aber	aber	ADV	ADV	_	_	-1	5	_	MO	_	_
+4	letztlich	letztlich	letztlich	ADV	ADV	_	_	-1	5	_	MO	_	_
+5	steht	stehen	stehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	7	_	SB	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+8	zumindest	zumindest	zumindest	ADV	ADV	_	_	-1	14	_	MO	_	_
+9	öffentlich	öffentlich	öffentlich	ADJD	ADJD	_	pos	-1	14	_	MO	_	_
+10	noch	noch	noch	ADV	ADV	_	_	-1	11	_	MO	_	_
+11	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	12	_	NG	_	_
+12	ganz	ganz	ganz	ADV	ADV	_	_	-1	13	_	MO	_	_
+13	klar	klar	klar	ADJD	ADJD	_	pos	-1	14	_	PD	_	_
+14	geworden	werden	werden	VAPP	VAPP	_	_	-1	7	_	OC	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Entscheidung	Entscheidung	Entscheidung	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+3	fällt	fallen|fällen	fallen|fällen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	aber	aber	aber	ADV	ADV	_	_	-1	3	_	MO	_	_
+5	nun	nun	nun	ADV	ADV	_	_	-1	3	_	MO	_	_
+6	einmal	einmal	einmal	ADV	ADV	_	_	-1	3	_	MO	_	_
+7	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	3	_	MO	_	_
+8	Kreistag	Kreistag	Kreistag	NN	NN	_	dat|sg|masc	-1	7	_	NK	_	_
+9	und	und	und	KON	KON	_	_	-1	3	_	CD	_	_
+10	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	9	_	CJ	_	_
+11	noch	noch	noch	ADV	ADV	_	_	-1	10	_	MO	_	_
+12	offen	offen	offen	ADJD	ADJD	_	pos	-1	10	_	PD	_	_
+13	,	,	,	$,	$,	_	_	-1	12	_	--	_	_
+14	zumal	zumal	zumal	KOUS	KOUS	_	_	-1	15	_	MO	_	_
+15	angesichts	angesichts	angesichts	APPR	APPR	_	_	-1	10	_	MO	_	_
+16	geheimer	geheim	geheim	ADJA	ADJA	_	dat|sg|fem|pos	-1	17	_	NK	_	_
+17	Wahl	Wahl	Wahl	NN	NN	_	dat|sg|fem	-1	15	_	NK	_	_
+18	.	.	.	$.	$.	_	_	-1	17	_	--	_	_
+
+1	Dabei	dabei	dabei	PAV	PAV	_	_	-1	2	_	NK	_	_
+2	kommt	kommen	kommen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	den	die	die	ART	ART	_	acc|sg|masc	-1	5	_	NK	_	_
+4	kleinen	klein	klein	ADJA	ADJA	_	acc|sg|masc|pos	-1	5	_	NK	_	_
+5	Fraktionen	Fraktion	Fraktion	NN	NN	_	acc|sg|masc	-1	2	_	DA	_	_
+6	aufgrund	aufgrund	aufgrund	APPR	APPR	_	_	-1	2	_	MO	_	_
+7	der	die	die	ART	ART	_	gen|pl|fem	-1	9	_	NK	_	_
+8	obwaltenden	obwaltend	obwaltend	ADJA	ADJA	_	gen|pl|fem|pos	-1	9	_	NK	_	_
+9	Konstellation	Konstellation	Konstellation	NN	NN	_	gen|pl|fem	-1	6	_	NK	_	_
+10	eine	eine	eine	ART	ART	_	acc|sg|fem	-1	11	_	NK	_	_
+11	Schlüsselrolle	Schlüsselrolle	Schlüsselrolle	NN	NN	_	acc|sg|fem	-1	2	_	SB	_	_
+12	zu	zu	zu	PTKVZ	PTKVZ	_	_	-1	2	_	SVP	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	3	_	JU	_	_
+2	so	so	so	ADV	ADV	_	_	-1	3	_	MO	_	_
+3	steht	stehen	stehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	den	die	die	ART	ART	_	dat|pl|masc	-1	5	_	NK	_	_
+5	Prignitzern	Prignitzern	Prignitzern	NN	NN	_	dat|pl|masc	-1	3	_	DA	_	_
+6	vielleicht	vielleicht	vielleicht	ADV	ADV	_	_	-1	3	_	MO	_	_
+7	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	8	_	NG	_	_
+8	nur	nur	nur	ADV	ADV	_	_	-1	9	_	MO	_	_
+9	heute	heute	heute	ADV	ADV	_	_	-1	3	_	MO	_	_
+10	eine	eine	eine	ART	ART	_	nom|sg|fem	-1	11	_	NK	_	_
+11	Reise	Reise	Reise	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+12	ins	in	in	APPRART	APPRART	_	acc|sg|neut	-1	11	_	MNR	_	_
+13	Ungewisse	Ungewisse	Ungewisse	NN	NN	_	acc|sg|neut	-1	12	_	NK	_	_
+14	ins	in	in	APPRART	APPRART	_	acc|sg|neut	-1	3	_	MO	_	_
+15	Haus	Haus	Haus	NN	NN	_	acc|sg|neut	-1	14	_	NK	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+

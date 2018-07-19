@@ -1,0 +1,216 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::4	5::6	12::1
+1	Alle	alle	alle	PIAT	PIAT	_	nom|pl|masc	-1	2	_	NK	_	_
+2	Wetter	Wetter	Wetter	NN	NN	_	nom|pl|masc	-1	0	_	--	_	_
+3	!	!	!	$.	$.	_	_	-1	2	_	--	_	_
+
+	sentence_start	0	226	453
+	token_offsets	sentence	0	offsets	0::4	5::3	9::1	11::8	20::3	24::1	26::3	30::3	34::5	40::6	47::3	51::5	57::2	60::3	64::7	72::6	79::3	83::3	87::4	92::7	100::3	104::5	110::2	113::3	117::2	120::3	124::6	131::13	145::4	150::5	156::1	158::5	164::3	168::3	172::6	179::5	185::4	190::3	194::5	200::7	208::14	223::1
+	token_offsets	sentence	1	offsets	226::4	231::4	236::9	246::3	250::5	256::13	270::1	272::3	276::10	287::5	293::5	299::7	307::2	310::3	314::12	327::8	336::3	340::4	345::8	354::4	359::5	365::15	381::3	385::13	399::7	407::1	409::2	412::5	418::2	421::3	425::12	438::2	441::8	450::1
+	token_offsets	sentence	2	offsets	453::2	456::6	463::3	467::1	468::0	470::2	473::7	481::1
+1	Also	also	also	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	nee	nee	nee	VVFIN	VVFIN	_	_	-1	41	_	MO	_	_
+3	,	,	,	$,	$,	_	_	-1	2	_	--	_	_
+4	wissense	wissense	wissense	NN	NN	_	acc|pl|masc	-1	5	_	OA	_	_
+5	nee	nee	nee	VVFIN	VVFIN	_	sg|3|pres|subj	-1	2	_	CJ	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	als	als	als	KOUS	KOUS	_	_	-1	20	_	CP	_	_
+8	ich	ich	ich	PPER	PPER	_	nom|sg|*|1	-1	20	_	SB	_	_
+9	heute	heute	heute	ADV	ADV	_	_	-1	20	_	MO	_	_
+10	Morgen	morgen	morgen	ADV	ADV	_	dat|pl|masc	-1	20	_	MO	_	_
+11	wie	wie	wie	KOKOM	KOKOM	_	_	-1	12	_	CM	_	_
+12	immer	immer	immer	ADV	ADV	_	_	-1	10	_	CC	_	_
+13	in	in	in	APPR	APPR	_	_	-1	20	_	MO	_	_
+14	der	die	die	ART	ART	_	dat|sg|fem	-1	16	_	NK	_	_
+15	letzten	letzt	letzt	ADJA	ADJA	_	dat|sg|fem|pos	-1	16	_	NK	_	_
+16	Minute	Minute	Minute	NN	NN	_	dat|sg|fem	-1	13	_	NK	_	_
+17	aus	aus	aus	APPR	APPR	_	_	-1	20	_	MO	_	_
+18	dem	die	die	ART	ART	_	dat|sg|neut	-1	19	_	NK	_	_
+19	Haus	Haus	Haus	NN	NN	_	dat|sg|neut	-1	17	_	NK	_	_
+20	huschte	huschen	huschen	VVFIN	VVFIN	_	sg|3|past|ind	-1	5	_	MO	_	_
+21	und	und	und	KON	KON	_	_	-1	20	_	CD	_	_
+22	flugs	flugs	flugs	ADV	ADV	_	_	-1	30	_	MO	_	_
+23	in	in	in	APPR	APPR	_	_	-1	30	_	MO	_	_
+24	das	die	die	ART	ART	_	acc|sg|neut	-1	29	_	NK	_	_
+25	in	in	in	APPR	APPR	_	_	-1	28	_	MO	_	_
+26	der	die	die	ART	ART	_	dat|sg|fem	-1	27	_	NK	_	_
+27	Garage	Garage	Garage	NN	NN	_	dat|sg|fem	-1	25	_	NK	_	_
+28	eingemummelte	eingemummelte	eingemummelte	ADJA	ADJA	_	nom|sg|masc|pos	-1	29	_	NK	_	_
+29	Auto	Auto	Auto	NN	NN	_	nom|sg|masc	-1	23	_	NK	_	_
+30	stieg	steigen	steigen	VVFIN	VVFIN	_	sg|3|past|ind	-1	21	_	CJ	_	_
+31	,	,	,	$,	$,	_	_	-1	30	_	--	_	_
+32	hatte	haben	haben	VAFIN	VAFIN	_	sg|1|past|ind	-1	0	_	--	_	_
+33	ich	ich	ich	PPER	PPER	_	nom|sg|*|1	-1	32	_	SB	_	_
+34	die	die	die	ART	ART	_	acc|pl|fem	-1	36	_	NK	_	_
+35	miesen	mies	mies	ADJA	ADJA	_	acc|pl|masc|pos	-1	36	_	NK	_	_
+36	Grade	Grad	Grad	NN	NN	_	acc|pl|masc	-1	41	_	OA	_	_
+37	noch	noch	noch	ADV	ADV	_	_	-1	39	_	MO	_	_
+38	gar	gar	gar	ADV	ADV	_	_	-1	39	_	MO	_	_
+39	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	41	_	NG	_	_
+40	richtig	richtig	richtig	ADJD	ADJD	_	pos	-1	41	_	MO	_	_
+41	mitgeschnitten	mitschneiden	mitschneiden	VVPP	VVPP	_	_	-1	32	_	OC	_	_
+42	.	.	.	$.	$.	_	_	-1	41	_	--	_	_
+
+1	Aber	aber	aber	KON	KON	_	_	-1	3	_	JU	_	_
+2	dann	dann	dann	ADV	ADV	_	_	-1	3	_	MO	_	_
+3	begegnete	begegnen	begegnen	VVFIN	VVFIN	_	sg|1|past|ind	-1	0	_	--	_	_
+4	ich	ich	ich	PPER	PPER	_	nom|sg|*|1	-1	3	_	SB	_	_
+5	einem	eine	eine	ART	ART	_	dat|sg|masc	-1	6	_	NK	_	_
+6	Geisterfahrer	Geisterfahrer	Geisterfahrer	NN	NN	_	dat|sg|masc	-1	3	_	DA	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	der	die	die	PRELS	PRELS	_	nom|sg|masc	-1	16	_	SB	_	_
+9	verstohlen	verstohlen	verstohlen	ADJD	ADJD	_	_	-1	16	_	MO	_	_
+10	durch	durch	durch	APPR	APPR	_	_	-1	16	_	MO	_	_
+11	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	12	_	NK	_	_
+12	Schlitz	Schlitz	Schlitz	NN	NN	_	acc|sg|masc	-1	10	_	NK	_	_
+13	in	in	in	APPR	APPR	_	_	-1	12	_	MNR	_	_
+14	der	die	die	ART	ART	_	dat|sg|fem	-1	15	_	NK	_	_
+15	Sichtscheibe	Sichtscheibe	Sichtscheibe	NN	NN	_	dat|sg|fem	-1	13	_	NK	_	_
+16	schielte	schielen	schielen	VVFIN	VVFIN	_	sg|3|past|ind	-1	6	_	RC	_	_
+17	und	und	und	KON	KON	_	_	-1	16	_	CD	_	_
+18	beim	bei	bei	APPRART	APPRART	_	dat|sg|neut	-1	25	_	MO	_	_
+19	Abbiegen	Abbiegen	Abbiegen	NN	NN	_	dat|sg|neut	-1	18	_	NK	_	_
+20	nach	nach	nach	APPR	APPR	_	_	-1	25	_	MO	_	_
+21	links	links	links	ADV	ADV	_	_	-1	20	_	NK	_	_
+22	vorsichtshalber	vorsichtshalber	vorsichtshalber	ADV	ADV	_	_	-1	25	_	MO	_	_
+23	das	die	die	ART	ART	_	nom|sg|neut	-1	24	_	NK	_	_
+24	Seitenfenster	Seitenfenster	Seitenfenster	NN	NN	_	nom|sg|neut	-1	25	_	SB	_	_
+25	öffnete	öffnen	öffnen	VVFIN	VVFIN	_	sg|3|past|ind	-1	17	_	CJ	_	_
+26	,	,	,	$,	$,	_	_	-1	25	_	--	_	_
+27	um	um	um	KOUI	KOUI	_	_	-1	33	_	CP	_	_
+28	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	33	_	NG	_	_
+29	in	in	in	APPR	APPR	_	_	-1	33	_	MO	_	_
+30	den	die	die	ART	ART	_	dat|pl|neut	-1	31	_	NK	_	_
+31	Gegenverkehr	Gegenverkehr	Gegenverkehr	NN	NN	_	dat|pl|neut	-1	29	_	NK	_	_
+32	zu	zu	zu	PTKZU	PTKZU	_	_	-1	33	_	PM	_	_
+33	brettern	brettern	brettern	VVINF	VVINF	_	_	-1	25	_	MO	_	_
+34	.	.	.	$.	$.	_	_	-1	33	_	--	_	_
+
+1	Da	da	da	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	wusste	wissen	wissen	VVFIN	VVFIN	_	sg|1|past|ind	-1	0	_	--	_	_
+3	ich	ich	ich	PPER	PPER	_	nom|sg|*|1	-1	2	_	SB	_	_
+4	:	:	:	$.	$.	_	_	-1	3	_	--	_	_
+5	Es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	6	_	SB	_	_
+6	wintert	wintert	wintert	VVFIN	VVFIN	_	sg|3|pres|ind	-1	2	_	OC	_	_
+7	.	.	.	$.	$.	_	_	-1	6	_	--	_	_
+
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::3	4::3	8::5	14::5	20::3	24::5	30::3	34::4	39::6	46::8	55::3	59::5	65::5	71::4	76::13	90::3	94::1	96::3	100::7	108::7	116::5	122::5	128::12	141::6	148::1	150::2	153::3	157::15	173::6	180::3	184::6	191::7	199::3	203::7	211::4	216::10	227::1	229::3	233::3	237::7	245::3	249::18	268::5	274::4	279::2	282::4	287::6	294::3	298::3	302::3	306::12	319::1
+1	Und	und	und	KON	KON	_	_	-1	4	_	JU	_	_
+2	wie	wie	wie	KOKOM	KOKOM	_	_	-1	3	_	CM	_	_
+3	immer	immer	immer	ADV	ADV	_	_	-1	4	_	MO	_	_
+4	haben	haben	haben	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+5	die	die	die	ART	ART	_	nom|pl|*	-1	6	_	NK	_	_
+6	einen	eine	eine	PIS	PIS	_	nom|pl|*	-1	4	_	SB	_	_
+7	die	die	die	ART	ART	_	nom|pl|*	-1	8	_	NK	_	_
+8	Zeit	Zeit	Zeit	NN	NN	_	acc|sg|fem	-1	10	_	OA	_	_
+9	völlig	völlig	völlig	ADJD	ADJD	_	pos	-1	10	_	MO	_	_
+10	verpasst	verpassen	verpassen	VVPP	VVPP	_	_	-1	4	_	OC	_	_
+11	und	und	und	KON	KON	_	_	-1	4	_	CD	_	_
+12	rasen	rasen	rasen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	11	_	CJ	_	_
+13	jetzt	jetzt	jetzt	ADV	ADV	_	_	-1	12	_	MO	_	_
+14	nach	nach	nach	APPR	APPR	_	_	-1	12	_	MO	_	_
+15	Winterrreifen	Winterrreifen	Winterrreifen	NN	NN	_	dat|pl|neut	-1	14	_	NK	_	_
+16	rum	rum	rum	PTKVZ	PTKVZ	_	_	-1	12	_	SVP	_	_
+17	,	,	,	$,	$,	_	_	-1	16	_	--	_	_
+18	die	die	die	PRELS	PRELS	_	nom|pl|*	-1	19	_	NK	_	_
+19	anderen	andere	andere	PIS	PIS	_	nom|pl|*	-1	20	_	SB	_	_
+20	wollten	wollen	wollen	VMFIN	VMFIN	_	pl|3|past|ind	-1	12	_	CJ	_	_
+21	schon	schon	schon	ADV	ADV	_	_	-1	22	_	MO	_	_
+22	lange	lang	lang	ADJA	ADJA	_	acc|sg|fem|pos	-1	23	_	NK	_	_
+23	Fensterspray	Fensterspray	Fensterspray	NN	NN	_	acc|sg|fem	-1	24	_	OA	_	_
+24	kaufen	kaufen	kaufen	VVINF	VVINF	_	_	-1	20	_	OC	_	_
+25	,	,	,	$,	$,	_	_	-1	24	_	--	_	_
+26	in	in	in	APPR	APPR	_	_	-1	36	_	MO	_	_
+27	den	die	die	ART	ART	_	dat|pl|masc	-1	28	_	NK	_	_
+28	Schuhgeschäften	Schuhgeschäft	Schuhgeschäft	NN	NN	_	dat|pl|masc	-1	26	_	NK	_	_
+29	werden	werden	werden	VAFIN	VAFIN	_	pl|3|pres|ind	-1	24	_	CJ	_	_
+30	die	die	die	ART	ART	_	nom|pl|masc	-1	32	_	NK	_	_
+31	warmen	warm	warm	ADJA	ADJA	_	nom|pl|masc|pos	-1	32	_	NK	_	_
+32	Stiefel	Stiefel	Stiefel	NN	NN	_	nom|pl|masc	-1	29	_	SB	_	_
+33	nun	nun	nun	ADV	ADV	_	_	-1	36	_	MO	_	_
+34	endlich	endlich	endlich	ADV	ADV	_	_	-1	36	_	MO	_	_
+35	doch	doch	doch	ADV	ADV	_	_	-1	36	_	MO	_	_
+36	anprobiert	anprobieren	anprobieren	VVPP	VVPP	_	_	-1	29	_	OC	_	_
+37	,	,	,	$,	$,	_	_	-1	36	_	--	_	_
+38	und	und	und	KON	KON	_	_	-1	29	_	CD	_	_
+39	die	die	die	ART	ART	_	nom|sg|fem	-1	40	_	NK	_	_
+40	Hompage	Hompage	Hompage	NN	NN	_	nom|sg|fem	-1	43	_	SB	_	_
+41	der	die	die	ART	ART	_	gen|pl|masc	-1	42	_	NK	_	_
+42	Standheizungsbauer	Standheizungsbauer	Standheizungsbauer	NN	NN	_	gen|pl|masc	-1	40	_	AG	_	_
+43	hatte	haben	haben	VAFIN	VAFIN	_	sg|3|past|ind	-1	38	_	CJ	_	_
+44	bald	bald	bald	ADV	ADV	_	_	-1	43	_	MO	_	_
+45	so	so	so	ADV	ADV	_	_	-1	46	_	MO	_	_
+46	viel	viele	viele	PIAT	PIAT	_	*|*|*	-1	47	_	NK	_	_
+47	Besuch	Besuch	Besuch	NN	NN	_	dat|sg|masc	-1	43	_	OA	_	_
+48	wie	wie	wie	KOKOM	KOKOM	_	_	-1	49	_	CM	_	_
+49	die	die	die	PDS	PDS	_	acc|sg|fem	-1	45	_	CC	_	_
+50	der	die	die	ART	ART	_	gen|sg|fem	-1	51	_	NK	_	_
+51	Wetterkarten	Wetterkarte	Wetterkarte	NN	NN	_	gen|sg|fem	-1	49	_	AG	_	_
+52	.	.	.	$.	$.	_	_	-1	51	_	--	_	_
+
+	sentence_start	0	90	191	258
+	token_offsets	sentence	0	offsets	0::8	9::8	18::3	22::5	28::3	32::9	42::1	44::12	57::1	59::2	62::8	71::5	77::9	87::1
+	token_offsets	sentence	1	offsets	90::2	93::4	98::3	102::6	109::3	113::1	115::7	123::1	125::7	133::3	137::3	141::4	146::2	149::4	154::4	159::3	163::5	169::4	174::3	178::2	181::6	188::1
+	token_offsets	sentence	2	offsets	191::4	196::2	199::7	207::1	209::4	214::3	218::13	232::6	239::3	243::5	249::5	255::1
+	token_offsets	sentence	3	offsets	258::10	269::2	272::6	279::1	281::5	287::4	292::5	298::1
+1	Übrigens	übrigens	übrigens	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	ertappte	ertappen	ertappen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+3	ich	ich	ich	PPER	PPER	_	nom|sg|*|1	-1	2	_	SB	_	_
+4	unter	unter	unter	APPR	APPR	_	_	-1	2	_	MO	_	_
+5	dem	die	die	ART	ART	_	dat|sg|neut	-1	6	_	NK	_	_
+6	Stichwort	Stichwort	Stichwort	NN	NN	_	dat|sg|neut	-1	4	_	NK	_	_
+7	"	"	"	$(	$(	_	_	-1	6	_	--	_	_
+8	Winterwetter	Winterwetter	Winterwetter	NN	NN	_	nom|sg|fem	-1	6	_	NK	_	_
+9	"	"	"	$(	$(	_	_	-1	8	_	--	_	_
+10	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	8	_	MNR	_	_
+11	Internet	Internet	Internet	NN	NN	_	dat|sg|neut	-1	10	_	NK	_	_
+12	echte	echt	echt	ADJA	ADJA	_	acc|pl|masc|pos	-1	13	_	NK	_	_
+13	Witzbolde	Witzbold	Witzbold	NN	NN	_	acc|pl|masc	-1	2	_	OA	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Da	da	da	ADV	ADV	_	_	-1	9	_	MO	_	_
+2	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	der	die	die	ART	ART	_	nom|sg|masc	-1	4	_	NK	_	_
+4	Surfer	Surfer	Surfer	NN	NN	_	nom|sg|masc	-1	2	_	SB	_	_
+5	auf	auf	auf	APPR	APPR	_	_	-1	9	_	MO	_	_
+6	"	"	"	$(	$(	_	_	-1	5	_	--	_	_
+7	Scherze	Scherz	Scherz	NN	NN	_	acc|sg|fem	-1	5	_	NK	_	_
+8	"	"	"	$(	$(	_	_	-1	7	_	--	_	_
+9	gelenkt	lenken	lenken	VVPP	VVPP	_	_	-1	2	_	OC	_	_
+10	und	und	und	KON	KON	_	_	-1	2	_	CD	_	_
+11	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	10	_	CJ	_	_
+12	dann	dann	dann	ADV	ADV	_	_	-1	21	_	MO	_	_
+13	je	je	je	ADV	ADV	_	_	-1	14	_	MO	_	_
+14	nach	nach	nach	APPR	APPR	_	_	-1	21	_	MO	_	_
+15	Lust	Lust	Lust	NN	NN	_	dat|sg|fem	-1	14	_	NK	_	_
+16	und	und	und	KON	KON	_	_	-1	15	_	CD	_	_
+17	Laune	Laune	Laune	NN	NN	_	dat|sg|fem	-1	16	_	CJ	_	_
+18	auch	auch	auch	ADV	ADV	_	_	-1	19	_	MO	_	_
+19	was	was	was	PIS	PIS	_	nom|sg|neut	-1	21	_	OA	_	_
+20	zu	zu	zu	PTKZU	PTKZU	_	_	-1	21	_	PM	_	_
+21	lachen	lachen	lachen	VVINF	VVINF	_	_	-1	11	_	OC	_	_
+22	.	.	.	$.	$.	_	_	-1	21	_	--	_	_
+
+1	Oder	oder	oder	KON	KON	_	_	-1	9	_	JU	_	_
+2	zu	zu	zu	PTKZU	PTKZU	_	_	-1	3	_	PM	_	_
+3	zittern	zittern	zittern	VVINF	VVINF	_	_	-1	9	_	CJ	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	denn	denn	denn	KON	KON	_	_	-1	9	_	CD	_	_
+6	ein	eine	eine	ART	ART	_	nom|sg|neut	-1	8	_	NK	_	_
+7	schnatterndes	schnatterndes	schnatterndes	ADJA	ADJA	_	nom|sg|neut|pos	-1	8	_	NK	_	_
+8	Gebiss	Gebiss	Gebiss	NN	NN	_	nom|sg|neut	-1	9	_	SB	_	_
+9	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+10	immer	immer	immer	ADV	ADV	_	_	-1	9	_	MO	_	_
+11	dabei	dabei	dabei	PAV	PAV	_	_	-1	9	_	NK	_	_
+12	.	.	.	$.	$.	_	_	-1	5	_	--	_	_
+
+1	Jedenfalls	jedenfalls	jedenfalls	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	5	_	MO	_	_
+3	Winter	Winter	Winter	NN	NN	_	dat|sg|masc	-1	2	_	NK	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	meint	meinen	meinen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+6	eure	euer	euer	PPOSAT	PPOSAT	_	nom|sg|*	-1	7	_	NK	_	_
+7	Jette	Jette	Jette	NE	NE	_	nom|sg|*	-1	5	_	SB	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+

@@ -1,0 +1,167 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::7
+1	K-Frage	K-Frage	K-Frage	NN	NN	_	nom|sg|fem	-1	0	_	--	_	_
+
+	sentence_start	0	151	346	374	419	547	661	771	821
+	token_offsets	sentence	0	offsets	0::10	11::1	13::3	17::3	21::10	32::1	34::3	38::21	60::2	63::2	66::4	71::2	74::5	80::4	85::3	89::6	96::7	104::3	108::17	126::3	130::5	136::11	148::1
+	token_offsets	sentence	1	offsets	151::6	158::3	162::6	169::2	172::1	174::4	179::3	183::9	193::2	196::10	207::2	210::4	215::5	221::12	234::6	241::6	248::7	256::1	258::6	265::10	276::2	279::4	284::5	290::9	300::2	303::18	322::3	326::7	334::8	343::1
+	token_offsets	sentence	2	offsets	346::5	352::3	356::14	371::1
+	token_offsets	sentence	3	offsets	374::7	382::4	387::4	392::7	400::3	404::3	408::7	416::1
+	token_offsets	sentence	4	offsets	419::11	431::3	435::3	439::3	443::3	447::17	465::2	468::6	475::6	482::1	484::4	489::3	493::3	497::5	503::3	507::9	517::1	519::7	527::1	529::9	539::4	544::1
+	token_offsets	sentence	5	offsets	547::3	551::6	558::3	562::3	566::3	570::7	578::5	584::10	595::1	597::4	602::2	605::3	609::3	613::19	633::3	637::20	658::1
+	token_offsets	sentence	6	offsets	661::21	683::5	689::5	695::3	699::1	701::5	707::8	716::3	720::1	722::3	726::8	735::9	745::3	749::3	753::6	760::7	768::1
+	token_offsets	sentence	7	offsets	771::12	784::5	790::7	798::2	801::3	805::5	811::6	818::1
+	token_offsets	sentence	8	offsets	821::3	825::6	832::3	836::8	845::3	849::6	856::8	865::3	869::13	883::1	885::15	901::1	903::12	916::9	926::1
+1	Angenommen	annehmen	annehmen	VVPP	VVPP	_	_	-1	22	_	MO	_	_
+2	,	,	,	$,	$,	_	_	-1	1	_	--	_	_
+3	nur	nur	nur	ADV	ADV	_	_	-1	5	_	MO	_	_
+4	mal	mal	mal	ADV	ADV	_	_	-1	5	_	MO	_	_
+5	angenommen	annehmen	annehmen	VVPP	VVPP	_	_	-1	1	_	CJ	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	der	die	die	ART	ART	_	nom|sg|masc	-1	8	_	NK	_	_
+8	CDU-Landesvorsitzende	CDU-Landesvorsitzende	CDU-Landesvorsitzende	NN	NN	_	nom|sg|masc	-1	13	_	SB	_	_
+9	S.	S.	S.	NE	NE	_	nom|sg|fem	-1	8	_	NK	_	_
+10	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	8	_	MNR	_	_
+11	Land	Land	Land	NN	NN	_	dat|sg|neut	-1	10	_	NK	_	_
+12	B.	B.	B.	NE	NE	_	dat|sg|neut	-1	11	_	NK	_	_
+13	hätte	haben	haben	VAFIN	VAFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+14	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	22	_	OA	_	_
+15	für	für	für	APPR	APPR	_	_	-1	22	_	MO	_	_
+16	Edmund	Edmund	Edmund	NE	NE	_	nom|sg|masc	-1	17	_	PNC	_	_
+17	Stoiber	Stoiber	Stoiber	NE	NE	_	acc|sg|masc	-1	15	_	NK	_	_
+18	als	als	als	KOKOM	KOKOM	_	_	-1	22	_	MO	_	_
+19	Kanzlerkandidaten	Kanzlerkandidat	Kanzlerkandidat	NN	NN	_	acc|sg|masc	-1	18	_	NK	_	_
+20	der	die	die	ART	ART	_	gen|sg|fem	-1	21	_	NK	_	_
+21	Union	Union	Union	NN	NN	_	gen|sg|fem	-1	19	_	AG	_	_
+22	entschieden	entscheiden	entscheiden	VVPP	VVPP	_	_	-1	13	_	OC	_	_
+23	.	.	.	$.	$.	_	_	-1	22	_	--	_	_
+
+1	Nehmen	nehmen	nehmen	VVFIN	VVFIN	_	pl|1|pres|ind	-1	19	_	MO	_	_
+2	wir	wir	wir	PPER	PPER	_	nom|pl|*|1	-1	1	_	SB	_	_
+3	weiter	weiter	weiter	ADV	ADV	_	_	-1	1	_	MO	_	_
+4	an	an	an	PTKVZ	PTKVZ	_	_	-1	1	_	SVP	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	dass	dass	dass	KOUS	KOUS	_	_	-1	17	_	CP	_	_
+7	die	die	die	ART	ART	_	nom|sg|fem	-1	8	_	NK	_	_
+8	CDU-Basis	CDU-Basis	CDU-Basis	NN	NN	_	nom|sg|fem	-1	17	_	SB	_	_
+9	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	8	_	MNR	_	_
+10	Bundesland	Bundesland	Bundesland	NN	NN	_	dat|sg|neut	-1	9	_	NK	_	_
+11	B.	B.	B.	NE	NE	_	nom|sg|*	-1	10	_	NK	_	_
+12	eher	eher	eher	ADV	ADV	_	_	-1	17	_	MO	_	_
+13	ihrer	ihr	ihr	PPOSAT	PPOSAT	_	dat|sg|fem	-1	14	_	NK	_	_
+14	Parteichefin	Parteichefin	Parteichefin	NN	NN	_	nom|sg|fem	-1	17	_	SB	_	_
+15	Angela	Angela	Angela	NE	NE	_	nom|sg|fem	-1	16	_	PNC	_	_
+16	Merkel	Merkel	Merkel	NE	NE	_	nom|sg|fem	-1	14	_	NK	_	_
+17	zuneigt	zuneigen	zuneigen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	1	_	MO	_	_
+18	,	,	,	$,	$,	_	_	-1	17	_	--	_	_
+19	dürfte	dürfen	dürfen	VMFIN	VMFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+20	Landeschef	Landeschef	Landeschef	NN	NN	_	nom|sg|masc	-1	19	_	SB	_	_
+21	S.	S.	S.	NE	NE	_	nom|sg|masc	-1	20	_	NK	_	_
+22	dann	dann	dann	ADV	ADV	_	_	-1	19	_	MO	_	_
+23	guten	gut	gut	ADJA	ADJA	_	gen|sg|neut|pos	-1	24	_	NK	_	_
+24	Gewissens	Gewissen	Gewissen	NN	NN	_	gen|sg|neut	-1	29	_	MO	_	_
+25	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	29	_	MO	_	_
+26	CDU-Bundesvorstand	CDU-Bundesvorstand	CDU-Bundesvorstand	NN	NN	_	dat|sg|masc	-1	25	_	NK	_	_
+27	für	für	für	APPR	APPR	_	_	-1	26	_	MNR	_	_
+28	Stoiber	Stoiber	Stoiber	NE	NE	_	acc|sg|*	-1	27	_	NK	_	_
+29	votieren	votieren	votieren	VVINF	VVINF	_	_	-1	19	_	OC	_	_
+30	?	?	?	$.	$.	_	_	-1	29	_	--	_	_
+
+1	Alles	alle	alle	PIS	PIS	_	nom|sg|neut	-1	0	_	--	_	_
+2	nur	nur	nur	ADV	ADV	_	_	-1	3	_	MO	_	_
+3	Gedankenspiele	Gedankenspiel	Gedankenspiel	NN	NN	_	acc|pl|neut	-1	1	_	APP	_	_
+4	.	.	.	$.	$.	_	_	-1	3	_	--	_	_
+
+1	Niemand	niemand	niemand	PIS	PIS	_	nom|sg|masc	-1	2	_	SB	_	_
+2	wagt	wagen	wagen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	2	_	OA	_	_
+4	bislang	bislang	bislang	ADV	ADV	_	_	-1	2	_	MO	_	_
+5	aus	aus	aus	APPR	APPR	_	_	-1	2	_	MO	_	_
+6	der	die	die	ART	ART	_	dat|sg|fem	-1	7	_	NK	_	_
+7	Deckung	Deckung	Deckung	NN	NN	_	dat|sg|fem	-1	5	_	NK	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+
+1	Tatsächlich	tatsächlich	tatsächlich	ADJD	ADJD	_	pos	-1	2	_	MO	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	die	die	die	ART	ART	_	nom|sg|fem	-1	4	_	NK	_	_
+4	Kür	Kür	Kür	NN	NN	_	nom|sg|fem	-1	2	_	SB	_	_
+5	des	die	die	ART	ART	_	gen|sg|masc	-1	6	_	NK	_	_
+6	Kanzlerkandidaten	Kanzlerkandidat	Kanzlerkandidat	NN	NN	_	gen|sg|masc	-1	4	_	AG	_	_
+7	so	so	so	ADV	ADV	_	_	-1	8	_	MO	_	_
+8	streng	streng	streng	ADJD	ADJD	_	pos	-1	9	_	MO	_	_
+9	geheim	geheim	geheim	ADJD	ADJD	_	pos	-1	2	_	PD	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	dass	dass	dass	KOUS	KOUS	_	_	-1	21	_	CP	_	_
+12	sie	sie	sie	PPER	PPER	_	nom|sg|fem|3	-1	21	_	SB	_	_
+13	nur	nur	nur	ADV	ADV	_	_	-1	14	_	MO	_	_
+14	unter	unter	unter	APPR	APPR	_	_	-1	20	_	MO	_	_
+15	dem	die	die	ART	ART	_	dat|sg|masc	-1	16	_	NK	_	_
+16	Code-Wort	Code-Wort	Code-Wort	NN	NN	_	dat|sg|masc	-1	14	_	NK	_	_
+17	"	"	"	$(	$(	_	_	-1	16	_	--	_	_
+18	K-Frage	K-Frage	K-Frage	NN	NN	_	nom|sg|fem	-1	16	_	PAR	_	_
+19	"	"	"	$(	$(	_	_	-1	18	_	--	_	_
+20	gehandelt	handeln	handeln	VVPP	VVPP	_	_	-1	21	_	OC	_	_
+21	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	7	_	CC	_	_
+22	.	.	.	$.	$.	_	_	-1	21	_	--	_	_
+
+1	Bei	bei	bei	APPR	APPR	_	_	-1	8	_	MO	_	_
+2	Lichte	Licht	Licht	NN	NN	_	dat|pl|fem	-1	1	_	NK	_	_
+3	und	und	und	KON	KON	_	_	-1	1	_	CD	_	_
+4	mit	mit	mit	APPR	APPR	_	_	-1	3	_	CJ	_	_
+5	dem	die	die	ART	ART	_	dat|sg|masc	-1	7	_	NK	_	_
+6	nötigen	nötig	nötig	ADJA	ADJA	_	dat|sg|masc|pos	-1	7	_	NK	_	_
+7	Ernst	Ernst	Ernst	NN	NN	_	dat|sg|masc	-1	4	_	NK	_	_
+8	betrachtet	betrachten	betrachten	VVPP	VVPP	_	_	-1	10	_	MO	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	gibt	geben	geben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+11	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	10	_	EP	_	_
+12	bei	bei	bei	APPR	APPR	_	_	-1	10	_	MO	_	_
+13	den	die	die	ART	ART	_	dat|pl|fem	-1	14	_	NK	_	_
+14	Spitzenkandidaturen	Spitzenkandidaturen	Spitzenkandidaturen	NN	NN	_	dat|pl|fem	-1	12	_	NK	_	_
+15	ein	eine	eine	ART	ART	_	acc|sg|neut	-1	16	_	NK	_	_
+16	Legitimationsproblem	Legitimationsproblem	Legitimationsproblem	NN	NN	_	acc|sg|neut	-1	10	_	OA	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
+1	Mitglieder-Entscheide	Mitglieder-Entscheide	Mitglieder-Entscheide	NN	NN	_	nom|pl|fem	-1	2	_	SB	_	_
+2	haben	haben	haben	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	schon	schon	schon	ADV	ADV	_	_	-1	16	_	MO	_	_
+4	oft	oft	oft	ADV	ADV	_	_	-1	16	_	MO	_	_
+5	-	-	-	$(	$(	_	_	-1	4	_	--	_	_
+6	siehe	sehen	sehen	VVIMP	VVIMP	_	sg|2|imp	-1	1	_	PAR	_	_
+7	Berliner	Berliner	Berliner	ADJA	ADJA	_	*|*|*|pos	-1	8	_	NK	_	_
+8	SPD	SPD	SPD	NE	NE	_	nom|sg|fem	-1	6	_	OA	_	_
+9	-	-	-	$(	$(	_	_	-1	8	_	--	_	_
+10	den	die	die	ART	ART	_	acc|sg|masc	-1	12	_	NK	_	_
+11	falschen	falsch	falsch	ADJA	ADJA	_	acc|sg|masc|pos	-1	12	_	NK	_	_
+12	Frontmann	Frontmann	Frontmann	NN	NN	_	acc|sg|masc	-1	16	_	OA	_	_
+13	auf	auf	auf	APPR	APPR	_	_	-1	16	_	MO	_	_
+14	den	die	die	ART	ART	_	acc|sg|masc	-1	15	_	NK	_	_
+15	Schild	Schild	Schild	NN	NN	_	acc|sg|masc	-1	13	_	NK	_	_
+16	gehoben	heben	heben	VVPP	VVPP	_	_	-1	2	_	OC	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
+1	Kungelrunden	Kungelrunden	Kungelrunden	NN	NN	_	nom|pl|masc	-1	2	_	SB	_	_
+2	gehen	gehen	gehen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	bewusst	bewusst	bewusst	ADJD	ADJD	_	pos	-1	2	_	MO	_	_
+4	an	an	an	APPR	APPR	_	_	-1	2	_	MO	_	_
+5	der	die	die	ART	ART	_	dat|sg|fem	-1	6	_	NK	_	_
+6	Basis	Basis	Basis	NN	NN	_	dat|sg|fem	-1	4	_	NK	_	_
+7	vorbei	vorbei	vorbei	PTKVZ	PTKVZ	_	_	-1	2	_	SVP	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Lösung	Lösung	Lösung	NN	NN	_	nom|sg|fem	-1	5	_	SB	_	_
+3	des	die	die	ART	ART	_	gen|sg|neut	-1	4	_	NK	_	_
+4	Problems	Problem	Problem	NN	NN	_	gen|sg|neut	-1	2	_	AG	_	_
+5	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+6	ebenso	ebenso	ebenso	ADV	ADV	_	_	-1	7	_	MO	_	_
+7	schlicht	schlicht	schlicht	ADJD	ADJD	_	pos	-1	5	_	PD	_	_
+8	wie	wie	wie	KOKOM	KOKOM	_	_	-1	14	_	CM	_	_
+9	anspruchsvoll	anspruchsvoll	anspruchsvoll	ADJD	ADJD	_	pos	-1	8	_	CJ	_	_
+10	:	:	:	$.	$.	_	_	-1	9	_	--	_	_
+11	unbezweifelbare	unbezweifelbar	unbezweifelbar	ADJA	ADJA	_	acc|pl|fem|pos	-1	14	_	NK	_	_
+12	,	,	,	$,	$,	_	_	-1	11	_	--	_	_
+13	überzeugende	überzeugend	überzeugend	ADJA	ADJA	_	acc|sg|fem|pos	-1	11	_	CJ	_	_
+14	Autorität	Autorität	Autorität	NN	NN	_	acc|sg|fem	-1	6	_	CC	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+

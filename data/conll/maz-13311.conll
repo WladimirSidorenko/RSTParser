@@ -1,0 +1,178 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::4	5::2	8::3	12::6	19::5
+1	Spaß	Spaß	Spaß	NN	NN	_	nom|sg|masc	-1	0	_	--	_	_
+2	in	in	in	APPR	APPR	_	_	-1	1	_	MNR	_	_
+3	der	die	die	ART	ART	_	dat|sg|fem	-1	5	_	NK	_	_
+4	ersten	erst	erst	ADJA	ADJA	_	dat|sg|fem|pos	-1	5	_	NK	_	_
+5	Reihe	Reihe	Reihe	NN	NN	_	dat|sg|fem	-1	2	_	NK	_	_
+
+	sentence_start	0	110	275	377	532	713	807	836
+	token_offsets	sentence	0	offsets	0::3	4::5	10::5	16::3	20::3	24::4	29::3	33::3	37::4	42::3	46::3	50::10	61::1	63::4	68::7	76::3	80::4	85::6	92::4	97::9	107::1
+	token_offsets	sentence	1	offsets	110::3	114::9	124::4	129::6	136::3	140::13	154::11	166::1	167::0	169::3	173::11	185::1	187::3	191::5	197::2	200::22	223::9	233::1	235::4	240::6	247::2	250::8	259::12	272::1
+	token_offsets	sentence	2	offsets	275::3	279::6	286::11	298::9	308::2	311::8	320::3	324::6	331::10	342::3	346::3	350::4	355::3	359::5	365::2	368::5	374::1
+	token_offsets	sentence	3	offsets	377::4	382::7	390::8	399::1	401::3	405::4	410::3	414::5	420::7	428::11	440::1	442::17	460::22	483::2	486::3	490::11	502::7	510::1	512::3	516::12	529::1
+	token_offsets	sentence	4	offsets	532::4	537::4	542::3	546::20	567::9	577::5	583::7	591::1	593::3	597::21	619::3	623::10	634::15	650::2	653::7	661::1	663::9	673::10	684::1	686::3	690::4	695::3	699::10	710::1
+	token_offsets	sentence	5	offsets	713::4	718::3	722::11	734::6	741::7	749::4	754::7	762::8	771::3	775::12	788::3	792::11	804::1
+	token_offsets	sentence	6	offsets	807::5	813::6	820::3	824::8	833::1
+	token_offsets	sentence	7	offsets	836::4	841::2	844::18	863::15	879::3	883::3	887::1	889::14	904::1	906::6	913::1	915::4	920::3	924::5	930::7	938::14	953::1	955::4	960::3	964::16	981::6	988::4	993::4	998::22	1021::8	1030::3	1034::3	1038::6	1045::1
+1	Das	die	die	ART	ART	_	nom|sg|neut	-1	3	_	NK	_	_
+2	ganze	ganz	ganz	ADJA	ADJA	_	nom|sg|neut|pos	-1	3	_	NK	_	_
+3	Leben	Leben	Leben	NN	NN	_	nom|sg|neut	-1	4	_	SB	_	_
+4	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	6	_	NK	_	_
+6	Quiz	Quiz	Quiz	NN	NN	_	nom|sg|masc	-1	4	_	SB	_	_
+7	und	und	und	KON	KON	_	_	-1	4	_	CD	_	_
+8	wir	wir	wir	PPER	PPER	_	nom|pl|*|1	-1	9	_	SB	_	_
+9	sind	sein	sein	VAFIN	VAFIN	_	pl|1|pres|ind	-1	7	_	CJ	_	_
+10	nur	nur	nur	ADV	ADV	_	_	-1	12	_	MO	_	_
+11	die	die	die	ART	ART	_	acc|pl|masc	-1	12	_	NK	_	_
+12	Kandidaten	Kandidat	Kandidat	NN	NN	_	acc|pl|masc	-1	9	_	PD	_	_
+13	,	,	,	$,	$,	_	_	-1	12	_	--	_	_
+14	sang	singen	singen	VVFIN	VVFIN	_	sg|3|past|ind	-1	9	_	CJ	_	_
+15	bereits	bereits	bereits	ADV	ADV	_	_	-1	16	_	MO	_	_
+16	vor	vor	vor	APPR	APPR	_	_	-1	14	_	MO	_	_
+17	zehn	zehn	zehn	CARD	CARD	_	_	-1	18	_	NK	_	_
+18	Jahren	Jahr	Jahr	NN	NN	_	dat|pl|neut	-1	16	_	NK	_	_
+19	Hape	Hape	Hape	ADJA	ADJA	_	acc|sg|fem|pos	-1	20	_	NK	_	_
+20	Kerkeling	Kerkeling	Kerkeling	NN	NN	_	acc|sg|fem	-1	14	_	OA	_	_
+21	.	.	.	$.	$.	_	_	-1	20	_	--	_	_
+
+1	Nun	nun	nun	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	bestätigt	bestätigen	bestätigen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	eine	eine	eine	ART	ART	_	nom|sg|fem	-1	4	_	NK	_	_
+4	Studie	Studie	Studie	NN	NN	_	nom|sg|fem	-1	2	_	SB	_	_
+5	den	die	die	ART	ART	_	acc|sg|masc	-1	7	_	NK	_	_
+6	weitsichtigen	weitsichtig	weitsichtig	ADJA	ADJA	_	acc|sg|masc|pos	-1	7	_	NK	_	_
+7	Entertainer	Entertainer	Entertainer	NN	NN	_	acc|sg|masc	-1	2	_	OA	_	_
+8	:	:	:	$.	$.	_	_	-1	7	_	--	_	_
+9	Die	die	die	ART	ART	_	acc|sg|fem	-1	10	_	NK	_	_
+10	Entwicklung	Entwicklung	Entwicklung	NN	NN	_	acc|sg|fem	-1	18	_	SB	_	_
+11	-	-	-	$(	$(	_	_	-1	10	_	--	_	_
+12	vor	vor	vor	APPR	APPR	_	_	-1	14	_	MO	_	_
+13	allem	alle	alle	PIS	PIS	_	dat|sg|neut	-1	12	_	NK	_	_
+14	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	10	_	MNR	_	_
+15	öffentlich-rechtlichen	Öffentlich-rechtlich	Öffentlich-rechtlich	ADJA	ADJA	_	dat|sg|masc|pos	-1	16	_	NK	_	_
+16	Fernsehen	Fernsehen	Fernsehen	NN	NN	_	dat|sg|masc	-1	14	_	NK	_	_
+17	-	-	-	$(	$(	_	_	-1	16	_	--	_	_
+18	geht	gehen	gehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	2	_	CJ	_	_
+19	stramm	stramm	stramm	ADJD	ADJD	_	nom|sg|neut	-1	18	_	MO	_	_
+20	in	in	in	APPR	APPR	_	_	-1	18	_	MO	_	_
+21	Richtung	Richtung	Richtung	NN	NN	_	acc|sg|fem	-1	20	_	NK	_	_
+22	Unterhaltung	Unterhaltung	Unterhaltung	NN	NN	_	acc|sg|fem	-1	21	_	NK	_	_
+23	.	.	.	$.	$.	_	_	-1	22	_	--	_	_
+
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	2	_	NK	_	_
+2	Anteil	Anteil	Anteil	NN	NN	_	nom|sg|masc	-1	7	_	SB	_	_
+3	politischer	politisch	politisch	ADJA	ADJA	_	gen|pl|fem|pos	-1	4	_	NK	_	_
+4	Sendungen	Sendung	Sendung	NN	NN	_	gen|pl|fem	-1	2	_	AG	_	_
+5	am	an	an	APPRART	APPRART	_	dat|sg|neut	-1	2	_	MNR	_	_
+6	Programm	Programm	Programm	NN	NN	_	dat|sg|neut	-1	5	_	NK	_	_
+7	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+8	weiter	weiter	weiter	ADV	ADV	_	_	-1	9	_	MO	_	_
+9	abgenommen	abnehmen	abnehmen	VVPP	VVPP	_	_	-1	7	_	OC	_	_
+10	und	und	und	KON	KON	_	_	-1	7	_	CD	_	_
+11	ein	eine	eine	ART	ART	_	nom|sg|neut	-1	12	_	NK	_	_
+12	Ende	Ende	Ende	NN	NN	_	nom|sg|neut	-1	13	_	SB	_	_
+13	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	10	_	CJ	_	_
+14	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	13	_	NG	_	_
+15	in	in	in	APPR	APPR	_	_	-1	13	_	MO	_	_
+16	Sicht	Sicht	Sicht	NN	NN	_	dat|sg|fem	-1	15	_	NK	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
+1	Dass	dass	dass	KOUS	KOUS	_	_	-1	17	_	CP	_	_
+2	private	privat	privat	ADJA	ADJA	_	nom|pl|masc|pos	-1	3	_	NK	_	_
+3	Anbieter	Anbieter	Anbieter	NN	NN	_	nom|pl|masc	-1	17	_	SB	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	die	die	die	PRELS	PRELS	_	nom|pl|masc	-1	10	_	SB	_	_
+6	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	10	_	OA	_	_
+7	nur	nur	nur	ADV	ADV	_	_	-1	8	_	MO	_	_
+8	durch	durch	durch	APPR	APPR	_	_	-1	10	_	MO	_	_
+9	Werbung	Werbung	Werbung	NN	NN	_	acc|sg|fem	-1	8	_	NK	_	_
+10	finanzieren	finanzieren	finanzieren	VVINF	VVINF	_	_	-1	3	_	RC	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	publikumswirksame	publikumswirksam	publikumswirksam	ADJA	ADJA	_	acc|pl|fem|pos	-1	13	_	NK	_	_
+13	Unterhaltungssendungen	Unterhaltungssendung	Unterhaltungssendung	NN	NN	_	acc|pl|fem	-1	17	_	OA	_	_
+14	in	in	in	APPR	APPR	_	_	-1	17	_	MO	_	_
+15	den	die	die	ART	ART	_	acc|sg|masc	-1	16	_	NK	_	_
+16	Vordergrund	Vordergrund	Vordergrund	NN	NN	_	acc|sg|masc	-1	14	_	NK	_	_
+17	stellen	stellen	stellen	VVINF	VVINF	_	pl|3|pres|ind	-1	19	_	SB	_	_
+18	,	,	,	$,	$,	_	_	-1	17	_	--	_	_
+19	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+20	verständlich	verständlich	verständlich	ADJD	ADJD	_	pos	-1	19	_	PD	_	_
+21	.	.	.	$.	$.	_	_	-1	20	_	--	_	_
+
+1	Dass	dass	dass	KOUS	KOUS	_	_	-1	18	_	CP	_	_
+2	aber	aber	aber	ADV	ADV	_	_	-1	5	_	MO	_	_
+3	die	die	die	ART	ART	_	nom|pl|masc	-1	5	_	NK	_	_
+4	gebührenfinanzierten	gebührenfinanziert	gebührenfinanziert	ADJA	ADJA	_	nom|pl|masc|pos	-1	5	_	NK	_	_
+5	Programme	Programm	Programm	NN	NN	_	nom|pl|masc	-1	18	_	SB	_	_
+6	ihren	ihr	ihr	PPOSAT	PPOSAT	_	acc|sg|masc	-1	7	_	NK	_	_
+7	Auftrag	Auftrag	Auftrag	NN	NN	_	acc|sg|masc	-1	18	_	OA	_	_
+8	-	-	-	$(	$(	_	_	-1	7	_	--	_	_
+9	die	die	die	ART	ART	_	acc|sg|fem	-1	13	_	NK	_	_
+10	fernsehpublizistische	fernsehpublizistische	fernsehpublizistische	ADJA	ADJA	_	acc|sg|fem|pos	-1	13	_	NK	_	_
+11	und	und	und	KON	KON	_	_	-1	10	_	CD	_	_
+12	politische	politisch	politisch	ADJA	ADJA	_	acc|sg|fem|pos	-1	11	_	CJ	_	_
+13	Grundversorgung	Grundversorgung	Grundversorgung	NN	NN	_	acc|sg|fem	-1	15	_	OA	_	_
+14	zu	zu	zu	PTKZU	PTKZU	_	_	-1	15	_	PM	_	_
+15	sichern	sichern	sichern	VVINF	VVINF	_	_	-1	7	_	OC	_	_
+16	-	-	-	$(	$(	_	_	-1	15	_	--	_	_
+17	zunehmend	zunehmend	zunehmend	ADJD	ADJD	_	pos	-1	18	_	MO	_	_
+18	ignorieren	ignorieren	ignorieren	VVINF	VVINF	_	pl|3|pres|ind	-1	20	_	SB	_	_
+19	,	,	,	$,	$,	_	_	-1	18	_	--	_	_
+20	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+21	mehr	mehr	mehr	ADV	ADV	_	*|*|*	-1	20	_	MO	_	_
+22	als	als	als	KOKOM	KOKOM	_	_	-1	23	_	CM	_	_
+23	bedenklich	bedenklich	bedenklich	ADJD	ADJD	_	pos	-1	21	_	CC	_	_
+24	.	.	.	$.	$.	_	_	-1	23	_	--	_	_
+
+1	Denn	denn	denn	KON	KON	_	_	-1	5	_	JU	_	_
+2	das	die	die	ART	ART	_	nom|sg|neut	-1	4	_	NK	_	_
+3	öffentliche	öffentlich	öffentlich	ADJA	ADJA	_	nom|sg|neut|pos	-1	4	_	NK	_	_
+4	Mandat	Mandat	Mandat	NN	NN	_	nom|sg|neut	-1	5	_	SB	_	_
+5	fordert	fordern	fordern	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+6	eine	eine	eine	ART	ART	_	acc|sg|fem	-1	8	_	NK	_	_
+7	gesunde	gesund	gesund	ADJA	ADJA	_	acc|sg|fem|pos	-1	8	_	NK	_	_
+8	Mischung	Mischung	Mischung	NN	NN	_	acc|sg|fem	-1	5	_	OA	_	_
+9	von	von	von	APPR	APPR	_	_	-1	8	_	PG	_	_
+10	Unterhaltung	Unterhaltung	Unterhaltung	NN	NN	_	dat|sg|fem	-1	9	_	NK	_	_
+11	und	und	und	KON	KON	_	_	-1	10	_	CD	_	_
+12	Information	Information	Information	NN	NN	_	dat|sg|fem	-1	11	_	CJ	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Dafür	dafür	dafür	PAV	PAV	_	_	-1	3	_	NK	_	_
+2	zahlen	zahlen	zahlen	VVFIN	VVFIN	_	pl|1|pres|ind	-1	0	_	--	_	_
+3	wir	wir	wir	PPER	PPER	_	nom|pl|*|1	-1	2	_	SB	_	_
+4	Gebühren	Gebühr	Gebühr	NN	NN	_	acc|pl|fem	-1	2	_	OA	_	_
+5	.	.	.	$.	$.	_	_	-1	4	_	--	_	_
+
+1	Wenn	wenn	wenn	KOUS	KOUS	_	_	-1	10	_	CP	_	_
+2	an	an	an	APPR	APPR	_	_	-1	10	_	MO	_	_
+3	Katastrophen-Tagen	Katastrophen-Tagen	Katastrophen-Tagen	NN	NN	_	acc|pl|fem	-1	2	_	NK	_	_
+4	Sondersendungen	Sondersendung	Sondersendung	NN	NN	_	acc|pl|fem	-1	10	_	SB	_	_
+5	wie	wie	wie	KOKOM	KOKOM	_	_	-1	8	_	CM	_	_
+6	der	die	die	ART	ART	_	dat|sg|fem	-1	8	_	NK	_	_
+7	"	"	"	$(	$(	_	_	-1	6	_	--	_	_
+8	ARD-Brennpunkt	ARD-Brennpunkt	ARD-Brennpunkt	NN	NN	_	nom|sg|masc	-1	4	_	CC	_	_
+9	"	"	"	$(	$(	_	_	-1	8	_	--	_	_
+10	laufen	laufen	laufen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	12	_	MO	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	kann	können	können	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+13	das	die	die	PDS	PDS	_	nom|sg|neut	-1	12	_	SB	_	_
+14	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	12	_	NG	_	_
+15	darüber	darüber	darüber	PAV	PAV	_	_	-1	16	_	NK	_	_
+16	hinwegtäuschen	hinwegtäuschen	hinwegtäuschen	VVINF	VVINF	_	_	-1	12	_	OC	_	_
+17	,	,	,	$,	$,	_	_	-1	16	_	--	_	_
+18	dass	dass	dass	KOUS	KOUS	_	_	-1	28	_	CP	_	_
+19	die	die	die	ART	ART	_	nom|sg|fem	-1	20	_	NK	_	_
+20	Spaßgesellschaft	Spaßgesellschaft	Spaßgesellschaft	NN	NN	_	nom|sg|fem	-1	28	_	SB	_	_
+21	längst	längst	längst	ADV	ADV	_	_	-1	28	_	MO	_	_
+22	auch	auch	auch	ADV	ADV	_	_	-1	23	_	MO	_	_
+23	beim	bei	bei	APPRART	APPRART	_	dat|sg|masc	-1	28	_	MO	_	_
+24	öffentlich-rechtlichen	Öffentlich-rechtlich	Öffentlich-rechtlich	ADJA	ADJA	_	dat|sg|masc|pos	-1	25	_	NK	_	_
+25	Rundfunk	Rundfunk	Rundfunk	NN	NN	_	dat|sg|masc	-1	23	_	NK	_	_
+26	den	die	die	ART	ART	_	acc|sg|masc	-1	27	_	NK	_	_
+27	Ton	Ton	Ton	NN	NN	_	acc|sg|masc	-1	28	_	OA	_	_
+28	angibt	angeben	angeben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	12	_	MO	_	_
+29	.	.	.	$.	$.	_	_	-1	28	_	--	_	_
+

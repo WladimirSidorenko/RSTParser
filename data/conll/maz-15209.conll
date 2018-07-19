@@ -1,0 +1,230 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::6	7::6	14::6
+1	Diener	Diener	Diener	NN	NN	_	nom|pl|masc	-1	0	_	--	_	_
+2	vieler	viele	viele	PIAT	PIAT	_	nom|pl|masc	-1	3	_	NK	_	_
+3	Herren	Herr	Herr	NN	NN	_	nom|pl|masc	-1	1	_	AG	_	_
+
+	sentence_start	0	52	96	289	346	380	404	464
+	token_offsets	sentence	0	offsets	0::3	4::2	7::5	13::5	19::6	26::6	33::1	35::3	39::2	42::6	49::1
+	token_offsets	sentence	1	offsets	52::3	56::2	59::5	65::5	71::6	78::4	83::4	88::4	93::1
+	token_offsets	sentence	2	offsets	96::3	100::9	110::20	131::15	147::1	149::3	153::1	155::9	165::7	173::8	182::3	186::17	204::12	217::1	218::0	220::2	223::4	228::12	241::1	243::3	247::9	257::3	261::6	268::10	279::6	286::1
+	token_offsets	sentence	3	offsets	289::3	293::4	298::3	302::3	306::5	312::5	318::13	332::10	343::1
+	token_offsets	sentence	4	offsets	346::4	351::5	357::2	360::4	365::3	369::7	377::1
+	token_offsets	sentence	5	offsets	380::3	384::8	393::3	397::3	401::1
+	token_offsets	sentence	6	offsets	404::4	409::13	423::5	429::5	435::4	440::8	449::3	453::3	457::3	461::1
+	token_offsets	sentence	7	offsets	464::3	468::7	476::11	488::6	495::7	503::1	505::3	509::6	516::4	521::8	530::4	535::11	547::3	551::3	555::9	565::1
+1	Wer	wer	wer	PWS	PWS	_	nom|sg|masc	-1	6	_	SB	_	_
+2	es	es	es	PPER	PPER	_	acc|sg|neut|3	-1	5	_	OA	_	_
+3	allen	alle	alle	PIAT	PIAT	_	dat|pl|*	-1	4	_	NK	_	_
+4	Recht	Recht	Recht	NN	NN	_	acc|sg|neut	-1	5	_	OA	_	_
+5	machen	machen	machen	VVINF	VVINF	_	_	-1	6	_	OC	_	_
+6	möchte	mögen	mögen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	8	_	SB	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+9	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	8	_	SB	_	_
+10	schwer	schwer	schwer	ADJD	ADJD	_	pos	-1	8	_	MO	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Wer	wer	wer	PWS	PWS	_	nom|sg|masc	-1	6	_	SB	_	_
+2	es	es	es	PPER	PPER	_	acc|sg|neut|3	-1	5	_	OA	_	_
+3	allen	alle	alle	PIAT	PIAT	_	dat|pl|*	-1	4	_	NK	_	_
+4	Recht	Recht	Recht	NN	NN	_	acc|sg|neut	-1	5	_	OA	_	_
+5	machen	machen	machen	VVINF	VVINF	_	_	-1	6	_	OC	_	_
+6	muss	müssen	müssen	VMFIN	VMFIN	_	_	-1	0	_	--	_	_
+7	noch	noch	noch	ADV	ADV	_	_	-1	8	_	MO	_	_
+8	mehr	mehr	mehr	ADV	ADV	_	_	-1	6	_	SB	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	3	_	NK	_	_
+2	Regionale	regional	regional	ADJA	ADJA	_	nom|sg|fem|pos	-1	3	_	NK	_	_
+3	Verkehrsgesellschaft	Verkehrsgesellschaft	Verkehrsgesellschaft	NN	NN	_	nom|sg|fem	-1	8	_	SB	_	_
+4	Dahme-Spreewald	Dahme-Spreewald	Dahme-Spreewald	NN	NN	_	nom|sg|neut	-1	3	_	NK	_	_
+5	(	(	(	$(	$(	_	_	-1	4	_	--	_	_
+6	RVS	RVS	RVS	NN	NN	_	nom|sg|fem	-1	4	_	APP	_	_
+7	)	)	)	$(	$(	_	_	-1	6	_	--	_	_
+8	befördert	befördern	befördern	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+9	täglich	täglich	täglich	ADJD	ADJD	_	pos	-1	8	_	MO	_	_
+10	Menschen	Mensch	Mensch	NN	NN	_	acc|pl|masc	-1	8	_	OA	_	_
+11	mit	mit	mit	APPR	APPR	_	_	-1	10	_	MNR	_	_
+12	unterschiedlichen	unterschiedlich	unterschiedlich	ADJA	ADJA	_	dat|pl|neut|pos	-1	13	_	NK	_	_
+13	Bedürfnissen	Bedürfnis	Bedürfnis	NN	NN	_	dat|pl|neut	-1	11	_	NK	_	_
+14	:	:	:	$.	$.	_	_	-1	13	_	--	_	_
+15	Da	da	da	ADV	ADV	_	_	-1	16	_	MO	_	_
+16	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	8	_	CJ	_	_
+17	Berufstätige	Berufstätige	Berufstätige	NN	NN	_	nom|pl|*	-1	16	_	SB	_	_
+18	,	,	,	$,	$,	_	_	-1	17	_	--	_	_
+19	die	die	die	PRELS	PRELS	_	nom|pl|*	-1	23	_	SB	_	_
+20	pünktlich	pünktlich	pünktlich	ADJD	ADJD	_	pos	-1	23	_	MO	_	_
+21	zur	zu	zu	APPRART	APPRART	_	dat|sg|fem	-1	23	_	MO	_	_
+22	Arbeit	Arbeit	Arbeit	NN	NN	_	dat|sg|fem	-1	21	_	NK	_	_
+23	erscheinen	erscheinen	erscheinen	VVINF	VVINF	_	_	-1	24	_	OC	_	_
+24	müssen	müssen	müssen	VMINF	VMINF	_	pl|3|pres|ind	-1	16	_	OC	_	_
+25	.	.	.	$.	$.	_	_	-1	24	_	--	_	_
+
+1	Sie	Sie	Sie	PPER	PPER	_	nom|pl|*|3	-1	2	_	SB	_	_
+2	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	oft	oft	oft	ADV	ADV	_	_	-1	8	_	MO	_	_
+4	auf	auf	auf	APPR	APPR	_	_	-1	8	_	MO	_	_
+5	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	7	_	NK	_	_
+6	guten	gut	gut	ADJA	ADJA	_	acc|sg|masc|pos	-1	7	_	NK	_	_
+7	Bahnanschluss	Bahnanschluss	Bahnanschluss	NN	NN	_	acc|sg|masc	-1	4	_	NK	_	_
+8	angewiesen	anweisen	anweisen	VVPP	VVPP	_	_	-1	2	_	PD	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+1	Dann	dann	dann	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	wären	sein	sein	VAFIN	VAFIN	_	pl|3|past|subj	-1	0	_	--	_	_
+3	da	da	da	ADV	ADV	_	_	-1	2	_	MO	_	_
+4	noch	noch	noch	ADV	ADV	_	_	-1	2	_	MO	_	_
+5	die	die	die	ART	ART	_	acc|pl|masc	-1	6	_	NK	_	_
+6	Schüler	Schüler	Schüler	NN	NN	_	acc|pl|masc	-1	2	_	SB	_	_
+7	.	.	.	$.	$.	_	_	-1	6	_	--	_	_
+
+1	Sie	Sie	Sie	PPER	PPER	_	nom|pl|*|3	-1	2	_	SB	_	_
+2	brauchen	brauchen	brauchen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	die	die	die	ART	ART	_	acc|sg|fem	-1	4	_	NK	_	_
+4	RVS	RVS	RVS	NN	NN	_	acc|sg|fem	-1	2	_	OA	_	_
+5	.	.	.	$.	$.	_	_	-1	4	_	--	_	_
+
+1	Denn	denn	denn	KON	KON	_	_	-1	3	_	JU	_	_
+2	Minderjährige	Minderjährige	Minderjährige	NN	NN	_	nom|pl|*	-1	3	_	SB	_	_
+3	haben	haben	haben	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+4	keine	keine	keine	PIAT	PIAT	_	acc|sg|fem	-1	5	_	NK	_	_
+5	Wahl	Wahl	Wahl	NN	NN	_	acc|sg|fem	-1	3	_	OA	_	_
+6	zwischen	zwischen	zwischen	APPR	APPR	_	_	-1	5	_	MNR	_	_
+7	Pkw	Pkw	Pkw	NN	NN	_	dat|sg|masc	-1	6	_	NK	_	_
+8	und	und	und	KON	KON	_	_	-1	7	_	CD	_	_
+9	Bus	Bus	Bus	NN	NN	_	dat|sg|masc	-1	8	_	CJ	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+1	Den	die	die	ART	ART	_	acc|sg|masc	-1	3	_	NK	_	_
+2	dritten	dritt	dritt	ADJA	ADJA	_	acc|sg|masc|pos	-1	3	_	NK	_	_
+3	Schwerpunkt	Schwerpunkt	Schwerpunkt	NN	NN	_	acc|sg|masc	-1	4	_	OA	_	_
+4	bilden	bilden	bilden	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+5	Rentner	Rentner	Rentner	NN	NN	_	nom|pl|masc	-1	4	_	OA	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	die	die	die	PRELS	PRELS	_	nom|pl|masc	-1	15	_	SB	_	_
+8	häufig	häufig	häufig	ADJD	ADJD	_	pos	-1	15	_	MO	_	_
+9	ihre	ihr	ihr	PPOSAT	PPOSAT	_	acc|pl|*	-1	10	_	NK	_	_
+10	Einkäufe	Einkauf	Einkauf	NN	NN	_	acc|pl|masc	-1	15	_	OA	_	_
+11	oder	oder	oder	KON	KON	_	_	-1	10	_	CD	_	_
+12	Arztbesuche	Arztbesuch	Arztbesuch	NN	NN	_	acc|pl|neut	-1	11	_	CJ	_	_
+13	per	per	per	APPR	APPR	_	_	-1	15	_	MO	_	_
+14	Bus	Bus	Bus	NN	NN	_	acc|sg|masc	-1	13	_	NK	_	_
+15	erledigen	erledigen	erledigen	VVINF	VVINF	_	pl|3|pres|ind	-1	5	_	RC	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+	sentence_start	0	83	128	194	310	413	510	568
+	token_offsets	sentence	0	offsets	0::3	4::10	15::5	21::4	26::15	42::7	50::2	53::6	60::1	62::7	70::9	80::1
+	token_offsets	sentence	1	offsets	83::4	88::3	92::3	96::4	101::14	116::8	125::1
+	token_offsets	sentence	2	offsets	128::5	134::6	141::3	145::10	156::6	163::1	165::4	170::3	174::11	186::4	191::1
+	token_offsets	sentence	3	offsets	194::7	202::3	206::2	209::10	220::1	222::4	227::3	231::3	235::4	240::6	247::1	249::2	252::7	260::3	264::7	272::3	276::17	294::2	297::9	307::1
+	token_offsets	sentence	4	offsets	310::3	314::13	328::9	338::7	346::14	361::1	362::0	364::3	368::3	372::7	380::8	389::5	395::11	407::2	410::1
+	token_offsets	sentence	5	offsets	413::9	423::10	434::6	441::1	443::4	448::4	453::6	460::7	468::2	471::5	477::3	481::11	493::6	500::6	507::1
+	token_offsets	sentence	6	offsets	510::3	514::4	519::2	522::6	529::3	533::9	543::3	547::7	555::9	565::1
+	token_offsets	sentence	7	offsets	568::3	572::5	578::1	580::3	584::4	589::2	592::8	601::9	611::1
+1	Den	die	die	ART	ART	_	acc|sg|masc	-1	2	_	NK	_	_
+2	Interessen	Interesse	Interesse	NN	NN	_	acc|sg|masc	-1	6	_	OA	_	_
+3	aller	alle	alle	PIAT	PIAT	_	gen|pl|masc	-1	5	_	NK	_	_
+4	drei	drei	drei	CARD	CARD	_	_	-1	5	_	NK	_	_
+5	Fahrgastgruppen	Fahrgastgruppen	Fahrgastgruppen	NN	NN	_	acc|pl|fem	-1	2	_	AG	_	_
+6	gerecht	rechen	rechen	VVPP	VVPP	_	pos	-1	8	_	OC	_	_
+7	zu	zu	zu	PTKZU	PTKZU	_	_	-1	8	_	PM	_	_
+8	werden	werden	werden	VAINF	VAINF	_	_	-1	10	_	SB	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	scheint	scheinen	scheinen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+11	unmöglich	unmöglich	unmöglich	ADJD	ADJD	_	pos	-1	10	_	MO	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Denn	denn	denn	KON	KON	_	_	-1	4	_	JU	_	_
+2	die	die	die	ART	ART	_	nom|sg|fem	-1	3	_	NK	_	_
+3	RVS	RVS	RVS	NN	NN	_	nom|sg|fem	-1	4	_	SB	_	_
+4	muss	müssen	müssen	VMFIN	VMFIN	_	gen|sg|*	-1	0	_	--	_	_
+5	wirtschaftlich	wirtschaftlich	wirtschaftlich	ADJD	ADJD	_	pos	-1	6	_	MO	_	_
+6	arbeiten	arbeiten	arbeiten	VVINF	VVINF	_	_	-1	4	_	OC	_	_
+7	.	.	.	$.	$.	_	_	-1	6	_	--	_	_
+
+1	Busse	Busse	Busse	NE	NE	_	nom|pl|masc	-1	2	_	SB	_	_
+2	können	können	können	VMFIN	VMFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	nur	nur	nur	ADV	ADV	_	_	-1	4	_	MO	_	_
+4	eingesetzt	einsetzen	einsetzen	VVPP	VVPP	_	_	-1	5	_	OC	_	_
+5	werden	werden	werden	VAINF	VAINF	_	_	-1	2	_	OC	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	10	_	CP	_	_
+8	sie	sie	sie	PPER	PPER	_	nom|sg|fem|3	-1	10	_	SB	_	_
+9	ausgelastet	auslasten	auslasten	VVPP	VVPP	_	_	-1	10	_	PD	_	_
+10	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	2	_	MO	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Deshalb	deshalb	deshalb	PAV	PAV	_	_	-1	2	_	NK	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	SB	_	_
+4	lobenswert	lobenswert	lobenswert	ADJD	ADJD	_	pos	-1	2	_	PD	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	dass	dass	dass	KOUS	KOUS	_	_	-1	10	_	CP	_	_
+7	die	die	die	ART	ART	_	nom|sg|fem	-1	8	_	NK	_	_
+8	RVS	RVS	RVS	NN	NN	_	nom|sg|fem	-1	10	_	SB	_	_
+9	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	10	_	OA	_	_
+10	bemüht	bemühen	bemühen	VVPP	VVPP	_	_	-1	4	_	MO	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	so	so	so	ADV	ADV	_	_	-1	13	_	MO	_	_
+13	schnell	schnell	schnell	ADJD	ADJD	_	pos	-1	19	_	MO	_	_
+14	wie	wie	wie	KOKOM	KOKOM	_	_	-1	15	_	CM	_	_
+15	möglich	möglich	möglich	ADJD	ADJD	_	pos	-1	12	_	CC	_	_
+16	auf	auf	auf	APPR	APPR	_	_	-1	19	_	OP	_	_
+17	Kundenbeschwerden	Kundenbeschwerde	Kundenbeschwerde	NN	NN	_	acc|pl|fem	-1	16	_	NK	_	_
+18	zu	zu	zu	PTKZU	PTKZU	_	_	-1	19	_	PM	_	_
+19	reagieren	reagieren	reagieren	VVINF	VVINF	_	_	-1	3	_	RE	_	_
+20	.	.	.	$.	$.	_	_	-1	19	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|pl|*	-1	2	_	NK	_	_
+2	Berufstätigen	Berufstätige	Berufstätige	NN	NN	_	nom|pl|*	-1	3	_	SB	_	_
+3	forderten	fordern	fordern	VVFIN	VVFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+4	bessere	gut	gut	ADJA	ADJA	_	acc|pl|fem|comp	-1	5	_	NK	_	_
+5	Bahnanschlüsse	Bahnanschlüsse	Bahnanschlüsse	NN	NN	_	nom|pl|masc	-1	3	_	OA	_	_
+6	:	:	:	$.	$.	_	_	-1	5	_	--	_	_
+7	Die	die	die	ART	ART	_	nom|sg|fem	-1	8	_	NK	_	_
+8	RVS	RVS	RVS	NN	NN	_	nom|sg|fem	-1	9	_	SB	_	_
+9	stellte	stellen	stellen	VVFIN	VVFIN	_	sg|3|past|ind	-1	3	_	CJ	_	_
+10	deswegen	deswegen	deswegen	PAV	PAV	_	_	-1	0	_	NK	_	_
+11	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	12	_	NK	_	_
+12	Busfahrplan	Busfahrplan	Busfahrplan	NN	NN	_	acc|sg|masc	-1	9	_	OA	_	_
+13	um	um	um	PTKVZ	PTKVZ	_	_	-1	9	_	SVP	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Daraufhin	daraufhin	daraufhin	PAV	PAV	_	_	-1	2	_	NK	_	_
+2	schimpften	schimpfen	schimpfen	VVFIN	VVFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+3	Eltern	Eltern	Eltern	NN	NN	_	nom|pl|*	-1	2	_	SB	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	weil	weil	weil	KOUS	KOUS	_	_	-1	14	_	CP	_	_
+6	ihre	ihr	ihr	PPOSAT	PPOSAT	_	nom|pl|neut	-1	7	_	NK	_	_
+7	Kinder	Kind	Kind	NN	NN	_	nom|pl|neut	-1	14	_	SB	_	_
+8	dadurch	dadurch	dadurch	PAV	PAV	_	_	-1	10	_	NK	_	_
+9	zu	zu	zu	APPR	APPR	_	_	-1	10	_	MO	_	_
+10	lange	lange	lange	ADV	ADV	_	_	-1	13	_	MO	_	_
+11	vor	vor	vor	APPR	APPR	_	_	-1	13	_	OP	_	_
+12	Schulbeginn	Schulbeginn	Schulbeginn	NN	NN	_	dat|sg|masc	-1	11	_	NK	_	_
+13	warten	warten	warten	VVINF	VVINF	_	_	-1	14	_	OC	_	_
+14	müssen	müssen	müssen	VMINF	VMINF	_	_	-1	2	_	MO	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+1	Nun	nun	nun	ADV	ADV	_	_	-1	9	_	MO	_	_
+2	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	ab	ab	ab	APPR	APPR	_	_	-1	9	_	MO	_	_
+4	Montag	Montag	Montag	NN	NN	_	dat|sg|masc	-1	3	_	NK	_	_
+5	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	6	_	NK	_	_
+6	Sonderbus	Sonderbus	Sonderbus	NN	NN	_	nom|sg|masc	-1	2	_	SB	_	_
+7	die	die	die	ART	ART	_	acc|pl|masc	-1	8	_	NK	_	_
+8	Schüler	Schüler	Schüler	NN	NN	_	acc|pl|masc	-1	9	_	OA	_	_
+9	befördern	befördern	befördern	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+1	Mal	Mal	Mal	NN	NN	_	_	-1	2	_	MO	_	_
+2	sehen	sehen	sehen	VVINF	VVINF	_	_	-1	0	_	--	_	_
+3	,	,	,	$,	$,	_	_	-1	2	_	--	_	_
+4	wer	wer	wer	PWS	PWS	_	nom|sg|masc	-1	8	_	SB	_	_
+5	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	8	_	OA	_	_
+6	am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	8	_	MO	_	_
+7	Dienstag	Dienstag	Dienstag	NN	NN	_	dat|sg|masc	-1	6	_	NK	_	_
+8	beschwert	beschweren	beschweren	VVPP	VVPP	_	_	-1	2	_	OC	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+

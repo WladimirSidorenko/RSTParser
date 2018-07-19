@@ -1,0 +1,234 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::3	4::3	8::5
+1	Für	für	für	APPR	APPR	_	_	-1	0	_	--	_	_
+2	und	und	und	KON	KON	_	_	-1	1	_	CD	_	_
+3	Wider	wider	wider	APPR	APPR	_	_	-1	2	_	CJ	_	_
+
+	sentence_start	0	48	145	269	404
+	token_offsets	sentence	0	offsets	0::3	4::7	12::3	16::5	22::5	28::1	30::14	45::1
+	token_offsets	sentence	1	offsets	48::5	54::7	62::3	66::5	72::4	77::1	79::5	85::3	89::4	94::5	100::7	108::7	116::5	122::3	126::3	130::5	136::5	142::1
+	token_offsets	sentence	2	offsets	145::5	151::2	154::5	160::3	164::2	167::5	173::1	175::11	187::4	192::3	196::6	203::1	205::12	218::9	228::1	230::3	234::2	237::11	249::16	266::1
+	token_offsets	sentence	3	offsets	269::4	274::4	279::5	285::2	288::9	298::1	300::4	305::3	309::5	315::4	320::3	324::3	328::5	334::3	338::3	342::5	348::6	355::4	360::1	362::2	365::3	369::14	384::4	389::11	401::1
+	token_offsets	sentence	4	offsets	404::9	414::12	427::1	429::3	433::2	436::2	439::2	442::4	447::4	452::2	455::9	465::2	468::4	473::13	487::6	494::1	496::6	503::3	507::8	516::1
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	2	_	NK	_	_
+2	Vorteil	Vorteil	Vorteil	NN	NN	_	nom|sg|masc	-1	3	_	SB	_	_
+3	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	5	_	NK	_	_
+5	Namen	Name	Name	NN	NN	_	acc|sg|masc	-1	3	_	OA	_	_
+6	:	:	:	$.	$.	_	_	-1	5	_	--	_	_
+7	Verbundeinkauf	Verbundeinkauf	Verbundeinkauf	NN	NN	_	acc|sg|masc	-1	3	_	OA	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+
+1	Damit	damit	damit	PAV	PAV	_	_	-1	2	_	NK	_	_
+2	erklärt	erklären	erklären	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	die	die	die	ART	ART	_	nom|sg|fem	-1	5	_	NK	_	_
+4	gelbe	gelb	gelb	ADJA	ADJA	_	nom|sg|fem|pos	-1	5	_	NK	_	_
+5	Post	Post	Post	NN	NN	_	nom|sg|fem	-1	2	_	SB	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	warum	warum	warum	PWAV	PWAV	_	_	-1	17	_	MO	_	_
+8	sie	sie	sie	PPER	PPER	_	nom|sg|fem|3	-1	17	_	SB	_	_
+9	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	17	_	OA	_	_
+10	ihrer	ihr	ihr	PPOSAT	PPOSAT	_	gen|pl|masc	-1	11	_	NK	_	_
+11	Tochter	Tochter	Tochter	NN	NN	_	gen|pl|masc	-1	3	_	AG	_	_
+12	McPaper	McPaper	McPaper	VVFIN	VVFIN	_	sg|3|past|ind	-1	17	_	MO	_	_
+13	quasi	quasi	quasi	ADV	ADV	_	_	-1	17	_	MO	_	_
+14	auf	auf	auf	APPR	APPR	_	_	-1	17	_	MO	_	_
+15	den	die	die	ART	ART	_	acc|sg|masc	-1	16	_	NK	_	_
+16	Schoß	Schoß	Schoß	NN	NN	_	acc|sg|masc	-1	14	_	NK	_	_
+17	setzt	setzen	setzen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	5	_	RC	_	_
+18	.	.	.	$.	$.	_	_	-1	17	_	--	_	_
+
+1	Alles	alle	alle	PIS	PIS	_	nom|sg|neut	-1	6	_	OA	_	_
+2	an	an	an	APPR	APPR	_	_	-1	6	_	MO	_	_
+3	einem	eine	eine	ART	ART	_	dat|sg|masc	-1	4	_	NK	_	_
+4	Ort	Ort	Ort	NN	NN	_	dat|sg|masc	-1	2	_	NK	_	_
+5	zu	zu	zu	PTKZU	PTKZU	_	_	-1	6	_	PM	_	_
+6	haben	haben	haben	VAINF	VAINF	_	_	-1	9	_	OC	_	_
+7	-	-	-	$(	$(	_	_	-1	6	_	--	_	_
+8	Papierwaren	Papierware	Papierware	NN	NN	_	acc|pl|fem	-1	11	_	OA	_	_
+9	kann	können	können	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+10	man	man	man	PIS	PIS	_	nom|sg|*	-1	9	_	SB	_	_
+11	kaufen	kaufen	kaufen	VVINF	VVINF	_	_	-1	9	_	OC	_	_
+12	,	,	,	$,	$,	_	_	-1	11	_	--	_	_
+13	Postalisches	Postalisches	Postalisches	NN	NN	_	acc|sg|neut	-1	14	_	OA	_	_
+14	abwickeln	abwickeln	abwickeln	VVINF	VVINF	_	_	-1	16	_	SB	_	_
+15	-	-	-	$(	$(	_	_	-1	14	_	--	_	_
+16	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	9	_	CJ	_	_
+17	ja	ja	ja	ADV	ADV	_	_	-1	16	_	MO	_	_
+18	tatsächlich	tatsächlich	tatsächlich	ADJD	ADJD	_	pos	-1	19	_	MO	_	_
+19	kundenfreundlich	kundenfreundlich	kundenfreundlich	ADJD	ADJD	_	pos	-1	16	_	PD	_	_
+20	.	.	.	$.	$.	_	_	-1	19	_	--	_	_
+
+1	Noch	noch	noch	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	mehr	mehr	mehr	ADV	ADV	_	_	-1	3	_	MO	_	_
+3	freut	freuen	freuen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	3	_	SB	_	_
+5	natürlich	natürlich	natürlich	ADV	ADV	_	_	-1	3	_	MO	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	dass	dass	dass	KOUS	KOUS	_	_	-1	18	_	CP	_	_
+8	man	man	man	PIS	PIS	_	nom|sg|*	-1	18	_	SB	_	_
+9	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	18	_	NG	_	_
+10	mehr	mehr	mehr	ADV	ADV	_	_	-1	9	_	MO	_	_
+11	wie	wie	wie	KOKOM	KOKOM	_	_	-1	13	_	CM	_	_
+12	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	13	_	NK	_	_
+13	Luchs	Luchs	Luchs	NN	NN	_	nom|sg|masc	-1	17	_	MO	_	_
+14	auf	auf	auf	APPR	APPR	_	_	-1	13	_	MNR	_	_
+15	der	die	die	ART	ART	_	dat|sg|fem	-1	16	_	NK	_	_
+16	Lauer	Lauer	Lauer	NE	NE	_	dat|sg|fem	-1	14	_	NK	_	_
+17	liegen	liegen	liegen	VVINF	VVINF	_	_	-1	18	_	OC	_	_
+18	muss	müssen	müssen	VMFIN	VMFIN	_	_	-1	4	_	RE	_	_
+19	,	,	,	$,	$,	_	_	-1	18	_	--	_	_
+20	um	um	um	KOUI	KOUI	_	_	-1	24	_	CP	_	_
+21	die	die	die	ART	ART	_	acc|pl|fem	-1	22	_	NK	_	_
+22	Öffnungszeiten	Öffnungszeit	Öffnungszeit	NN	NN	_	acc|pl|fem	-1	24	_	OA	_	_
+23	auch	auch	auch	ADV	ADV	_	_	-1	24	_	MO	_	_
+24	einzuhalten	einhalten	einhalten	VVIZU	VVIZU	_	_	-1	18	_	MO	_	_
+25	.	.	.	$.	$.	_	_	-1	24	_	--	_	_
+
+1	Besonders	besonders	besonders	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	Berufstätige	Berufstätige	Berufstätige	NN	NN	_	nom|pl|*	-1	17	_	SB	_	_
+3	,	,	,	$,	$,	_	_	-1	2	_	--	_	_
+4	die	die	die	PRELS	PRELS	_	nom|pl|*	-1	15	_	SB	_	_
+5	es	es	es	PPER	PPER	_	acc|sg|neut|3	-1	15	_	OA	_	_
+6	z.	z.	z.	APPRART	APPRART	_	dat|sg|neut	-1	15	_	MO	_	_
+7	B.	B.	B.	NN	NN	_	dat|sg|neut	-1	6	_	NK	_	_
+8	auch	auch	auch	ADV	ADV	_	_	-1	10	_	MO	_	_
+9	noch	noch	noch	ADV	ADV	_	_	-1	10	_	MO	_	_
+10	am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	15	_	MO	_	_
+11	Sonnabend	Sonnabend	Sonnabend	NN	NN	_	dat|sg|masc	-1	10	_	NK	_	_
+12	an	an	an	APPR	APPR	_	_	-1	15	_	MO	_	_
+13	ihre	ihr	ihr	PPOSAT	PPOSAT	_	acc|pl|neut	-1	14	_	NK	_	_
+14	Schließfächer	Schließfach	Schließfach	NN	NN	_	acc|pl|neut	-1	12	_	NK	_	_
+15	drängt	drängen	drängen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	2	_	RC	_	_
+16	,	,	,	$,	$,	_	_	-1	15	_	--	_	_
+17	dürfen	dürfen	dürfen	VMFIN	VMFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+18	nun	nun	nun	ADV	ADV	_	_	-1	17	_	MO	_	_
+19	aufatmen	aufatmen	aufatmen	VVINF	VVINF	_	_	-1	17	_	OC	_	_
+20	.	.	.	$.	$.	_	_	-1	19	_	--	_	_
+
+	sentence_start	0	41	197	259	323	384
+	token_offsets	sentence	0	offsets	0::3	4::7	12::4	17::2	20::11	32::5	38::1
+	token_offsets	sentence	1	offsets	41::4	46::3	50::3	54::10	65::2	68::3	72::13	86::4	91::4	96::17	114::9	124::3	128::8	137::12	150::2	153::4	158::4	163::1	165::5	171::4	176::3	180::4	185::8	194::1
+	token_offsets	sentence	2	offsets	197::8	206::5	212::3	216::10	227::3	231::7	239::2	242::9	252::3	256::1
+	token_offsets	sentence	3	offsets	259::3	263::3	267::3	271::6	278::3	282::6	289::4	294::6	301::5	307::4	312::7	320::1
+	token_offsets	sentence	4	offsets	323::9	333::3	337::7	345::7	353::5	359::9	369::3	373::3	377::3	381::1
+	token_offsets	sentence	5	offsets	384::3	388::5	394::5	400::3	404::11	416::2	419::5	425::5	431::8	440::3	444::3	448::8	457::14	472::1	474::4	479::3	483::8	492::2	495::3	499::4	504::1
+1	Bei	bei	bei	APPR	APPR	_	_	-1	6	_	MO	_	_
+2	anderen	andere	andere	PIS	PIS	_	dat|pl|*	-1	1	_	NK	_	_
+3	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	3	_	EP	_	_
+5	Stoßseufzer	Stoßseufzer	Stoßseufzer	NN	NN	_	acc|pl|masc	-1	6	_	OA	_	_
+6	geben	geben	geben	VVINF	VVINF	_	_	-1	3	_	OC	_	_
+7	.	.	.	$.	$.	_	_	-1	6	_	--	_	_
+
+1	Dass	dass	dass	KOUS	KOUS	_	_	-1	17	_	CP	_	_
+2	mit	mit	mit	APPR	APPR	_	_	-1	17	_	MO	_	_
+3	der	die	die	ART	ART	_	dat|sg|fem	-1	4	_	NK	_	_
+4	Schließung	Schließung	Schließung	NN	NN	_	dat|sg|fem	-1	2	_	NK	_	_
+5	in	in	in	APPR	APPR	_	_	-1	4	_	MNR	_	_
+6	der	die	die	ART	ART	_	dat|sg|fem	-1	7	_	NK	_	_
+7	Bahnhofstraße	Bahnhofstraße	Bahnhofstraße	NN	NN	_	dat|sg|fem	-1	5	_	NK	_	_
+8	eine	eine	eine	ART	ART	_	acc|sg|fem	-1	11	_	NK	_	_
+9	über	über	über	APPR	APPR	_	_	-1	10	_	MO	_	_
+10	einhundertjährige	einhundertjährig	einhundertjährig	ADJA	ADJA	_	acc|sg|fem|pos	-1	11	_	NK	_	_
+11	Tradition	Tradition	Tradition	NN	NN	_	acc|sg|fem	-1	17	_	OA	_	_
+12	des	die	die	ART	ART	_	gen|sg|masc	-1	14	_	NK	_	_
+13	Kyritzer	Kyritzer	Kyritzer	NN	NN	_	*|*|*|pos	-1	14	_	NK	_	_
+14	Postgebäudes	Postgebäude	Postgebäude	NN	NN	_	gen|sg|masc	-1	11	_	AG	_	_
+15	zu	zu	zu	APPR	APPR	_	_	-1	17	_	MO	_	_
+16	Ende	Ende	Ende	NN	NN	_	dat|sg|neut	-1	15	_	NK	_	_
+17	geht	gehen	gehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	19	_	RE	_	_
+18	,	,	,	$,	$,	_	_	-1	17	_	--	_	_
+19	damit	damit	damit	KOUS	KOUS	_	_	-1	20	_	MO	_	_
+20	muss	müssen	müssen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+21	man	man	man	PIS	PIS	_	nom|sg|*	-1	20	_	SB	_	_
+22	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	23	_	OA	_	_
+23	abfinden	abfinden	abfinden	VVINF	VVINF	_	_	-1	20	_	OC	_	_
+24	.	.	.	$.	$.	_	_	-1	23	_	--	_	_
+
+1	Schwerer	schwer	schwer	ADJD	ADJD	_	comp	-1	2	_	MO	_	_
+2	wiegt	wiegen	wiegen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	die	die	die	ART	ART	_	acc|sg|fem	-1	4	_	NK	_	_
+4	Schließung	Schließung	Schließung	NN	NN	_	acc|sg|fem	-1	2	_	SB	_	_
+5	der	die	die	ART	ART	_	gen|pl|masc	-1	6	_	NK	_	_
+6	Filiale	Filiale	Filiale	NN	NN	_	gen|pl|masc	-1	4	_	AG	_	_
+7	am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	2	_	MO	_	_
+8	Rehfelder	Rehfelder	Rehfelder	NN	NN	_	dat|sg|masc	-1	7	_	NK	_	_
+9	Weg	Weg	Weg	NN	NN	_	nom|sg|masc	-1	2	_	OA	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+1	Sie	Sie	Sie	PPER	PPER	_	nom|sg|fem|3	-1	2	_	SB	_	_
+2	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	den	die	die	ART	ART	_	acc|sg|masc	-1	4	_	NK	_	_
+4	Leuten	Leute	Leute	NN	NN	_	acc|sg|masc	-1	11	_	OA	_	_
+5	aus	aus	aus	APPR	APPR	_	_	-1	4	_	MNR	_	_
+6	Kyritz	Kyritz	Kyritz	NE	NE	_	dat|sg|*	-1	5	_	NK	_	_
+7	West	West	West	NN	NN	_	*|*|*	-1	8	_	PNC	_	_
+8	bisher	bisher	bisher	ADV	ADV	_	_	-1	11	_	MO	_	_
+9	weite	weit	weit	ADJA	ADJA	_	acc|pl|masc|pos	-1	10	_	NK	_	_
+10	Wege	Weg	Weg	NN	NN	_	acc|pl|masc	-1	11	_	OA	_	_
+11	erspart	ersparen	ersparen	VVPP	VVPP	_	_	-1	2	_	OC	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Besonders	besonders	besonders	ADV	ADV	_	_	-1	3	_	MO	_	_
+2	die	die	die	ART	ART	_	nom|pl|fem	-1	3	_	NK	_	_
+3	Älteren	Ältere	Ältere	NN	NN	_	nom|pl|fem	-1	4	_	SB	_	_
+4	dürften	dürfen	dürfen	VMFIN	VMFIN	_	pl|3|past|subj	-1	0	_	--	_	_
+5	sauer	sauer	sauer	ADJD	ADJD	_	gen|pl|fem|pos	-1	6	_	MO	_	_
+6	reagieren	reagieren	reagieren	VVFIN	VVFIN	_	pl|3|pres|ind	-1	4	_	OC	_	_
+7	auf	auf	auf	APPR	APPR	_	_	-1	6	_	OP	_	_
+8	das	die	die	ART	ART	_	acc|sg|neut	-1	9	_	NK	_	_
+9	Aus	Aus	Aus	NN	NN	_	acc|sg|neut	-1	7	_	NK	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+1	Was	was	was	PWS	PWS	_	nom|sg|neut	-1	2	_	SB	_	_
+2	nützt	nützen	nützen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	ihnen	sie	sie	PPER	PPER	_	dat|pl|*|3	-1	2	_	DA	_	_
+4	die	die	die	ART	ART	_	acc|sg|fem	-1	5	_	NK	_	_
+5	Verlagerung	Verlagerung	Verlagerung	NN	NN	_	acc|sg|fem	-1	2	_	OA	_	_
+6	an	an	an	APPR	APPR	_	_	-1	5	_	MNR	_	_
+7	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	9	_	NK	_	_
+8	neuen	neu	neu	ADJA	ADJA	_	acc|sg|masc|pos	-1	9	_	NK	_	_
+9	Standort	Standort	Standort	NN	NN	_	acc|sg|masc	-1	6	_	NK	_	_
+10	mit	mit	mit	APPR	APPR	_	_	-1	9	_	MNR	_	_
+11	den	die	die	ART	ART	_	dat|pl|fem	-1	13	_	NK	_	_
+12	längeren	lang	lang	ADJA	ADJA	_	dat|pl|fem|comp	-1	13	_	NK	_	_
+13	Öffnungszeiten	Öffnungszeit	Öffnungszeit	NN	NN	_	dat|pl|fem	-1	10	_	NK	_	_
+14	,	,	,	$,	$,	_	_	-1	13	_	--	_	_
+15	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	20	_	CP	_	_
+16	sie	sie	sie	PPER	PPER	_	nom|sg|fem|3	-1	20	_	SB	_	_
+17	schlecht	schlecht	schlecht	ADJD	ADJD	_	pos	-1	20	_	MO	_	_
+18	zu	zu	zu	APPR	APPR	_	_	-1	20	_	MO	_	_
+19	Fuß	Fuß	Fuß	NN	NN	_	dat|sg|masc	-1	18	_	NK	_	_
+20	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	2	_	MO	_	_
+21	?	?	?	$.	$.	_	_	-1	20	_	--	_	_
+
+	sentence_start	0	121
+	token_offsets	sentence	0	offsets	0::2	3::6	10::3	14::3	18::7	26::1	28::4	33::3	37::14	52::10	63::1	65::3	69::6	76::5	82::2	85::6	92::14	107::10	118::1
+	token_offsets	sentence	1	offsets	121::6	128::6	135::2	138::6	145::1
+1	Da	da	da	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	bleibt	bleiben	bleiben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	nur	nur	nur	ADV	ADV	_	_	-1	5	_	MO	_	_
+4	der	die	die	ART	ART	_	nom|sg|masc	-1	5	_	NK	_	_
+5	Hinweis	Hinweis	Hinweis	NN	NN	_	nom|sg|masc	-1	2	_	SB	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	10	_	OA	_	_
+8	den	die	die	ART	ART	_	dat|pl|neut	-1	9	_	NK	_	_
+9	Zustellerinnen	Zustellerinnen	Zustellerinnen	NN	NN	_	dat|pl|neut	-1	10	_	DA	_	_
+10	zuzuwenden	zuwenden	zuwenden	VVIZU	VVIZU	_	_	-1	2	_	OC	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	die	die	die	PRELS	PRELS	_	nom|pl|neut	-1	18	_	SB	_	_
+13	selber	selber	selber	ADV	ADV	_	_	-1	18	_	MO	_	_
+14	schon	schon	schon	ADV	ADV	_	_	-1	15	_	MO	_	_
+15	so	so	so	ADV	ADV	_	_	-1	16	_	MO	_	_
+16	manche	manche	manche	PIAT	PIAT	_	nom|sg|fem	-1	17	_	NK	_	_
+17	Dienstleistung	Dienstleistung	Dienstleistung	NN	NN	_	nom|sg|fem	-1	18	_	OA	_	_
+18	übernehmen	übernehmen	übernehmen	VVINF	VVINF	_	_	-1	9	_	RC	_	_
+19	.	.	.	$.	$.	_	_	-1	18	_	--	_	_
+
+1	Fragen	Frage	Frage	NN	NN	_	acc|pl|fem	-1	2	_	SB	_	_
+2	kostet	kosten	kosten	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	ja	ja	ja	ADV	ADV	_	_	-1	2	_	MO	_	_
+4	nichts	nichts	nichts	PIS	PIS	_	*|*|neut	-1	2	_	OA	_	_
+5	.	.	.	$.	$.	_	_	-1	4	_	--	_	_
+

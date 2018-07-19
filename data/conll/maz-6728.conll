@@ -1,0 +1,201 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::7
+1	Ansturm	Ansturm	Ansturm	NN	NN	_	nom|sg|masc	-1	0	_	--	_	_
+
+	sentence_start	0	66	333	519	631	706	836	996	1086
+	token_offsets	sentence	0	offsets	0::3	4::11	16::2	19::7	27::6	34::5	40::6	47::15	63::1
+	token_offsets	sentence	1	offsets	66::3	70::3	74::3	78::9	88::8	97::3	101::6	108::10	119::4	124::2	127::3	131::3	135::3	139::11	151::7	159::3	163::3	167::11	179::3	183::12	196::1	198::6	205::5	211::8	220::3	224::5	230::5	236::12	249::14	264::6	271::6	278::1	280::3	284::3	288::3	292::4	297::6	304::2	307::11	319::10	330::1
+	token_offsets	sentence	2	offsets	333::4	338::7	346::10	357::3	361::3	365::9	375::9	385::11	397::3	401::3	405::2	408::6	415::2	418::12	431::13	445::10	456::11	468::3	472::27	500::15	516::1
+	token_offsets	sentence	3	offsets	519::4	524::3	528::3	532::3	536::6	543::7	551::8	560::7	568::7	576::1	578::5	584::12	597::2	600::3	604::5	610::10	621::6	628::1
+	token_offsets	sentence	4	offsets	631::2	634::6	641::5	647::4	652::7	660::6	667::4	672::5	678::5	684::3	688::6	695::7	703::1
+	token_offsets	sentence	5	offsets	706::5	712::3	716::5	722::5	728::5	734::10	745::4	750::7	758::1	760::3	764::4	769::3	773::3	777::8	786::7	794::3	798::3	802::11	814::14	829::3	833::1
+	token_offsets	sentence	6	offsets	836::3	840::6	847::1	849::12	862::7	870::1	872::3	876::6	883::12	896::12	909::8	918::4	923::5	929::3	933::3	937::5	943::8	952::6	959::6	966::2	969::3	973::14	988::4	993::1
+	token_offsets	sentence	7	offsets	996::2	999::3	1003::7	1011::3	1015::13	1029::10	1040::4	1045::4	1050::3	1054::5	1060::6	1067::7	1075::7	1083::1
+	token_offsets	sentence	8	offsets	1086::3	1090::11	1102::4	1107::2	1110::4	1115::1	1117::4	1122::8	1131::3	1135::11	1147::6	1154::6	1161::3	1165::4	1170::5	1176::6	1183::1
+1	Das	die	die	ART	ART	_	nom|sg|neut	-1	2	_	NK	_	_
+2	Schulmuseum	Schulmuseum	Schulmuseum	NN	NN	_	nom|sg|neut	-1	5	_	OA	_	_
+3	in	in	in	APPR	APPR	_	_	-1	2	_	MNR	_	_
+4	Reckahn	Reckahn	Reckahn	NN	NN	_	acc|sg|fem	-1	3	_	NK	_	_
+5	erlebt	erleben	erleben	VVFIN	VVFIN	_	_	-1	0	_	--	_	_
+6	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	8	_	NK	_	_
+7	wahren	wahr	wahr	ADJA	ADJA	_	acc|sg|masc|pos	-1	8	_	NK	_	_
+8	Besucheransturm	Besucheransturm	Besucheransturm	NN	NN	_	acc|sg|masc	-1	5	_	OA	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+1	War	sein	sein	VAFIN	VAFIN	_	sg|3|past|ind	-1	22	_	MO	_	_
+2	das	die	die	PDS	PDS	_	nom|sg|neut	-1	9	_	NK	_	_
+3	von	von	von	APPR	APPR	_	_	-1	8	_	SBP	_	_
+4	Friedrich	Friedrich	Friedrich	NE	NE	_	nom|sg|masc	-1	5	_	PNC	_	_
+5	Eberhard	Eberhard	Eberhard	NE	NE	_	nom|sg|masc	-1	3	_	NK	_	_
+6	von	von	von	APPR	APPR	_	_	-1	8	_	SBP	_	_
+7	Rochow	Rochow	Rochow	NN	NN	_	dat|sg|fem	-1	6	_	NK	_	_
+8	initiierte	initiiert	initiiert	ADJA	ADJA	_	acc|sg|neut|pos	-1	9	_	NK	_	_
+9	Haus	Haus	Haus	NN	NN	_	acc|sg|neut	-1	1	_	SB	_	_
+10	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	9	_	MNR	_	_
+11	18.	18.	18.	ADJA	ADJA	_	dat|sg|neut|pos	-1	14	_	NK	_	_
+12	und	und	und	KON	KON	_	_	-1	11	_	CD	_	_
+13	19.	19.	19.	ADJA	ADJA	_	dat|sg|masc|pos	-1	12	_	CJ	_	_
+14	Jahrhundert	Jahrhundert	Jahrhundert	NN	NN	_	dat|sg|masc	-1	10	_	NK	_	_
+15	Vorbild	Vorbild	Vorbild	NN	NN	_	nom|sg|neut	-1	1	_	PD	_	_
+16	für	für	für	APPR	APPR	_	_	-1	15	_	MNR	_	_
+17	die	die	die	ART	ART	_	acc|sg|fem	-1	18	_	NK	_	_
+18	Entwicklung	Entwicklung	Entwicklung	NN	NN	_	acc|sg|fem	-1	16	_	NK	_	_
+19	der	die	die	ART	ART	_	gen|pl|fem	-1	20	_	NK	_	_
+20	Volksschulen	Volksschule	Volksschule	NN	NN	_	gen|pl|fem	-1	18	_	AG	_	_
+21	,	,	,	$,	$,	_	_	-1	20	_	--	_	_
+22	wollen	wollen	wollen	VMFIN	VMFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+23	heute	heute	heute	ADV	ADV	_	_	-1	22	_	MO	_	_
+24	Tausende	Tausend	Tausend	NN	NN	_	nom|pl|neut	-1	31	_	SB	_	_
+25	das	die	die	ART	ART	_	acc|sg|neut	-1	26	_	NK	_	_
+26	Flair	Flair	Flair	NN	NN	_	acc|sg|neut	-1	30	_	OA	_	_
+27	eines	eine	eine	ART	ART	_	gen|sg|masc	-1	29	_	NK	_	_
+28	historischen	historisch	historisch	ADJA	ADJA	_	gen|sg|masc|pos	-1	29	_	NK	_	_
+29	Klassenzimmers	Klassenzimmer	Klassenzimmer	NN	NN	_	gen|sg|masc	-1	26	_	AG	_	_
+30	kennen	kennen	kennen	VVINF	VVINF	_	pl|3|pres|ind	-1	31	_	OC	_	_
+31	lernen	lernen	lernen	VVINF	VVINF	_	_	-1	22	_	OC	_	_
+32	,	,	,	$,	$,	_	_	-1	31	_	--	_	_
+33	wie	wie	wie	KOUS	KOUS	_	_	-1	40	_	CP	_	_
+34	sie	sie	sie	PPER	PPER	_	nom|sg|fem|3	-1	40	_	SB	_	_
+35	nur	nur	nur	ADV	ADV	_	_	-1	40	_	MO	_	_
+36	noch	noch	noch	ADV	ADV	_	_	-1	40	_	MO	_	_
+37	wenige	wenige	wenige	PIS	PIS	_	nom|pl|*	-1	40	_	SB	_	_
+38	in	in	in	APPR	APPR	_	_	-1	40	_	MO	_	_
+39	Deutschland	Deutschland	Deutschland	NE	NE	_	dat|sg|neut	-1	38	_	NK	_	_
+40	existieren	existieren	existieren	VVFIN	VVFIN	_	pl|3|pres|ind	-1	31	_	MO	_	_
+41	.	.	.	$.	$.	_	_	-1	40	_	--	_	_
+
+1	Ohne	ohne	ohne	APPR	APPR	_	_	-1	3	_	MO	_	_
+2	Zweifel	Zweifel	Zweifel	NN	NN	_	acc|sg|masc	-1	1	_	NK	_	_
+3	profitiert	profitieren	profitieren	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	die	die	die	ART	ART	_	nom|sg|fem	-1	8	_	NK	_	_
+5	vom	von	von	APPRART	APPRART	_	dat|sg|masc	-1	7	_	SBP	_	_
+6	Landkreis	Landkreis	Landkreis	NN	NN	_	dat|sg|masc	-1	5	_	NK	_	_
+7	getragene	getragen	getragen	ADJA	ADJA	_	nom|sg|fem|pos	-1	8	_	NK	_	_
+8	Einrichtung	Einrichtung	Einrichtung	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+9	von	von	von	APPR	APPR	_	_	-1	3	_	OP	_	_
+10	der	die	die	ART	ART	_	dat|sg|fem	-1	17	_	NK	_	_
+11	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	16	_	MO	_	_
+12	August	August	August	NN	NN	_	dat|sg|masc	-1	11	_	NK	_	_
+13	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	16	_	MO	_	_
+14	benachbarten	benachbart	benachbart	ADJA	ADJA	_	dat|sg|masc|pos	-1	15	_	NK	_	_
+15	Barockschloss	Barockschloss	Barockschloss	NN	NN	_	dat|sg|masc	-1	13	_	NK	_	_
+16	eröffneten	eröffnet	eröffnet	ADJA	ADJA	_	acc|sg|masc|pos	-1	17	_	NK	_	_
+17	Ausstellung	Ausstellung	Ausstellung	NN	NN	_	acc|sg|fem	-1	9	_	NK	_	_
+18	zur	zu	zu	APPRART	APPRART	_	dat|sg|fem	-1	17	_	MNR	_	_
+19	brandenburgisch-preußischen	brandenburgisch-preußisch	brandenburgisch-preußisch	ADJA	ADJA	_	dat|sg|fem|pos	-1	20	_	NK	_	_
+20	Schulgeschichte	Schulgeschichte	Schulgeschichte	NN	NN	_	dat|sg|fem	-1	18	_	NK	_	_
+21	.	.	.	$.	$.	_	_	-1	20	_	--	_	_
+
+1	Denn	denn	denn	KON	KON	_	_	-1	11	_	JU	_	_
+2	wer	wer	wer	PWS	PWS	_	nom|sg|masc	-1	9	_	SB	_	_
+3	das	die	die	ART	ART	_	nom|sg|neut	-1	8	_	NK	_	_
+4	mit	mit	mit	APPR	APPR	_	_	-1	7	_	MO	_	_
+5	großem	groß	groß	ADJA	ADJA	_	dat|sg|masc|pos	-1	6	_	NK	_	_
+6	Aufwand	Aufwand	Aufwand	NN	NN	_	dat|sg|masc	-1	4	_	NK	_	_
+7	sanierte	saniert	saniert	ADJA	ADJA	_	nom|sg|masc|pos	-1	8	_	NK	_	_
+8	Schloss	Schloss	Schloss	NN	NN	_	nom|sg|masc	-1	9	_	OA	_	_
+9	besucht	besuchen	besuchen	VVPP	VVPP	_	_	-1	11	_	SB	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	kommt	kommen	kommen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+12	zwangsläufig	zwangsläufig	zwangsläufig	ADJD	ADJD	_	pos	-1	11	_	MO	_	_
+13	an	an	an	APPR	APPR	_	_	-1	11	_	MO	_	_
+14	der	die	die	ART	ART	_	dat|sg|fem	-1	16	_	NK	_	_
+15	alten	alt	alt	ADJA	ADJA	_	dat|sg|fem|pos	-1	16	_	NK	_	_
+16	Dorfschule	Dorfschule	Dorfschule	NN	NN	_	dat|sg|fem	-1	13	_	NK	_	_
+17	vorbei	vorbei	vorbei	PTKVZ	PTKVZ	_	_	-1	11	_	SVP	_	_
+18	.	.	.	$.	$.	_	_	-1	17	_	--	_	_
+
+1	In	in	in	APPR	APPR	_	_	-1	12	_	MO	_	_
+2	diesen	dies	dies	PDAT	PDAT	_	dat|pl|fem	-1	5	_	NK	_	_
+3	knapp	knapp	knapp	ADJD	ADJD	_	pos	-1	4	_	MO	_	_
+4	drei	drei	drei	CARD	CARD	_	_	-1	5	_	NK	_	_
+5	Monaten	Monat	Monat	NN	NN	_	dat|pl|masc	-1	1	_	NK	_	_
+6	wurden	werden	werden	VAFIN	VAFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+7	2700	@card@	@card@	CARD	CARD	_	_	-1	8	_	NK	_	_
+8	Gäste	Gast	Gast	NN	NN	_	nom|pl|masc	-1	6	_	SB	_	_
+9	durch	durch	durch	APPR	APPR	_	_	-1	12	_	MO	_	_
+10	das	die	die	ART	ART	_	acc|sg|neut	-1	11	_	NK	_	_
+11	Museum	Museum	Museum	NN	NN	_	acc|sg|neut	-1	9	_	NK	_	_
+12	geführt	führen	führen	VVPP	VVPP	_	_	-1	6	_	OC	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Viele	viele	viele	PIS	PIS	_	nom|pl|*	-1	4	_	SB	_	_
+2	von	von	von	APPR	APPR	_	_	-1	1	_	PG	_	_
+3	ihnen	sie	sie	PPER	PPER	_	dat|pl|*|3	-1	2	_	NK	_	_
+4	kamen	kommen	kommen	VVFIN	VVFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+5	übers	übers	übers	APPRART	APPRART	_	acc|sg|neut	-1	4	_	MO	_	_
+6	Wochenende	Wochenende	Wochenende	NN	NN	_	acc|sg|neut	-1	5	_	NK	_	_
+7	nach	nach	nach	APPR	APPR	_	_	-1	4	_	MO	_	_
+8	Reckahn	Reckahn	Reckahn	NN	NN	_	dat|sg|neut	-1	7	_	NK	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	was	was	was	PRELS	PRELS	_	nom|sg|neut	-1	20	_	SB	_	_
+11	wohl	wohl	wohl	ADV	ADV	_	_	-1	19	_	MO	_	_
+12	auf	auf	auf	APPR	APPR	_	_	-1	19	_	OP	_	_
+13	die	die	die	ART	ART	_	acc|sg|fem	-1	15	_	NK	_	_
+14	kompakte	kompakt	kompakt	ADJA	ADJA	_	acc|sg|fem|pos	-1	15	_	NK	_	_
+15	Werbung	Werbung	Werbung	NN	NN	_	acc|sg|fem	-1	12	_	NK	_	_
+16	für	für	für	APPR	APPR	_	_	-1	15	_	MNR	_	_
+17	das	die	die	ART	ART	_	acc|sg|neut	-1	18	_	NK	_	_
+18	Preußenjahr	Preußenjahr	Preußenjahr	NN	NN	_	acc|sg|neut	-1	16	_	NK	_	_
+19	zurückzuführen	zurückführen	zurückführen	VVIZU	VVIZU	_	_	-1	20	_	OC	_	_
+20	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	8	_	RC	_	_
+21	.	.	.	$.	$.	_	_	-1	20	_	--	_	_
+
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	2	_	NK	_	_
+2	Verein	Verein	Verein	NN	NN	_	nom|sg|masc	-1	12	_	SB	_	_
+3	"	"	"	$(	$(	_	_	-1	2	_	--	_	_
+4	Historisches	historisch	historisch	ADJA	ADJA	_	nom|sg|neut|pos	-1	5	_	NK	_	_
+5	Reckahn	Reckahn	Reckahn	NN	NN	_	nom|sg|neut	-1	2	_	NK	_	_
+6	"	"	"	$(	$(	_	_	-1	5	_	--	_	_
+7	mit	mit	mit	APPR	APPR	_	_	-1	2	_	MNR	_	_
+8	seinem	sein	sein	PPOSAT	PPOSAT	_	dat|sg|neut	-1	9	_	NK	_	_
+9	Vorsitzenden	Vorsitzende	Vorsitzende	NN	NN	_	dat|sg|neut	-1	7	_	NK	_	_
+10	Otto-Günther	Otto-Günther	Otto-Günther	NE	NE	_	nom|sg|masc	-1	11	_	PNC	_	_
+11	Beckmann	Beckmann	Beckmann	NE	NE	_	nom|sg|masc	-1	9	_	NK	_	_
+12	kann	können	können	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+13	stolz	stolz	stolz	ADJD	ADJD	_	pos	-1	23	_	PD	_	_
+14	auf	auf	auf	APPR	APPR	_	_	-1	13	_	MO	_	_
+15	die	die	die	ART	ART	_	acc|sg|fem	-1	17	_	NK	_	_
+16	große	groß	groß	ADJA	ADJA	_	acc|sg|fem|pos	-1	17	_	NK	_	_
+17	Resonanz	Resonanz	Resonanz	NN	NN	_	acc|sg|fem	-1	14	_	NK	_	_
+18	seiner	sein	sein	PPOSAT	PPOSAT	_	gen|sg|fem	-1	19	_	NK	_	_
+19	Arbeit	Arbeit	Arbeit	NN	NN	_	gen|sg|fem	-1	17	_	AG	_	_
+20	in	in	in	APPR	APPR	_	_	-1	17	_	MNR	_	_
+21	der	die	die	ART	ART	_	dat|sg|fem	-1	22	_	NK	_	_
+22	Öffentlichkeit	Öffentlichkeit	Öffentlichkeit	NN	NN	_	dat|sg|fem	-1	20	_	NK	_	_
+23	sein	sein	sein	VAINF	VAINF	_	_	-1	12	_	OC	_	_
+24	.	.	.	$.	$.	_	_	-1	23	_	--	_	_
+
+1	Er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	2	_	SB	_	_
+2	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	Reckahn	Reckahn	Reckahn	NN	NN	_	acc|sg|fem	-1	13	_	OA	_	_
+4	mit	mit	mit	APPR	APPR	_	_	-1	13	_	MO	_	_
+5	unermüdlichem	unermüdlich	unermüdlich	ADJA	ADJA	_	dat|sg|masc|pos	-1	6	_	NK	_	_
+6	Engagement	Engagement	Engagement	NN	NN	_	dat|sg|masc	-1	4	_	NK	_	_
+7	weit	weit	weit	ADJD	ADJD	_	pos	-1	8	_	MO	_	_
+8	über	über	über	APPR	APPR	_	_	-1	12	_	MO	_	_
+9	den	die	die	ART	ART	_	acc|sg|masc	-1	10	_	NK	_	_
+10	Kreis	Kreis	Kreis	NN	NN	_	acc|sg|masc	-1	8	_	NK	_	_
+11	hinaus	hinaus	hinaus	ADV	ADV	_	_	-1	8	_	AC	_	_
+12	bekannt	bekannt	bekannt	ADJD	ADJD	_	pos	-1	13	_	MO	_	_
+13	gemacht	machen	machen	VVPP	VVPP	_	_	-1	2	_	OC	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Das	die	die	ART	ART	_	nom|sg|neut	-1	2	_	NK	_	_
+2	Preußenjahr	Preußenjahr	Preußenjahr	NN	NN	_	nom|sg|neut	-1	3	_	SB	_	_
+3	geht	gehen	gehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	zu	zu	zu	APPR	APPR	_	_	-1	3	_	MO	_	_
+5	Ende	Ende	Ende	NN	NN	_	dat|sg|neut	-1	4	_	NK	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	doch	doch	doch	ADV	ADV	_	_	-1	10	_	MO	_	_
+8	Schloss-	Schloss-	Schloss-	TRUNC	TRUNC	_	_	-1	9	_	CJ	_	_
+9	und	und	und	KON	KON	_	_	-1	10	_	CD	_	_
+10	Schulmuseum	Schulmuseum	Schulmuseum	NN	NN	_	dat|sg|neut	-1	5	_	CJ	_	_
+11	werden	werden	werden	VAFIN	VAFIN	_	pl|3|pres|ind	-1	3	_	CJ	_	_
+12	weiter	weiter	weiter	ADV	ADV	_	_	-1	15	_	MO	_	_
+13	von	von	von	APPR	APPR	_	_	-1	15	_	MO	_	_
+14	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	13	_	NK	_	_
+15	reden	reden	reden	VVINF	VVINF	_	_	-1	16	_	OC	_	_
+16	machen	machen	machen	VVINF	VVINF	_	pl|3|pres|ind	-1	11	_	OC	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+

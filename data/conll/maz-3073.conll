@@ -1,0 +1,256 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::12
+1	Ä(E)hrenvoll	Ä(E)hrenvoll	Ä(E)hrenvoll	NN	NN	_	pos	-1	0	_	--	_	_
+
+	sentence_start	0	149	236	315	419
+	token_offsets	sentence	0	offsets	0::7	8::3	12::11	24::6	31::1	33::3	37::3	41::4	46::4	51::3	55::3	59::11	71::1	73::5	79::3	83::6	90::6	97::11	109::1	111::3	115::9	125::3	129::16	146::1
+	token_offsets	sentence	1	offsets	149::2	152::3	156::9	166::4	171::4	176::4	181::17	199::3	203::3	207::7	215::6	222::10	233::1
+	token_offsets	sentence	2	offsets	236::4	241::6	248::1	250::2	253::5	259::3	263::4	268::4	273::10	284::3	288::3	292::5	298::2	301::5	307::4	312::1
+	token_offsets	sentence	3	offsets	315::3	319::4	324::1	326::4	331::5	337::4	342::12	355::7	363::4	368::1	370::6	377::4	382::3	386::9	396::5	402::11	414::1	415::0	417::1
+	token_offsets	sentence	4	offsets	419::2	422::1	424::1	426::2	429::5	435::2	438::2	441::6	448::5	454::1	456::1	458::5	464::3	468::5	474::4	479::6	486::5	492::6	499::1	501::1
+1	Während	während	während	APPR	APPR	_	_	-1	18	_	MO	_	_
+2	der	die	die	ART	ART	_	gen|pl|masc	-1	4	_	NK	_	_
+3	vergangenen	vergangen	vergangen	ADJA	ADJA	_	gen|pl|masc|pos	-1	4	_	NK	_	_
+4	Monate	Monat	Monat	NN	NN	_	gen|pl|masc	-1	1	_	NK	_	_
+5	-	-	-	$(	$(	_	_	-1	4	_	--	_	_
+6	und	und	und	KON	KON	_	_	-1	1	_	CD	_	_
+7	das	die	die	PDS	PDS	_	nom|sg|neut	-1	8	_	SB	_	_
+8	gilt	gelten	gelten	VVFIN	VVFIN	_	sg|3|pres|ind	-1	6	_	CJ	_	_
+9	auch	auch	auch	ADV	ADV	_	_	-1	10	_	MO	_	_
+10	für	für	für	APPR	APPR	_	_	-1	8	_	MO	_	_
+11	die	die	die	ART	ART	_	acc|pl|fem	-1	12	_	NK	_	_
+12	Wochenenden	Wochenende	Wochenende	NN	NN	_	acc|pl|fem	-1	10	_	NK	_	_
+13	-	-	-	$(	$(	_	_	-1	12	_	--	_	_
+14	waren	sein	sein	VAFIN	VAFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+15	sie	sie	sie	PPER	PPER	_	nom|pl|*|3	-1	14	_	SB	_	_
+16	selten	selten	selten	ADJD	ADJD	_	pos	-1	18	_	MO	_	_
+17	daheim	daheim	daheim	ADV	ADV	_	_	-1	18	_	MO	_	_
+18	anzutreffen	antreffen	antreffen	VVIZU	VVIZU	_	_	-1	14	_	OC	_	_
+19	,	,	,	$,	$,	_	_	-1	18	_	--	_	_
+20	die	die	die	ART	ART	_	acc|sg|fem	-1	21	_	NK	_	_
+21	Landwirte	Landwirt	Landwirt	NN	NN	_	acc|sg|fem	-1	12	_	APP	_	_
+22	und	und	und	KON	KON	_	_	-1	21	_	CD	_	_
+23	Wiedereinrichter	Wiedereinrichter	Wiedereinrichter	NN	NN	_	acc|sg|fem	-1	22	_	CJ	_	_
+24	.	.	.	$.	$.	_	_	-1	23	_	--	_	_
+
+1	In	in	in	APPR	APPR	_	_	-1	12	_	MO	_	_
+2	der	die	die	ART	ART	_	dat|sg|fem	-1	3	_	NK	_	_
+3	Erntezeit	Erntezeit	Erntezeit	NN	NN	_	dat|sg|fem	-1	1	_	NK	_	_
+4	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	eben	eben	eben	ADV	ADV	_	_	-1	12	_	MO	_	_
+6	jede	jede	jede	PIAT	PIAT	_	nom|sg|fem	-1	7	_	NK	_	_
+7	Schönwetterstunde	Schönwetterstunde	Schönwetterstunde	NN	NN	_	nom|sg|fem	-1	4	_	SB	_	_
+8	bis	bis	bis	KON	KON	_	_	-1	9	_	CD	_	_
+9	zur	zu	zu	APPRART	APPRART	_	dat|sg|fem	-1	12	_	MO	_	_
+10	letzten	letzt	letzt	ADJA	ADJA	_	dat|sg|fem|pos	-1	11	_	NK	_	_
+11	Minute	Minute	Minute	NN	NN	_	dat|sg|fem	-1	9	_	NK	_	_
+12	ausgenutzt	ausnutzen	ausnutzen	VVPP	VVPP	_	_	-1	4	_	OC	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Ganz	ganz	ganz	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	gleich	gleich	gleich	ADJD	ADJD	_	_	-1	0	_	--	_	_
+3	,	,	,	$,	$,	_	_	-1	2	_	--	_	_
+4	ob	ob	ob	KOUS	KOUS	_	_	-1	15	_	CP	_	_
+5	Ähren	Ähre	Ähre	NN	NN	_	nom|pl|fem	-1	15	_	SB	_	_
+6	vom	von	von	APPRART	APPRART	_	dat|sg|masc	-1	5	_	MNR	_	_
+7	Halm	Halm	Halm	NN	NN	_	dat|sg|masc	-1	6	_	NK	_	_
+8	oder	oder	oder	KON	KON	_	_	-1	7	_	CD	_	_
+9	Kartoffeln	Kartoffel	Kartoffel	NN	NN	_	dat|pl|masc	-1	8	_	CJ	_	_
+10	aus	aus	aus	APPR	APPR	_	_	-1	14	_	MO	_	_
+11	dem	die	die	ART	ART	_	dat|sg|masc	-1	12	_	NK	_	_
+12	Boden	Boden	Boden	NN	NN	_	dat|sg|masc	-1	10	_	NK	_	_
+13	zu	zu	zu	PTKZU	PTKZU	_	_	-1	14	_	PM	_	_
+14	holen	holen	holen	VVINF	VVINF	_	_	-1	15	_	OC	_	_
+15	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	1	_	RE	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	11	_	JU	_	_
+2	auch	auch	auch	ADV	ADV	_	_	-1	11	_	MO	_	_
+3	,	,	,	$,	$,	_	_	-1	2	_	--	_	_
+4	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	9	_	CP	_	_
+5	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	6	_	NG	_	_
+6	alle	alle	alle	PIAT	PIAT	_	nom|pl|masc	-1	7	_	NK	_	_
+7	Blütenträume	Blütentraum	Blütentraum	NN	NN	_	nom|pl|masc	-1	9	_	SB	_	_
+8	gereift	reifen	reifen	VVPP	VVPP	_	_	-1	9	_	PD	_	_
+9	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	2	_	RE	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	zeigen	zeigen	zeigen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+12	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	11	_	OA	_	_
+13	die	die	die	ART	ART	_	nom|pl|*	-1	14	_	NK	_	_
+14	Landwirte	Landwirt	Landwirt	NN	NN	_	nom|pl|*	-1	11	_	SB	_	_
+15	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	16	_	NG	_	_
+16	unzufrieden	unzufrieden	unzufrieden	ADJD	ADJD	_	pos	-1	11	_	MO	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+18	"	"	"	$(	$(	_	_	-1	17	_	--	_	_
+
+1	Da	da	da	ADV	ADV	_	_	-1	5	_	MO	_	_
+2	"	"	"	$(	$(	_	_	-1	1	_	--	_	_
+3	,	,	,	$,	$,	_	_	-1	2	_	--	_	_
+4	so	so	so	ADV	ADV	_	_	-1	5	_	MO	_	_
+5	heißt	heißen	heißen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+6	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	5	_	EP	_	_
+7	in	in	in	APPR	APPR	_	_	-1	5	_	MO	_	_
+8	diesen	dies	dies	PDAT	PDAT	_	dat|pl|masc	-1	9	_	NK	_	_
+9	Tagen	Tag	Tag	NN	NN	_	dat|pl|masc	-1	7	_	NK	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	"	"	"	$(	$(	_	_	-1	10	_	--	_	_
+12	haben	haben	haben	VAFIN	VAFIN	_	pl|1|pres|ind	-1	4	_	RE	_	_
+13	wir	wir	wir	PPER	PPER	_	nom|pl|*|1	-1	12	_	SB	_	_
+14	schon	schon	schon	ADV	ADV	_	_	-1	18	_	MO	_	_
+15	ganz	ganz	ganz	ADV	ADV	_	_	-1	16	_	MO	_	_
+16	andere	andere	andere	PIAT	PIAT	_	acc|pl|neut|pos	-1	17	_	NK	_	_
+17	Jahre	Jahr	Jahr	NN	NN	_	acc|pl|neut	-1	18	_	MO	_	_
+18	erlebt	erleben	erleben	VVFIN	VVFIN	_	_	-1	12	_	OC	_	_
+19	.	.	.	$.	$.	_	_	-1	18	_	--	_	_
+20	"	"	"	$(	$(	_	_	-1	19	_	--	_	_
+
+	sentence_start	0	144	181	335
+	token_offsets	sentence	0	offsets	0::3	4::3	8::6	15::6	22::6	29::3	33::6	40::5	46::4	51::8	60::1	62::8	71::1	73::5	79::3	83::4	88::5	94::6	101::5	107::3	111::9	121::3	125::8	134::6	141::1
+	token_offsets	sentence	1	offsets	144::2	147::3	151::5	157::3	161::3	165::5	171::6	178::1
+	token_offsets	sentence	2	offsets	181::2	184::3	188::8	197::4	202::5	208::1	210::3	214::3	218::4	223::3	227::12	240::5	246::8	255::5	261::1	262::0	264::4	269::3	273::1	275::3	279::6	286::1	288::4	293::3	297::7	305::3	309::5	315::10	326::5	332::1
+	token_offsets	sentence	3	offsets	335::3	339::3	343::6	350::2	353::3	357::10	368::3	372::5	378::1	380::3	384::9	394::6	401::1	403::14	418::6	425::4	430::14	445::6	452::1	454::3	458::10	469::5	475::2	478::4	483::3	487::3	491::7	499::1	501::3	505::3	509::3	513::4	518::2	521::9	531::4	536::6	543::2	546::3	550::6	557::7	565::1
+1	Wer	wer	wer	PWS	PWS	_	nom|sg|masc	-1	10	_	SB	_	_
+2	die	die	die	ART	ART	_	acc|sg|fem	-1	3	_	NK	_	_
+3	Arbeit	Arbeit	Arbeit	NN	NN	_	acc|sg|fem	-1	10	_	OA	_	_
+4	dieser	dies	dies	PDAT	PDAT	_	gen|pl|fem	-1	5	_	NK	_	_
+5	Frauen	Frau	Frau	NN	NN	_	gen|pl|fem	-1	3	_	AG	_	_
+6	und	und	und	KON	KON	_	_	-1	5	_	CD	_	_
+7	Männer	Mann	Mann	NN	NN	_	nom|pl|masc	-1	6	_	CJ	_	_
+8	übers	übers	übers	APPRART	APPRART	_	acc|sg|neut	-1	10	_	MO	_	_
+9	Jahr	Jahr	Jahr	NN	NN	_	acc|sg|neut	-1	8	_	NK	_	_
+10	verfolgt	verfolgen	verfolgen	VVPP	VVPP	_	_	-1	12	_	SB	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	versteht	verstehen	verstehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+13	,	,	,	$,	$,	_	_	-1	12	_	--	_	_
+14	warum	warum	warum	PWAV	PWAV	_	_	-1	24	_	MO	_	_
+15	sie	sie	sie	PPER	PPER	_	nom|sg|fem|3	-1	24	_	SB	_	_
+16	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	23	_	DA	_	_
+17	trotz	trotz	trotz	APPR	APPR	_	_	-1	24	_	MO	_	_
+18	vieler	viele	viele	PIAT	PIAT	_	gen|pl|fem	-1	19	_	NK	_	_
+19	Mühen	Mühe|Mühen	Mühe|Mühen	NN	NN	_	gen|pl|fem	-1	17	_	NK	_	_
+20	das	die	die	ART	ART	_	nom|sg|neut	-1	21	_	NK	_	_
+21	Erntefest	Erntefest	Erntefest	NN	NN	_	nom|sg|neut	-1	23	_	OA	_	_
+22	nie	nie	nie	ADV	ADV	_	_	-1	23	_	MO	_	_
+23	entgehen	entgehen	entgehen	VVINF	VVINF	_	_	-1	24	_	OC	_	_
+24	lassen	lassen	lassen	VVINF	VVINF	_	_	-1	12	_	SB	_	_
+25	.	.	.	$.	$.	_	_	-1	24	_	--	_	_
+
+1	Es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	SB	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	4	_	NG	_	_
+4	nur	nur	nur	ADV	ADV	_	_	-1	7	_	MO	_	_
+5	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	7	_	NK	_	_
+6	alter	alt	alt	ADJA	ADJA	_	nom|sg|masc|pos	-1	7	_	NK	_	_
+7	Brauch	Brauch	Brauch	NN	NN	_	nom|sg|masc	-1	2	_	PD	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+
+1	Es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	SB	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	zugleich	zugleich	zugleich	ADV	ADV	_	_	-1	2	_	MO	_	_
+4	eine	eine	eine	ART	ART	_	nom|sg|fem	-1	5	_	NK	_	_
+5	Bühne	Bühne	Bühne	NN	NN	_	nom|sg|fem	-1	2	_	PD	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	auf	auf	auf	APPR	APPR	_	_	-1	14	_	MO	_	_
+8	der	die	die	PRELS	PRELS	_	dat|sg|fem	-1	7	_	NK	_	_
+9	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	13	_	OA	_	_
+10	mit	mit	mit	APPR	APPR	_	_	-1	13	_	MO	_	_
+11	berechtigtem	berechtigt	berechtigt	ADJA	ADJA	_	dat|sg|neut|pos	-1	12	_	NK	_	_
+12	Stolz	Stolz	Stolz	NN	NN	_	dat|sg|neut	-1	10	_	NK	_	_
+13	ausrufen	ausrufen	ausrufen	VVINF	VVINF	_	_	-1	14	_	OC	_	_
+14	lässt	lassen	lassen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	5	_	RC	_	_
+15	:	:	:	$.	$.	_	_	-1	14	_	--	_	_
+16	Seht	sehen	sehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	14	_	OC	_	_
+17	her	her	her	PTKVZ	PTKVZ	_	_	-1	16	_	SVP	_	_
+18	,	,	,	$,	$,	_	_	-1	17	_	--	_	_
+19	was	was	was	PWS	PWS	_	acc|sg|neut	-1	27	_	OA	_	_
+20	Mensch	Mensch	Mensch	NN	NN	_	nom|sg|masc	-1	28	_	SB	_	_
+21	,	,	,	$,	$,	_	_	-1	20	_	--	_	_
+22	Tier	Tier	Tier	NN	NN	_	nom|sg|masc	-1	20	_	CJ	_	_
+23	und	und	und	KON	KON	_	_	-1	22	_	CD	_	_
+24	Technik	Technik	Technik	NN	NN	_	nom|sg|fem	-1	23	_	CJ	_	_
+25	der	die	die	ART	ART	_	gen|sg|fem	-1	26	_	NK	_	_
+26	Natur	Natur	Natur	NN	NN	_	gen|sg|fem	-1	20	_	AG	_	_
+27	abgerungen	abringen	abringen	VVPP	VVPP	_	_	-1	28	_	OC	_	_
+28	haben	haben	haben	VAFIN	VAFIN	_	pl|3|pres|ind	-1	16	_	OC	_	_
+29	.	.	.	$.	$.	_	_	-1	28	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	20	_	JU	_	_
+2	die	die	die	ART	ART	_	nom|sg|fem	-1	3	_	NK	_	_
+3	Freude	Freude	Freude	NN	NN	_	nom|sg|fem	-1	20	_	SB	_	_
+4	in	in	in	APPR	APPR	_	_	-1	3	_	MNR	_	_
+5	den	die	die	ART	ART	_	dat|pl|neut	-1	6	_	NK	_	_
+6	Gesichtern	Gesicht	Gesicht	NN	NN	_	dat|pl|neut	-1	4	_	NK	_	_
+7	der	die	die	ART	ART	_	gen|sg|fem	-1	8	_	NK	_	_
+8	Leute	Leute	Leute	NN	NN	_	gen|sg|fem	-1	6	_	AG	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	die	die	die	ART	ART	_	acc|pl|*	-1	12	_	SB	_	_
+11	Handwagen	Handwagen	Handwagen	NN	NN	_	acc|pl|*	-1	12	_	OA	_	_
+12	ziehen	ziehen	ziehen	VVINF	VVINF	_	_	-1	8	_	RC	_	_
+13	,	,	,	$,	$,	_	_	-1	12	_	--	_	_
+14	Pferdegespanne	Pferdegespann	Pferdegespann	NN	NN	_	acc|pl|*	-1	15	_	OA	_	_
+15	führen	führen	führen	VVINF	VVINF	_	_	-1	12	_	CJ	_	_
+16	oder	oder	oder	KON	KON	_	_	-1	15	_	CD	_	_
+17	Erntemaschinen	Erntemaschine	Erntemaschine	NN	NN	_	acc|pl|*	-1	18	_	OA	_	_
+18	lenken	lenken	lenken	VVINF	VVINF	_	pl|3|pres|ind	-1	16	_	CJ	_	_
+19	,	,	,	$,	$,	_	_	-1	18	_	--	_	_
+20	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+21	mindestens	mindestens	mindestens	ADV	ADV	_	_	-1	22	_	MO	_	_
+22	genau	genau	genau	ADJD	ADJD	_	pos	-1	23	_	MO	_	_
+23	so	so	so	ADV	ADV	_	_	-1	24	_	MO	_	_
+24	groß	groß	groß	ADJD	ADJD	_	pos	-1	20	_	PD	_	_
+25	wie	wie	wie	KOKOM	KOKOM	_	_	-1	27	_	CM	_	_
+26	der	die	die	ART	ART	_	dat|sg|fem	-1	27	_	NK	_	_
+27	Ehrgeiz	Ehrgeiz	Ehrgeiz	NN	NN	_	dat|sg|fem	-1	23	_	CC	_	_
+28	,	,	,	$,	$,	_	_	-1	27	_	--	_	_
+29	mit	mit	mit	APPR	APPR	_	_	-1	40	_	MO	_	_
+30	dem	die	die	PRELS	PRELS	_	dat|sg|masc	-1	29	_	NK	_	_
+31	sie	sie	sie	PPER	PPER	_	nom|sg|fem|3	-1	40	_	SB	_	_
+32	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	40	_	OA	_	_
+33	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	40	_	MO	_	_
+34	kommenden	kommend	kommend	ADJA	ADJA	_	dat|sg|neut|pos	-1	35	_	NK	_	_
+35	Jahr	Jahr	Jahr	NN	NN	_	dat|sg|neut	-1	33	_	NK	_	_
+36	wieder	wieder	wieder	ADV	ADV	_	_	-1	40	_	MO	_	_
+37	in	in	in	APPR	APPR	_	_	-1	40	_	MO	_	_
+38	die	die	die	ART	ART	_	acc|sg|fem	-1	39	_	NK	_	_
+39	Arbeit	Arbeit	Arbeit	NN	NN	_	acc|sg|fem	-1	37	_	NK	_	_
+40	stürzen	stürzen	stürzen	VVINF	VVINF	_	_	-1	11	_	RC	_	_
+41	.	.	.	$.	$.	_	_	-1	40	_	--	_	_
+
+	sentence_start	0	117	129
+	token_offsets	sentence	0	offsets	0::4	5::3	9::4	14::1	16::4	21::6	28::2	31::3	35::4	40::2	43::4	48::4	53::8	62::1	64::3	68::3	72::8	81::8	90::6	97::3	101::12	114::1
+	token_offsets	sentence	1	offsets	117::5	123::2	126::1
+	token_offsets	sentence	2	offsets	129::7	137::1	139::3	143::7	151::7	159::1
+1	Irre	Irre	Irre	NN	NN	_	sg|1|pres|ind	-1	0	_	--	_	_
+2	ich	ich	ich	PPER	PPER	_	nom|sg|*|1	-1	1	_	SB	_	_
+3	mich	ich	ich	PRF	PRF	_	acc|sg|1	-1	1	_	OA	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	oder	oder	oder	KON	KON	_	_	-1	1	_	CD	_	_
+6	werden	werden	werden	VAFIN	VAFIN	_	pl|3|pres|ind	-1	5	_	CJ	_	_
+7	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	6	_	SB	_	_
+8	von	von	von	APPR	APPR	_	_	-1	6	_	MO	_	_
+9	Jahr	Jahr	Jahr	NN	NN	_	dat|sg|neut	-1	8	_	NK	_	_
+10	zu	zu	zu	APPR	APPR	_	_	-1	9	_	MNR	_	_
+11	Jahr	Jahr	Jahr	NN	NN	_	dat|sg|neut	-1	10	_	NK	_	_
+12	mehr	mehr	mehr	PIAT	PIAT	_	*|*|*	-1	13	_	NK	_	_
+13	Menschen	Mensch	Mensch	NN	NN	_	acc|pl|masc	-1	6	_	SB	_	_
+14	,	,	,	$,	$,	_	_	-1	13	_	--	_	_
+15	die	die	die	PRELS	PRELS	_	nom|pl|masc	-1	19	_	SB	_	_
+16	dem	die	die	ART	ART	_	dat|sg|masc	-1	18	_	NK	_	_
+17	lustigen	lustig	lustig	ADJA	ADJA	_	dat|sg|masc|pos	-1	18	_	NK	_	_
+18	Landvolk	Landvolk	Landvolk	NN	NN	_	dat|sg|masc	-1	19	_	DA	_	_
+19	winken	winken	winken	VVINF	VVINF	_	_	-1	13	_	RC	_	_
+20	und	und	und	KON	KON	_	_	-1	6	_	CD	_	_
+21	applaudieren	applaudieren	applaudieren	VVFIN	VVFIN	_	pl|1|pres|ind	-1	20	_	CJ	_	_
+22	?	?	?	$.	$.	_	_	-1	21	_	--	_	_
+
+1	Recht	recht	recht	ADJD	ADJD	_	pos	-1	0	_	--	_	_
+2	so	so	so	ADV	ADV	_	_	-1	1	_	MO	_	_
+3	!	!	!	$.	$.	_	_	-1	2	_	--	_	_
+
+1	Ä(E)hre	Ä(E)hre	Ä(E)hre	NN	NN	_	nom|sg|fem	-1	0	_	--	_	_
+2	,	,	,	$,	$,	_	_	-1	1	_	--	_	_
+3	wem	wer	wer	PWS	PWS	_	dat|sg|masc	-1	5	_	SB	_	_
+4	Ä(E)hre	Ä(E)hre	Ä(E)hre	NN	NN	_	dat|sg|masc	-1	5	_	OA	_	_
+5	gebührt	gebühren	gebühren	VVPP	VVPP	_	_	-1	1	_	OC	_	_
+6	.	.	.	$.	$.	_	_	-1	5	_	--	_	_
+

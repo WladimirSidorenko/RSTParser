@@ -1,0 +1,239 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::5	6::2	9::3	13::4
+1	Spatz	Spatz	Spatz	NN	NN	_	nom|sg|masc	-1	0	_	--	_	_
+2	in	in	in	APPR	APPR	_	_	-1	1	_	MNR	_	_
+3	der	die	die	ART	ART	_	dat|sg|fem	-1	4	_	NK	_	_
+4	Hand	Hand	Hand	NN	NN	_	dat|sg|fem	-1	2	_	NK	_	_
+
+	sentence_start	0	178	310	389	436	458	471
+	token_offsets	sentence	0	offsets	0::7	8::6	15::3	19::5	25::7	33::3	37::12	50::10	61::1	63::3	67::2	70::4	75::3	79::5	85::2	88::5	94::7	102::1	103::0	105::4	110::5	116::4	121::11	133::4	138::11	150::7	158::6	165::9	175::1
+	token_offsets	sentence	1	offsets	178::3	182::5	188::8	197::4	202::3	206::1	208::3	212::3	216::5	222::6	229::2	232::13	246::2	249::3	253::27	281::5	287::1	289::3	293::13	307::1
+	token_offsets	sentence	2	offsets	310::4	315::3	319::3	323::3	327::3	331::1	333::4	338::5	344::5	350::4	355::1	357::13	371::6	378::7	386::1
+	token_offsets	sentence	3	offsets	389::4	394::5	400::3	404::7	412::9	422::3	426::6	433::1
+	token_offsets	sentence	4	offsets	436::4	441::13	455::1
+	token_offsets	sentence	5	offsets	458::4	463::4	468::1
+	token_offsets	sentence	6	offsets	471::3	475::6	482::3	486::4	491::1	492::0	494::6	501::3	505::5	511::2	514::3	518::4	523::3	527::3	531::5	537::3	541::3	545::4	550::1
+1	Rüdiger	Rüdiger	Rüdiger	NE	NE	_	nom|sg|masc	-1	2	_	PNC	_	_
+2	Kadatz	Kadatz	Kadatz	NN	NN	_	nom|sg|masc	-1	3	_	SB	_	_
+3	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	seine	sein	sein	PPOSAT	PPOSAT	_	acc|sg|fem	-1	5	_	NK	_	_
+5	Meinung	Meinung	Meinung	NN	NN	_	acc|sg|fem	-1	3	_	OA	_	_
+6	zum	zu	zu	APPRART	APPRART	_	dat|sg|masc	-1	5	_	MNR	_	_
+7	Rheinsberger	Rheinsberger	Rheinsberger	NN	NN	_	dat|sg|masc	-1	6	_	NK	_	_
+8	Thermalbad	Thermalbad	Thermalbad	NN	NN	_	nom|sg|neut	-1	3	_	OA	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	und	und	und	KON	KON	_	_	-1	3	_	CD	_	_
+11	er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	12	_	SB	_	_
+12	will	wollen	wollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	10	_	CJ	_	_
+13	sie	sie	sie	PPER	PPER	_	nom|sg|fem|3	-1	17	_	OA	_	_
+14	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	12	_	NG	_	_
+15	in	in	in	APPR	APPR	_	_	-1	17	_	CVC	_	_
+16	Frage	Frage	Frage	NN	NN	_	acc|sg|fem	-1	15	_	NK	_	_
+17	stellen	stellen	stellen	VVINF	VVINF	_	_	-1	12	_	OC	_	_
+18	:	:	:	$.	$.	_	_	-1	17	_	--	_	_
+19	Nach	nach	nach	APPR	APPR	_	_	-1	27	_	MO	_	_
+20	einem	eine	eine	ART	ART	_	dat|sg|neut	-1	21	_	NK	_	_
+21	Jahr	Jahr	Jahr	NN	NN	_	dat|sg|neut	-1	19	_	NK	_	_
+22	Verhandelns	Verhandeln	Verhandeln	NN	NN	_	gen|sg|neut	-1	21	_	NK	_	_
+23	habe	haben	haben	VAFIN	VAFIN	_	sg|3|pres|subj	-1	17	_	OC	_	_
+24	Rheinsbergs	Rheinsbergs	Rheinsbergs	NN	NN	_	gen|sg|masc	-1	27	_	MO	_	_
+25	Favorit	Favorit	Favorit	NN	NN	_	nom|sg|masc	-1	24	_	NK	_	_
+26	Rogner	Rogner	Rogner	NN	NN	_	nom|sg|masc	-1	24	_	NK	_	_
+27	verspielt	verspielen	verspielen	VVPP	VVPP	_	_	-1	23	_	OC	_	_
+28	.	.	.	$.	$.	_	_	-1	27	_	--	_	_
+
+1	Ein	eine	eine	ART	ART	_	nom|sg|masc	-1	3	_	NK	_	_
+2	neuer	neu	neu	ADJA	ADJA	_	nom|sg|masc|pos	-1	3	_	NK	_	_
+3	Investor	Investor	Investor	NN	NN	_	nom|sg|masc	-1	4	_	SB	_	_
+4	muss	müssen	müssen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	her	her	her	ADV	ADV	_	_	-1	4	_	MO	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	und	und	und	KON	KON	_	_	-1	4	_	CD	_	_
+8	den	die	die	PDS	PDS	_	dat|pl|*	-1	9	_	DA	_	_
+9	hatte	haben	haben	VAFIN	VAFIN	_	sg|3|past|ind	-1	7	_	CJ	_	_
+10	Kadatz	Kadatz	Kadatz	NN	NN	_	acc|sg|masc	-1	9	_	SB	_	_
+11	am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	9	_	MO	_	_
+12	Mittwochabend	Mittwochabend	Mittwochabend	NN	NN	_	dat|sg|masc	-1	11	_	NK	_	_
+13	in	in	in	APPR	APPR	_	_	-1	9	_	MO	_	_
+14	der	die	die	ART	ART	_	dat|sg|fem	-1	15	_	NK	_	_
+15	Stadtverordnetenversammlung	Stadtverordnetenversammlung	Stadtverordnetenversammlung	NN	NN	_	dat|sg|fem	-1	13	_	NK	_	_
+16	parat	parat	parat	ADJD	ADJD	_	_	-1	9	_	MO	_	_
+17	-	-	-	$(	$(	_	_	-1	16	_	--	_	_
+18	die	die	die	ART	ART	_	acc|sg|fem	-1	19	_	NK	_	_
+19	Lielje-Gruppe	Lielje-Gruppe	Lielje-Gruppe	NN	NN	_	acc|sg|fem	-1	9	_	OA	_	_
+20	.	.	.	$.	$.	_	_	-1	19	_	--	_	_
+
+1	Dass	dass	dass	KOUS	KOUS	_	_	-1	10	_	CP	_	_
+2	die	die	die	PDS	PDS	_	nom|pl|*	-1	10	_	SB	_	_
+3	nur	nur	nur	ADV	ADV	_	_	-1	5	_	MO	_	_
+4	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	5	_	NK	_	_
+5	Bad	Bad	Bad	NE	NE	_	nom|sg|masc	-1	9	_	DA	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	kein	keine	keine	PIAT	PIAT	_	nom|sg|neut	-1	8	_	NK	_	_
+8	Hotel	Hotel	Hotel	NN	NN	_	nom|sg|neut	-1	9	_	OA	_	_
+9	bauen	bauen	bauen	VVINF	VVINF	_	_	-1	10	_	OC	_	_
+10	will	wollen	wollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	12	_	MO	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	interessierte	interessieren	interessieren	VVFIN	VVFIN	_	nom|sg|masc|pos	-1	0	_	--	_	_
+13	Kadatz	Kadatz	Kadatz	NN	NN	_	nom|sg|masc	-1	12	_	SB	_	_
+14	weniger	weniger	weniger	ADV	ADV	_	_	-1	12	_	MO	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+1	Auch	auch	auch	ADV	ADV	_	_	-1	5	_	MO	_	_
+2	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	5	_	NG	_	_
+3	die	die	die	ART	ART	_	nom|pl|neut	-1	5	_	NK	_	_
+4	letzten	letzt	letzt	ADJA	ADJA	_	nom|pl|neut|pos	-1	5	_	NK	_	_
+5	Gespräche	Gespräch	Gespräch	NN	NN	_	nom|pl|neut	-1	0	_	--	_	_
+6	mit	mit	mit	APPR	APPR	_	_	-1	5	_	OP	_	_
+7	Rogner	Rogner	Rogner	NN	NN	_	dat|sg|fem	-1	6	_	NK	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+
+1	Neue	neu	neu	ADJA	ADJA	_	nom|pl|fem|pos	-1	2	_	NK	_	_
+2	Entwicklungen	Entwicklung	Entwicklung	NN	NN	_	nom|pl|fem	-1	0	_	--	_	_
+3	?	?	?	$.	$.	_	_	-1	2	_	--	_	_
+
+1	Wozu	wozu	wozu	PWAV	PWAV	_	_	-1	0	_	--	_	_
+2	noch	noch	noch	ADV	ADV	_	_	-1	1	_	MO	_	_
+3	?	?	?	$.	$.	_	_	-1	2	_	--	_	_
+
+1	Für	für	für	APPR	APPR	_	_	-1	3	_	MO	_	_
+2	Kadatz	Kadatz	Kadatz	NN	NN	_	acc|sg|masc	-1	1	_	NK	_	_
+3	war	sein	sein	VAFIN	VAFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+4	klar	klar	klar	ADJD	ADJD	_	pos	-1	3	_	PD	_	_
+5	:	:	:	$.	$.	_	_	-1	4	_	--	_	_
+6	Lieber	lieb	lieb	ADJD	ADJD	_	comp	-1	3	_	PD	_	_
+7	den	die	die	ART	ART	_	acc|sg|masc	-1	8	_	NK	_	_
+8	Spatz	Spatz	Spatz	NN	NN	_	acc|sg|masc	-1	6	_	CC	_	_
+9	in	in	in	APPR	APPR	_	_	-1	8	_	MNR	_	_
+10	der	die	die	ART	ART	_	dat|sg|fem	-1	11	_	NK	_	_
+11	Hand	Hand	Hand	NN	NN	_	dat|sg|fem	-1	9	_	NK	_	_
+12	als	als	als	KOKOM	KOKOM	_	_	-1	14	_	CM	_	_
+13	die	die	die	ART	ART	_	nom|sg|fem	-1	14	_	NK	_	_
+14	Taube	Taube	Taube	NN	NN	_	nom|sg|fem	-1	6	_	CC	_	_
+15	auf	auf	auf	APPR	APPR	_	_	-1	14	_	MNR	_	_
+16	dem	die	die	ART	ART	_	dat|sg|neut	-1	17	_	NK	_	_
+17	Dach	Dach	Dach	NN	NN	_	dat|sg|neut	-1	15	_	NK	_	_
+18	.	.	.	$.	$.	_	_	-1	17	_	--	_	_
+
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::4	5::13	19::11	31::1	33::4	38::2	41::4	46::5	52::5	58::4	63::1
+1	Eine	eine	eine	ART	ART	_	nom|sg|fem	-1	3	_	NK	_	_
+2	verständliche	verständlich	verständlich	ADJA	ADJA	_	nom|sg|fem|pos	-1	3	_	NK	_	_
+3	Einstellung	Einstellung	Einstellung	NN	NN	_	nom|sg|fem	-1	10	_	SB	_	_
+4	-	-	-	$(	$(	_	_	-1	3	_	--	_	_
+5	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	10	_	CP	_	_
+6	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	10	_	EP	_	_
+7	denn	denn	denn	ADV	ADV	_	_	-1	10	_	MO	_	_
+8	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	9	_	NK	_	_
+9	Spatz	Spatz	Spatz	NN	NN	_	acc|sg|masc	-1	10	_	OA	_	_
+10	gäbe	geben	geben	VVFIN	VVFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+	sentence_start	0	125	262
+	token_offsets	sentence	0	offsets	0::4	5::3	9::7	17::8	26::1	28::6	35::3	39::12	52::3	56::7	64::19	84::5	90::4	95::2	98::3	102::4	107::3	111::3	115::6	122::1
+	token_offsets	sentence	1	offsets	125::3	129::4	134::4	139::9	149::25	175::1	177::3	181::6	188::3	192::8	201::7	209::5	215::1	217::3	221::3	225::5	231::1	233::3	237::6	244::9	254::4	259::1
+	token_offsets	sentence	2	offsets	262::4	267::5	273::11	285::5	291::6	298::3	302::1
+1	Wenn	wenn	wenn	KOUS	KOUS	_	_	-1	4	_	CP	_	_
+2	man	man	man	PIS	PIS	_	nom|sg|*	-1	4	_	SB	_	_
+3	genauer	genau	genau	ADJD	ADJD	_	comp	-1	4	_	MO	_	_
+4	hinsieht	hinsehen	hinsehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	6	_	MO	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	halten	halten	halten	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+7	die	die	die	ART	ART	_	nom|pl|masc	-1	8	_	NK	_	_
+8	Rheinsberger	Rheinsberger	Rheinsberger	NN	NN	_	nom|pl|masc	-1	6	_	SB	_	_
+9	vom	von	von	APPRART	APPRART	_	dat|sg|masc	-1	8	_	MNR	_	_
+10	zweiten	zweit	zweit	ADJA	ADJA	_	dat|sg|masc|pos	-1	11	_	NK	_	_
+11	Thermalbad-Bewerber	Thermalbad-Bewerber	Thermalbad-Bewerber	NN	NN	_	dat|sg|masc	-1	9	_	NK	_	_
+12	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	6	_	NG	_	_
+13	mehr	mehr	mehr	ADV	ADV	_	_	-1	12	_	MO	_	_
+14	in	in	in	APPR	APPR	_	_	-1	6	_	MO	_	_
+15	der	die	die	ART	ART	_	dat|sg|fem	-1	16	_	NK	_	_
+16	Hand	Hand	Hand	NN	NN	_	dat|sg|fem	-1	14	_	NK	_	_
+17	als	als	als	KOKOM	KOKOM	_	_	-1	18	_	CM	_	_
+18	vom	von	von	APPRART	APPRART	_	dat|sg|masc	-1	13	_	CC	_	_
+19	ersten	erst	erst	ADJA	ADJA	_	dat|sg|masc|pos	-1	18	_	NK	_	_
+20	.	.	.	$.	$.	_	_	-1	19	_	--	_	_
+
+1	Ein	eine	eine	ART	ART	_	*|*|*	-1	2	_	NK	_	_
+2	paar	paar	paar	PIAT	PIAT	_	*|*|*	-1	3	_	MO	_	_
+3	vage	vage	vage	ADJA	ADJA	_	acc|sg|fem|pos	-1	5	_	NK	_	_
+4	mündliche	mündlich	mündlich	ADJA	ADJA	_	nom|pl|fem|pos	-1	5	_	NK	_	_
+5	Finanzierungs-Versprechen	Finanzierungs-Versprechen	Finanzierungs-Versprechen	NN	NN	_	nom|pl|fem	-1	14	_	RE	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	die	die	die	ART	ART	_	acc|sg|fem	-1	8	_	NK	_	_
+8	Skizze	Skizze	Skizze	NN	NN	_	acc|sg|fem	-1	5	_	CJ	_	_
+9	des	die	die	ART	ART	_	gen|sg|neut	-1	12	_	NK	_	_
+10	einzigen	einzig	einzig	ADJA	ADJA	_	gen|sg|neut|pos	-1	12	_	NK	_	_
+11	anderen	andere	andere	PIAT	PIAT	_	gen|sg|neut	-1	12	_	NK	_	_
+12	Bades	Bad	Bad	NN	NN	_	gen|sg|neut	-1	8	_	AG	_	_
+13	,	,	,	$,	$,	_	_	-1	12	_	--	_	_
+14	das	die	die	PDS	PDS	_	nom|sg|neut	-1	15	_	SB	_	_
+15	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+16	alles	alle	alle	PIS	PIS	_	nom|sg|neut	-1	15	_	PD	_	_
+17	,	,	,	$,	$,	_	_	-1	16	_	--	_	_
+18	was	was	was	PRELS	PRELS	_	nom|sg|neut	-1	20	_	OA	_	_
+19	Lielje	Lielje	Lielje	NE	NE	_	nom|sg|*	-1	21	_	SB	_	_
+20	vorweisen	vorweisen	vorweisen	VVINF	VVINF	_	_	-1	21	_	OC	_	_
+21	kann	können	können	VMFIN	VMFIN	_	sg|3|pres|ind	-1	16	_	RC	_	_
+22	.	.	.	$.	$.	_	_	-1	21	_	--	_	_
+
+1	Eine	eine	eine	ART	ART	_	nom|sg|fem	-1	3	_	NK	_	_
+2	echte	echt	echt	ADJA	ADJA	_	nom|sg|fem|pos	-1	3	_	NK	_	_
+3	Alternative	Alternative	Alternative	NN	NN	_	nom|sg|fem	-1	4	_	SB	_	_
+4	sieht	sehen	sehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	anders	anders	anders	ADV	ADV	_	_	-1	4	_	MO	_	_
+6	aus	aus	aus	PTKVZ	PTKVZ	_	_	-1	4	_	SVP	_	_
+7	.	.	.	$.	$.	_	_	-1	6	_	--	_	_
+
+	sentence_start	0	69	117	214
+	token_offsets	sentence	0	offsets	0::4	5::8	14::6	21::4	26::5	32::2	35::12	48::17	66::1
+	token_offsets	sentence	1	offsets	69::6	76::3	80::6	87::1	89::10	100::4	105::8	114::1
+	token_offsets	sentence	2	offsets	117::2	120::4	125::16	142::1	144::6	151::2	154::4	159::3	163::3	167::9	177::3	181::4	186::3	190::3	194::6	201::2	204::6	211::1
+	token_offsets	sentence	3	offsets	214::2	217::4	222::5	228::10	239::4	244::8	253::2	256::1
+1	Doch	doch	doch	KON	KON	_	_	-1	3	_	JU	_	_
+2	immerhin	immerhin	immerhin	ADV	ADV	_	_	-1	3	_	MO	_	_
+3	bewegt	bewegen	bewegen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	3	_	OA	_	_
+5	etwas	etwas	etwas	ADV	ADV	_	_	-1	3	_	MO	_	_
+6	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	3	_	MO	_	_
+7	Rheinsberger	Rheinsberger	Rheinsberger	NN	NN	_	dat|sg|masc	-1	6	_	NK	_	_
+8	Thermalbad-Rennen	Thermalbad-Rennen	Thermalbad-Rennen	NN	NN	_	nom|sg|neut	-1	7	_	NK	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+1	Rogner	Rogner	Rogner	NN	NN	_	nom|sg|masc	-1	2	_	SB	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	willig	willig	willig	ADJD	ADJD	_	pos	-1	2	_	PD	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	Finanziers	Finanzier	Finanzier	NN	NN	_	gen|sg|*	-1	6	_	SB	_	_
+6	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	2	_	CJ	_	_
+7	gefunden	finden	finden	VVPP	VVPP	_	_	-1	6	_	PD	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+
+1	Es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	SB	_	_
+2	wäre	sein	sein	VAFIN	VAFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+3	unverantwortlich	unverantwortlich	unverantwortlich	ADJD	ADJD	_	pos	-1	2	_	PD	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	Rogner	Rogner	Rogner	NN	NN	_	nom|pl|masc	-1	17	_	OA	_	_
+6	so	so	so	ADV	ADV	_	_	-1	17	_	MO	_	_
+7	kurz	kurz	kurz	ADJD	ADJD	_	pos	-1	8	_	MO	_	_
+8	vor	vor	vor	APPR	APPR	_	_	-1	17	_	MO	_	_
+9	der	die	die	ART	ART	_	dat|sg|fem	-1	10	_	NK	_	_
+10	Ziellinie	Ziellinie	Ziellinie	NN	NN	_	dat|sg|fem	-1	8	_	NK	_	_
+11	die	die	die	ART	ART	_	acc|sg|fem	-1	12	_	NK	_	_
+12	Luft	Luft	Luft	NN	NN	_	acc|sg|fem	-1	17	_	OA	_	_
+13	aus	aus	aus	APPR	APPR	_	_	-1	17	_	MO	_	_
+14	den	die	die	ART	ART	_	dat|pl|masc	-1	15	_	NK	_	_
+15	Reifen	Reifen	Reifen	NN	NN	_	dat|pl|masc	-1	13	_	NK	_	_
+16	zu	zu	zu	PTKZU	PTKZU	_	_	-1	17	_	PM	_	_
+17	lassen	lassen	lassen	VVINF	VVINF	_	_	-1	1	_	RE	_	_
+18	.	.	.	$.	$.	_	_	-1	17	_	--	_	_
+
+1	Am	an	an	APPRART	APPRART	_	dat|sg|neut	-1	3	_	MO	_	_
+2	Ende	Ende	Ende	NN	NN	_	dat|sg|neut	-1	1	_	NK	_	_
+3	steht	stehen	stehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	Rheinsberg	Rheinsberg	Rheinsberg	NN	NN	_	nom|sg|neut	-1	3	_	SB	_	_
+5	ohne	ohne	ohne	APPR	APPR	_	_	-1	3	_	MO	_	_
+6	Investor	Investor	Investor	NN	NN	_	acc|sg|masc	-1	5	_	NK	_	_
+7	da	da	da	PTKVZ	PTKVZ	_	_	-1	3	_	SVP	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+

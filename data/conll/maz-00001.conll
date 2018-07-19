@@ -1,0 +1,228 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::3	4::3	8::6
+1	Auf	auf	auf	APPR	APPR	_	_	-1	3	_	MO	_	_
+2	Eis	Eis	Eis	NN	NN	_	dat|sg|neut	-1	1	_	NK	_	_
+3	gelegt	legen	legen	VVPP	VVPP	_	_	-1	0	_	--	_	_
+
+	sentence_start	0	44	253	365	425	576	675	724	866	939	1001	1023	1124	1181
+	token_offsets	sentence	0	offsets	0::6	7::7	15::5	21::2	24::3	28::13	42::1
+	token_offsets	sentence	1	offsets	44::3	48::5	54::3	58::12	71::10	82::2	85::11	97::3	101::3	105::5	111::4	116::4	121::4	126::3	130::5	136::4	141::11	153::16	170::12	183::3	187::3	191::6	198::3	202::13	216::1	218::4	223::4	228::7	236::2	239::11	251::1
+	token_offsets	sentence	2	offsets	253::12	266::1	268::4	273::3	277::7	285::3	289::3	293::15	309::3	313::21	335::9	345::10	356::6	363::1
+	token_offsets	sentence	3	offsets	365::3	369::10	380::3	384::16	401::3	405::4	410::12	423::1
+	token_offsets	sentence	4	offsets	425::2	428::6	435::7	443::6	450::2	453::10	464::4	469::1	471::7	479::3	483::7	491::8	500::3	504::9	514::12	527::11	539::6	546::4	551::3	555::6	562::3	566::7	574::1
+	token_offsets	sentence	5	offsets	576::7	584::16	601::6	608::3	612::10	623::7	631::6	638::1	640::4	645::3	649::7	657::11	669::3	673::1
+	token_offsets	sentence	6	offsets	675::11	687::4	692::2	695::4	700::7	708::6	715::6	722::1
+	token_offsets	sentence	7	offsets	724::2	727::3	731::4	736::6	743::1	745::3	749::11	761::8	770::4	775::1	777::4	782::3	786::8	795::1	797::4	802::2	805::5	811::6	818::3	822::8	831::3	835::11	847::9	857::6	864::1
+	token_offsets	sentence	8	offsets	866::7	874::4	879::2	882::2	885::7	893::14	908::10	919::5	925::11	937::1
+	token_offsets	sentence	9	offsets	939::3	943::4	948::3	952::7	960::2	963::5	969::6	976::3	980::2	983::5	989::9	999::1
+	token_offsets	sentence	10	offsets	1001::3	1005::3	1009::4	1014::6	1021::1
+	token_offsets	sentence	11	offsets	1023::3	1027::5	1033::8	1042::3	1046::13	1060::2	1063::3	1067::15	1083::7	1091::7	1099::7	1107::2	1110::6	1117::4	1122::1
+	token_offsets	sentence	12	offsets	1124::3	1128::9	1138::4	1143::4	1148::11	1160::1	1162::3	1166::4	1171::7	1179::1
+	token_offsets	sentence	13	offsets	1181::8	1190::6	1197::2	1200::5	1206::5	1212::4	1217::9	1227::3	1231::3	1235::7	1243::1
+1	Dagmar	Dagmar	Dagmar	NE	NE	_	nom|sg|*	-1	2	_	PNC	_	_
+2	Ziegler	Ziegler	Ziegler	NE	NE	_	nom|sg|*	-1	3	_	SB	_	_
+3	sitzt	sitzen	sitzen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	in	in	in	APPR	APPR	_	_	-1	3	_	MO	_	_
+5	der	die	die	ART	ART	_	dat|sg|fem	-1	6	_	NK	_	_
+6	Schuldenfalle	Schuldenfalle	Schuldenfalle	NN	NN	_	dat|sg|fem	-1	4	_	NK	_	_
+7	.	.	.	$.	$.	_	_	-1	6	_	--	_	_
+
+1	Auf	auf	auf	APPR	APPR	_	_	-1	22	_	MO	_	_
+2	Grund	Grund	Grund	NN	NN	_	acc|sg|masc	-1	1	_	NK	_	_
+3	der	die	die	ART	ART	_	gen|sg|fem	-1	5	_	NK	_	_
+4	dramatischen	dramatisch	dramatisch	ADJA	ADJA	_	gen|sg|fem|pos	-1	5	_	NK	_	_
+5	Kassenlage	Kassenlage	Kassenlage	NN	NN	_	gen|sg|fem	-1	2	_	AG	_	_
+6	in	in	in	APPR	APPR	_	_	-1	5	_	MNR	_	_
+7	Brandenburg	Brandenburg	Brandenburg	NE	NE	_	dat|sg|neut	-1	6	_	NK	_	_
+8	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+9	sie	sie	sie	PPER	PPER	_	nom|sg|fem|3	-1	8	_	SB	_	_
+10	jetzt	jetzt	jetzt	ADV	ADV	_	_	-1	22	_	MO	_	_
+11	eine	eine	eine	ART	ART	_	acc|sg|fem	-1	18	_	NK	_	_
+12	seit	seit	seit	APPR	APPR	_	_	-1	17	_	MO	_	_
+13	mehr	mehr	mehr	ADV	ADV	_	_	-1	16	_	NK	_	_
+14	als	als	als	KOKOM	KOKOM	_	_	-1	15	_	CM	_	_
+15	einem	eine	eine	ART	ART	_	dat|sg|neut	-1	13	_	CC	_	_
+16	Jahr	Jahr	Jahr	NN	NN	_	dat|sg|neut	-1	12	_	NK	_	_
+17	erarbeitete	erarbeitet	erarbeitet	ADJA	ADJA	_	nom|sg|fem|pos	-1	18	_	NK	_	_
+18	Kabinettsvorlage	Kabinettsvorlage	Kabinettsvorlage	NN	NN	_	nom|sg|fem	-1	22	_	OA	_	_
+19	überraschend	überraschend	überraschend	ADJD	ADJD	_	pos	-1	22	_	MO	_	_
+20	auf	auf	auf	APPR	APPR	_	_	-1	22	_	MO	_	_
+21	Eis	Eis	Eis	NN	NN	_	acc|sg|neut	-1	20	_	NK	_	_
+22	gelegt	legen	legen	VVPP	VVPP	_	_	-1	8	_	OC	_	_
+23	und	und	und	KON	KON	_	_	-1	22	_	CD	_	_
+24	vorgeschlagen	vorschlagen	vorschlagen	VVPP	VVPP	_	_	-1	23	_	CJ	_	_
+25	,	,	,	$,	$,	_	_	-1	24	_	--	_	_
+26	erst	erst	erst	ADV	ADV	_	_	-1	27	_	MO	_	_
+27	2003	@card@	@card@	CARD	CARD	_	_	-1	30	_	MO	_	_
+28	darüber	darüber	darüber	PAV	PAV	_	_	-1	14	_	NK	_	_
+29	zu	zu	zu	PTKZU	PTKZU	_	_	-1	30	_	PM	_	_
+30	entscheiden	entscheiden	entscheiden	VVINF	VVINF	_	_	-1	24	_	OC	_	_
+31	.	.	.	$.	$.	_	_	-1	30	_	--	_	_
+
+1	Überraschend	überraschend	überraschend	ADJD	ADJD	_	pos	-1	0	_	--	_	_
+2	,	,	,	$,	$,	_	_	-1	1	_	--	_	_
+3	weil	weil	weil	KOUS	KOUS	_	_	-1	13	_	CP	_	_
+4	das	die	die	ART	ART	_	nom|sg|neut	-1	5	_	NK	_	_
+5	Finanz-	Finanz-	Finanz-	TRUNC	TRUNC	_	_	-1	6	_	CJ	_	_
+6	und	und	und	KON	KON	_	_	-1	8	_	CD	_	_
+7	das	die	die	ART	ART	_	acc|sg|neut	-1	8	_	NK	_	_
+8	Bildungsressort	Bildungsressort	Bildungsressort	NN	NN	_	acc|sg|neut	-1	13	_	SB	_	_
+9	das	die	die	ART	ART	_	acc|sg|neut	-1	10	_	NK	_	_
+10	Lehrerpersonalkonzept	Lehrerpersonalkonzept	Lehrerpersonalkonzept	NN	NN	_	nom|sg|neut	-1	12	_	OA	_	_
+11	gemeinsam	gemeinsam	gemeinsam	ADJD	ADJD	_	pos	-1	12	_	MO	_	_
+12	entwickelt	entwickeln	entwickeln	VVPP	VVPP	_	_	-1	13	_	OC	_	_
+13	hatten	haben	haben	VAFIN	VAFIN	_	pl|3|past|ind	-1	1	_	MO	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	2	_	NK	_	_
+2	Rückzieher	Rückzieher	Rückzieher	NN	NN	_	nom|sg|masc	-1	5	_	SB	_	_
+3	der	die	die	ART	ART	_	gen|sg|fem	-1	4	_	NK	_	_
+4	Finanzministerin	Finanzministerin	Finanzministerin	NN	NN	_	gen|sg|fem	-1	2	_	AG	_	_
+5	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+6	aber	aber	aber	ADV	ADV	_	_	-1	5	_	MO	_	_
+7	verständlich	verständlich	verständlich	ADJD	ADJD	_	pos	-1	5	_	PD	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+
+1	Es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	SB	_	_
+2	dürfte	dürfen	dürfen	VMFIN	VMFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+3	derzeit	derzeit	derzeit	ADV	ADV	_	_	-1	2	_	MO	_	_
+4	schwer	schwer	schwer	ADJD	ADJD	_	pos	-1	6	_	MO	_	_
+5	zu	zu	zu	PTKZU	PTKZU	_	_	-1	6	_	PM	_	_
+6	vermitteln	vermitteln	vermitteln	VVINF	VVINF	_	_	-1	7	_	OC	_	_
+7	sein	sein	sein	VAINF	VAINF	_	_	-1	2	_	OC	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	weshalb	weshalb	weshalb	PWAV	PWAV	_	_	-1	16	_	MO	_	_
+10	ein	eine	eine	ART	ART	_	nom|sg|neut	-1	11	_	NK	_	_
+11	Ressort	Ressort	Ressort	NN	NN	_	nom|sg|neut	-1	18	_	SB	_	_
+12	pauschal	pauschal	pauschal	ADJD	ADJD	_	pos	-1	16	_	MO	_	_
+13	von	von	von	APPR	APPR	_	_	-1	16	_	SBP	_	_
+14	künftigen	künftig	künftig	ADJA	ADJA	_	dat|pl|fem|pos	-1	15	_	NK	_	_
+15	Einsparungen	Einsparung	Einsparung	NN	NN	_	dat|pl|fem	-1	13	_	NK	_	_
+16	ausgenommen	ausnehmen	ausnehmen	VVPP	VVPP	_	_	-1	17	_	OC	_	_
+17	werden	werden	werden	VAINF	VAINF	_	_	-1	18	_	OC	_	_
+18	soll	sollen	sollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	2	_	SB	_	_
+19	auf	auf	auf	APPR	APPR	_	_	-1	18	_	MO	_	_
+20	Kosten	Kosten	Kosten	NN	NN	_	acc|pl|*	-1	19	_	NK	_	_
+21	der	die	die	ART	ART	_	gen|pl|fem	-1	22	_	NK	_	_
+22	anderen	andere	andere	PIS	PIS	_	gen|pl|fem	-1	20	_	AG	_	_
+23	.	.	.	$.	$.	_	_	-1	22	_	--	_	_
+
+1	Reiches	reich	reich	ADJA	ADJA	_	nom|sg|neut|pos	-1	2	_	NK	_	_
+2	Ministerkollegen	Ministerkollege	Ministerkollege	NN	NN	_	nom|sg|neut	-1	3	_	SB	_	_
+3	werden	werden	werden	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+4	mit	mit	mit	APPR	APPR	_	_	-1	7	_	OP	_	_
+5	Argusaugen	Argusauge	Argusauge	NN	NN	_	dat|pl|neut	-1	4	_	NK	_	_
+6	darüber	darüber	darüber	PAV	PAV	_	_	-1	5	_	NK	_	_
+7	wachen	wachen	wachen	VVINF	VVINF	_	pl|3|pres|ind	-1	3	_	OC	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	dass	dass	dass	KOUS	KOUS	_	_	-1	13	_	CP	_	_
+10	das	die	die	ART	ART	_	nom|sg|neut	-1	11	_	NK	_	_
+11	Konzept	Konzept	Konzept	NN	NN	_	nom|sg|neut	-1	13	_	SB	_	_
+12	wasserdicht	wasserdicht	wasserdicht	ADJD	ADJD	_	pos	-1	13	_	PD	_	_
+13	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	7	_	OC	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Tatsächlich	tatsächlich	tatsächlich	ADJD	ADJD	_	pos	-1	2	_	MO	_	_
+2	gibt	geben	geben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	EP	_	_
+4	noch	noch	noch	ADV	ADV	_	_	-1	2	_	MO	_	_
+5	etliche	etliche	etliche	PIAT	PIAT	_	acc|pl|fem	-1	7	_	NK	_	_
+6	offene	offen	offen	ADJA	ADJA	_	acc|pl|fem|pos	-1	7	_	NK	_	_
+7	Fragen	Frage	Frage	NN	NN	_	acc|pl|fem	-1	2	_	OA	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+
+1	So	so	so	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	etwa	etwa	etwa	ADV	ADV	_	_	-1	4	_	MO	_	_
+4	unklar	unklar	unklar	ADJD	ADJD	_	pos	-1	2	_	PD	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	wer	wer	wer	PWS	PWS	_	nom|sg|masc	-1	9	_	SB	_	_
+7	Abfindungen	Abfindung	Abfindung	NN	NN	_	acc|pl|fem	-1	8	_	OA	_	_
+8	erhalten	erhalten	erhalten	VVINF	VVINF	_	_	-1	9	_	OC	_	_
+9	soll	sollen	sollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	2	_	SB	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	oder	oder	oder	KON	KON	_	_	-1	2	_	CD	_	_
+12	was	was	was	PWS	PWS	_	nom|sg|neut	-1	13	_	SB	_	_
+13	passiert	passieren	passieren	VVFIN	VVFIN	_	sg|3|pres|ind	-1	11	_	CJ	_	_
+14	,	,	,	$,	$,	_	_	-1	13	_	--	_	_
+15	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	24	_	CP	_	_
+16	zu	zu	zu	APPR	APPR	_	_	-1	24	_	MO	_	_
+17	wenig	wenige	wenige	PIAT	PIAT	_	*|*|*	-1	18	_	NK	_	_
+18	Lehrer	Lehrer	Lehrer	NN	NN	_	dat|sg|masc	-1	16	_	NK	_	_
+19	die	die	die	ART	ART	_	acc|pl|neut	-1	20	_	NK	_	_
+20	Angebote	Angebot	Angebot	NN	NN	_	acc|pl|neut	-1	24	_	OA	_	_
+21	des	die	die	ART	ART	_	gen|sg|masc	-1	23	_	NK	_	_
+22	vorzeitigen	vorzeitig	vorzeitig	ADJA	ADJA	_	gen|sg|masc|pos	-1	23	_	NK	_	_
+23	Ausstiegs	Ausstieg	Ausstieg	NN	NN	_	gen|sg|masc	-1	20	_	AG	_	_
+24	nutzen	nutzen	nutzen	VVINF	VVINF	_	_	-1	13	_	MO	_	_
+25	.	.	.	$.	$.	_	_	-1	24	_	--	_	_
+
+1	Dennoch	dennoch	dennoch	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	gibt	geben	geben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	EP	_	_
+4	zu	zu	zu	APPR	APPR	_	_	-1	2	_	MO	_	_
+5	Reiches	Reich	Reich	NN	NN	_	dat|sg|masc	-1	4	_	NK	_	_
+6	Personalpapier	Personalpapier	Personalpapier	NN	NN	_	dat|sg|masc	-1	5	_	NK	_	_
+7	eigentlich	eigentlich	eigentlich	ADV	ADV	_	_	-1	2	_	MO	_	_
+8	keine	keine	keine	PIAT	PIAT	_	acc|sg|fem	-1	9	_	NK	_	_
+9	Alternative	Alternative	Alternative	NN	NN	_	acc|sg|fem	-1	2	_	OA	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+1	Das	die	die	ART	ART	_	nom|sg|neut	-1	2	_	NK	_	_
+2	Land	Land	Land	NN	NN	_	nom|sg|neut	-1	3	_	SB	_	_
+3	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	künftig	künftig	künftig	ADJD	ADJD	_	pos	-1	3	_	MO	_	_
+5	zu	zu	zu	APPR	APPR	_	_	-1	3	_	MO	_	_
+6	wenig	wenige	wenige	PIAT	PIAT	_	*|*|*	-1	7	_	NK	_	_
+7	Arbeit	Arbeit	Arbeit	NN	NN	_	dat|sg|fem	-1	5	_	NK	_	_
+8	für	für	für	APPR	APPR	_	_	-1	7	_	MNR	_	_
+9	zu	zu	zu	APPR	APPR	_	_	-1	8	_	NK	_	_
+10	viele	viele	viele	PIAT	PIAT	_	acc|pl|fem	-1	11	_	NK	_	_
+11	Pädagogen	Pädagoge	Pädagoge	NN	NN	_	acc|pl|fem	-1	9	_	NK	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	4	_	JU	_	_
+2	die	die	die	ART	ART	_	nom|sg|fem	-1	3	_	NK	_	_
+3	Zeit	Zeit	Zeit	NN	NN	_	nom|sg|fem	-1	4	_	SB	_	_
+4	drängt	drängen	drängen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	.	.	.	$.	$.	_	_	-1	4	_	--	_	_
+
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	3	_	NK	_	_
+2	große	groß	groß	ADJA	ADJA	_	nom|sg|masc|pos	-1	3	_	NK	_	_
+3	Einbruch	Einbruch	Einbruch	NN	NN	_	nom|sg|masc	-1	10	_	SB	_	_
+4	der	die	die	ART	ART	_	gen|pl|fem	-1	5	_	NK	_	_
+5	Schülerzahlen	Schülerzahl	Schülerzahl	NN	NN	_	gen|pl|fem	-1	3	_	AG	_	_
+6	an	an	an	APPR	APPR	_	_	-1	3	_	MNR	_	_
+7	den	die	die	ART	ART	_	dat|pl|masc	-1	9	_	NK	_	_
+8	weiterführenden	weiterführend	weiterführend	ADJA	ADJA	_	dat|pl|masc|pos	-1	9	_	NK	_	_
+9	Schulen	Schule	Schule	NN	NN	_	dat|pl|masc	-1	6	_	NK	_	_
+10	beginnt	beginnen	beginnen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+11	bereits	bereits	bereits	ADV	ADV	_	_	-1	12	_	MO	_	_
+12	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	10	_	MO	_	_
+13	Herbst	Herbst	Herbst	NN	NN	_	dat|sg|masc	-1	12	_	NK	_	_
+14	2003	@card@	@card@	CARD	CARD	_	_	-1	13	_	NK	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Regierung	Regierung	Regierung	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+3	muss	müssen	müssen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	5	_	OA	_	_
+5	entscheiden	entscheiden	entscheiden	VVINF	VVINF	_	_	-1	3	_	OC	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	und	und	und	KON	KON	_	_	-1	3	_	CD	_	_
+8	zwar	zwar	zwar	ADV	ADV	_	_	-1	9	_	MO	_	_
+9	schnell	schnell	schnell	ADJD	ADJD	_	pos	-1	7	_	CJ	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+1	Entweder	entweder	entweder	KON	KON	_	_	-1	2	_	JU	_	_
+2	sparen	sparen	sparen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	um	um	um	APPR	APPR	_	_	-1	2	_	OP	_	_
+4	jeden	jede	jede	PIAT	PIAT	_	acc|sg|masc	-1	5	_	NK	_	_
+5	Preis	Preis	Preis	NN	NN	_	acc|sg|masc	-1	3	_	NK	_	_
+6	oder	oder	oder	KON	KON	_	_	-1	5	_	CD	_	_
+7	Priorität	Priorität	Priorität	NN	NN	_	acc|sg|fem	-1	6	_	CJ	_	_
+8	für	für	für	APPR	APPR	_	_	-1	7	_	MNR	_	_
+9	die	die	die	ART	ART	_	acc|sg|fem	-1	10	_	NK	_	_
+10	Bildung	Bildung	Bildung	NN	NN	_	acc|sg|fem	-1	8	_	NK	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+

@@ -1,0 +1,228 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::8
+1	Aufheben	Aufheben	Aufheben	NN	NN	_	nom|sg|neut	-1	0	_	--	_	_
+
+	sentence_start	0	158
+	token_offsets	sentence	0	offsets	0::3	4::13	18::17	36::5	42::5	48::9	58::1	60::3	64::13	78::2	81::3	85::5	91::3	95::4	100::7	108::13	122::1	124::3	128::3	132::6	139::5	145::9	155::1
+	token_offsets	sentence	1	offsets	158::3	162::10	173::3	177::8	186::8	195::1	197::7	205::13	219::2	222::6	229::1	231::6	238::5	244::5	250::2	253::6	260::6	267::1
+1	Die	die	die	ART	ART	_	nom|pl|masc	-1	2	_	NK	_	_
+2	Blankenfelder	Blankenfeld	Blankenfeld	NN	NN	_	nom|pl|masc	-1	4	_	SB	_	_
+3	Gemeindevertreter	Gemeindevertreter	Gemeindevertreter	NN	NN	_	nom|pl|masc	-1	2	_	NK	_	_
+4	haben	haben	haben	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+5	ihren	ihr	ihr	PPOSAT	PPOSAT	_	acc|sg|masc	-1	6	_	NK	_	_
+6	Beschluss	Beschluss	Beschluss	NN	NN	_	acc|sg|masc	-1	22	_	OA	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	die	die	die	ART	ART	_	acc|pl|fem	-1	9	_	NK	_	_
+9	Straßenlampen	Straßenlampe	Straßenlampe	NN	NN	_	acc|pl|fem	-1	16	_	OA	_	_
+10	in	in	in	APPR	APPR	_	_	-1	16	_	MO	_	_
+11	der	die	die	ART	ART	_	dat|sg|fem	-1	12	_	NK	_	_
+12	Nacht	Nacht	Nacht	NN	NN	_	dat|sg|fem	-1	10	_	NK	_	_
+13	für	für	für	APPR	APPR	_	_	-1	12	_	MNR	_	_
+14	vier	vier	vier	CARD	CARD	_	_	-1	15	_	NK	_	_
+15	Stunden	Stunde|Stunden	Stunde|Stunden	NN	NN	_	acc|pl|fem	-1	13	_	NK	_	_
+16	auszuschalten	ausschalten	ausschalten	VVIZU	VVIZU	_	_	-1	6	_	OC	_	_
+17	,	,	,	$,	$,	_	_	-1	16	_	--	_	_
+18	mit	mit	mit	APPR	APPR	_	_	-1	22	_	MO	_	_
+19	der	die	die	ART	ART	_	dat|sg|fem	-1	21	_	NK	_	_
+20	heißen	heiß	heiß	ADJA	ADJA	_	dat|sg|fem|pos	-1	21	_	NK	_	_
+21	Nadel	Nadel	Nadel	NN	NN	_	dat|sg|fem	-1	18	_	NK	_	_
+22	gestrickt	stricken	stricken	VVPP	VVPP	_	_	-1	4	_	OC	_	_
+23	.	.	.	$.	$.	_	_	-1	22	_	--	_	_
+
+1	Das	die	die	PDS	PDS	_	nom|sg|neut	-1	10	_	OA	_	_
+2	sicherlich	sicherlich	sicherlich	ADV	ADV	_	_	-1	10	_	MO	_	_
+3	gut	gut	gut	ADJD	ADJD	_	pos	-1	4	_	MO	_	_
+4	gemeinte	gemeint	gemeint	ADJA	ADJA	_	nom|pl|fem|pos	-1	5	_	NK	_	_
+5	Anliegen	Anliegen	Anliegen	NN	NN	_	nom|pl|fem	-1	10	_	OA	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	nämlich	nämlich	nämlich	ADV	ADV	_	_	-1	10	_	MO	_	_
+8	Energiekosten	Energiekosten	Energiekosten	NN	NN	_	acc|pl|*	-1	10	_	OA	_	_
+9	zu	zu	zu	PTKZU	PTKZU	_	_	-1	10	_	PM	_	_
+10	sparen	sparen	sparen	VVINF	VVINF	_	_	-1	12	_	MO	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	könnte	können	können	VMFIN	VMFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+13	ihnen	sie	sie	PPER	PPER	_	dat|pl|masc|3	-1	16	_	DA	_	_
+14	teuer	teuer	teuer	ADJD	ADJD	_	pos	-1	16	_	MO	_	_
+15	zu	zu	zu	PTKZU	PTKZU	_	_	-1	16	_	PM	_	_
+16	stehen	stehen	stehen	VVINF	VVINF	_	_	-1	17	_	OC	_	_
+17	kommen	kommen	kommen	VVFIN	VVFIN	_	_	-1	12	_	OC	_	_
+18	.	.	.	$.	$.	_	_	-1	17	_	--	_	_
+
+	sentence_start	0	92	136	317	408
+	token_offsets	sentence	0	offsets	0::6	7::7	15::2	18::3	22::5	28::6	35::3	39::3	43::5	49::6	56::3	60::3	64::6	71::17	89::1
+	token_offsets	sentence	1	offsets	92::4	97::7	105::3	109::5	115::1	117::5	123::3	127::5	133::1
+	token_offsets	sentence	2	offsets	136::2	139::11	151::4	156::5	162::3	166::5	172::4	177::5	183::4	188::11	200::1	202::3	206::2	209::4	214::18	233::7	241::2	244::8	253::3	257::10	268::11	280::2	283::3	287::11	299::2	302::7	310::3	314::1
+	token_offsets	sentence	3	offsets	317::4	322::5	328::6	335::3	339::6	346::3	350::7	358::3	362::3	366::7	374::2	377::5	383::3	387::5	393::4	398::6	405::1
+	token_offsets	sentence	4	offsets	408::4	413::3	417::7	425::4	430::5	436::7	444::1	446::4	451::3	455::20	476::3	480::7	488::3	492::4	497::4	502::4	507::4	512::8	521::15	537::9	547::4	552::1
+1	Dunkle	dunkel	dunkel	ADJA	ADJA	_	acc|pl|fem|pos	-1	2	_	NK	_	_
+2	Straßen	Straße	Straße	NN	NN	_	acc|pl|fem	-1	6	_	SB	_	_
+3	in	in	in	APPR	APPR	_	_	-1	2	_	MNR	_	_
+4	der	die	die	ART	ART	_	dat|sg|fem	-1	5	_	NK	_	_
+5	Nacht	Nacht	Nacht	NN	NN	_	dat|sg|fem	-1	3	_	NK	_	_
+6	sorgen	sorgen	sorgen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+7	nun	nun	nun	ADV	ADV	_	_	-1	6	_	MO	_	_
+8	mal	mal	mal	ADV	ADV	_	_	-1	6	_	MO	_	_
+9	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	6	_	NG	_	_
+10	gerade	gerade	gerade	ADV	ADV	_	_	-1	9	_	MO	_	_
+11	für	für	für	APPR	APPR	_	_	-1	6	_	OP	_	_
+12	ein	eine	eine	ART	ART	_	acc|sg|neut	-1	14	_	NK	_	_
+13	tolles	toll	toll	ADJA	ADJA	_	acc|sg|neut|pos	-1	14	_	NK	_	_
+14	Sicherheitsgefühl	Sicherheitsgefühl	Sicherheitsgefühl	NN	NN	_	acc|sg|neut	-1	11	_	NK	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+1	Auch	auch	auch	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	erkennt	erkennen	erkennen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	man	man	man	PIS	PIS	_	nom|sg|*	-1	2	_	SB	_	_
+4	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	2	_	NG	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	wohin	wohin	wohin	PWAV	PWAV	_	_	-1	8	_	MO	_	_
+7	man	man	man	PIS	PIS	_	nom|sg|*	-1	8	_	SB	_	_
+8	tritt	treten	treten	VVFIN	VVFIN	_	sg|3|pres|ind	-1	2	_	OC	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+1	Im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	4	_	MO	_	_
+2	schlimmsten	schlimm	schlimm	ADJA	ADJA	_	dat|sg|masc|sup	-1	3	_	NK	_	_
+3	Fall	Fall	Fall	NN	NN	_	dat|sg|masc	-1	1	_	NK	_	_
+4	stößt	stoßen	stoßen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	man	man	man	PIS	PIS	_	nom|sg|*	-1	4	_	SB	_	_
+6	gegen	gegen	gegen	APPR	APPR	_	_	-1	4	_	MO	_	_
+7	eine	eine	eine	ART	ART	_	acc|sg|fem	-1	10	_	NK	_	_
+8	Müll-	Müll-	Müll-	TRUNC	TRUNC	_	_	-1	9	_	CJ	_	_
+9	oder	oder	oder	KON	KON	_	_	-1	10	_	CD	_	_
+10	Papiertonne	Papiertonne	Papiertonne	NN	NN	_	acc|pl|*	-1	6	_	NK	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	die	die	die	PRELS	PRELS	_	nom|pl|*	-1	27	_	SB	_	_
+13	ja	ja	ja	ADV	ADV	_	_	-1	26	_	MO	_	_
+14	laut	laut	laut	APPR	APPR	_	_	-1	26	_	MO	_	_
+15	Abfallzweckverband	Abfallzweckverband	Abfallzweckverband	NN	NN	_	dat|sg|masc	-1	14	_	NK	_	_
+16	bereits	bereits	bereits	ADV	ADV	_	_	-1	17	_	MO	_	_
+17	am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	26	_	MO	_	_
+18	Vorabend	Vorabend	Vorabend	NN	NN	_	dat|sg|masc	-1	17	_	NK	_	_
+19	des	die	die	ART	ART	_	gen|sg|neut	-1	21	_	NK	_	_
+20	jeweiligen	jeweilig	jeweilig	ADJA	ADJA	_	gen|sg|neut|pos	-1	21	_	NK	_	_
+21	Abholetages	Abholetages	Abholetages	NN	NN	_	gen|sg|neut	-1	18	_	AG	_	_
+22	an	an	an	APPR	APPR	_	_	-1	26	_	MO	_	_
+23	den	die	die	ART	ART	_	acc|sg|masc	-1	24	_	NK	_	_
+24	Straßenrand	Straßenrand	Straßenrand	NN	NN	_	acc|sg|masc	-1	22	_	NK	_	_
+25	zu	zu	zu	PTKZU	PTKZU	_	_	-1	26	_	PM	_	_
+26	stellen	stellen	stellen	VVINF	VVINF	_	_	-1	27	_	OC	_	_
+27	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	10	_	RC	_	_
+28	.	.	.	$.	$.	_	_	-1	27	_	--	_	_
+
+1	Doch	doch	doch	KON	KON	_	_	-1	15	_	JU	_	_
+2	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	3	_	NG	_	_
+3	allein	allein	allein	ADV	ADV	_	_	-1	5	_	MO	_	_
+4	die	die	die	ART	ART	_	acc|pl|fem	-1	5	_	NK	_	_
+5	Fragen	Frage	Frage	NN	NN	_	acc|pl|fem	-1	15	_	SB	_	_
+6	der	die	die	ART	ART	_	gen|pl|neut	-1	7	_	NK	_	_
+7	Unfälle	Unfall	Unfall	NN	NN	_	gen|pl|neut	-1	5	_	AG	_	_
+8	und	und	und	KON	KON	_	_	-1	7	_	CD	_	_
+9	der	die	die	ART	ART	_	dat|sg|fem	-1	10	_	NK	_	_
+10	Haftung	Haftung	Haftung	NN	NN	_	dat|sg|fem	-1	8	_	CJ	_	_
+11	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	10	_	MNR	_	_
+12	Falle	Falle	Falle	NN	NN	_	dat|sg|masc	-1	11	_	NK	_	_
+13	der	die	die	ART	ART	_	gen|pl|masc	-1	14	_	NK	_	_
+14	Fälle	Fall	Fall	NN	NN	_	gen|pl|masc	-1	12	_	AG	_	_
+15	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+16	unklar	unklar	unklar	ADJD	ADJD	_	pos	-1	15	_	PD	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
+1	Denn	denn	denn	KON	KON	_	_	-1	4	_	JU	_	_
+2	die	die	die	ART	ART	_	nom|sg|fem	-1	3	_	NK	_	_
+3	Kommune	Kommune	Kommune	NN	NN	_	nom|sg|fem	-1	4	_	SB	_	_
+4	muss	müssen	müssen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	damit	damit	damit	PAV	PAV	_	_	-1	6	_	NK	_	_
+6	rechnen	rechnen	rechnen	VVINF	VVINF	_	_	-1	4	_	OC	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	dass	dass	dass	KOUS	KOUS	_	_	-1	21	_	CP	_	_
+9	bei	bei	bei	APPR	APPR	_	_	-1	21	_	MO	_	_
+10	Lampen-Abschaltungen	Lampen-Abschaltungen	Lampen-Abschaltungen	NN	NN	_	dat|pl|fem	-1	9	_	NK	_	_
+11	der	die	die	ART	ART	_	gen|sg|fem	-1	12	_	NK	_	_
+12	Vertrag	Vertrag	Vertrag	NN	NN	_	gen|sg|fem	-1	10	_	AG	_	_
+13	mit	mit	mit	APPR	APPR	_	_	-1	12	_	MNR	_	_
+14	Edis	Edis	Edis	NE	NE	_	dat|sg|neut	-1	13	_	NK	_	_
+15	über	über	über	APPR	APPR	_	_	-1	20	_	MO	_	_
+16	eine	eine	eine	ART	ART	_	acc|sg|fem	-1	19	_	NK	_	_
+17	sehr	sehr	sehr	ADV	ADV	_	_	-1	18	_	MO	_	_
+18	günstige	günstig	günstig	ADJA	ADJA	_	acc|sg|fem|pos	-1	19	_	NK	_	_
+19	Tarifgestaltung	Tarifgestaltung	Tarifgestaltung	NN	NN	_	acc|sg|fem	-1	15	_	NK	_	_
+20	hinfällig	hinfällig	hinfällig	ADJD	ADJD	_	pos	-1	21	_	PD	_	_
+21	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	4	_	MO	_	_
+22	.	.	.	$.	$.	_	_	-1	21	_	--	_	_
+
+	sentence_start	0	98	187	246	355
+	token_offsets	sentence	0	offsets	0::3	4::5	10::7	18::3	22::5	28::7	36::4	41::3	45::4	50::8	59::9	69::1	71::4	76::8	85::2	88::6	95::1
+	token_offsets	sentence	1	offsets	98::4	103::3	107::3	111::19	131::5	137::3	141::11	153::5	159::3	163::12	176::2	179::4	184::1
+	token_offsets	sentence	2	offsets	187::4	192::4	197::1	199::2	202::9	212::3	216::3	220::3	224::11	236::6	243::1
+	token_offsets	sentence	3	offsets	246::3	250::11	262::6	269::3	273::9	283::9	293::8	302::1	304::3	308::4	313::3	317::6	324::3	328::13	342::9	352::1
+	token_offsets	sentence	4	offsets	355::11	367::1	369::3	373::5	379::2	382::3	386::11	398::1
+1	Bei	bei	bei	APPR	APPR	_	_	-1	11	_	MO	_	_
+2	einem	eine	eine	ART	ART	_	dat|sg|masc	-1	3	_	NK	_	_
+3	Defizit	Defizit	Defizit	NN	NN	_	dat|sg|masc	-1	1	_	NK	_	_
+4	von	von	von	APPR	APPR	_	_	-1	3	_	MNR	_	_
+5	einer	eine	eine	ART	ART	_	dat|sg|fem	-1	6	_	NMC	_	_
+6	Million	Million	Million	NN	NN	_	dat|sg|fem	-1	4	_	NK	_	_
+7	Mark	Mark	Mark	NN	NN	_	*|*|fem	-1	6	_	NK	_	_
+8	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+9	eine	eine	eine	ART	ART	_	nom|sg|fem	-1	10	_	NK	_	_
+10	Gemeinde	Gemeinde	Gemeinde	NN	NN	_	nom|sg|fem	-1	8	_	SB	_	_
+11	gezwungen	zwingen	zwingen	VVPP	VVPP	_	_	-1	8	_	PD	_	_
+12	,	,	,	$,	$,	_	_	-1	11	_	--	_	_
+13	alle	alle	alle	PIAT	PIAT	_	acc|pl|masc	-1	14	_	NK	_	_
+14	Register	Register	Register	NN	NN	_	acc|pl|masc	-1	16	_	OA	_	_
+15	zu	zu	zu	PTKZU	PTKZU	_	_	-1	16	_	PM	_	_
+16	ziehen	ziehen	ziehen	VVINF	VVINF	_	_	-1	11	_	OC	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
+1	Doch	doch	doch	KON	KON	_	_	-1	5	_	JU	_	_
+2	mit	mit	mit	APPR	APPR	_	_	-1	5	_	MO	_	_
+3	dem	die	die	ART	ART	_	dat|sg|masc	-1	4	_	NK	_	_
+4	Abschalte-Beschluss	Abschalte-Beschluss	Abschalte-Beschluss	NN	NN	_	dat|sg|masc	-1	2	_	NK	_	_
+5	nimmt	nehmen	nehmen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+6	der	die	die	ART	ART	_	nom|sg|masc	-1	7	_	NK	_	_
+7	Gemeinderat	Gemeinderat	Gemeinderat	NN	NN	_	nom|sg|masc	-1	5	_	SB	_	_
+8	Angst	Angst	Angst	NN	NN	_	acc|sg|fem	-1	5	_	OA	_	_
+9	und	und	und	KON	KON	_	_	-1	8	_	CD	_	_
+10	Unsicherheit	Unsicherheit	Unsicherheit	NN	NN	_	acc|sg|fem	-1	9	_	CJ	_	_
+11	in	in	in	APPR	APPR	_	_	-1	5	_	CVC	_	_
+12	Kauf	Kauf	Kauf	NN	NN	_	acc|sg|masc	-1	11	_	NK	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Mehr	mehr	mehr	ADV	ADV	_	_	-1	5	_	CJ	_	_
+2	noch	noch	noch	ADV	ADV	_	_	-1	1	_	MO	_	_
+3	,	,	,	$,	$,	_	_	-1	2	_	--	_	_
+4	er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	5	_	SB	_	_
+5	befördert	befördern	befördern	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+6	den	die	die	ART	ART	_	acc|sg|masc	-1	7	_	NK	_	_
+7	Ort	Ort	Ort	NN	NN	_	acc|sg|masc	-1	5	_	OA	_	_
+8	ins	in	in	APPRART	APPRART	_	acc|sg|neut	-1	5	_	MO	_	_
+9	Mittelalter	Mittelalter	Mittelalter	NN	NN	_	acc|sg|neut	-1	8	_	NK	_	_
+10	zurück	zurück	zurück	PTKVZ	PTKVZ	_	_	-1	5	_	SVP	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	2	_	NK	_	_
+2	Gemeinderat	Gemeinderat	Gemeinderat	NN	NN	_	nom|sg|masc	-1	3	_	SB	_	_
+3	sollte	sollen	sollen	VMFIN	VMFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+4	den	die	die	ART	ART	_	acc|sg|masc	-1	6	_	NK	_	_
+5	unseligen	unselig	unselig	ADJA	ADJA	_	acc|sg|masc|pos	-1	6	_	NK	_	_
+6	Beschluss	Beschluss	Beschluss	NN	NN	_	acc|sg|masc	-1	7	_	OA	_	_
+7	aufheben	aufheben	aufheben	VVINF	VVINF	_	_	-1	3	_	OC	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	ehe	ehe	ehe	KOUS	KOUS	_	_	-1	15	_	CP	_	_
+10	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	15	_	OA	_	_
+11	die	die	die	ART	ART	_	nom|sg|fem	-1	12	_	NK	_	_
+12	Bürger	Bürger	Bürger	NN	NN	_	nom|sg|fem	-1	15	_	OA	_	_
+13	mit	mit	mit	APPR	APPR	_	_	-1	15	_	MO	_	_
+14	Taschenlampen	Taschenlampe	Taschenlampe	NN	NN	_	dat|pl|masc	-1	13	_	NK	_	_
+15	versorgen	versorgen	versorgen	VVINF	VVINF	_	_	-1	7	_	MO	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+1	Schließlich	schließlich	schließlich	ADV	ADV	_	_	-1	4	_	MO	_	_
+2	,	,	,	$,	$,	_	_	-1	1	_	--	_	_
+3	wir	wir	wir	PPER	PPER	_	nom|pl|*|1	-1	4	_	SB	_	_
+4	leben	leben	leben	VVFIN	VVFIN	_	pl|1|pres|ind	-1	0	_	--	_	_
+5	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	4	_	MO	_	_
+6	21.	21.	21.	ADJA	ADJA	_	dat|sg|masc|pos	-1	7	_	NK	_	_
+7	Jahrhundert	Jahrhundert	Jahrhundert	NN	NN	_	dat|sg|masc	-1	5	_	NK	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+

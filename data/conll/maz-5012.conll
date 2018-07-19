@@ -1,0 +1,189 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::7	8::6
+1	Schwere	schwer	schwer	ADJA	ADJA	_	nom|pl|fem|comp	-1	2	_	NK	_	_
+2	Zeiten	Zeit	Zeit	NN	NN	_	nom|pl|fem	-1	0	_	--	_	_
+
+	sentence_start	0	84	307	513	629	753	818	1022
+	token_offsets	sentence	0	offsets	0::3	4::10	15::3	19::7	27::8	36::4	41::5	47::3	51::3	55::9	65::4	70::3	74::6	81::1
+	token_offsets	sentence	1	offsets	84::5	90::3	94::3	98::5	104::12	117::10	128::3	132::16	149::6	156::4	161::3	165::7	173::5	179::3	183::9	193::7	201::5	207::5	213::1	215::4	220::4	225::4	230::10	241::2	244::3	248::6	255::8	264::3	268::1	269::0	271::3	275::6	282::6	289::5	295::8	304::1
+	token_offsets	sentence	2	offsets	307::6	314::5	320::8	329::1	331::10	342::1	344::1	346::5	352::8	361::1	363::2	366::9	376::1	378::3	382::1	384::16	401::4	406::17	424::4	429::5	435::9	445::1	447::8	456::2	459::3	463::9	473::6	480::3	484::4	489::3	493::16	510::1
+	token_offsets	sentence	3	offsets	513::5	519::3	523::20	544::6	551::4	556::1	558::9	568::3	572::16	589::1	591::6	598::3	602::3	606::6	613::3	617::8	626::1
+	token_offsets	sentence	4	offsets	629::5	635::6	642::3	646::5	652::4	657::2	660::9	670::1	672::7	680::2	683::4	688::3	692::3	696::9	706::1	708::10	719::4	724::5	730::9	740::2	743::6	750::1
+	token_offsets	sentence	5	offsets	753::5	759::12	772::3	776::3	780::17	798::7	806::8	815::1
+	token_offsets	sentence	6	offsets	818::5	824::3	828::2	831::3	835::1	837::2	840::3	844::1	846::2	849::8	858::9	868::1	870::2	873::9	883::7	891::3	895::9	905::9	915::1	917::7	925::3	929::5	935::4	940::15	956::1	958::14	973::2	976::10	987::1	989::3	993::4	998::4	1003::2	1006::7	1014::4	1019::1
+	token_offsets	sentence	7	offsets	1022::7	1030::6	1037::1
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Wiederwahl	Wiederwahl	Wiederwahl	NN	NN	_	nom|sg|fem	-1	6	_	SB	_	_
+3	von	von	von	APPR	APPR	_	_	-1	2	_	PG	_	_
+4	Landrat	Landrat	Landrat	NN	NN	_	nom|sg|masc	-1	3	_	NK	_	_
+5	Schröder	Schröder	Schröder	NE	NE	_	nom|sg|masc	-1	4	_	NK	_	_
+6	galt	gelten	gelten	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+7	schon	schon	schon	ADV	ADV	_	_	-1	8	_	MO	_	_
+8	vor	vor	vor	APPR	APPR	_	_	-1	6	_	MO	_	_
+9	der	die	die	ART	ART	_	dat|sg|fem	-1	11	_	NK	_	_
+10	gestrigen	gestrig	gestrig	ADJA	ADJA	_	dat|sg|fem|pos	-1	11	_	NK	_	_
+11	Wahl	Wahl	Wahl	NN	NN	_	dat|sg|fem	-1	8	_	NK	_	_
+12	als	als	als	KOKOM	KOKOM	_	_	-1	6	_	MO	_	_
+13	sicher	sicher	sicher	ADJD	ADJD	_	pos	-1	12	_	NK	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Neben	neben	neben	APPR	APPR	_	_	-1	13	_	MNR	_	_
+2	den	die	die	ART	ART	_	acc|sg|masc	-1	6	_	NK	_	_
+3	nur	nur	nur	ADV	ADV	_	_	-1	5	_	MO	_	_
+4	wenig	wenig	wenig	ADV	ADV	_	*|*|*	-1	5	_	MO	_	_
+5	bestrittenen	bestritten	bestritten	ADJA	ADJA	_	nom|pl|masc|pos	-1	6	_	NK	_	_
+6	Qualitäten	Qualität	Qualität	NN	NN	_	gen|pl|fem	-1	1	_	NK	_	_
+7	des	die	die	ART	ART	_	gen|sg|masc	-1	8	_	NK	_	_
+8	Verwaltungschefs	Verwaltungschef	Verwaltungschef	NN	NN	_	gen|sg|masc	-1	6	_	AG	_	_
+9	dürfte	dürfen	dürfen	VMFIN	VMFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+10	auch	auch	auch	ADV	ADV	_	_	-1	13	_	MO	_	_
+11	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	13	_	NK	_	_
+12	anderer	andere	andere	PIAT	PIAT	_	nom|sg|masc|pos	-1	13	_	NK	_	_
+13	Punkt	Punkt	Punkt	NN	NN	_	nom|sg|masc	-1	9	_	SB	_	_
+14	den	die	die	ART	ART	_	acc|sg|masc	-1	15	_	NK	_	_
+15	Ausschlag	Ausschlag	Ausschlag	NN	NN	_	acc|sg|masc	-1	16	_	OA	_	_
+16	gegeben	geben	geben	VVPP	VVPP	_	_	-1	18	_	OC	_	_
+17	dafür	dafür	dafür	PAV	PAV	_	_	-1	16	_	NK	_	_
+18	haben	haben	haben	VAINF	VAINF	_	_	-1	9	_	OC	_	_
+19	,	,	,	$,	$,	_	_	-1	18	_	--	_	_
+20	dass	dass	dass	KOUS	KOUS	_	_	-1	28	_	CP	_	_
+21	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	27	_	OA	_	_
+22	kein	keine	keine	PIAT	PIAT	_	nom|sg|masc	-1	23	_	NK	_	_
+23	Konkurrent	Konkurrent	Konkurrent	NN	NN	_	nom|sg|masc	-1	28	_	SB	_	_
+24	um	um	um	APPR	APPR	_	_	-1	27	_	MO	_	_
+25	den	die	die	ART	ART	_	acc|sg|masc	-1	26	_	NK	_	_
+26	Posten	Posten	Posten	NN	NN	_	acc|sg|masc	-1	24	_	NK	_	_
+27	gefunden	finden	finden	VVPP	VVPP	_	_	-1	28	_	OC	_	_
+28	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	9	_	MO	_	_
+29	:	:	:	$.	$.	_	_	-1	28	_	--	_	_
+30	Die	die	die	ART	ART	_	nom|pl|fem	-1	31	_	NK	_	_
+31	Zeiten	Zeit	Zeit	NN	NN	_	nom|pl|fem	-1	32	_	SB	_	_
+32	werden	werden	werden	VAFIN	VAFIN	_	pl|3|pres|ind	-1	26	_	OC	_	_
+33	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	32	_	NG	_	_
+34	leichter	leicht	leicht	ADJD	ADJD	_	comp	-1	32	_	PD	_	_
+35	.	.	.	$.	$.	_	_	-1	34	_	--	_	_
+
+1	Sicher	sicher	sicher	ADJD	ADJD	_	pos	-1	2	_	PD	_	_
+2	waren	sein	sein	VAFIN	VAFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+3	früheren	früh	früh	ADJA	ADJA	_	dat|sg|masc|comp	-1	5	_	NK	_	_
+4	"	"	"	$(	$(	_	_	-1	3	_	--	_	_
+5	Schlachten	Schlacht|Schlachten	Schlacht|Schlachten	NN	NN	_	nom|sg|neut	-1	2	_	SB	_	_
+6	"	"	"	$(	$(	_	_	-1	5	_	--	_	_
+7	(	(	(	$(	$(	_	_	-1	6	_	--	_	_
+8	O-Ton	O-Ton	O-Ton	NN	NN	_	nom|sg|masc	-1	5	_	PAR	_	_
+9	Schröder	Schröder	Schröder	NE	NE	_	nom|sg|masc	-1	8	_	NK	_	_
+10	)	)	)	$(	$(	_	_	-1	9	_	--	_	_
+11	um	um	um	APPR	APPR	_	_	-1	5	_	MNR	_	_
+12	Kreissitz	Kreissitz	Kreissitz	NN	NN	_	acc|sg|masc	-1	11	_	NK	_	_
+13	,	,	,	$,	$,	_	_	-1	12	_	--	_	_
+14	MBS	MBS	MBS	NN	NN	_	acc|sg|neut	-1	12	_	CJ	_	_
+15	,	,	,	$,	$,	_	_	-1	14	_	--	_	_
+16	Verkehrsbetriebe	Verkehrsbetrieb	Verkehrsbetrieb	NN	NN	_	acc|pl|masc	-1	14	_	CJ	_	_
+17	oder	oder	oder	KON	KON	_	_	-1	16	_	CD	_	_
+18	Verwaltungsbauten	Verwaltungsbau	Verwaltungsbau	NN	NN	_	acc|pl|fem	-1	17	_	CJ	_	_
+19	auch	auch	auch	ADV	ADV	_	_	-1	20	_	MO	_	_
+20	keine	keine	keine	PIAT	PIAT	_	acc|pl|fem	-1	21	_	MO	_	_
+21	einfachen	einfach	einfach	ADJA	ADJA	_	acc|pl|fem|pos	-1	27	_	DM	_	_
+22	,	,	,	$,	$,	_	_	-1	21	_	--	_	_
+23	gemessen	gemessen	gemessen	ADJD	ADJD	_	_	-1	24	_	MO	_	_
+24	an	an	an	APPR	APPR	_	_	-1	27	_	MO	_	_
+25	den	die	die	ART	ART	_	dat|pl|fem	-1	26	_	NK	_	_
+26	kommenden	kommend	kommend	ADJA	ADJA	_	dat|pl|fem|pos	-1	24	_	NK	_	_
+27	wirken	wirken	wirken	VVFIN	VVFIN	_	pl|3|pres|ind	-1	2	_	CJ	_	_
+28	sie	sie	sie	PPER	PPER	_	nom|pl|*|3	-1	27	_	SB	_	_
+29	aber	aber	aber	ADV	ADV	_	_	-1	27	_	MO	_	_
+30	wie	wie	wie	KOKOM	KOKOM	_	_	-1	31	_	CM	_	_
+31	Sandkastenspiele	Sandkastenspiel	Sandkastenspiel	NN	NN	_	acc|pl|neut	-1	27	_	MO	_	_
+32	.	.	.	$.	$.	_	_	-1	31	_	--	_	_
+
+1	Waren	sein	sein	VAFIN	VAFIN	_	pl|3|past|ind	-1	14	_	MO	_	_
+2	die	die	die	ART	ART	_	nom|pl|fem	-1	3	_	NK	_	_
+3	Auseinandersetzungen	Auseinandersetzung	Auseinandersetzung	NN	NN	_	nom|pl|fem	-1	1	_	SB	_	_
+4	früher	früher	früher	ADV	ADV	_	comp	-1	5	_	MO	_	_
+5	laut	laut	laut	ADJD	ADJD	_	pos	-1	1	_	PD	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	emotional	emotional	emotional	ADJD	ADJD	_	pos	-1	5	_	CJ	_	_
+8	und	und	und	KON	KON	_	_	-1	7	_	CD	_	_
+9	leidenschaftlich	leidenschaftlich	leidenschaftlich	ADJD	ADJD	_	pos	-1	8	_	CJ	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	werden	werden	werden	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+12	sie	sie	sie	PPER	PPER	_	nom|pl|*|3	-1	11	_	SB	_	_
+13	nun	nun	nun	ADV	ADV	_	_	-1	11	_	MO	_	_
+14	subtil	subtil	subtil	ADJD	ADJD	_	pos	-1	11	_	PD	_	_
+15	und	und	und	KON	KON	_	_	-1	14	_	CD	_	_
+16	diffizil	diffizil	diffizil	ADJD	ADJD	_	pos	-1	15	_	CJ	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
+1	Jetzt	jetzt	jetzt	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	kämpft	kämpfen	kämpfen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	man	man	man	PIS	PIS	_	nom|sg|*	-1	2	_	SB	_	_
+4	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	2	_	NG	_	_
+5	mehr	mehr	mehr	ADV	ADV	_	_	-1	4	_	MO	_	_
+6	um	um	um	APPR	APPR	_	_	-1	2	_	OP	_	_
+7	Meinungen	Meinung	Meinung	NN	NN	_	acc|pl|fem	-1	6	_	NK	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	sondern	sondern	sondern	KON	KON	_	_	-1	6	_	CD	_	_
+10	um	um	um	APPR	APPR	_	_	-1	9	_	CJ	_	_
+11	Geld	Geld	Geld	NN	NN	_	acc|sg|neut	-1	10	_	NK	_	_
+12	und	und	und	KON	KON	_	_	-1	11	_	CD	_	_
+13	die	die	die	ART	ART	_	acc|sg|fem	-1	14	_	NK	_	_
+14	Freiräume	Freiraum	Freiraum	NN	NN	_	acc|sg|fem	-1	12	_	CJ	_	_
+15	,	,	,	$,	$,	_	_	-1	14	_	--	_	_
+16	wenigstens	wenigstens	wenigstens	ADV	ADV	_	_	-1	21	_	MO	_	_
+17	noch	noch	noch	ADV	ADV	_	_	-1	21	_	MO	_	_
+18	etwas	etwas	etwas	PIS	PIS	_	*|*|neut	-1	19	_	OA	_	_
+19	gestalten	gestalten	gestalten	VVINF	VVINF	_	_	-1	21	_	OC	_	_
+20	zu	zu	zu	PTKZU	PTKZU	_	_	-1	21	_	PM	_	_
+21	können	können	können	VMINF	VMINF	_	_	-1	14	_	OC	_	_
+22	.	.	.	$.	$.	_	_	-1	21	_	--	_	_
+
+1	Einen	eine	eine	ART	ART	_	acc|sg|masc	-1	2	_	NK	_	_
+2	Vorgeschmack	Vorgeschmack	Vorgeschmack	NN	NN	_	acc|sg|masc	-1	7	_	OA	_	_
+3	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	die	die	die	ART	ART	_	nom|sg|fem	-1	5	_	NK	_	_
+5	Verwaltungsspitze	Verwaltungsspitze	Verwaltungsspitze	NN	NN	_	nom|sg|fem	-1	7	_	OA	_	_
+6	aktuell	aktuell	aktuell	ADJD	ADJD	_	pos	-1	7	_	MO	_	_
+7	bekommen	bekommen	bekommen	VVINF	VVINF	_	_	-1	3	_	OC	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+
+1	Hatte	haben	haben	VAFIN	VAFIN	_	sg|3|past|ind	-1	20	_	MO	_	_
+2	sie	sie	sie	PPER	PPER	_	nom|pl|*|3	-1	1	_	SB	_	_
+3	es	es	es	PPER	PPER	_	acc|sg|neut|3	-1	11	_	OA	_	_
+4	von	von	von	APPR	APPR	_	_	-1	7	_	MO	_	_
+5	'	'	'	$(	$(	_	_	-1	6	_	--	_	_
+6	94	@card@	@card@	CARD	CARD	_	_	-1	4	_	NK	_	_
+7	bis	bis	bis	APPR	APPR	_	_	-1	11	_	MO	_	_
+8	'	'	'	$(	$(	_	_	-1	9	_	--	_	_
+9	99	99	99	CARD	CARD	_	_	-1	7	_	NK	_	_
+10	mühselig	mühselig	mühselig	ADJD	ADJD	_	pos	-1	11	_	MO	_	_
+11	geschafft	schaffen	schaffen	VVPP	VVPP	_	_	-1	1	_	OC	_	_
+12	,	,	,	$,	$,	_	_	-1	11	_	--	_	_
+13	14	14	14	CARD	CARD	_	_	-1	14	_	NMC	_	_
+14	Millionen	Million	Million	NN	NN	_	dat|pl|fem	-1	18	_	OA	_	_
+15	Defizit	Defizit	Defizit	NN	NN	_	nom|sg|neut	-1	14	_	NK	_	_
+16	der	die	die	ART	ART	_	gen|sg|fem	-1	17	_	NK	_	_
+17	Altkreise	Altkreis	Altkreis	NN	NN	_	gen|sg|fem	-1	14	_	AG	_	_
+18	abzubauen	abbauen	abbauen	VVIZU	VVIZU	_	_	-1	3	_	RE	_	_
+19	,	,	,	$,	$,	_	_	-1	18	_	--	_	_
+20	klaffen	klaffen	klaffen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+21	nun	nun	nun	ADV	ADV	_	_	-1	20	_	MO	_	_
+22	immer	immer	immer	ADV	ADV	_	_	-1	20	_	MO	_	_
+23	neue	neu	neu	ADJA	ADJA	_	acc|pl|masc|pos	-1	24	_	NK	_	_
+24	Millionenlöcher	Millionenlöcher	Millionenlöcher	NN	NN	_	acc|pl|masc	-1	20	_	OA	_	_
+25	,	,	,	$,	$,	_	_	-1	24	_	--	_	_
+26	beispielsweise	beispielsweise	beispielsweise	ADV	ADV	_	_	-1	27	_	MO	_	_
+27	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	20	_	MO	_	_
+28	Sozialetat	Sozialetat	Sozialetat	NN	NN	_	dat|sg|masc	-1	27	_	NK	_	_
+29	,	,	,	$,	$,	_	_	-1	28	_	--	_	_
+30	die	die	die	PRELS	PRELS	_	nom|sg|fem	-1	35	_	SB	_	_
+31	kaum	kaum	kaum	ADV	ADV	_	_	-1	34	_	MO	_	_
+32	noch	noch	noch	ADV	ADV	_	_	-1	31	_	MO	_	_
+33	zu	zu	zu	PTKZU	PTKZU	_	_	-1	34	_	PM	_	_
+34	stopfen	stopfen	stopfen	VVINF	VVINF	_	_	-1	35	_	OC	_	_
+35	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	28	_	RC	_	_
+36	.	.	.	$.	$.	_	_	-1	35	_	--	_	_
+
+1	Schwere	schwer	schwer	ADJA	ADJA	_	nom|pl|fem|comp	-1	2	_	NK	_	_
+2	Zeiten	Zeit	Zeit	NN	NN	_	nom|pl|fem	-1	0	_	--	_	_
+3	.	.	.	$.	$.	_	_	-1	2	_	--	_	_
+

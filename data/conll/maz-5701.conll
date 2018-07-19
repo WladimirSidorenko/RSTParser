@@ -1,0 +1,214 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::2	3::5
+1	Am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	0	_	--	_	_
+2	Boden	Boden	Boden	NN	NN	_	dat|sg|masc	-1	1	_	NK	_	_
+
+	sentence_start	0	36	187	275	414	537	793	924	1005	1192
+	token_offsets	sentence	0	offsets	0::3	4::15	20::3	24::8	33::1
+	token_offsets	sentence	1	offsets	36::3	40::10	51::7	59::3	63::2	66::4	71::8	80::2	83::8	92::1	94::6	101::4	106::3	110::3	114::5	120::2	123::9	133::4	138::3	142::6	149::3	153::15	169::2	172::11	184::1
+	token_offsets	sentence	2	offsets	187::8	196::5	202::6	209::5	215::3	219::1	221::4	226::13	240::6	247::2	250::10	261::5	267::4	272::1
+	token_offsets	sentence	3	offsets	275::8	284::4	289::5	295::5	301::5	307::8	316::3	320::5	326::2	329::3	333::12	346::6	353::1	355::3	359::4	364::3	368::5	374::10	385::2	388::5	394::2	397::7	405::5	411::1
+	token_offsets	sentence	4	offsets	414::4	419::9	429::4	434::3	438::8	447::3	451::10	462::4	467::3	471::11	483::4	488::6	495::11	507::12	520::4	525::8	534::1
+	token_offsets	sentence	5	offsets	537::4	542::3	546::6	553::3	557::10	568::17	586::2	589::6	596::10	607::8	616::4	621::1	623::3	627::4	632::4	637::6	644::8	653::1	654::0	656::2	659::4	664::3	668::7	676::5	682::1	684::4	689::3	693::10	704::12	717::13	731::3	735::3	739::9	749::7	757::5	763::3	767::16	784::5	790::1
+	token_offsets	sentence	6	offsets	793::4	798::5	804::3	808::4	813::1	814::0	816::3	820::14	835::3	839::3	843::9	853::3	857::5	863::3	867::8	876::13	890::11	902::2	905::15	921::1
+	token_offsets	sentence	7	offsets	924::3	928::13	942::10	953::4	958::5	964::3	968::7	976::4	981::3	985::5	991::2	994::7	1002::1
+	token_offsets	sentence	8	offsets	1005::6	1012::3	1016::9	1026::3	1030::5	1036::11	1048::7	1056::7	1064::4	1069::1	1071::7	1079::2	1082::10	1093::3	1097::3	1101::12	1114::6	1121::3	1125::3	1129::16	1146::11	1158::11	1170::5	1176::12	1189::1
+	token_offsets	sentence	9	offsets	1192::3	1196::3	1200::3	1204::5	1210::8	1219::2	1222::10	1233::1
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Nachrichtenlage	Nachrichtenlage	Nachrichtenlage	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+3	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	unsicher	unsicher	unsicher	ADJD	ADJD	_	pos	-1	3	_	PD	_	_
+5	.	.	.	$.	$.	_	_	-1	4	_	--	_	_
+
+1	Aus	aus	aus	APPR	APPR	_	_	-1	9	_	MO	_	_
+2	taktischen	taktisch	taktisch	ADJA	ADJA	_	dat|pl|masc|pos	-1	3	_	NK	_	_
+3	Gründen	Grund	Grund	NN	NN	_	dat|pl|masc	-1	1	_	NK	_	_
+4	und	und	und	KON	KON	_	_	-1	1	_	CD	_	_
+5	um	um	um	APPR	APPR	_	_	-1	4	_	CJ	_	_
+6	ihre	ihr	ihr	PPOSAT	PPOSAT	_	acc|pl|masc	-1	7	_	NK	_	_
+7	Soldaten	Soldat	Soldat	NN	NN	_	acc|pl|masc	-1	5	_	NK	_	_
+8	zu	zu	zu	PTKZU	PTKZU	_	_	-1	9	_	PM	_	_
+9	schützen	schützen	schützen	VVINF	VVINF	_	_	-1	11	_	MO	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	äußern	äußern	äußern	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+12	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	11	_	OA	_	_
+13	die	die	die	ART	ART	_	nom|pl|*	-1	14	_	NK	_	_
+14	USA	USA	USA	NE	NE	_	nom|pl|*	-1	11	_	SB	_	_
+15	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	11	_	NG	_	_
+16	zu	zu	zu	APPR	APPR	_	_	-1	11	_	MO	_	_
+17	Berichten	Bericht	Bericht	NN	NN	_	dat|pl|masc	-1	16	_	NK	_	_
+18	über	über	über	APPR	APPR	_	_	-1	17	_	MNR	_	_
+19	den	die	die	ART	ART	_	acc|sg|masc	-1	20	_	NK	_	_
+20	Beginn	Beginn	Beginn	NN	NN	_	acc|sg|masc	-1	18	_	NK	_	_
+21	der	die	die	ART	ART	_	gen|sg|fem	-1	22	_	NK	_	_
+22	Boden-Operation	Boden-Operation	Boden-Operation	NN	NN	_	gen|sg|fem	-1	20	_	AG	_	_
+23	in	in	in	APPR	APPR	_	_	-1	22	_	MNR	_	_
+24	Afghanistan	Afghanistan	Afghanistan	NE	NE	_	dat|sg|neut	-1	23	_	NK	_	_
+25	.	.	.	$.	$.	_	_	-1	24	_	--	_	_
+
+1	Experten	Experte	Experte	NN	NN	_	nom|pl|masc	-1	2	_	SB	_	_
+2	gehen	gehen	gehen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	jedoch	jedoch	jedoch	ADV	ADV	_	_	-1	2	_	MO	_	_
+4	davon	davon	davon	PAV	PAV	_	_	-1	2	_	NK	_	_
+5	aus	aus	aus	PTKVZ	PTKVZ	_	_	-1	2	_	SVP	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	dass	dass	dass	KOUS	KOUS	_	_	-1	13	_	CP	_	_
+8	Spezialkräfte	Spezialkraft	Spezialkraft	NN	NN	_	nom|pl|fem	-1	13	_	SB	_	_
+9	längst	längst	längst	ADV	ADV	_	_	-1	10	_	MO	_	_
+10	am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	13	_	MO	_	_
+11	Hindukusch	Hindukusch	Hindukusch	NN	NN	_	dat|sg|masc	-1	10	_	NK	_	_
+12	aktiv	aktiv	aktiv	ADJD	ADJD	_	pos	-1	13	_	PD	_	_
+13	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	2	_	CJ	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Gestützt	stützen	stützen	VVPP	VVPP	_	_	-1	2	_	OC	_	_
+2	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	diese	dies	dies	PDAT	PDAT	_	nom|sg|fem	-1	4	_	NK	_	_
+4	These	These	These	NN	NN	_	nom|sg|fem	-1	2	_	SB	_	_
+5	durch	durch	durch	APPR	APPR	_	_	-1	1	_	MO	_	_
+6	Angriffe	Angriff	Angriff	NN	NN	_	acc|pl|masc	-1	5	_	NK	_	_
+7	auf	auf	auf	APPR	APPR	_	_	-1	6	_	MNR	_	_
+8	Ziele	Ziel	Ziel	NN	NN	_	acc|pl|neut	-1	7	_	NK	_	_
+9	in	in	in	APPR	APPR	_	_	-1	8	_	MNR	_	_
+10	den	die	die	ART	ART	_	dat|pl|masc	-1	12	_	NK	_	_
+11	afghanischen	afghanisch	afghanisch	ADJA	ADJA	_	dat|pl|masc|pos	-1	12	_	NK	_	_
+12	Bergen	Berg|Bergen	Berg|Bergen	NN	NN	_	dat|pl|masc	-1	9	_	NK	_	_
+13	,	,	,	$,	$,	_	_	-1	12	_	--	_	_
+14	die	die	die	PRELS	PRELS	_	nom|pl|masc	-1	23	_	SB	_	_
+15	wohl	wohl	wohl	ADV	ADV	_	_	-1	22	_	MO	_	_
+16	nur	nur	nur	ADV	ADV	_	_	-1	17	_	MO	_	_
+17	durch	durch	durch	APPR	APPR	_	_	-1	22	_	MO	_	_
+18	Aufklärung	Aufklärung	Aufklärung	NN	NN	_	acc|sg|fem	-1	17	_	NK	_	_
+19	am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	18	_	MNR	_	_
+20	Boden	Boden	Boden	NN	NN	_	dat|sg|masc	-1	19	_	NK	_	_
+21	zu	zu	zu	PTKZU	PTKZU	_	_	-1	22	_	PM	_	_
+22	treffen	treffen	treffen	VVINF	VVINF	_	_	-1	23	_	OC	_	_
+23	waren	sein	sein	VAFIN	VAFIN	_	pl|3|past|ind	-1	12	_	RC	_	_
+24	.	.	.	$.	$.	_	_	-1	23	_	--	_	_
+
+1	Auch	auch	auch	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	erscheint	erscheinen	erscheinen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	nach	nach	nach	APPR	APPR	_	_	-1	2	_	MO	_	_
+4	dem	die	die	ART	ART	_	dat|sg|masc	-1	5	_	NK	_	_
+5	Erringen	Erringen	Erringen	NN	NN	_	dat|sg|masc	-1	3	_	NK	_	_
+6	der	die	die	ART	ART	_	gen|sg|fem	-1	7	_	NK	_	_
+7	Lufthoheit	Lufthoheit	Lufthoheit	NN	NN	_	gen|sg|fem	-1	5	_	AG	_	_
+8	über	über	über	APPR	APPR	_	_	-1	7	_	MNR	_	_
+9	dem	die	die	ART	ART	_	dat|sg|masc	-1	11	_	NK	_	_
+10	verwüsteten	verwüstet	verwüstet	ADJA	ADJA	_	dat|sg|masc|pos	-1	11	_	NK	_	_
+11	Land	Land	Land	NN	NN	_	dat|sg|masc	-1	8	_	NK	_	_
+12	weiter	weiter	weiter	ADV	ADV	_	_	-1	2	_	MO	_	_
+13	andauerndes	andauernd	andauernd	ADJA	ADJA	_	nom|sg|neut|pos	-1	14	_	NK	_	_
+14	Bombardement	Bombardement	Bombardement	NN	NN	_	nom|sg|neut	-1	2	_	SB	_	_
+15	kaum	kaum	kaum	ADV	ADV	_	_	-1	16	_	MO	_	_
+16	sinnvoll	sinnvoll	sinnvoll	ADJD	ADJD	_	pos	-1	2	_	MO	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
+1	Dass	dass	dass	KOUS	KOUS	_	_	-1	11	_	CP	_	_
+2	der	die	die	ART	ART	_	nom|sg|masc	-1	3	_	NK	_	_
+3	Beginn	Beginn	Beginn	NN	NN	_	nom|sg|masc	-1	11	_	SB	_	_
+4	von	von	von	APPR	APPR	_	_	-1	3	_	PG	_	_
+5	begrenzten	begrenzt	begrenzt	ADJA	ADJA	_	dat|pl|fem|pos	-1	6	_	NK	_	_
+6	Boden-Operationen	Boden-Operationen	Boden-Operationen	NN	NN	_	dat|pl|fem	-1	4	_	NK	_	_
+7	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	6	_	MNR	_	_
+8	Westen	Weste|Westen	Weste|Westen	NN	NN	_	dat|sg|masc	-1	7	_	NK	_	_
+9	vielerorts	vielerorts	vielerorts	ADV	ADV	_	_	-1	10	_	MO	_	_
+10	erwartet	erwarten	erwarten	VVPP	VVPP	_	_	-1	11	_	OC	_	_
+11	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	13	_	SB	_	_
+12	,	,	,	$,	$,	_	_	-1	11	_	--	_	_
+13	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+14	aber	aber	aber	ADV	ADV	_	_	-1	13	_	MO	_	_
+15	auch	auch	auch	ADV	ADV	_	_	-1	17	_	MO	_	_
+16	andere	andere	andere	PIAT	PIAT	_	nom|pl|fem	-1	17	_	NK	_	_
+17	Ursachen	Ursache	Ursache	NN	NN	_	nom|pl|fem	-1	13	_	SB	_	_
+18	:	:	:	$.	$.	_	_	-1	17	_	--	_	_
+19	Es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	20	_	SB	_	_
+20	wäre	sein	sein	VAFIN	VAFIN	_	sg|3|past|subj	-1	17	_	OC	_	_
+21	ein	eine	eine	ART	ART	_	nom|sg|neut	-1	22	_	NK	_	_
+22	Zeichen	Zeichen	Zeichen	NN	NN	_	nom|sg|neut	-1	20	_	PD	_	_
+23	dafür	dafür	dafür	PAV	PAV	_	_	-1	29	_	NK	_	_
+24	,	,	,	$,	$,	_	_	-1	22	_	--	_	_
+25	dass	dass	dass	KOUS	KOUS	_	_	-1	37	_	CP	_	_
+26	der	die	die	ART	ART	_	nom|sg|masc	-1	27	_	NK	_	_
+27	Zerstörung	Zerstörung	Zerstörung	NN	NN	_	acc|sg|fem	-1	37	_	SB	_	_
+28	gegnerischer	gegnerisch	gegnerisch	ADJA	ADJA	_	gen|pl|fem|pos	-1	29	_	NK	_	_
+29	Einrichtungen	Einrichtung	Einrichtung	NN	NN	_	gen|pl|fem	-1	27	_	AG	_	_
+30	nun	nun	nun	ADV	ADV	_	_	-1	37	_	MO	_	_
+31	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	33	_	NK	_	_
+32	gezielter	gezielt	gezielt	ADJA	ADJA	_	nom|sg|masc|pos	-1	33	_	NK	_	_
+33	Einsatz	Einsatz	Einsatz	NN	NN	_	nom|sg|masc	-1	37	_	OA	_	_
+34	gegen	gegen	gegen	APPR	APPR	_	_	-1	33	_	MNR	_	_
+35	die	die	die	ART	ART	_	acc|sg|fem	-1	36	_	NK	_	_
+36	Terror-Netzwerke	Terror-Netzwerke	Terror-Netzwerke	NN	NN	_	acc|sg|fem	-1	34	_	NK	_	_
+37	folgt	folgen	folgen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	19	_	RE	_	_
+38	.	.	.	$.	$.	_	_	-1	37	_	--	_	_
+
+1	Denn	denn	denn	KON	KON	_	_	-1	3	_	JU	_	_
+2	eines	eine	eine	PIS	PIS	_	nom|sg|neut	-1	3	_	SB	_	_
+3	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	klar	klar	klar	ADJD	ADJD	_	pos	-1	3	_	PD	_	_
+5	:	:	:	$.	$.	_	_	-1	4	_	--	_	_
+6	Die	die	die	ART	ART	_	acc|sg|fem	-1	7	_	NK	_	_
+7	Militärschläge	Militärschlag	Militärschlag	NN	NN	_	acc|sg|fem	-1	10	_	OA	_	_
+8	der	die	die	ART	ART	_	gen|pl|*	-1	9	_	NK	_	_
+9	USA	USA	USA	NE	NE	_	gen|pl|*	-1	7	_	AG	_	_
+10	verlieren	verlieren	verlieren	VVFIN	VVFIN	_	_	-1	4	_	OC	_	_
+11	mit	mit	mit	APPR	APPR	_	_	-1	10	_	MO	_	_
+12	jedem	jede	jede	PIAT	PIAT	_	dat|sg|masc	-1	13	_	NK	_	_
+13	Tag	Tag	Tag	NN	NN	_	dat|sg|masc	-1	11	_	NK	_	_
+14	weiteren	weit	weit	ADJA	ADJA	_	dat|sg|masc|comp	-1	15	_	NK	_	_
+15	Bombardements	Bombardement	Bombardement	NN	NN	_	gen|sg|neut	-1	13	_	AG	_	_
+16	schleichend	schleichend	schleichend	ADJD	ADJD	_	pos	-1	10	_	MO	_	_
+17	an	an	an	APPR	APPR	_	_	-1	10	_	OP	_	_
+18	Glaubwürdigkeit	Glaubwürdigkeit	Glaubwürdigkeit	NN	NN	_	dat|sg|fem	-1	17	_	NK	_	_
+19	.	.	.	$.	$.	_	_	-1	18	_	--	_	_
+
+1	Mit	mit	mit	APPR	APPR	_	_	-1	4	_	MO	_	_
+2	flächenhafter	flächenhafter	flächenhafter	ADJA	ADJA	_	gen|sg|fem|pos	-1	3	_	NK	_	_
+3	Zerstörung	Zerstörung	Zerstörung	NN	NN	_	gen|sg|fem	-1	1	_	NK	_	_
+4	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+5	weder	weder	weder	KON	KON	_	_	-1	7	_	CD	_	_
+6	die	die	die	ART	ART	_	nom|pl|fem	-1	7	_	NK	_	_
+7	Taliban	Taliban	Taliban	NE	NE	_	nom|pl|fem	-1	4	_	SB	_	_
+8	noch	noch	noch	ADV	ADV	_	_	-1	9	_	MO	_	_
+9	bin	sein	sein	VAFIN	VAFIN	_	sg|1|pres|ind	-1	12	_	OA	_	_
+10	Laden	Laden	Laden	NN	NN	_	nom|pl|fem	-1	9	_	SB	_	_
+11	zu	zu	zu	PTKZU	PTKZU	_	_	-1	12	_	PM	_	_
+12	treffen	treffen	treffen	VVINF	VVINF	_	_	-1	4	_	OC	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Sollte	sollen	sollen	VMFIN	VMFIN	_	sg|3|past|ind	-1	11	_	OC	_	_
+2	der	die	die	ART	ART	_	nom|sg|masc	-1	3	_	NK	_	_
+3	Luftkrieg	Luftkrieg	Luftkrieg	NN	NN	_	nom|sg|masc	-1	1	_	SB	_	_
+4	als	als	als	KOKOM	KOKOM	_	_	-1	7	_	MO	_	_
+5	bloße	bloß	bloß	ADJA	ADJA	_	nom|sg|masc|pos	-1	6	_	NK	_	_
+6	Drohkulisse	Drohkulisse	Drohkulisse	NN	NN	_	nom|sg|masc	-1	4	_	NK	_	_
+7	gedacht	denken|gedenken	denken|gedenken	VVPP	VVPP	_	_	-1	8	_	PD	_	_
+8	gewesen	sein	sein	VAPP	VAPP	_	_	-1	9	_	OC	_	_
+9	sein	sein	sein	VAINF	VAINF	_	_	-1	1	_	OC	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	verlöre	verlieren	verlieren	VVFIN	VVFIN	_	sg|3|pres|subj	-1	0	_	--	_	_
+12	er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	11	_	SB	_	_
+13	spätestens	spätestens	spätestens	ADV	ADV	_	_	-1	14	_	MO	_	_
+14	mit	mit	mit	APPR	APPR	_	_	-1	11	_	MO	_	_
+15	dem	die	die	ART	ART	_	dat|sg|masc	-1	17	_	NK	_	_
+16	einsetzenden	einsetzend	einsetzend	ADJA	ADJA	_	dat|sg|masc|pos	-1	17	_	NK	_	_
+17	Winter	Winter	Winter	NN	NN	_	dat|sg|masc	-1	14	_	NK	_	_
+18	und	und	und	KON	KON	_	_	-1	17	_	CD	_	_
+19	der	die	die	ART	ART	_	dat|sg|fem	-1	22	_	NK	_	_
+20	unausbleiblichen	unausbleiblich	unausbleiblich	ADJA	ADJA	_	dat|sg|fem|pos	-1	22	_	NK	_	_
+21	humanitären	humanitär	humanitär	ADJA	ADJA	_	dat|sg|fem|pos	-1	22	_	NK	_	_
+22	Katastrophe	Katastrophe	Katastrophe	NN	NN	_	dat|sg|fem	-1	18	_	CJ	_	_
+23	seine	sein	sein	PPOSAT	PPOSAT	_	acc|sg|fem	-1	24	_	NK	_	_
+24	Legitimation	Legitimation	Legitimation	NN	NN	_	acc|sg|fem	-1	11	_	OA	_	_
+25	.	.	.	$.	$.	_	_	-1	24	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	5	_	JU	_	_
+2	die	die	die	ART	ART	_	nom|pl|*	-1	3	_	NK	_	_
+3	USA	USA	USA	NE	NE	_	nom|pl|*	-1	5	_	SB	_	_
+4	ihren	ihr	ihr	PPOSAT	PPOSAT	_	acc|sg|masc	-1	5	_	NK	_	_
+5	Rückhalt	Rückhalt	Rückhalt	NN	NN	_	acc|sg|masc	-1	0	_	--	_	_
+6	in	in	in	APPR	APPR	_	_	-1	5	_	MNR	_	_
+7	Westeuropa	Westeuropa	Westeuropa	NE	NE	_	dat|sg|neut	-1	6	_	NK	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+

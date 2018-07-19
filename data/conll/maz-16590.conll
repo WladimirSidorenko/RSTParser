@@ -1,0 +1,187 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::3	4::5	10::9
+1	Von	von	von	APPR	APPR	_	_	-1	0	_	--	_	_
+2	wegen	wegen	wegen	APPR	APPR	_	_	-1	1	_	MO	_	_
+3	Förderung	Förderung	Förderung	NN	NN	_	dat|sg|fem	-1	2	_	NK	_	_
+
+	sentence_start	0	93	186	335	468	663	761	862	923	941
+	token_offsets	sentence	0	offsets	0::2	3::12	16::6	23::12	36::9	46::2	49::2	52::4	57::4	62::10	73::3	77::12	90::1
+	token_offsets	sentence	1	offsets	93::3	97::3	101::9	111::6	118::4	123::3	127::9	137::7	145::6	152::1	154::5	160::4	165::3	169::4	174::8	183::1
+	token_offsets	sentence	2	offsets	186::5	192::1	194::2	197::3	201::7	209::5	215::2	218::10	229::3	233::17	251::2	254::4	259::3	263::3	267::11	279::12	292::4	297::1	299::7	307::2	310::4	315::3	319::12	332::1
+	token_offsets	sentence	3	offsets	335::3	339::3	343::12	356::4	361::4	366::4	371::2	374::3	378::6	385::5	391::6	398::1	400::3	404::3	408::3	412::2	415::5	421::1	423::6	430::7	438::3	442::5	448::6	455::3	459::5	465::1
+	token_offsets	sentence	4	offsets	468::2	471::4	476::3	480::11	492::3	496::21	518::3	522::4	527::6	534::4	539::12	552::3	556::6	563::11	575::7	583::3	587::5	593::1	595::3	599::5	605::6	612::9	622::1	624::2	627::3	631::8	640::12	653::6	660::1
+	token_offsets	sentence	5	offsets	663::6	670::8	679::11	691::4	696::2	699::5	705::15	721::3	725::7	733::4	738::3	742::3	746::5	752::5	758::1
+	token_offsets	sentence	6	offsets	761::5	767::5	773::3	777::24	802::4	807::10	818::12	831::3	835::4	840::8	849::9	859::1
+	token_offsets	sentence	7	offsets	862::3	866::11	878::6	885::3	889::1	891::6	898::3	902::7	910::2	913::6	920::1
+	token_offsets	sentence	8	offsets	923::3	927::3	931::6	938::1
+	token_offsets	sentence	9	offsets	941::3	945::6	952::4	957::6	964::5	970::3	974::6	981::5	987::4	992::1
+1	Zu	zu	zu	APPR	APPR	_	_	-1	3	_	OP	_	_
+2	Jahresbeginn	Jahresbeginn	Jahresbeginn	NN	NN	_	dat|sg|masc	-1	1	_	NK	_	_
+3	sorgte	sorgen	sorgen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+4	wochenlanges	wochenlang	wochenlang	ADJA	ADJA	_	acc|sg|neut|pos	-1	5	_	NK	_	_
+5	Tauziehen	Tauziehen	Tauziehen	NN	NN	_	acc|sg|neut	-1	3	_	OA	_	_
+6	um	um	um	APPR	APPR	_	_	-1	3	_	MO	_	_
+7	30	30	30	CARD	CARD	_	_	-1	8	_	NK	_	_
+8	Mark	Mark	Mark	NN	NN	_	*|*|fem	-1	6	_	NK	_	_
+9	mehr	mehr	mehr	PIAT	PIAT	_	*|*|*	-1	10	_	NK	_	_
+10	Kindergeld	Kindergeld	Kindergeld	NN	NN	_	acc|sg|neut	-1	3	_	OA	_	_
+11	für	für	für	APPR	APPR	_	_	-1	10	_	MNR	_	_
+12	Schlagzeilen	Schlagzeile	Schlagzeile	NN	NN	_	acc|pl|fem	-1	11	_	NK	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Als	als	als	KOUS	KOUS	_	_	-1	9	_	CP	_	_
+2	der	die	die	ART	ART	_	nom|sg|masc	-1	3	_	NK	_	_
+3	Bundestag	Bundestag	Bundestag	NN	NN	_	nom|sg|masc	-1	9	_	SB	_	_
+4	Anfang	Anfang	Anfang	NN	NN	_	*|sg|masc	-1	9	_	MO	_	_
+5	Juli	Juli	Juli	NN	NN	_	*|sg|masc	-1	4	_	NK	_	_
+6	den	die	die	ART	ART	_	acc|sg|masc	-1	7	_	NK	_	_
+7	Beschluss	Beschluss	Beschluss	NN	NN	_	acc|sg|masc	-1	9	_	OA	_	_
+8	darüber	darüber	darüber	PAV	PAV	_	_	-1	14	_	NK	_	_
+9	fasste	fassen	fassen	VVFIN	VVFIN	_	sg|3|past|ind	-1	15	_	MO	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	wurde	werden	werden	VAFIN	VAFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+12	dies	dies	dies	PDS	PDS	_	nom|sg|neut	-1	11	_	SB	_	_
+13	als	als	als	KOKOM	KOKOM	_	_	-1	15	_	MO	_	_
+14	Sieg	Sieg	Sieg	NN	NN	_	nom|sg|masc	-1	13	_	NK	_	_
+15	verkauft	verkaufen	verkaufen	VVPP	VVPP	_	_	-1	11	_	OC	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+1	Jetzt	jetzt	jetzt	ADV	ADV	_	_	-1	19	_	MO	_	_
+2	,	,	,	$,	$,	_	_	-1	1	_	--	_	_
+3	da	da	da	KOUS	KOUS	_	_	-1	17	_	CP	_	_
+4	das	die	die	ART	ART	_	nom|sg|neut	-1	6	_	NK	_	_
+5	gesamte	gesamt	gesamt	ADJA	ADJA	_	nom|sg|neut|pos	-1	6	_	NK	_	_
+6	Paket	Paket	Paket	NN	NN	_	nom|sg|neut	-1	17	_	SB	_	_
+7	an	an	an	APPR	APPR	_	_	-1	6	_	MNR	_	_
+8	Neuerungen	Neuerung	Neuerung	NN	NN	_	dat|pl|fem	-1	7	_	NK	_	_
+9	zur	zu	zu	APPRART	APPRART	_	dat|sg|fem	-1	8	_	MNR	_	_
+10	Familienförderung	Familienförderung	Familienförderung	NN	NN	_	dat|sg|fem	-1	9	_	NK	_	_
+11	ab	ab	ab	APPR	APPR	_	_	-1	10	_	MNR	_	_
+12	2002	@card@	@card@	CARD	CARD	_	_	-1	11	_	NK	_	_
+13	für	für	für	APPR	APPR	_	_	-1	17	_	MO	_	_
+14	die	die	die	ART	ART	_	acc|pl|*	-1	15	_	NK	_	_
+15	Betroffenen	Betroffene	Betroffene	NN	NN	_	acc|pl|*	-1	13	_	NK	_	_
+16	überschaubar	überschaubar	überschaubar	ADJD	ADJD	_	pos	-1	17	_	PD	_	_
+17	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	19	_	MO	_	_
+18	,	,	,	$,	$,	_	_	-1	17	_	--	_	_
+19	erweist	erweisen	erweisen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+20	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	19	_	SB	_	_
+21	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	19	_	OA	_	_
+22	als	als	als	KOKOM	KOKOM	_	_	-1	19	_	MO	_	_
+23	Mogelpackung	Mogelpackung	Mogelpackung	NN	NN	_	nom|sg|fem	-1	22	_	NK	_	_
+24	.	.	.	$.	$.	_	_	-1	23	_	--	_	_
+
+1	Mit	mit	mit	APPR	APPR	_	_	-1	10	_	MO	_	_
+2	den	die	die	ART	ART	_	dat|pl|fem	-1	3	_	NK	_	_
+3	Steuerkarten	Steuerkarte	Steuerkarte	NN	NN	_	dat|pl|fem	-1	1	_	NK	_	_
+4	fürs	fürs	fürs	APPRART	APPRART	_	acc|sg|neut	-1	3	_	MNR	_	_
+5	neue	neu	neu	ADJA	ADJA	_	acc|sg|neut|pos	-1	6	_	NK	_	_
+6	Jahr	Jahr	Jahr	NN	NN	_	acc|sg|neut	-1	4	_	NK	_	_
+7	in	in	in	APPR	APPR	_	_	-1	3	_	MNR	_	_
+8	den	die	die	ART	ART	_	dat|pl|neut	-1	9	_	NK	_	_
+9	Händen	Hand	Hand	NN	NN	_	dat|pl|neut	-1	7	_	NK	_	_
+10	ahnen	ahnen	ahnen	VVFIN	VVFIN	_	dat|pl|neut|pos	-1	0	_	--	_	_
+11	Eltern	Eltern	Eltern	NN	NN	_	dat|pl|neut	-1	10	_	SB	_	_
+12	,	,	,	$,	$,	_	_	-1	11	_	--	_	_
+13	was	was	was	PRELS	PRELS	_	nom|sg|neut	-1	17	_	SB	_	_
+14	auf	auf	auf	APPR	APPR	_	_	-1	17	_	MO	_	_
+15	sie	sie	sie	PPER	PPER	_	acc|pl|*|3	-1	14	_	NK	_	_
+16	zu	zu	zu	PTKVZ	PTKVZ	_	_	-1	15	_	SVP	_	_
+17	kommt	kommen	kommen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	10	_	OC	_	_
+18	:	:	:	$.	$.	_	_	-1	17	_	--	_	_
+19	höhere	hoch	hoch	ADJA	ADJA	_	acc|pl|fem|comp	-1	20	_	NK	_	_
+20	Abgaben	Abgabe	Abgabe	NN	NN	_	acc|pl|fem	-1	17	_	OA	_	_
+21	für	für	für	APPR	APPR	_	_	-1	20	_	MNR	_	_
+22	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	23	_	NG	_	_
+23	wenige	wenige	wenige	PIS	PIS	_	acc|pl|fem	-1	21	_	NK	_	_
+24	von	von	von	APPR	APPR	_	_	-1	23	_	PG	_	_
+25	ihnen	sie	sie	PPER	PPER	_	dat|pl|*|3	-1	24	_	NK	_	_
+26	.	.	.	$.	$.	_	_	-1	25	_	--	_	_
+
+1	Im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	9	_	MO	_	_
+2	Zuge	Zug	Zug	NN	NN	_	dat|sg|masc	-1	1	_	NK	_	_
+3	der	die	die	ART	ART	_	gen|sg|fem	-1	4	_	NK	_	_
+4	Abschaffung	Abschaffung	Abschaffung	NN	NN	_	gen|sg|fem	-1	2	_	AG	_	_
+5	des	die	die	ART	ART	_	gen|sg|masc	-1	6	_	NK	_	_
+6	Haushaltsfreibetrages	Haushaltsfreibetrages	Haushaltsfreibetrages	NN	NN	_	gen|sg|masc	-1	4	_	AG	_	_
+7	bis	bis	bis	APPR	APPR	_	_	-1	4	_	MNR	_	_
+8	2005	2005	2005	CARD	CARD	_	_	-1	7	_	NK	_	_
+9	finden	finden	finden	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+10	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	9	_	OA	_	_
+11	ausgerechnet	ausgerechnet	ausgerechnet	ADJD	ADJD	_	_	-1	17	_	MO	_	_
+12	die	die	die	ART	ART	_	nom|pl|masc	-1	14	_	NK	_	_
+13	allein	allein	allein	ADV	ADV	_	_	-1	14	_	MO	_	_
+14	Erziehenden	erziehend	erziehend	ADJA	ADJA	_	nom|pl|masc|pos	-1	9	_	SB	_	_
+15	künftig	künftig	künftig	ADJD	ADJD	_	pos	-1	9	_	MO	_	_
+16	mit	mit	mit	APPR	APPR	_	_	-1	9	_	MO	_	_
+17	jenen	jen	jen	PDAT	PDAT	_	dat|pl|neut	-1	16	_	NK	_	_
+18	,	,	,	$,	$,	_	_	-1	17	_	--	_	_
+19	die	die	die	PRELS	PRELS	_	nom|pl|neut	-1	22	_	SB	_	_
+20	keine	keine	keine	PIAT	PIAT	_	nom|pl|neut	-1	21	_	NK	_	_
+21	Kinder	Kind	Kind	NN	NN	_	nom|pl|neut	-1	22	_	SB	_	_
+22	aufziehen	aufziehen	aufziehen	VVINF	VVINF	_	pl|3|pres|ind	-1	16	_	MO	_	_
+23	,	,	,	$,	$,	_	_	-1	22	_	--	_	_
+24	in	in	in	APPR	APPR	_	_	-1	16	_	APP	_	_
+25	der	die	die	ART	ART	_	dat|sg|fem	-1	27	_	NK	_	_
+26	höchsten	hoch	hoch	ADJA	ADJA	_	dat|sg|fem|sup	-1	27	_	NK	_	_
+27	Steuerklasse	Steuerklasse	Steuerklasse	NN	NN	_	dat|sg|fem	-1	24	_	NK	_	_
+28	wieder	wieder	wieder	ADV	ADV	_	_	-1	24	_	MO	_	_
+29	.	.	.	$.	$.	_	_	-1	28	_	--	_	_
+
+1	Selbst	selbst	selbst	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	Familien	Familie	Familie	NN	NN	_	nom|pl|fem	-1	3	_	SB	_	_
+3	profitieren	profitieren	profitieren	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+4	erst	erst	erst	ADV	ADV	_	_	-1	5	_	MO	_	_
+5	ab	ab	ab	APPR	APPR	_	_	-1	3	_	MO	_	_
+6	einem	eine	eine	ART	ART	_	dat|sg|masc	-1	7	_	NK	_	_
+7	Jahreseinkommen	Jahreseinkommen	Jahreseinkommen	NN	NN	_	dat|sg|masc	-1	5	_	NK	_	_
+8	von	von	von	APPR	APPR	_	_	-1	7	_	MNR	_	_
+9	120_000	120_000	120_000	CARD	CARD	_	_	-1	10	_	NK	_	_
+10	Mark	Mark	Mark	NN	NN	_	*|*|fem	-1	8	_	NK	_	_
+11	von	von	von	APPR	APPR	_	_	-1	10	_	MNR	_	_
+12	dem	die	die	ART	ART	_	dat|sg|masc	-1	14	_	NK	_	_
+13	neuen	neu	neu	ADJA	ADJA	_	dat|sg|masc|pos	-1	14	_	NK	_	_
+14	Recht	Recht	Recht	NN	NN	_	dat|sg|masc	-1	11	_	NK	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+1	Dabei	dabei	dabei	PAV	PAV	_	_	-1	11	_	NK	_	_
+2	hatte	haben	haben	VAFIN	VAFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+3	das	die	die	ART	ART	_	nom|sg|neut	-1	4	_	NK	_	_
+4	Bundesverfassungsgericht	Bundesverfassungsgericht	Bundesverfassungsgericht	NN	NN	_	nom|sg|neut	-1	2	_	SB	_	_
+5	eine	eine	eine	ART	ART	_	acc|sg|fem	-1	6	_	NK	_	_
+6	Entlastung	Entlastung	Entlastung	NN	NN	_	acc|sg|fem	-1	11	_	OA	_	_
+7	ausdrücklich	ausdrücklich	ausdrücklich	ADJD	ADJD	_	pos	-1	11	_	MO	_	_
+8	für	für	für	APPR	APPR	_	_	-1	11	_	MO	_	_
+9	alle	alle	alle	PIAT	PIAT	_	acc|pl|fem	-1	10	_	NK	_	_
+10	Familien	Familie	Familie	NN	NN	_	acc|pl|fem	-1	8	_	NK	_	_
+11	gefordert	fordern	fordern	VVPP	VVPP	_	_	-1	2	_	OC	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Den	die	die	ART	ART	_	dat|pl|fem	-1	2	_	NK	_	_
+2	Betroffenen	Betroffene	Betroffene	NN	NN	_	dat|pl|fem	-1	3	_	DA	_	_
+3	bleibt	bleiben	bleiben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	nur	nur	nur	ADV	ADV	_	_	-1	3	_	MO	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	erneut	erneut	erneut	ADJD	ADJD	_	pos	-1	10	_	MO	_	_
+7	vor	vor	vor	APPR	APPR	_	_	-1	10	_	MO	_	_
+8	Gericht	Gericht	Gericht	NN	NN	_	dat|sg|neut	-1	7	_	NK	_	_
+9	zu	zu	zu	PTKZU	PTKZU	_	_	-1	10	_	PM	_	_
+10	ziehen	ziehen	ziehen	VVINF	VVINF	_	_	-1	3	_	OC	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	3	_	JU	_	_
+2	das	die	die	PDS	PDS	_	nom|sg|neut	-1	3	_	SB	_	_
+3	dauert	dauern	dauern	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	.	.	.	$.	$.	_	_	-1	3	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|pl|neut	-1	2	_	NK	_	_
+2	Kinder	Kind	Kind	NN	NN	_	nom|pl|neut	-1	4	_	SB	_	_
+3	aber	aber	aber	ADV	ADV	_	_	-1	2	_	MO	_	_
+4	werden	werden	werden	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+5	älter	alt	alt	ADJD	ADJD	_	comp	-1	4	_	PD	_	_
+6	und	und	und	KON	KON	_	_	-1	4	_	CD	_	_
+7	kosten	kosen|kosten	kosen|kosten	VVFIN	VVFIN	_	pl|3|pres|ind	-1	6	_	CJ	_	_
+8	immer	immer	immer	ADV	ADV	_	_	-1	9	_	MO	_	_
+9	mehr	mehr	mehr	ADV	ADV	_	_	-1	7	_	MO	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+

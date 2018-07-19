@@ -1,0 +1,219 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::14	15::6
+1	Unbestechliche	unbestechlich	unbestechlich	ADJA	ADJA	_	nom|pl|fem|pos	-1	2	_	NK	_	_
+2	Zeugen	Zeuge	Zeuge	NN	NN	_	nom|pl|fem	-1	0	_	--	_	_
+
+	sentence_start	0	75	176	350	523	533
+	token_offsets	sentence	0	offsets	0::3	4::10	15::14	30::5	36::7	44::6	51::11	63::8	72::1
+	token_offsets	sentence	1	offsets	75::4	80::11	92::12	105::6	112::3	116::3	120::3	124::11	136::3	140::19	160::12	173::1
+	token_offsets	sentence	2	offsets	176::6	183::3	187::6	194::1	196::2	199::5	205::3	209::10	220::3	224::8	233::7	241::3	245::3	249::9	259::11	271::8	280::8	289::6	296::1	298::2	301::8	310::11	322::3	326::5	332::3	336::10	347::1
+	token_offsets	sentence	3	offsets	350::6	357::4	362::3	366::6	373::1	375::2	378::5	384::13	398::11	410::3	414::5	420::3	424::14	439::3	443::3	447::10	458::7	466::1	468::5	474::3	478::12	491::1	493::4	498::11	510::2	513::6	520::1
+	token_offsets	sentence	4	offsets	523::6	530::1
+	token_offsets	sentence	5	offsets	533::3	537::4	542::5	548::5	554::2	557::8	566::6	573::5	579::1	581::4	586::5	592::7	600::1	602::12	615::3	619::13	633::9	643::2	646::6	653::1
+1	Die	die	die	ART	ART	_	nom|pl|masc	-1	2	_	NK	_	_
+2	Rathenower	Rathenower	Rathenower	NN	NN	_	nom|pl|masc	-1	4	_	SB	_	_
+3	Polizeibeamten	Polizeibeamte	Polizeibeamte	NN	NN	_	nom|pl|masc	-1	2	_	NK	_	_
+4	haben	haben	haben	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+5	gestern	gestern	gestern	ADV	ADV	_	_	-1	8	_	MO	_	_
+6	enorme	enorm	enorm	ADJA	ADJA	_	acc|sg|fem|pos	-1	7	_	NK	_	_
+7	Verstärkung	Verstärkung	Verstärkung	NN	NN	_	acc|sg|fem	-1	8	_	OA	_	_
+8	erhalten	erhalten	erhalten	VVPP	VVPP	_	_	-1	4	_	OC	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+1	Drei	drei	drei	CARD	CARD	_	_	-1	3	_	NK	_	_
+2	hochmoderne	hochmodern	hochmodern	ADJA	ADJA	_	nom|pl|*|pos	-1	3	_	NK	_	_
+3	Videokameras	Videokamera	Videokamera	NN	NN	_	gen|sg|neut	-1	11	_	OA	_	_
+4	werden	werden	werden	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+5	sie	sie	sie	PPER	PPER	_	nom|pl|*|3	-1	4	_	SB	_	_
+6	bei	bei	bei	APPR	APPR	_	_	-1	11	_	MO	_	_
+7	der	die	die	ART	ART	_	dat|sg|fem	-1	8	_	NK	_	_
+8	Beobachtung	Beobachtung	Beobachtung	NN	NN	_	dat|sg|fem	-1	6	_	NK	_	_
+9	des	die	die	ART	ART	_	gen|sg|neut	-1	10	_	NK	_	_
+10	Dancehouse-Geländes	Dancehouse-Geländes	Dancehouse-Geländes	NN	NN	_	gen|sg|neut	-1	8	_	AG	_	_
+11	unterstützen	unterstützen	unterstützen	VVINF	VVINF	_	_	-1	4	_	OC	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Vorbei	vorbei	vorbei	ADV	ADV	_	_	-1	3	_	MO	_	_
+2	die	die	die	ART	ART	_	nom|pl|fem	-1	3	_	NK	_	_
+3	Zeiten	Zeit	Zeit	NN	NN	_	nom|pl|fem	-1	0	_	--	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	in	in	in	APPR	APPR	_	_	-1	18	_	MO	_	_
+6	denen	die	die	PRELS	PRELS	_	dat|pl|fem	-1	5	_	NK	_	_
+7	ein	eine	eine	ART	ART	_	nom|sg|neut	-1	8	_	NK	_	_
+8	Einsatzbus	Einsatzbus	Einsatzbus	NN	NN	_	nom|sg|neut	-1	18	_	SB	_	_
+9	mit	mit	mit	APPR	APPR	_	_	-1	18	_	MO	_	_
+10	mehreren	mehrere	mehrere	PIAT	PIAT	_	dat|pl|masc	-1	11	_	NK	_	_
+11	Beamten	Beamter	Beamter	NN	NN	_	dat|pl|masc	-1	9	_	NK	_	_
+12	auf	auf	auf	APPR	APPR	_	_	-1	17	_	MO	_	_
+13	dem	die	die	ART	ART	_	dat|sg|masc	-1	14	_	NK	_	_
+14	Parkplatz	Parkplatz	Parkplatz	NN	NN	_	dat|sg|masc	-1	12	_	NK	_	_
+15	stundenlang	stundenlang	stundenlang	ADJD	ADJD	_	pos	-1	17	_	MO	_	_
+16	Position	Position	Position	NN	NN	_	acc|sg|fem	-1	17	_	OA	_	_
+17	beziehen	beziehen	beziehen	VVINF	VVINF	_	_	-1	18	_	OC	_	_
+18	musste	müssen	müssen	VMFIN	VMFIN	_	sg|3|past|ind	-1	3	_	RC	_	_
+19	,	,	,	$,	$,	_	_	-1	18	_	--	_	_
+20	um	um	um	KOUI	KOUI	_	_	-1	26	_	CP	_	_
+21	mögliche	möglich	möglich	ADJA	ADJA	_	acc|pl|neut|pos	-1	22	_	NK	_	_
+22	Gewalttäter	Gewalttäter	Gewalttäter	NN	NN	_	acc|pl|neut	-1	26	_	OA	_	_
+23	von	von	von	APPR	APPR	_	_	-1	26	_	MO	_	_
+24	ihrem	ihr	ihr	PPOSAT	PPOSAT	_	dat|sg|neut	-1	25	_	NK	_	_
+25	Tun	Tun	Tun	NN	NN	_	dat|sg|neut	-1	23	_	NK	_	_
+26	abzuhalten	abhalten	abhalten	VVIZU	VVIZU	_	_	-1	17	_	MO	_	_
+27	.	.	.	$.	$.	_	_	-1	26	_	--	_	_
+
+1	Vorbei	vorbei	vorbei	ADV	ADV	_	_	-1	4	_	MO	_	_
+2	auch	auch	auch	ADV	ADV	_	_	-1	4	_	MO	_	_
+3	die	die	die	ART	ART	_	nom|pl|fem	-1	4	_	NK	_	_
+4	Zeiten	Zeit	Zeit	NN	NN	_	nom|pl|fem	-1	0	_	--	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	in	in	in	APPR	APPR	_	_	-1	17	_	MO	_	_
+7	denen	die	die	PRELS	PRELS	_	dat|pl|fem	-1	6	_	NK	_	_
+8	gewaltbereite	gewaltbereit	gewaltbereit	ADJA	ADJA	_	nom|sg|fem|pos	-1	9	_	NK	_	_
+9	Jugendliche	Jugendliche	Jugendliche	NN	NN	_	nom|sg|fem	-1	17	_	OA	_	_
+10	ihr	ihr	ihr	PPER	PPER	_	dat|sg|fem|3	-1	13	_	NK	_	_
+11	Katz-	Katz-	Katz-	TRUNC	TRUNC	_	_	-1	12	_	CJ	_	_
+12	und	und	und	KON	KON	_	_	-1	13	_	CD	_	_
+13	Maus-Spielchen	Maus-Spielchen	Maus-Spielchen	NN	NN	_	dat|pl|neut	-1	17	_	SB	_	_
+14	mit	mit	mit	APPR	APPR	_	_	-1	17	_	MO	_	_
+15	den	die	die	ART	ART	_	dat|pl|masc	-1	16	_	NK	_	_
+16	Polizisten	Polizist	Polizist	NN	NN	_	dat|pl|masc	-1	14	_	NK	_	_
+17	trieben	treiben	treiben	VVFIN	VVFIN	_	pl|3|past|ind	-1	4	_	RC	_	_
+18	,	,	,	$,	$,	_	_	-1	17	_	--	_	_
+19	indem	indem	indem	KOUS	KOUS	_	_	-1	21	_	CP	_	_
+20	sie	sie	sie	PPER	PPER	_	nom|pl|masc|3	-1	21	_	SB	_	_
+21	provozierten	provozieren	provozieren	VVFIN	VVFIN	_	pl|3|past|ind	-1	17	_	CJ	_	_
+22	,	,	,	$,	$,	_	_	-1	21	_	--	_	_
+23	ohne	ohne	ohne	KOUI	KOUI	_	_	-1	26	_	CP	_	_
+24	straffällig	straffällig	straffällig	ADJD	ADJD	_	pos	-1	26	_	PD	_	_
+25	zu	zu	zu	PTKZU	PTKZU	_	_	-1	26	_	PM	_	_
+26	werden	werden	werden	VAINF	VAINF	_	_	-1	21	_	MO	_	_
+27	.	.	.	$.	$.	_	_	-1	26	_	--	_	_
+
+1	Vorbei	vorbei	vorbei	ADV	ADV	_	_	-1	0	_	--	_	_
+2	.	.	.	$.	$.	_	_	-1	1	_	--	_	_
+
+1	Wer	wer	wer	PWS	PWS	_	nom|sg|masc	-1	8	_	SB	_	_
+2	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	8	_	OA	_	_
+3	jetzt	jetzt	jetzt	ADV	ADV	_	_	-1	8	_	MO	_	_
+4	etwas	etwas	etwas	ADV	ADV	_	_	-1	8	_	MO	_	_
+5	zu	zu	zu	APPR	APPR	_	_	-1	7	_	MO	_	_
+6	Schulden	Schuld	Schuld	NN	NN	_	dat|pl|fem	-1	5	_	NK	_	_
+7	kommen	kommen	kommen	VVINF	VVINF	_	_	-1	8	_	OC	_	_
+8	lässt	lassen	lassen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	10	_	SB	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	muss	müssen	müssen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+11	damit	damit	damit	PAV	PAV	_	_	-1	12	_	NK	_	_
+12	rechnen	rechnen	rechnen	VVINF	VVINF	_	_	-1	10	_	OC	_	_
+13	,	,	,	$,	$,	_	_	-1	12	_	--	_	_
+14	unverzüglich	unverzüglich	unverzüglich	ADJD	ADJD	_	pos	-1	17	_	MO	_	_
+15	und	und	und	KON	KON	_	_	-1	14	_	CD	_	_
+16	beweiskräftig	beweiskräftig	beweiskräftig	ADJD	ADJD	_	pos	-1	15	_	CJ	_	_
+17	überführt	überführen	überführen	VVPP	VVPP	_	_	-1	19	_	OC	_	_
+18	zu	zu	zu	PTKZU	PTKZU	_	_	-1	19	_	PM	_	_
+19	werden	werden	werden	VAINF	VAINF	_	_	-1	12	_	OC	_	_
+20	.	.	.	$.	$.	_	_	-1	19	_	--	_	_
+
+	sentence_start	0	34	191	286	384	460	501
+	token_offsets	sentence	0	offsets	0::3	4::7	12::4	17::13	31::1
+	token_offsets	sentence	1	offsets	34::3	38::3	42::7	50::10	61::3	65::3	69::9	79::3	83::5	89::3	93::7	101::2	104::3	108::9	118::3	122::11	134::1	136::3	140::4	145::8	154::3	158::3	162::6	169::4	174::13	188::1
+	token_offsets	sentence	2	offsets	191::13	205::4	210::3	214::6	221::5	227::10	238::8	247::1	249::4	254::11	266::6	273::3	277::5	283::1
+	token_offsets	sentence	3	offsets	286::3	290::3	294::11	306::4	311::1	313::3	317::7	325::5	331::6	338::2	341::6	348::1	350::4	355::4	360::3	364::9	374::6	381::1
+	token_offsets	sentence	4	offsets	384::3	388::11	400::5	406::5	412::5	418::3	422::7	430::3	434::14	449::7	457::1
+	token_offsets	sentence	5	offsets	460::3	464::3	468::3	472::4	477::3	481::16	498::1
+	token_offsets	sentence	6	offsets	501::8	510::7	518::2	521::6	528::1	530::5	536::6	543::1
+1	Die	die	die	ART	ART	_	nom|pl|masc	-1	2	_	NK	_	_
+2	Kameras	Kamera	Kamera	NN	NN	_	nom|pl|masc	-1	3	_	SB	_	_
+3	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+4	unbestechlich	unbestechlich	unbestechlich	ADJD	ADJD	_	pos	-1	3	_	PD	_	_
+5	.	.	.	$.	$.	_	_	-1	4	_	--	_	_
+
+1	Aus	aus	aus	APPR	APPR	_	_	-1	4	_	MO	_	_
+2	der	die	die	ART	ART	_	dat|sg|fem	-1	3	_	NK	_	_
+3	Distanz	Distanz	Distanz	NN	NN	_	dat|sg|fem	-1	1	_	NK	_	_
+4	beobachten	beobachten	beobachten	VVFIN	VVFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+5	sie	sie	sie	PPER	PPER	_	nom|pl|*|3	-1	4	_	SB	_	_
+6	das	die	die	ART	ART	_	acc|sg|neut	-1	7	_	NK	_	_
+7	Geschehen	Geschehen	Geschehen	NN	NN	_	acc|sg|neut	-1	4	_	OA	_	_
+8	und	und	und	KON	KON	_	_	-1	4	_	CD	_	_
+9	geben	geben	geben	VVFIN	VVFIN	_	pl|3|pres|ind	-1	8	_	CJ	_	_
+10	den	die	die	ART	ART	_	acc|sg|masc	-1	11	_	NK	_	_
+11	Beamten	Beamter	Beamter	NN	NN	_	acc|sg|masc	-1	9	_	OA	_	_
+12	an	an	an	APPR	APPR	_	_	-1	9	_	MO	_	_
+13	den	die	die	ART	ART	_	acc|sg|masc	-1	14	_	NK	_	_
+14	Monitoren	Monitor	Monitor	NN	NN	_	acc|sg|masc	-1	12	_	NK	_	_
+15	die	die	die	ART	ART	_	acc|sg|fem	-1	16	_	NK	_	_
+16	Möglichkeit	Möglichkeit	Möglichkeit	NN	NN	_	acc|sg|fem	-1	9	_	OA	_	_
+17	,	,	,	$,	$,	_	_	-1	16	_	--	_	_
+18	die	die	die	ART	ART	_	acc|sg|fem	-1	20	_	SB	_	_
+19	Lage	Lage	Lage	NN	NN	_	acc|sg|fem	-1	20	_	OA	_	_
+20	nüchtern	nüchtern	nüchtern	VVINF	VVINF	_	_	-1	16	_	RC	_	_
+21	und	und	und	KON	KON	_	_	-1	20	_	CD	_	_
+22	mit	mit	mit	APPR	APPR	_	_	-1	25	_	MO	_	_
+23	klarem	klar	klar	ADJA	ADJA	_	dat|sg|masc|pos	-1	24	_	NK	_	_
+24	Kopf	Kopf	Kopf	NN	NN	_	dat|sg|masc	-1	22	_	NK	_	_
+25	einzuschätzen	einschätzen	einschätzen	VVIZU	VVIZU	_	_	-1	21	_	CJ	_	_
+26	.	.	.	$.	$.	_	_	-1	25	_	--	_	_
+
+1	Provokateuren	Provokateur	Provokateur	NN	NN	_	nom|sg|neut	-1	2	_	SB	_	_
+2	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	das	die	die	ART	ART	_	nom|sg|neut	-1	4	_	NK	_	_
+4	Objekt	Objekt	Objekt	NN	NN	_	nom|sg|neut	-1	2	_	SB	_	_
+5	ihrer	ihr	ihr	PPOSAT	PPOSAT	_	gen|sg|fem	-1	6	_	NK	_	_
+6	Aggression	Aggression	Aggression	NN	NN	_	gen|sg|fem	-1	4	_	AG	_	_
+7	genommen	nehmen	nehmen	VVPP	VVPP	_	_	-1	2	_	OC	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	ihre	ihr	ihr	PPOSAT	PPOSAT	_	acc|pl|fem	-1	10	_	NK	_	_
+10	Sticheleien	Stichelei	Stichelei	NN	NN	_	acc|pl|fem	-1	11	_	SB	_	_
+11	laufen	laufen	laufen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	2	_	CJ	_	_
+12	ins	in	in	APPRART	APPRART	_	acc|sg|neut	-1	11	_	MO	_	_
+13	Leere	Leere	Leere	NN	NN	_	acc|sg|neut	-1	12	_	NK	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	7	_	JU	_	_
+2	wer	wer	wer	PWS	PWS	_	nom|sg|masc	-1	4	_	SB	_	_
+3	straffällig	straffällig	straffällig	ADJD	ADJD	_	pos	-1	4	_	PD	_	_
+4	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	6	_	RE	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	der	die	die	PDS	PDS	_	nom|sg|masc	-1	7	_	SB	_	_
+7	braucht	brauchen	brauchen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+8	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	7	_	NG	_	_
+9	darauf	darauf	darauf	PAV	PAV	_	_	-1	11	_	NK	_	_
+10	zu	zu	zu	PTKZU	PTKZU	_	_	-1	11	_	PM	_	_
+11	hoffen	hoffen	hoffen	VVINF	VVINF	_	_	-1	7	_	OC	_	_
+12	,	,	,	$,	$,	_	_	-1	11	_	--	_	_
+13	dass	dass	dass	KOUS	KOUS	_	_	-1	17	_	CP	_	_
+14	sein	sein	sein	PPOSAT	PPOSAT	_	_	-1	15	_	NK	_	_
+15	Tun	Tun	Tun	NN	NN	_	nom|sg|neut	-1	17	_	SB	_	_
+16	unbemerkt	unbemerkt	unbemerkt	ADJD	ADJD	_	pos	-1	17	_	PD	_	_
+17	bleibt	bleiben	bleiben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	11	_	OC	_	_
+18	.	.	.	$.	$.	_	_	-1	17	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|pl|masc	-1	3	_	NK	_	_
+2	technischen	technisch	technisch	ADJA	ADJA	_	nom|pl|masc|pos	-1	3	_	NK	_	_
+3	Augen	Auge	Auge	NN	NN	_	nom|pl|masc	-1	4	_	SB	_	_
+4	sehen	sehen	sehen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+5	alles	alle	alle	PIS	PIS	_	acc|sg|neut	-1	4	_	OA	_	_
+6	und	und	und	KON	KON	_	_	-1	4	_	CD	_	_
+7	liefern	liefern	liefern	VVFIN	VVFIN	_	pl|3|pres|ind	-1	6	_	CJ	_	_
+8	die	die	die	ART	ART	_	nom|pl|fem	-1	10	_	NK	_	_
+9	entsprechenden	entsprechend	entsprechend	ADJA	ADJA	_	nom|pl|fem|pos	-1	10	_	NK	_	_
+10	Beweise	Beweis	Beweis	NN	NN	_	nom|pl|fem	-1	7	_	OA	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Das	die	die	PDS	PDS	_	nom|sg|neut	-1	2	_	SB	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	das	die	die	ART	ART	_	nom|sg|neut	-1	4	_	NK	_	_
+4	Ziel	Ziel	Ziel	NN	NN	_	nom|sg|neut	-1	2	_	PD	_	_
+5	der	die	die	ART	ART	_	gen|sg|fem	-1	6	_	NK	_	_
+6	Videoüberwachung	Videoüberwachung	Videoüberwachung	NN	NN	_	gen|sg|fem	-1	4	_	AG	_	_
+7	.	.	.	$.	$.	_	_	-1	6	_	--	_	_
+
+1	Einwände	Einwand	Einwand	NN	NN	_	acc|pl|masc	-1	4	_	OA	_	_
+2	dagegen	dagegen	dagegen	PAV	PAV	_	_	-1	1	_	NK	_	_
+3	zu	zu	zu	PTKZU	PTKZU	_	_	-1	4	_	PM	_	_
+4	finden	finden	finden	VVINF	VVINF	_	_	-1	6	_	SB	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	fällt	fallen|fällen	fallen|fällen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+7	schwer	schwer	schwer	ADJD	ADJD	_	pos	-1	6	_	MO	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+

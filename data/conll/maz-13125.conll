@@ -1,0 +1,231 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::3	4::8
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Wahrheit	Wahrheit	Wahrheit	NN	NN	_	nom|sg|fem	-1	0	_	--	_	_
+
+	sentence_start	0	137
+	token_offsets	sentence	0	offsets	0::3	4::15	20::2	23::5	29::4	34::3	38::3	42::5	48::2	51::11	63::1	65::3	69::8	78::3	82::3	86::6	93::5	99::6	106::11	118::2	121::3	125::2	128::5	134::1
+	token_offsets	sentence	1	offsets	137::7	145::3	149::3	153::6	160::7	168::4	173::1	175::3	179::10	190::2	193::5	199::8	208::2	211::5	217::1
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	2	_	NK	_	_
+2	Reichstagsbrand	Reichstagsbrand	Reichstagsbrand	NN	NN	_	nom|sg|masc	-1	13	_	SB	_	_
+3	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	2	_	MNR	_	_
+4	Jahre	Jahr	Jahr	NN	NN	_	dat|sg|neut	-1	3	_	NK	_	_
+5	1933	@card@	@card@	CARD	CARD	_	_	-1	4	_	NK	_	_
+6	und	und	und	KON	KON	_	_	-1	2	_	CD	_	_
+7	der	die	die	ART	ART	_	nom|sg|masc	-1	8	_	NK	_	_
+8	Krieg	Krieg	Krieg	NN	NN	_	nom|sg|masc	-1	6	_	CJ	_	_
+9	in	in	in	APPR	APPR	_	_	-1	8	_	MNR	_	_
+10	Afghanistan	Afghanistan	Afghanistan	NE	NE	_	dat|sg|neut	-1	9	_	NK	_	_
+11	-	-	-	$(	$(	_	_	-1	10	_	--	_	_
+12	sie	sie	sie	PPER	PPER	_	nom|pl|*|3	-1	13	_	SB	_	_
+13	scheinen	scheinen	scheinen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+14	auf	auf	auf	APPR	APPR	_	_	-1	21	_	MO	_	_
+15	den	die	die	ART	ART	_	acc|sg|masc	-1	17	_	NK	_	_
+16	ersten	erst	erst	ADJA	ADJA	_	acc|sg|masc|pos	-1	17	_	NK	_	_
+17	Blick	Blick	Blick	NN	NN	_	acc|sg|masc	-1	14	_	NK	_	_
+18	nichts	nichts	nichts	PIS	PIS	_	*|*|neut	-1	21	_	OA	_	_
+19	miteinander	miteinander	miteinander	ADV	ADV	_	_	-1	21	_	MO	_	_
+20	zu	zu	zu	PTKZU	PTKZU	_	_	-1	21	_	PM	_	_
+21	tun	tun	tun	VVINF	VVINF	_	_	-1	23	_	OC	_	_
+22	zu	zu	zu	PTKZU	PTKZU	_	_	-1	23	_	PM	_	_
+23	haben	haben	haben	VAINF	VAINF	_	_	-1	13	_	OC	_	_
+24	.	.	.	$.	$.	_	_	-1	23	_	--	_	_
+
+1	Mancher	manche	manche	PIS	PIS	_	nom|sg|masc	-1	2	_	SB	_	_
+2	mag	mögen	mögen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	gar	gar	gar	ADV	ADV	_	_	-1	4	_	MO	_	_
+4	erbost	erbost	erbost	ADJD	ADJD	_	pos	-1	6	_	PD	_	_
+5	darüber	darüber	darüber	PAV	PAV	_	_	-1	4	_	NK	_	_
+6	sein	sein	sein	VAINF	VAINF	_	_	-1	2	_	OC	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	die	die	die	ART	ART	_	nom|pl|neut	-1	9	_	NK	_	_
+9	Ereignisse	Ereignis	Ereignis	NN	NN	_	nom|pl|neut	-1	14	_	OA	_	_
+10	in	in	in	APPR	APPR	_	_	-1	9	_	MNR	_	_
+11	einem	eine	eine	ART	ART	_	dat|sg|masc	-1	12	_	NK	_	_
+12	Atemzuge	Atemzug	Atemzug	NN	NN	_	dat|sg|masc	-1	10	_	NK	_	_
+13	zu	zu	zu	PTKZU	PTKZU	_	_	-1	14	_	PM	_	_
+14	lesen	lesen	lesen	VVINF	VVINF	_	_	-1	1	_	MNR	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+	sentence_start	0	86	209	275	346
+	token_offsets	sentence	0	offsets	0::3	4::4	9::1	11::3	15::3	19::6	26::6	33::4	38::3	42::15	58::7	66::5	72::1	74::3	78::4	83::1
+	token_offsets	sentence	1	offsets	86::6	93::3	97::4	102::5	108::7	116::1	118::3	122::3	126::5	132::4	137::3	141::5	147::5	153::3	157::11	169::2	172::3	176::12	189::4	194::6	201::4	206::1
+	token_offsets	sentence	2	offsets	209::6	216::5	222::8	231::4	236::6	243::17	261::10	272::1
+	token_offsets	sentence	3	offsets	275::3	279::3	283::5	289::5	295::11	307::10	318::4	323::1	325::3	329::13	343::1
+	token_offsets	sentence	4	offsets	346::2	349::4	354::2	357::11	369::6	376::1	378::4	383::2	386::3	390::10	401::3	405::10	416::5	422::1
+1	Und	und	und	KON	KON	_	_	-1	14	_	JU	_	_
+2	doch	doch	doch	ADV	ADV	_	_	-1	11	_	MO	_	_
+3	:	:	:	$.	$.	_	_	-1	2	_	--	_	_
+4	Was	was	was	PWS	PWS	_	nom|sg|neut	-1	12	_	SB	_	_
+5	den	die	die	ART	ART	_	dat|pl|*	-1	6	_	NK	_	_
+6	Leuten	Leute	Leute	NN	NN	_	dat|pl|*	-1	11	_	DA	_	_
+7	damals	damals	damals	ADV	ADV	_	_	-1	11	_	MO	_	_
+8	über	über	über	APPR	APPR	_	_	-1	11	_	OP	_	_
+9	den	die	die	ART	ART	_	acc|sg|masc	-1	10	_	NK	_	_
+10	Reichstagsbrand	Reichstagsbrand	Reichstagsbrand	NN	NN	_	acc|sg|masc	-1	8	_	NK	_	_
+11	erzählt	erzählen	erzählen	VVPP	VVPP	_	_	-1	12	_	OC	_	_
+12	wurde	werden	werden	VAFIN	VAFIN	_	sg|3|past|ind	-1	14	_	SB	_	_
+13	,	,	,	$,	$,	_	_	-1	12	_	--	_	_
+14	war	sein	sein	VAFIN	VAFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+15	Lüge	Lüge	Lüge	NN	NN	_	nom|sg|fem	-1	14	_	PD	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+1	Können	können	können	VMFIN	VMFIN	_	pl|1|pres|ind	-1	0	_	--	_	_
+2	wir	wir	wir	PPER	PPER	_	nom|pl|*|1	-1	1	_	SB	_	_
+3	denn	denn	denn	ADV	ADV	_	_	-1	1	_	MO	_	_
+4	alles	alle	alle	PIS	PIS	_	nom|sg|neut	-1	1	_	SB	_	_
+5	glauben	glauben	glauben	VVINF	VVINF	_	_	-1	1	_	OC	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	was	was	was	PRELS	PRELS	_	nom|sg|neut	-1	21	_	SB	_	_
+8	uns	wir	wir	PPER	PPER	_	dat|pl|*|1	-1	20	_	DA	_	_
+9	heute	heute	heute	ADV	ADV	_	_	-1	20	_	MO	_	_
+10	über	über	über	APPR	APPR	_	_	-1	20	_	OP	_	_
+11	den	die	die	ART	ART	_	acc|sg|masc	-1	12	_	NK	_	_
+12	Kampf	Kampf	Kampf	NN	NN	_	acc|sg|masc	-1	10	_	NK	_	_
+13	gegen	gegen	gegen	APPR	APPR	_	_	-1	12	_	MNR	_	_
+14	den	die	die	ART	ART	_	acc|sg|masc	-1	15	_	NK	_	_
+15	Terrorismus	Terrorismus	Terrorismus	NN	NN	_	acc|sg|masc	-1	13	_	NK	_	_
+16	in	in	in	APPR	APPR	_	_	-1	15	_	MNR	_	_
+17	dem	die	die	ART	ART	_	dat|sg|neut	-1	19	_	NK	_	_
+18	asisatischen	asisatischen	asisatischen	ADJA	ADJA	_	dat|sg|neut|pos	-1	19	_	NK	_	_
+19	Land	Land	Land	NN	NN	_	dat|sg|neut	-1	16	_	NK	_	_
+20	gesagt	sagen	sagen	VVPP	VVPP	_	_	-1	21	_	OC	_	_
+21	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	5	_	OC	_	_
+22	?	?	?	$.	$.	_	_	-1	21	_	--	_	_
+
+1	Dieser	dies	dies	PDAT	PDAT	_	nom|sg|masc	-1	2	_	NK	_	_
+2	Krieg	Krieg	Krieg	NN	NN	_	nom|sg|masc	-1	3	_	SB	_	_
+3	entzieht	entziehen	entziehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	3	_	OA	_	_
+5	selbst	selbst	selbst	ADV	ADV	_	_	-1	4	_	MNR	_	_
+6	Medienbeobachtern	Medienbeobachtern	Medienbeobachtern	NN	NN	_	dat|pl|masc	-1	3	_	SB	_	_
+7	weitgehend	weitgehend	weitgehend	ADJD	ADJD	_	pos	-1	3	_	MO	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+
+1	Was	was	was	PWS	PWS	_	acc|sg|neut	-1	6	_	OA	_	_
+2	man	man	man	PIS	PIS	_	nom|sg|*	-1	7	_	SB	_	_
+3	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	7	_	NG	_	_
+4	durch	durch	durch	APPR	APPR	_	_	-1	6	_	MO	_	_
+5	Augenschein	Augenschein	Augenschein	NN	NN	_	acc|sg|masc	-1	4	_	NK	_	_
+6	nachprüfen	nachprüfen	nachprüfen	VVINF	VVINF	_	_	-1	7	_	OC	_	_
+7	kann	können	können	VMFIN	VMFIN	_	sg|3|pres|ind	-1	9	_	SB	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+10	manipulierbar	manipulierbar	manipulierbar	ADJD	ADJD	_	pos	-1	9	_	PD	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	SB	_	_
+2	kann	können	können	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	so	so	so	ADV	ADV	_	_	-1	4	_	MO	_	_
+4	dargestellt	darstellen	darstellen	VVPP	VVPP	_	_	-1	5	_	OC	_	_
+5	werden	werden	werden	VAINF	VAINF	_	_	-1	2	_	OC	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	dass	dass	dass	KOUS	KOUS	_	_	-1	13	_	CP	_	_
+8	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	13	_	SB	_	_
+9	den	die	die	ART	ART	_	dat|pl|neut	-1	10	_	NK	_	_
+10	Interessen	Interesse	Interesse	NN	NN	_	dat|pl|neut	-1	13	_	DA	_	_
+11	der	die	die	ART	ART	_	gen|sg|fem	-1	12	_	NK	_	_
+12	Machthaber	Machthaber	Machthaber	NN	NN	_	gen|sg|fem	-1	10	_	AG	_	_
+13	nutzt	nutzen	nutzen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	3	_	CC	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+	sentence_start	0	228	303	487
+	token_offsets	sentence	0	offsets	0::3	4::9	14::3	18::7	26::3	30::2	33::7	41::2	44::6	51::12	64::6	71::1	73::5	79::5	85::6	92::3	96::3	100::8	109::5	115::1	117::3	121::11	133::3	137::3	141::9	151::1	152::0	154::1	156::4	161::9	171::3	175::12	188::1	190::4	195::3	199::6	206::5	212::6	219::4	224::3
+	token_offsets	sentence	1	offsets	228::1	229::0	231::4	236::1	238::3	242::6	249::5	255::6	262::4	267::1	269::4	274::3	278::3	282::3	286::8	295::4	300::1
+	token_offsets	sentence	2	offsets	303::3	307::6	314::5	320::6	327::4	332::1	334::4	339::6	346::9	356::2	359::5	365::3	369::6	376::7	384::1	386::4	391::4	396::3	400::7	408::7	416::9	426::3	430::16	447::11	459::12	472::7	480::3	484::1
+	token_offsets	sentence	3	offsets	487::2	490::6	497::5	503::6	510::2	513::10	524::5	530::1
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Botschaft	Botschaft	Botschaft	NN	NN	_	nom|sg|fem	-1	21	_	SB	_	_
+3	der	die	die	ART	ART	_	gen|pl|fem	-1	4	_	NK	_	_
+4	Autoren	Autor	Autor	NN	NN	_	gen|pl|fem	-1	2	_	AG	_	_
+5	des	die	die	ART	ART	_	gen|sg|masc	-1	11	_	NK	_	_
+6	am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	10	_	MO	_	_
+7	Samstag	Samstag	Samstag	NN	NN	_	dat|sg|masc	-1	6	_	NK	_	_
+8	in	in	in	APPR	APPR	_	_	-1	10	_	MO	_	_
+9	Zossen	Zossen	Zossen	NE	NE	_	dat|sg|neut	-1	8	_	NK	_	_
+10	aufgeführten	aufgeführt	aufgeführt	ADJA	ADJA	_	gen|sg|masc|pos	-1	11	_	NK	_	_
+11	Stücks	Stück	Stück	NN	NN	_	gen|sg|masc	-1	4	_	AG	_	_
+12	"	"	"	$(	$(	_	_	-1	11	_	--	_	_
+13	Eines	eine	eine	PIS	PIS	_	gen|sg|masc	-1	14	_	NK	_	_
+14	Tages	Tag	Tag	NN	NN	_	gen|sg|masc	-1	15	_	MO	_	_
+15	müssen	müssen	müssen	VMFIN	VMFIN	_	pl|1|pres|ind	-1	11	_	PAR	_	_
+16	wir	wir	wir	PPER	PPER	_	nom|pl|*|1	-1	15	_	SB	_	_
+17	die	die	die	ART	ART	_	acc|sg|fem	-1	18	_	NK	_	_
+18	Wahrheit	Wahrheit	Wahrheit	NN	NN	_	acc|sg|fem	-1	19	_	OA	_	_
+19	sagen	sagen	sagen	VVINF	VVINF	_	_	-1	15	_	OC	_	_
+20	"	"	"	$(	$(	_	_	-1	19	_	--	_	_
+21	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+22	übertragbar	übertragbar	übertragbar	ADJD	ADJD	_	pos	-1	21	_	PD	_	_
+23	auf	auf	auf	APPR	APPR	_	_	-1	21	_	MO	_	_
+24	die	die	die	ART	ART	_	acc|sg|fem	-1	25	_	NK	_	_
+25	Gegenwart	Gegenwart	Gegenwart	NN	NN	_	acc|sg|fem	-1	23	_	NK	_	_
+26	:	:	:	$.	$.	_	_	-1	25	_	--	_	_
+27	"	"	"	$(	$(	_	_	-1	26	_	--	_	_
+28	Seid	sein	sein	VAFIN	VAFIN	_	acc|sg|masc	-1	21	_	RS	_	_
+29	sensibler	sensibel	sensibel	ADJD	ADJD	_	comp	-1	28	_	PD	_	_
+30	und	und	und	KON	KON	_	_	-1	29	_	CD	_	_
+31	aufmerksamer	aufmerksam	aufmerksam	ADJD	ADJD	_	comp	-1	30	_	CJ	_	_
+32	,	,	,	$,	$,	_	_	-1	31	_	--	_	_
+33	denn	denn	denn	KON	KON	_	_	-1	21	_	CD	_	_
+34	wir	wir	wir	PPER	PPER	_	nom|pl|*|1	-1	35	_	SB	_	_
+35	können	können	können	VMFIN	VMFIN	_	pl|1|pres|ind	-1	33	_	CJ	_	_
+36	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	35	_	NG	_	_
+37	sicher	sicher	sicher	ADJD	ADJD	_	pos	-1	38	_	PD	_	_
+38	sein	sein	sein	VAINF	VAINF	_	_	-1	35	_	OC	_	_
+39	...	...	...	$.	$.	_	_	-1	38	_	--	_	_
+
+1	"	"	"	$(	$(	_	_	-1	2	_	--	_	_
+2	Nein	nein	nein	PTKANT	PTKANT	_	_	-1	5	_	DM	_	_
+3	,	,	,	$,	$,	_	_	-1	2	_	--	_	_
+4	wir	wir	wir	PPER	PPER	_	nom|pl|*|1	-1	5	_	SB	_	_
+5	können	können	können	VMFIN	VMFIN	_	pl|1|pres|ind	-1	0	_	--	_	_
+6	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	5	_	NG	_	_
+7	sicher	sicher	sicher	ADJD	ADJD	_	pos	-1	8	_	PD	_	_
+8	sein	sein	sein	VAINF	VAINF	_	_	-1	5	_	OC	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	dass	dass	dass	KOUS	KOUS	_	_	-1	15	_	CP	_	_
+11	man	man	man	PIS	PIS	_	nom|sg|*	-1	15	_	SB	_	_
+12	uns	wir	wir	PRF	PRF	_	dat|pl|1	-1	15	_	DA	_	_
+13	die	die	die	ART	ART	_	acc|sg|fem	-1	14	_	NK	_	_
+14	Wahrheit	Wahrheit	Wahrheit	NN	NN	_	acc|sg|fem	-1	15	_	OA	_	_
+15	sagt	sagen	sagen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	5	_	MO	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+1	Wir	wir	wir	PPER	PPER	_	nom|pl|*|1	-1	2	_	SB	_	_
+2	können	können	können	VMFIN	VMFIN	_	pl|1|pres|ind	-1	0	_	--	_	_
+3	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	2	_	NG	_	_
+4	sicher	sicher	sicher	ADJD	ADJD	_	pos	-1	5	_	PD	_	_
+5	sein	sein	sein	VAINF	VAINF	_	_	-1	2	_	OC	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	dass	dass	dass	KOUS	KOUS	_	_	-1	14	_	CP	_	_
+8	unsere	unser	unser	PPOSAT	PPOSAT	_	nom|sg|fem	-1	9	_	NK	_	_
+9	Regierung	Regierung	Regierung	NN	NN	_	nom|sg|fem	-1	14	_	SB	_	_
+10	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	14	_	MO	_	_
+11	Sinne	Sinn	Sinn	NN	NN	_	dat|sg|masc	-1	10	_	NK	_	_
+12	des	die	die	ART	ART	_	gen|sg|neut	-1	13	_	NK	_	_
+13	Volkes	Volk	Volk	NN	NN	_	gen|sg|neut	-1	11	_	AG	_	_
+14	handelt	handeln	handeln	VVFIN	VVFIN	_	sg|3|pres|ind	-1	5	_	MO	_	_
+15	,	,	,	$,	$,	_	_	-1	14	_	--	_	_
+16	auch	auch	auch	ADV	ADV	_	_	-1	27	_	MO	_	_
+17	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	27	_	CP	_	_
+18	der	die	die	ART	ART	_	nom|sg|masc	-1	19	_	NK	_	_
+19	Kanzler	Kanzler	Kanzler	NN	NN	_	nom|sg|masc	-1	27	_	SB	_	_
+20	Amerika	Amerika	Amerika	NE	NE	_	nom|sg|neut	-1	19	_	NK	_	_
+21	gegenüber	gegenüber	gegenüber	APPR	APPR	_	_	-1	26	_	MO	_	_
+22	die	die	die	ART	ART	_	acc|sg|fem	-1	24	_	NK	_	_
+23	uneingeschränkte	uneingeschränkt	uneingeschränkt	ADJA	ADJA	_	acc|sg|fem|pos	-1	24	_	NK	_	_
+24	Solidarität	Solidarität	Solidarität	NN	NN	_	acc|sg|fem	-1	21	_	NK	_	_
+25	Deutschlands	Deutschland	Deutschland	NE	NE	_	gen|sg|neut	-1	24	_	AG	_	_
+26	erklärt	erklären	erklären	VVPP	VVPP	_	_	-1	27	_	OC	_	_
+27	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	2	_	MO	_	_
+28	.	.	.	$.	$.	_	_	-1	27	_	--	_	_
+
+1	In	in	in	APPR	APPR	_	_	-1	4	_	MO	_	_
+2	meinem	mein	mein	PPOSAT	PPOSAT	_	dat|sg|masc	-1	3	_	NK	_	_
+3	Namen	Name	Name	NN	NN	_	dat|sg|masc	-1	1	_	NK	_	_
+4	sprach	sprechen	sprechen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+5	er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	4	_	SB	_	_
+6	jedenfalls	jedenfalls	jedenfalls	ADV	ADV	_	_	-1	4	_	MO	_	_
+7	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	4	_	NG	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+

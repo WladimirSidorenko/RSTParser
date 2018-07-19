@@ -1,0 +1,218 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::8
+1	Füllhorn	Füllhorn	Füllhorn	NN	NN	_	nom|sg|neut	-1	0	_	--	_	_
+
+	sentence_start	0	146	281
+	token_offsets	sentence	0	offsets	0::10	11::3	15::3	19::23	43::12	56::5	62::3	66::16	83::3	87::3	91::11	103::3	107::9	117::4	122::3	126::8	135::7	143::1
+	token_offsets	sentence	1	offsets	146::4	151::7	159::3	163::18	182::3	186::3	190::2	193::7	201::5	207::16	224::5	230::5	236::3	240::12	253::9	263::14	278::1
+	token_offsets	sentence	2	offsets	281::2	284::4	289::4	294::6	301::5	307::4	312::5	318::1	319::0	321::4	326::9	336::6	343::1	345::7	353::5	359::5	365::1	367::3	371::2	374::9	384::1
+1	Vergeblich	vergeblich	vergeblich	ADJD	ADJD	_	pos	-1	17	_	MO	_	_
+2	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	der	die	die	ART	ART	_	nom|sg|masc	-1	4	_	NK	_	_
+4	Noch-Finanzbeigeordnete	Noch-Finanzbeigeordnete	Noch-Finanzbeigeordnete	NN	NN	_	nom|sg|masc	-1	2	_	SB	_	_
+5	Hans-Joachim	Hans-Joachim	Hans-Joachim	NE	NE	_	nom|sg|masc	-1	6	_	PNC	_	_
+6	Bosse	Boss	Boss	NN	NN	_	nom|sg|masc	-1	4	_	NK	_	_
+7	den	die	die	ART	ART	_	acc|sg|masc	-1	8	_	NK	_	_
+8	Stadtverordneten	Stadtverordnete	Stadtverordnete	NN	NN	_	acc|sg|masc	-1	17	_	OA	_	_
+9	bei	bei	bei	APPR	APPR	_	_	-1	8	_	MNR	_	_
+10	der	die	die	ART	ART	_	dat|sg|fem	-1	11	_	NK	_	_
+11	Einbringung	Einbringung	Einbringung	NN	NN	_	dat|sg|fem	-1	9	_	NK	_	_
+12	des	die	die	ART	ART	_	gen|sg|neut	-1	13	_	NK	_	_
+13	Haushalts	Haushalt	Haushalt	NN	NN	_	gen|sg|neut	-1	11	_	AG	_	_
+14	2002	@card@	@card@	CARD	CARD	_	_	-1	13	_	NK	_	_
+15	ins	in	in	APPRART	APPRART	_	acc|sg|neut	-1	17	_	MO	_	_
+16	Gewissen	Gewissen	Gewissen	NN	NN	_	acc|sg|neut	-1	15	_	NK	_	_
+17	geredet	reden	reden	VVPP	VVPP	_	_	-1	2	_	OC	_	_
+18	.	.	.	$.	$.	_	_	-1	17	_	--	_	_
+
+1	Zwar	zwar	zwar	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	machten	machen	machen	VVFIN	VVFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+3	die	die	die	ART	ART	_	nom|pl|masc	-1	4	_	NK	_	_
+4	Haushaltspolitiker	Haushaltspolitiker	Haushaltspolitiker	NN	NN	_	nom|pl|masc	-1	2	_	SB	_	_
+5	der	die	die	ART	ART	_	gen|sg|fem	-1	6	_	NK	_	_
+6	SPD	SPD	SPD	NE	NE	_	gen|sg|fem	-1	4	_	AG	_	_
+7	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	2	_	MO	_	_
+8	Vorfeld	Vorfeld	Vorfeld	NN	NN	_	dat|sg|neut	-1	7	_	NK	_	_
+9	ihrer	ihr	ihr	PPOSAT	PPOSAT	_	gen|sg|fem	-1	10	_	NK	_	_
+10	Wochenendklausur	Wochenendklausur	Wochenendklausur	NN	NN	_	gen|sg|fem	-1	8	_	AG	_	_
+11	große	groß	groß	ADJA	ADJA	_	acc|pl|masc|pos	-1	12	_	NK	_	_
+12	Welle	Welle	Welle	NN	NN	_	acc|pl|masc	-1	2	_	OA	_	_
+13	mit	mit	mit	APPR	APPR	_	_	-1	12	_	MNR	_	_
+14	Horrorlisten	Horrorlisten	Horrorlisten	NN	NN	_	dat|pl|masc	-1	13	_	NK	_	_
+15	möglicher	möglich	möglich	ADJA	ADJA	_	gen|pl|fem|pos	-1	16	_	NK	_	_
+16	Sparpositionen	Sparpositionen	Sparpositionen	NN	NN	_	gen|pl|fem	-1	14	_	AG	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
+1	Am	an	an	APPRART	APPRART	_	dat|sg|neut	-1	13	_	MO	_	_
+2	Ende	Ende	Ende	NN	NN	_	dat|sg|neut	-1	1	_	NK	_	_
+3	aber	aber	aber	KON	KON	_	_	-1	1	_	CD	_	_
+4	bleibt	bleiben	bleiben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	3	_	CJ	_	_
+5	alles	alle	alle	PIS	PIS	_	nom|sg|neut	-1	4	_	SB	_	_
+6	beim	bei	bei	APPRART	APPRART	_	dat|sg|masc	-1	4	_	MO	_	_
+7	Alten	Alte	Alte	NN	NN	_	dat|sg|masc	-1	6	_	NK	_	_
+8	:	:	:	$.	$.	_	_	-1	7	_	--	_	_
+9	Dass	dass	dass	KOUS	KOUS	_	_	-1	11	_	CP	_	_
+10	Millionen	Million	Million	NN	NN	_	nom|pl|fem	-1	11	_	SB	_	_
+11	fehlen	fehlen	fehlen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	4	_	SB	_	_
+12	,	,	,	$,	$,	_	_	-1	11	_	--	_	_
+13	hindert	hindern	hindern	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+14	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	13	_	NG	_	_
+15	daran	daran	daran	PAV	PAV	_	_	-1	10	_	NK	_	_
+16	,	,	,	$,	$,	_	_	-1	14	_	--	_	_
+17	sie	sie	sie	PPER	PPER	_	acc|pl|fem|3	-1	19	_	OA	_	_
+18	zu	zu	zu	PTKZU	PTKZU	_	_	-1	19	_	PM	_	_
+19	verteilen	verteilen	verteilen	VVINF	VVINF	_	_	-1	13	_	OC	_	_
+20	.	.	.	$.	$.	_	_	-1	19	_	--	_	_
+
+	sentence_start	0	70	189	247
+	token_offsets	sentence	0	offsets	0::5	6::5	12::9	22::1	24::3	28::3	32::6	39::13	53::2	56::10	67::1
+	token_offsets	sentence	1	offsets	70::4	75::3	79::7	87::1	89::3	93::7	101::7	109::2	112::6	119::1	121::5	127::10	138::3	142::6	149::16	166::2	169::8	178::7	186::1
+	token_offsets	sentence	2	offsets	189::4	194::8	203::3	207::4	212::6	219::8	228::2	231::3	235::8	244::1
+	token_offsets	sentence	3	offsets	247::3	251::3	255::3	259::14	274::4	279::3	283::10	294::4	299::3	303::2	306::3	310::8	319::11	331::1	333::9	343::4	348::2	351::7	359::3	363::3	367::1
+1	Bosse	Boss	Boss	NN	NN	_	nom|sg|fem	-1	2	_	SB	_	_
+2	hatte	haben	haben	VAFIN	VAFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+3	empfohlen	empfehlen	empfehlen	VVPP	VVPP	_	_	-1	2	_	OC	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	auf	auf	auf	APPR	APPR	_	_	-1	10	_	OP	_	_
+6	den	die	die	ART	ART	_	acc|sg|masc	-1	8	_	NK	_	_
+7	teuren	teuer	teuer	ADJA	ADJA	_	acc|sg|masc|pos	-1	8	_	NK	_	_
+8	Theaterneubau	Theaterneubau	Theaterneubau	NN	NN	_	acc|sg|masc	-1	5	_	NK	_	_
+9	zu	zu	zu	PTKZU	PTKZU	_	_	-1	10	_	PM	_	_
+10	verzichten	verzichten	verzichten	VVINF	VVINF	_	_	-1	3	_	OC	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Doch	doch	doch	KON	KON	_	_	-1	11	_	JU	_	_
+2	der	die	die	ART	ART	_	nom|sg|masc	-1	3	_	NK	_	_
+3	Versuch	Versuch	Versuch	NN	NN	_	nom|sg|masc	-1	11	_	SB	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	das	die	die	ART	ART	_	acc|sg|neut	-1	6	_	NK	_	_
+6	Projekt	Projekt	Projekt	NN	NN	_	acc|sg|neut	-1	9	_	OA	_	_
+7	sterben	sterben	sterben	VVINF	VVINF	_	_	-1	9	_	OC	_	_
+8	zu	zu	zu	PTKZU	PTKZU	_	_	-1	9	_	PM	_	_
+9	lassen	lassen	lassen	VVINF	VVINF	_	_	-1	3	_	OC	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	hätte	haben	haben	VAFIN	VAFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+12	angesichts	angesichts	angesichts	APPR	APPR	_	_	-1	18	_	MO	_	_
+13	der	die	die	ART	ART	_	gen|pl|fem	-1	15	_	NK	_	_
+14	dünnen	dünn	dünn	ADJA	ADJA	_	gen|pl|fem|pos	-1	15	_	NK	_	_
+15	SPD-CDU-Mehrheit	SPD-CDU-Mehrheit	SPD-CDU-Mehrheit	NN	NN	_	gen|pl|fem	-1	12	_	NK	_	_
+16	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	15	_	MNR	_	_
+17	Desaster	Desaster	Desaster	NN	NN	_	dat|sg|masc	-1	16	_	NK	_	_
+18	geendet	enden	enden	VVPP	VVPP	_	_	-1	11	_	OC	_	_
+19	.	.	.	$.	$.	_	_	-1	18	_	--	_	_
+
+1	Also	also	also	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	bekannte	bekennen	bekennen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+3	man	man	man	PIS	PIS	_	nom|sg|*	-1	2	_	SB	_	_
+4	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	2	_	OA	_	_
+5	lieber	lieb	lieb	ADJD	ADJD	_	_	-1	2	_	MO	_	_
+6	einmütig	einmütig	einmütig	ADJD	ADJD	_	pos	-1	2	_	MO	_	_
+7	zu	zu	zu	APPR	APPR	_	_	-1	2	_	MO	_	_
+8	dem	die	die	ART	ART	_	dat|sg|neut	-1	9	_	NK	_	_
+9	Vorhaben	Vorhaben	Vorhaben	NN	NN	_	dat|sg|neut	-1	7	_	NK	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+1	Wie	wie	wie	KOUS	KOUS	_	_	-1	2	_	MO	_	_
+2	bei	bei	bei	APPR	APPR	_	_	-1	5	_	MO	_	_
+3	der	die	die	ART	ART	_	dat|sg|fem	-1	4	_	NK	_	_
+4	Kammerakademie	Kammerakademie	Kammerakademie	NN	NN	_	dat|sg|fem	-1	2	_	NK	_	_
+5	soll	sollen	sollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+6	die	die	die	ART	ART	_	nom|sg|fem	-1	7	_	NK	_	_
+7	Verwaltung	Verwaltung	Verwaltung	NN	NN	_	nom|sg|fem	-1	5	_	SB	_	_
+8	hier	hier	hier	ADV	ADV	_	_	-1	5	_	MO	_	_
+9	und	und	und	KON	KON	_	_	-1	8	_	CD	_	_
+10	da	da	da	ADV	ADV	_	_	-1	9	_	CJ	_	_
+11	ein	eine	eine	ART	ART	_	nom|sg|neut	-1	12	_	NK	_	_
+12	bisschen	bisschen	bisschen	PIS	PIS	_	nom|sg|neut	-1	5	_	SB	_	_
+13	umschichten	umschichten	umschichten	VVINF	VVINF	_	_	-1	5	_	OC	_	_
+14	,	,	,	$,	$,	_	_	-1	13	_	--	_	_
+15	nirgendwo	nirgendwo	nirgendwo	ADV	ADV	_	_	-1	16	_	MO	_	_
+16	darf	dürfen	dürfen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	5	_	CJ	_	_
+17	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	16	_	SB	_	_
+18	richtig	richtig	richtig	ADJD	ADJD	_	pos	-1	19	_	MO	_	_
+19	weh	weh	weh	ADJD	ADJD	_	_	-1	20	_	MO	_	_
+20	tut	tun	tun	VVFIN	VVFIN	_	sg|3|pres|ind	-1	17	_	RE	_	_
+21	.	.	.	$.	$.	_	_	-1	20	_	--	_	_
+
+	sentence_start	0	68	162	199	321
+	token_offsets	sentence	0	offsets	0::3	4::8	13::11	25::8	34::3	38::4	43::5	49::3	53::7	61::3	65::1
+	token_offsets	sentence	1	offsets	68::4	73::3	77::24	102::3	106::3	110::3	114::3	118::3	122::5	128::10	139::5	145::2	148::3	152::6	159::1
+	token_offsets	sentence	2	offsets	162::3	166::3	170::4	175::6	182::7	190::5	196::1
+	token_offsets	sentence	3	offsets	199::2	202::3	206::6	213::11	225::13	239::7	247::2	250::6	257::1	259::6	266::4	271::2	274::4	279::6	286::3	290::3	294::7	302::3	306::11	318::1
+	token_offsets	sentence	4	offsets	321::6	328::7	336::3	340::3	344::13	358::6	365::5	371::12	384::1	386::4	391::3	395::5	401::2	404::3	408::5	414::9	424::3	428::1
+1	Das	die	die	ART	ART	_	nom|sg|neut	-1	2	_	NK	_	_
+2	Füllhorn	Füllhorn	Füllhorn	NN	NN	_	nom|sg|neut	-1	4	_	SB	_	_
+3	schließlich	schließlich	schließlich	ADV	ADV	_	_	-1	2	_	MO	_	_
+4	schüttet	schütten	schütten	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	man	man	man	PIS	PIS	_	nom|sg|*	-1	4	_	SB	_	_
+6	über	über	über	APPR	APPR	_	_	-1	4	_	MO	_	_
+7	Kitas	Kitas	Kitas	NN	NN	_	acc|sg|fem	-1	6	_	NK	_	_
+8	und	und	und	KON	KON	_	_	-1	7	_	CD	_	_
+9	Schulen	Schule	Schule	NN	NN	_	dat|pl|fem	-1	8	_	CJ	_	_
+10	aus	aus	aus	PTKVZ	PTKVZ	_	_	-1	4	_	SVP	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Dank	dank	dank	APPR	APPR	_	_	-1	7	_	MO	_	_
+2	der	die	die	ART	ART	_	*|sg|fem	-1	3	_	NK	_	_
+3	Kooperationsvereinbarung	Kooperationsvereinbarung	Kooperationsvereinbarung	NN	NN	_	*|sg|fem	-1	1	_	NK	_	_
+4	mit	mit	mit	APPR	APPR	_	_	-1	3	_	MNR	_	_
+5	der	die	die	ART	ART	_	dat|sg|fem	-1	6	_	NK	_	_
+6	CDU	CDU	CDU	NE	NE	_	dat|sg|fem	-1	4	_	NK	_	_
+7	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+8	man	man	man	PIS	PIS	_	nom|sg|*	-1	7	_	SB	_	_
+9	deren	die	die	PDAT	PDAT	_	gen|pl|masc	-1	10	_	NK	_	_
+10	Zustimmung	Zustimmung	Zustimmung	NN	NN	_	acc|sg|fem	-1	7	_	OA	_	_
+11	schon	schon	schon	ADV	ADV	_	_	-1	12	_	MO	_	_
+12	in	in	in	APPR	APPR	_	_	-1	7	_	MO	_	_
+13	der	die	die	ART	ART	_	dat|sg|fem	-1	14	_	NK	_	_
+14	Tasche	Tasche	Tasche	NN	NN	_	dat|sg|fem	-1	12	_	NK	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	PDS	PDS	PDS	NE	NE	_	nom|sg|fem	-1	3	_	SB	_	_
+3	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	nichts	nichts	nichts	PIS	PIS	_	*|*|neut	-1	6	_	OA	_	_
+5	dagegen	dagegen	dagegen	PAV	PAV	_	_	-1	2	_	NK	_	_
+6	haben	haben	haben	VAINF	VAINF	_	_	-1	3	_	OC	_	_
+7	.	.	.	$.	$.	_	_	-1	6	_	--	_	_
+
+1	Um	um	um	KOUI	KOUI	_	_	-1	8	_	CP	_	_
+2	die	die	die	ART	ART	_	acc|pl|masc	-1	5	_	NK	_	_
+3	sicher	sicher	sicher	ADJD	ADJD	_	pos	-1	4	_	MO	_	_
+4	notwendigen	notwendig	notwendig	ADJA	ADJA	_	acc|pl|masc|pos	-1	5	_	NK	_	_
+5	Investitionen	Investition	Investition	NN	NN	_	acc|pl|fem	-1	6	_	OA	_	_
+6	tätigen	tätigen	tätigen	VVINF	VVINF	_	_	-1	8	_	OC	_	_
+7	zu	zu	zu	PTKZU	PTKZU	_	_	-1	8	_	PM	_	_
+8	können	können	können	VMINF	VMINF	_	_	-1	10	_	SB	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	bleibt	bleiben	bleiben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+11	aber	aber	aber	ADV	ADV	_	_	-1	10	_	MO	_	_
+12	am	an	an	APPRART	APPRART	_	dat|sg|neut	-1	10	_	MO	_	_
+13	Ende	Ende	Ende	NN	NN	_	dat|sg|neut	-1	12	_	NK	_	_
+14	wieder	wieder	wieder	ADV	ADV	_	_	-1	10	_	MO	_	_
+15	nur	nur	nur	ADV	ADV	_	_	-1	17	_	MO	_	_
+16	der	die	die	ART	ART	_	nom|sg|masc	-1	17	_	NK	_	_
+17	Verkauf	Verkauf	Verkauf	NN	NN	_	nom|sg|masc	-1	10	_	SB	_	_
+18	von	von	von	APPR	APPR	_	_	-1	17	_	PG	_	_
+19	Tafelsilber	Tafelsilber	Tafelsilber	NN	NN	_	dat|sg|fem	-1	18	_	NK	_	_
+20	.	.	.	$.	$.	_	_	-1	19	_	--	_	_
+
+1	Dieses	dies	dies	PDAT	PDAT	_	nom|sg|neut	-1	2	_	NK	_	_
+2	Problem	Problem	Problem	NN	NN	_	nom|sg|neut	-1	6	_	SB	_	_
+3	und	und	und	KON	KON	_	_	-1	2	_	CD	_	_
+4	das	die	die	ART	ART	_	nom|sg|neut	-1	5	_	NK	_	_
+5	Haushaltsloch	Haushaltsloch	Haushaltsloch	NN	NN	_	nom|sg|neut	-1	3	_	CJ	_	_
+6	werden	werden	werden	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+7	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	8	_	NG	_	_
+8	verschwinden	verschwinden	verschwinden	VVINF	VVINF	_	_	-1	6	_	OC	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	17	_	CP	_	_
+11	man	man	man	PIS	PIS	_	nom|sg|*	-1	17	_	SB	_	_
+12	Bosse	Boss	Boss	NN	NN	_	acc|pl|neut	-1	16	_	OA	_	_
+13	in	in	in	APPR	APPR	_	_	-1	16	_	MO	_	_
+14	die	die	die	ART	ART	_	acc|sg|fem	-1	15	_	NK	_	_
+15	Wüste	Wüste	Wüste	NN	NN	_	acc|sg|fem	-1	13	_	NK	_	_
+16	geschickt	schicken	schicken	VVPP	VVPP	_	_	-1	17	_	OC	_	_
+17	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	8	_	MO	_	_
+18	.	.	.	$.	$.	_	_	-1	17	_	--	_	_
+

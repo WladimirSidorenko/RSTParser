@@ -1,0 +1,184 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::5	6::7	14::6	21::5
+1	Zweck	Zweck	Zweck	NN	NN	_	nom|sg|masc	-1	2	_	SB	_	_
+2	heiligt	heiligen	heiligen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	Mittel	Mittel	Mittel	NN	NN	_	acc|sg|neut	-1	2	_	OA	_	_
+4	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	2	_	NG	_	_
+
+	sentence_start	0	86	263
+	token_offsets	sentence	0	offsets	0::3	4::17	22::3	26::7	34::18	53::5	59::6	66::4	71::5	77::5	83::1
+	token_offsets	sentence	1	offsets	86::5	92::3	96::6	103::3	107::5	113::3	117::15	133::10	144::3	148::21	170::3	174::5	180::12	193::3	197::11	209::6	216::14	231::14	246::2	249::3	253::6	260::1
+	token_offsets	sentence	2	offsets	263::3	267::7	275::15	291::8	300::6	307::3	311::3	315::3	319::18	338::5	344::3	348::4	353::8	362::6	369::1	371::5	377::6	384::4	389::10	400::3	404::3	408::2	411::10	422::8	431::10	442::3	446::7	454::6	461::4	466::1	468::3	472::1	474::1
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Verwaltungsspitze	Verwaltungsspitze	Verwaltungsspitze	NN	NN	_	nom|sg|fem	-1	6	_	SB	_	_
+3	des	die	die	ART	ART	_	gen|sg|masc	-1	4	_	NK	_	_
+4	Kreises	Kreis	Kreis	NN	NN	_	gen|sg|masc	-1	2	_	AG	_	_
+5	Potsdam-Mittelmark	Potsdam-Mittelmark	Potsdam-Mittelmark	NE	NE	_	nom|sg|neut	-1	4	_	NK	_	_
+6	gerät	geraten	geraten	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+7	einmal	einmal	einmal	ADV	ADV	_	_	-1	6	_	MO	_	_
+8	mehr	mehr	mehr	ADV	ADV	_	_	-1	6	_	MO	_	_
+9	unter	unter	unter	APPR	APPR	_	_	-1	6	_	MO	_	_
+10	Druck	Druck	Druck	NN	NN	_	acc|sg|masc	-1	9	_	NK	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	4	_	NG	_	_
+2	zum	zu	zu	APPRART	APPRART	_	dat|sg|neut	-1	5	_	MO	_	_
+3	ersten	erst	erst	ADJA	ADJA	_	dat|sg|neut|pos	-1	4	_	NK	_	_
+4	Mal	Mal	Mal	NN	NN	_	dat|sg|neut	-1	2	_	NK	_	_
+5	steht	stehen	stehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+6	die	die	die	ART	ART	_	nom|sg|fem	-1	8	_	NK	_	_
+7	wirtschaftliche	wirtschaftlich	wirtschaftlich	ADJA	ADJA	_	nom|sg|fem|pos	-1	8	_	NK	_	_
+8	Betätigung	Betätigung	Betätigung	NN	NN	_	nom|sg|fem	-1	5	_	SB	_	_
+9	der	die	die	ART	ART	_	gen|pl|fem	-1	10	_	NK	_	_
+10	Tochtergesellschaften	Tochtergesellschaft	Tochtergesellschaft	NN	NN	_	gen|pl|fem	-1	8	_	AG	_	_
+11	mit	mit	mit	APPR	APPR	_	_	-1	8	_	MNR	_	_
+12	ihren	ihr	ihr	PPOSAT	PPOSAT	_	dat|pl|fem	-1	18	_	NK	_	_
+13	vielfältigen	vielfältig	vielfältig	ADJA	ADJA	_	dat|pl|fem|pos	-1	18	_	NK	_	_
+14	und	und	und	KON	KON	_	_	-1	13	_	CD	_	_
+15	offenkundig	offenkundig	offenkundig	ADJD	ADJD	_	pos	-1	16	_	MO	_	_
+16	schwer	schwer	schwer	ADJD	ADJD	_	pos	-1	17	_	MO	_	_
+17	überschaubaren	überschaubar	überschaubar	ADJA	ADJA	_	dat|pl|fem|pos	-1	14	_	CJ	_	_
+18	Verflechtungen	Verflechtung	Verflechtung	NN	NN	_	dat|pl|fem	-1	11	_	NK	_	_
+19	in	in	in	APPR	APPR	_	_	-1	18	_	MNR	_	_
+20	der	die	die	ART	ART	_	dat|sg|fem	-1	21	_	NK	_	_
+21	Kritik	Kritik	Kritik	NN	NN	_	dat|sg|fem	-1	19	_	NK	_	_
+22	.	.	.	$.	$.	_	_	-1	21	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	4	_	NK	_	_
+2	diesmal	diesmal	diesmal	ADV	ADV	_	_	-1	3	_	MO	_	_
+3	schwerwiegenden	schwerwiegend	schwerwiegend	ADJA	ADJA	_	nom|pl|masc|pos	-1	4	_	NK	_	_
+4	Vorwürfe	Vorwurf	Vorwurf	NN	NN	_	nom|pl|masc	-1	5	_	SB	_	_
+5	müssen	müssen	müssen	VMFIN	VMFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+6	nun	nun	nun	ADV	ADV	_	_	-1	5	_	MO	_	_
+7	von	von	von	APPR	APPR	_	_	-1	13	_	MO	_	_
+8	der	die	die	ART	ART	_	dat|sg|fem	-1	9	_	NK	_	_
+9	Staatsanwaltschaft	Staatsanwaltschaft	Staatsanwaltschaft	NN	NN	_	dat|sg|fem	-1	7	_	NK	_	_
+10	unter	unter	unter	APPR	APPR	_	_	-1	13	_	MO	_	_
+11	die	die	die	ART	ART	_	acc|sg|fem	-1	12	_	NK	_	_
+12	Lupe	Lupe	Lupe	NN	NN	_	acc|sg|fem	-1	10	_	NK	_	_
+13	genommen	nehmen	nehmen	VVPP	VVPP	_	_	-1	14	_	OC	_	_
+14	werden	werden	werden	VAINF	VAINF	_	_	-1	5	_	OC	_	_
+15	-	-	-	$(	$(	_	_	-1	14	_	--	_	_
+16	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	19	_	NG	_	_
+17	gerade	gerade	gerade	ADV	ADV	_	_	-1	16	_	MO	_	_
+18	eine	eine	eine	ART	ART	_	nom|sg|fem	-1	19	_	NK	_	_
+19	Empfehlung	Empfehlung	Empfehlung	NN	NN	_	nom|sg|fem	-1	5	_	PAR	_	_
+20	für	für	für	APPR	APPR	_	_	-1	19	_	MNR	_	_
+21	die	die	die	ART	ART	_	acc|sg|fem	-1	25	_	NK	_	_
+22	am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	24	_	MO	_	_
+23	Donnerstag	Donnerstag	Donnerstag	NN	NN	_	dat|sg|masc	-1	22	_	NK	_	_
+24	geplante	geplant	geplant	ADJA	ADJA	_	acc|sg|fem|pos	-1	25	_	NK	_	_
+25	Wiederwahl	Wiederwahl	Wiederwahl	NN	NN	_	acc|sg|fem	-1	20	_	NK	_	_
+26	von	von	von	APPR	APPR	_	_	-1	25	_	PG	_	_
+27	Landrat	Landrat	Landrat	NN	NN	_	nom|sg|masc	-1	26	_	NK	_	_
+28	Lothar	Lothar	Lothar	NE	NE	_	nom|sg|masc	-1	29	_	PNC	_	_
+29	Koch	Koch	Koch	NE	NE	_	nom|sg|masc	-1	27	_	NK	_	_
+30	(	(	(	$(	$(	_	_	-1	29	_	--	_	_
+31	SPD	SPD	SPD	NE	NE	_	nom|sg|fem	-1	27	_	PAR	_	_
+32	)	)	)	$(	$(	_	_	-1	31	_	--	_	_
+33	.	.	.	$.	$.	_	_	-1	32	_	--	_	_
+
+	sentence_start	0	110	134	296	509
+	token_offsets	sentence	0	offsets	0::9	10::3	14::5	20::11	32::18	51::3	55::7	63::18	82::3	86::2	89::3	93::5	99::7	107::1
+	token_offsets	sentence	1	offsets	110::3	114::6	121::9	131::1
+	token_offsets	sentence	2	offsets	134::22	157::1	159::16	176::4	181::24	206::6	213::9	223::3	227::6	234::1	236::5	242::11	254::9	264::8	273::3	277::15	293::1
+	token_offsets	sentence	3	offsets	296::4	301::4	306::4	311::3	315::3	319::16	336::4	341::3	345::4	350::3	354::3	358::23	382::3	386::8	395::3	399::8	408::7	416::5	422::4	427::6	434::3	438::14	453::10	464::8	473::4	478::1	480::3	484::5	490::15	506::1
+	token_offsets	sentence	4	offsets	509::4	514::5	520::5	526::1	528::4	533::4	538::3	542::8	551::9	561::1	563::4	568::3	572::5	578::18	597::2	600::17	618::3	622::2	625::3	629::8	638::7	646::11	658::3	662::10	673::3	677::17	695::6	702::1
+1	Warnungen	Warnung	Warnung	NN	NN	_	nom|pl|fem	-1	13	_	OA	_	_
+2	vor	vor	vor	APPR	APPR	_	_	-1	1	_	OP	_	_
+3	einer	eine	eine	ART	ART	_	dat|sg|fem	-1	5	_	NK	_	_
+4	ausufernden	ausufernd	ausufernd	ADJA	ADJA	_	dat|sg|fem|pos	-1	5	_	NK	_	_
+5	Geschäftstätigkeit	Geschäftstätigkeit	Geschäftstätigkeit	NN	NN	_	dat|sg|fem	-1	2	_	NK	_	_
+6	des	die	die	ART	ART	_	gen|sg|masc	-1	7	_	NK	_	_
+7	Kreises	Kreis	Kreis	NN	NN	_	gen|sg|masc	-1	5	_	AG	_	_
+8	Potsdam-Mittelmark	Potsdam-Mittelmark	Potsdam-Mittelmark	NE	NE	_	nom|sg|neut	-1	7	_	NK	_	_
+9	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+10	es	es	es	PPER	PPER	_	acc|sg|neut|3	-1	9	_	EP	_	_
+11	oft	oft	oft	ADV	ADV	_	_	-1	13	_	MO	_	_
+12	genug	genug	genug	ADV	ADV	_	_	-1	11	_	MO	_	_
+13	gegeben	geben	geben	VVPP	VVPP	_	_	-1	9	_	OC	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Sie	Sie	Sie	PPER	PPER	_	nom|pl|*|3	-1	2	_	SB	_	_
+2	wurden	werden	werden	VAFIN	VAFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+3	ignoriert	ignorieren	ignorieren	VVPP	VVPP	_	_	-1	2	_	OC	_	_
+4	.	.	.	$.	$.	_	_	-1	3	_	--	_	_
+
+1	Verkehrsgesellschaften	Verkehrsgesellschaft	Verkehrsgesellschaft	NN	NN	_	nom|pl|fem	-1	6	_	SB	_	_
+2	,	,	,	$,	$,	_	_	-1	1	_	--	_	_
+3	Krankenhaus-GmbH	Krankenhaus-GmbH	Krankenhaus-GmbH	NN	NN	_	nom|pl|fem	-1	1	_	CJ	_	_
+4	oder	oder	oder	KON	KON	_	_	-1	3	_	CD	_	_
+5	Abfallwirtschaftsbetrieb	Abfallwirtschaftsbetrieb	Abfallwirtschaftsbetrieb	NN	NN	_	acc|sg|masc	-1	4	_	CJ	_	_
+6	stehen	stehen	stehen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+7	außerhalb	außerhalb	außerhalb	APPR	APPR	_	_	-1	6	_	MO	_	_
+8	der	die	die	ART	ART	_	dat|sg|fem	-1	9	_	NK	_	_
+9	Kritik	Kritik	Kritik	NN	NN	_	dat|sg|fem	-1	7	_	NK	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	diese	dies	dies	PDAT	PDAT	_	dat|pl|neut	-1	12	_	NK	_	_
+12	Unternehmen	Unternehmen	Unternehmen	NN	NN	_	dat|pl|neut	-1	13	_	DA	_	_
+13	erledigen	erledigen	erledigen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	6	_	CJ	_	_
+14	Aufgaben	Aufgabe	Aufgabe	NN	NN	_	acc|pl|fem	-1	13	_	OA	_	_
+15	der	die	die	ART	ART	_	gen|sg|fem	-1	16	_	NK	_	_
+16	Daseinsvorsorge	Daseinsvorsorge	Daseinsvorsorge	NN	NN	_	gen|sg|fem	-1	14	_	AG	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
+1	Dass	dass	dass	KOUS	KOUS	_	_	-1	25	_	CP	_	_
+2	aber	aber	aber	ADV	ADV	_	_	-1	25	_	MO	_	_
+3	etwa	etwa	etwa	ADV	ADV	_	_	-1	4	_	MO	_	_
+4	bei	bei	bei	APPR	APPR	_	_	-1	25	_	MO	_	_
+5	der	die	die	ART	ART	_	dat|sg|fem	-1	6	_	NK	_	_
+6	ABU-Service-GmbH	ABU-Service-GmbH	ABU-Service-GmbH	NN	NN	_	dat|sg|fem	-1	4	_	NK	_	_
+7	oder	oder	oder	KON	KON	_	_	-1	4	_	CD	_	_
+8	nun	nun	nun	ADV	ADV	_	_	-1	10	_	MO	_	_
+9	auch	auch	auch	ADV	ADV	_	_	-1	10	_	MO	_	_
+10	bei	bei	bei	APPR	APPR	_	_	-1	7	_	CJ	_	_
+11	der	die	die	ART	ART	_	dat|sg|fem	-1	12	_	NK	_	_
+12	Gesundheitszentrum-GmbH	Gesundheitszentrum-GmbH	Gesundheitszentrum-GmbH	NN	NN	_	dat|sg|fem	-1	10	_	NK	_	_
+13	der	die	die	ART	ART	_	gen|sg|fem	-1	18	_	NK	_	_
+14	zunächst	zunächst	zunächst	ADV	ADV	_	_	-1	16	_	MO	_	_
+15	gut	gut	gut	ADJD	ADJD	_	pos	-1	16	_	MO	_	_
+16	gemeinte	gemeint	gemeint	ADJA	ADJA	_	nom|sg|neut|pos	-1	18	_	NK	_	_
+17	soziale	sozial	sozial	ADJA	ADJA	_	nom|sg|fem|pos	-1	18	_	NK	_	_
+18	Zweck	Zweck	Zweck	NN	NN	_	dat|sg|masc	-1	12	_	AG	_	_
+19	alle	alle	alle	PIAT	PIAT	_	acc|pl|neut	-1	20	_	NK	_	_
+20	Mittel	Mittel	Mittel	NN	NN	_	acc|pl|neut	-1	24	_	OA	_	_
+21	der	die	die	ART	ART	_	gen|sg|fem	-1	23	_	NK	_	_
+22	geschäftlichen	geschäftlich	geschäftlich	ADJA	ADJA	_	gen|sg|fem|pos	-1	23	_	NK	_	_
+23	Betätigung	Betätigung	Betätigung	NN	NN	_	gen|sg|fem	-1	20	_	AG	_	_
+24	heiligen	heiligen	heiligen	VVINF	VVINF	_	_	-1	25	_	OC	_	_
+25	soll	sollen	sollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	27	_	SB	_	_
+26	,	,	,	$,	$,	_	_	-1	25	_	--	_	_
+27	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+28	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	27	_	NG	_	_
+29	nachvollziehbar	nachvollziehbar	nachvollziehbar	ADJD	ADJD	_	pos	-1	27	_	PD	_	_
+30	.	.	.	$.	$.	_	_	-1	29	_	--	_	_
+
+1	Erst	erst	erst	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	recht	recht	recht	ADJD	ADJD	_	_	-1	9	_	MO	_	_
+3	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	9	_	NG	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	9	_	CP	_	_
+6	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	9	_	OA	_	_
+7	der	die	die	ART	ART	_	nom|sg|masc	-1	8	_	NK	_	_
+8	Verdacht	Verdacht	Verdacht	NN	NN	_	nom|sg|masc	-1	9	_	SB	_	_
+9	bestätigt	bestätigen	bestätigen	VVPP	VVPP	_	_	-1	0	_	--	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	dass	dass	dass	KOUS	KOUS	_	_	-1	27	_	CP	_	_
+12	der	die	die	ART	ART	_	nom|sg|masc	-1	13	_	NK	_	_
+13	Kreis	Kreis	Kreis	NN	NN	_	nom|sg|masc	-1	27	_	SB	_	_
+14	Potsdam-Mittelmark	Potsdam-Mittelmark	Potsdam-Mittelmark	NE	NE	_	nom|sg|masc	-1	13	_	NK	_	_
+15	so	so	so	ADV	ADV	_	_	-1	16	_	MO	_	_
+16	verantwortungslos	verantwortungslos	verantwortungslos	ADJD	ADJD	_	pos	-1	22	_	MO	_	_
+17	wie	wie	wie	KOKOM	KOKOM	_	_	-1	18	_	CM	_	_
+18	in	in	in	APPR	APPR	_	_	-1	15	_	CC	_	_
+19	der	die	die	ART	ART	_	dat|sg|fem	-1	21	_	NK	_	_
+20	anonymen	anonym	anonym	ADJA	ADJA	_	dat|sg|fem|pos	-1	21	_	NK	_	_
+21	Anzeige	Anzeige	Anzeige	NN	NN	_	dat|sg|fem	-1	18	_	NK	_	_
+22	geschildert	schildern	schildern	VVPP	VVPP	_	_	-1	27	_	MO	_	_
+23	mit	mit	mit	APPR	APPR	_	_	-1	27	_	OP	_	_
+24	Steuergeld	Steuergeld	Steuergeld	NN	NN	_	dat|sg|neut	-1	23	_	NK	_	_
+25	und	und	und	KON	KON	_	_	-1	24	_	CD	_	_
+26	Gebühreneinnahmen	Gebühreneinnahme	Gebühreneinnahme	NN	NN	_	dat|sg|neut	-1	25	_	CJ	_	_
+27	umgeht	umgehen	umgehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	9	_	MO	_	_
+28	.	.	.	$.	$.	_	_	-1	27	_	--	_	_
+

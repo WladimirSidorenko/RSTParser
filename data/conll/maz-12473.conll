@@ -1,0 +1,179 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::10	11::9
+1	Verlorenes	verloren	verloren	ADJA	ADJA	_	acc|sg|neut|pos	-1	2	_	NK	_	_
+2	Vertrauen	Vertrauen	Vertrauen	NN	NN	_	acc|sg|neut	-1	0	_	--	_	_
+
+	sentence_start	0	89	180	318	413	453	516	648	689	770	878
+	token_offsets	sentence	0	offsets	0::11	12::5	18::2	21::5	27::5	33::9	43::1	45::3	49::3	53::10	64::6	71::5	77::8	86::1
+	token_offsets	sentence	1	offsets	89::5	95::2	98::7	106::7	114::3	118::9	128::6	135::3	139::4	144::3	148::10	159::5	165::4	170::6	177::1
+	token_offsets	sentence	2	offsets	180::4	185::3	189::3	193::6	200::7	208::1	210::6	217::10	228::5	234::11	246::6	253::1	255::3	259::5	265::3	269::5	275::14	290::3	294::9	304::2	307::7	315::1
+	token_offsets	sentence	3	offsets	318::2	321::6	328::4	333::10	344::6	351::6	358::3	362::3	366::11	378::1	380::3	384::13	398::11	410::1
+	token_offsets	sentence	4	offsets	413::3	417::2	420::5	426::2	429::5	435::10	446::3	450::1
+	token_offsets	sentence	5	offsets	453::4	458::10	469::5	475::4	480::3	484::11	496::3	500::3	504::8	513::1
+	token_offsets	sentence	6	offsets	516::4	521::3	525::9	535::20	556::10	567::3	571::3	575::10	586::3	590::8	599::5	605::6	612::10	623::3	627::4	632::2	635::9	645::1
+	token_offsets	sentence	7	offsets	648::10	659::7	667::4	672::3	676::9	686::1
+	token_offsets	sentence	8	offsets	689::5	695::3	699::11	711::5	717::11	729::1	731::8	740::3	744::4	749::13	763::3	767::1
+	token_offsets	sentence	9	offsets	770::3	774::3	778::11	790::1	792::5	798::4	803::4	808::3	812::2	815::6	822::8	831::4	836::6	843::7	851::6	858::12	871::3	875::1
+	token_offsets	sentence	10	offsets	878::12	891::3	895::3	899::6	906::12	919::1	921::3	925::12	938::3	942::8	951::10	962::9	972::3	976::1
+1	Deutschland	Deutschland	Deutschland	NE	NE	_	nom|sg|neut	-1	2	_	SB	_	_
+2	steht	stehen	stehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	2	_	MO	_	_
+4	Rande	Rand	Rand	NN	NN	_	dat|sg|masc	-1	3	_	NK	_	_
+5	einer	eine	eine	ART	ART	_	gen|sg|fem	-1	6	_	NK	_	_
+6	Rezession	Rezession	Rezession	NN	NN	_	gen|sg|fem	-1	4	_	AG	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	und	und	und	KON	KON	_	_	-1	2	_	CD	_	_
+9	die	die	die	ART	ART	_	nom|pl|fem	-1	10	_	NK	_	_
+10	Aussichten	Aussicht	Aussicht	NN	NN	_	nom|pl|fem	-1	11	_	SB	_	_
+11	werden	werden	werden	VAFIN	VAFIN	_	pl|3|pres|ind	-1	8	_	CJ	_	_
+12	immer	immer	immer	ADV	ADV	_	_	-1	13	_	MO	_	_
+13	düsterer	düster	düster	ADJD	ADJD	_	comp	-1	11	_	PD	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Schon	schon	schon	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	14	_	MO	_	_
+3	zweiten	zweit	zweit	ADJA	ADJA	_	dat|sg|neut|pos	-1	4	_	NK	_	_
+4	Quartal	Quartal	Quartal	NN	NN	_	dat|sg|neut	-1	2	_	NK	_	_
+5	des	die	die	ART	ART	_	gen|sg|neut	-1	7	_	NK	_	_
+6	laufenden	laufend	laufend	ADJA	ADJA	_	gen|sg|neut|pos	-1	7	_	NK	_	_
+7	Jahres	Jahr	Jahr	NN	NN	_	gen|sg|neut	-1	4	_	AG	_	_
+8	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+9	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	14	_	OA	_	_
+10	die	die	die	ART	ART	_	nom|sg|fem	-1	11	_	NK	_	_
+11	Wirtschaft	Wirtschaft	Wirtschaft	NN	NN	_	nom|sg|fem	-1	8	_	SB	_	_
+12	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	14	_	NG	_	_
+13	mehr	mehr	mehr	ADV	ADV	_	_	-1	12	_	MO	_	_
+14	bewegt	bewegen	bewegen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	8	_	OC	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+1	Auch	auch	auch	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	für	für	für	APPR	APPR	_	_	-1	13	_	MO	_	_
+3	das	die	die	ART	ART	_	acc|sg|neut	-1	5	_	NK	_	_
+4	dritte	dritt	dritt	ADJA	ADJA	_	acc|sg|neut|pos	-1	5	_	NK	_	_
+5	Quartal	Quartal	Quartal	NN	NN	_	acc|sg|neut	-1	2	_	NK	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	dessen	die	die	PRELAT	PRELAT	_	gen|sg|masc	-1	8	_	AG	_	_
+8	Ergebnisse	Ergebnis	Ergebnis	NN	NN	_	nom|pl|neut	-1	11	_	SB	_	_
+9	heute	heute	heute	ADV	ADV	_	_	-1	10	_	MO	_	_
+10	vorgestellt	vorstellen	vorstellen	VVPP	VVPP	_	_	-1	11	_	OC	_	_
+11	werden	werden	werden	VAINF	VAINF	_	pl|3|pres|ind	-1	5	_	RC	_	_
+12	,	,	,	$,	$,	_	_	-1	11	_	--	_	_
+13	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+14	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	21	_	NG	_	_
+15	mit	mit	mit	APPR	APPR	_	_	-1	21	_	MO	_	_
+16	einem	eine	eine	ART	ART	_	dat|sg|masc	-1	17	_	NK	_	_
+17	Wiederanziehen	Wiederanziehen	Wiederanziehen	NN	NN	_	dat|sg|masc	-1	15	_	NK	_	_
+18	des	die	die	ART	ART	_	gen|sg|neut	-1	19	_	NK	_	_
+19	Wachstums	Wachstum	Wachstum	NN	NN	_	gen|sg|neut	-1	17	_	AG	_	_
+20	zu	zu	zu	PTKZU	PTKZU	_	_	-1	21	_	PM	_	_
+21	rechnen	rechnen	rechnen	VVINF	VVINF	_	_	-1	13	_	OC	_	_
+22	.	.	.	$.	$.	_	_	-1	21	_	--	_	_
+
+1	Zu	zu	zu	APPR	APPR	_	_	-1	6	_	MO	_	_
+2	diesen	dies	dies	PDAT	PDAT	_	dat|pl|fem	-1	5	_	NK	_	_
+3	eher	eher	eher	ADV	ADV	_	_	-1	4	_	MO	_	_
+4	objektiven	objektiv	objektiv	ADJA	ADJA	_	dat|pl|fem|pos	-1	5	_	NK	_	_
+5	Zahlen	Zahl	Zahl	NN	NN	_	dat|pl|fem	-1	1	_	NK	_	_
+6	kommen	kommen	kommen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+7	nun	nun	nun	ADV	ADV	_	_	-1	6	_	MO	_	_
+8	die	die	die	ART	ART	_	nom|pl|fem	-1	13	_	NK	_	_
+9	subjektiven	subjektiv	subjektiv	ADJA	ADJA	_	nom|pl|fem|pos	-1	13	_	NK	_	_
+10	-	-	-	$(	$(	_	_	-1	9	_	--	_	_
+11	die	die	die	ART	ART	_	nom|pl|fem	-1	13	_	NK	_	_
+12	individuellen	individuell	individuell	ADJA	ADJA	_	nom|pl|fem|pos	-1	13	_	NK	_	_
+13	Erwartungen	Erwartung	Erwartung	NN	NN	_	nom|pl|fem	-1	6	_	SB	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	3	_	JU	_	_
+2	da	da	da	ADV	ADV	_	_	-1	3	_	MO	_	_
+3	sieht	sehen	sehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	3	_	SB	_	_
+5	immer	immer	immer	ADV	ADV	_	_	-1	6	_	MO	_	_
+6	schlechter	schlecht	schlecht	ADJD	ADJD	_	comp	-1	3	_	MO	_	_
+7	aus	aus	aus	PTKVZ	PTKVZ	_	_	-1	3	_	SVP	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+
+1	Denn	denn	denn	KON	KON	_	_	-1	3	_	JU	_	_
+2	inzwischen	inzwischen	inzwischen	ADV	ADV	_	_	-1	9	_	MO	_	_
+3	haben	haben	haben	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+4	auch	auch	auch	ADV	ADV	_	_	-1	6	_	MO	_	_
+5	die	die	die	ART	ART	_	nom|pl|masc	-1	6	_	NK	_	_
+6	Unternehmer	Unternehmer	Unternehmer	NN	NN	_	nom|pl|masc	-1	3	_	SB	_	_
+7	den	die	die	ART	ART	_	acc|sg|masc	-1	8	_	NK	_	_
+8	Mut	Mut	Mut	NN	NN	_	acc|sg|masc	-1	9	_	OA	_	_
+9	verloren	verlieren	verlieren	VVPP	VVPP	_	_	-1	3	_	OC	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+1	Nach	nach	nach	APPR	APPR	_	_	-1	5	_	MO	_	_
+2	dem	die	die	ART	ART	_	dat|sg|masc	-1	4	_	NK	_	_
+3	Münchener	Münchener	Münchener	ADJA	ADJA	_	*|*|*|pos	-1	4	_	NK	_	_
+4	Geschäftsklima-Index	Geschäftsklima-Index	Geschäftsklima-Index	NN	NN	_	dat|sg|masc	-1	1	_	NK	_	_
+5	beurteilen	beurteilen	beurteilen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+6	sie	sie	sie	PPER	PPER	_	nom|pl|*|3	-1	5	_	SB	_	_
+7	die	die	die	ART	ART	_	acc|pl|fem	-1	8	_	NK	_	_
+8	Aussichten	Aussicht	Aussicht	NN	NN	_	acc|pl|fem	-1	5	_	OA	_	_
+9	der	die	die	ART	ART	_	gen|pl|masc	-1	12	_	NK	_	_
+10	nächsten	nah	nah	ADJA	ADJA	_	gen|pl|masc|pos	-1	12	_	NK	_	_
+11	sechs	sechs	sechs	CARD	CARD	_	_	-1	12	_	NK	_	_
+12	Monate	Monat	Monat	NN	NN	_	acc|pl|masc	-1	8	_	AG	_	_
+13	schlechter	schlecht	schlecht	ADJD	ADJD	_	comp	-1	5	_	MO	_	_
+14	als	als	als	KOKOM	KOKOM	_	_	-1	16	_	CM	_	_
+15	noch	noch	noch	ADV	ADV	_	_	-1	16	_	MO	_	_
+16	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	13	_	CC	_	_
+17	September	September	September	NN	NN	_	dat|sg|masc	-1	16	_	NK	_	_
+18	.	.	.	$.	$.	_	_	-1	17	_	--	_	_
+
+1	Wirtschaft	Wirtschaft	Wirtschaft	NN	NN	_	nom|sg|fem	-1	2	_	SB	_	_
+2	basiert	basieren	basieren	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	aber	aber	aber	ADV	ADV	_	_	-1	2	_	MO	_	_
+4	auf	auf	auf	APPR	APPR	_	_	-1	2	_	MO	_	_
+5	Vertrauen	Vertrauen	Vertrauen	NN	NN	_	acc|sg|neut	-1	4	_	NK	_	_
+6	.	.	.	$.	$.	_	_	-1	5	_	--	_	_
+
+1	Sehen	sehen	sehen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	7	_	MO	_	_
+2	die	die	die	ART	ART	_	nom|pl|neut	-1	3	_	NK	_	_
+3	Unternehmen	Unternehmen	Unternehmen	NN	NN	_	nom|pl|neut	-1	1	_	SB	_	_
+4	keine	keine	keine	PIAT	PIAT	_	acc|sg|fem	-1	5	_	NK	_	_
+5	Perspektive	Perspektive	Perspektive	NN	NN	_	acc|sg|fem	-1	1	_	OA	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	schieben	schieben	schieben	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+8	sie	sie	sie	PPER	PPER	_	nom|pl|*|3	-1	7	_	SB	_	_
+9	ihre	ihr	ihr	PPOSAT	PPOSAT	_	acc|pl|fem	-1	10	_	NK	_	_
+10	Investitionen	Investition	Investition	NN	NN	_	acc|pl|fem	-1	7	_	OA	_	_
+11	auf	auf	auf	PTKVZ	PTKVZ	_	_	-1	7	_	SVP	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Das	die	die	PDS	PDS	_	nom|sg|neut	-1	2	_	SB	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	alarmierend	alarmierend	alarmierend	ADJD	ADJD	_	pos	-1	2	_	PD	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	zumal	zumal	zumal	KOUS	KOUS	_	_	-1	17	_	CP	_	_
+6	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	16	_	OA	_	_
+7	auch	auch	auch	ADV	ADV	_	_	-1	15	_	MO	_	_
+8	der	die	die	ART	ART	_	nom|sg|masc	-1	15	_	NK	_	_
+9	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	13	_	MO	_	_
+10	ersten	erst	erst	ADJA	ADJA	_	dat|sg|neut|pos	-1	11	_	NK	_	_
+11	Halbjahr	Halbjahr	Halbjahr	NN	NN	_	dat|sg|neut	-1	9	_	NK	_	_
+12	noch	noch	noch	ADV	ADV	_	_	-1	13	_	MO	_	_
+13	starke	stark	stark	ADJA	ADJA	_	nom|pl|masc|pos	-1	15	_	NK	_	_
+14	private	privat	privat	ADJA	ADJA	_	nom|pl|masc|pos	-1	15	_	NK	_	_
+15	Konsum	Konsum	Konsum	NN	NN	_	nom|pl|masc	-1	17	_	SB	_	_
+16	abgeschwächt	abschwächen	abschwächen	VVPP	VVPP	_	_	-1	17	_	OC	_	_
+17	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	2	_	MO	_	_
+18	.	.	.	$.	$.	_	_	-1	17	_	--	_	_
+
+1	Gleichzeitig	gleichzeitig	gleichzeitig	ADJD	ADJD	_	pos	-1	5	_	MO	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	der	die	die	ART	ART	_	nom|sg|masc	-1	4	_	NK	_	_
+4	Export	Export	Export	NN	NN	_	nom|sg|masc	-1	2	_	SB	_	_
+5	eingebrochen	einbrechen	einbrechen	VVPP	VVPP	_	_	-1	2	_	OC	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	der	die	die	PRELS	PRELS	_	nom|sg|masc	-1	13	_	SB	_	_
+8	traditionell	traditionell	traditionell	ADJD	ADJD	_	pos	-1	12	_	MO	_	_
+9	die	die	die	ART	ART	_	acc|sg|fem	-1	11	_	NK	_	_
+10	deutsche	deutsch	deutsch	ADJA	ADJA	_	acc|sg|fem|pos	-1	11	_	NK	_	_
+11	Konjunktur	Konjunktur	Konjunktur	NN	NN	_	acc|sg|fem	-1	12	_	OA	_	_
+12	beflügelt	beflügeln	beflügeln	VVPP	VVPP	_	_	-1	13	_	OC	_	_
+13	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	4	_	RC	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+

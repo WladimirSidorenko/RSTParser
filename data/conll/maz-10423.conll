@@ -1,0 +1,217 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::5	6::3
+1	Toter	tot	tot	ADJA	ADJA	_	nom|sg|masc|pos	-1	2	_	NK	_	_
+2	Weg	Weg	Weg	NN	NN	_	nom|sg|masc	-1	0	_	--	_	_
+
+	sentence_start	0	104	184	232
+	token_offsets	sentence	0	offsets	0::3	4::3	8::3	12::9	22::5	28::6	35::8	44::15	60::3	64::3	68::12	81::8	90::3	94::6	101::1
+	token_offsets	sentence	1	offsets	104::5	110::3	114::5	120::3	124::11	136::18	155::3	159::8	168::12	181::1
+	token_offsets	sentence	2	offsets	184::3	188::4	193::3	197::3	201::6	208::5	214::4	219::9	229::1
+	token_offsets	sentence	3	offsets	232::4	237::3	241::13	255::5	261::5	267::5	273::7	281::4	286::1
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	8	_	NK	_	_
+2	von	von	von	APPR	APPR	_	_	-1	7	_	SBP	_	_
+3	den	die	die	ART	ART	_	dat|pl|masc	-1	4	_	NK	_	_
+4	Elstalern	Elstalern	Elstalern	NN	NN	_	dat|pl|masc	-1	2	_	NK	_	_
+5	lange	lange	lange	ADV	ADV	_	_	-1	7	_	MO	_	_
+6	herbei	herbei	herbei	ADV	ADV	_	_	-1	7	_	MO	_	_
+7	gesehnte	gesehnte	gesehnte	ADJA	ADJA	_	acc|pl|masc|pos	-1	8	_	NK	_	_
+8	Umgehungsstraße	Umgehungsstraße	Umgehungsstraße	NN	NN	_	acc|pl|masc	-1	13	_	SB	_	_
+9	für	für	für	APPR	APPR	_	_	-1	8	_	MNR	_	_
+10	den	die	die	ART	ART	_	acc|sg|masc	-1	12	_	NK	_	_
+11	historischen	historisch	historisch	ADJA	ADJA	_	dat|pl|masc|pos	-1	12	_	NK	_	_
+12	Ortskern	Ortskern	Ortskern	NN	NN	_	dat|pl|masc	-1	9	_	NK	_	_
+13	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+14	fertig	fertig	fertig	ADJD	ADJD	_	pos	-1	13	_	PD	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+1	Damit	damit	damit	PAV	PAV	_	_	-1	2	_	NK	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	eines	eine	eine	PIS	PIS	_	nom|sg|neut	-1	2	_	PD	_	_
+4	der	die	die	ART	ART	_	gen|pl|neut	-1	6	_	NK	_	_
+5	wichtigsten	wichtig	wichtig	ADJA	ADJA	_	gen|pl|fem|sup	-1	6	_	NK	_	_
+6	Straßenbauvorhaben	Straßenbauvorhaben	Straßenbauvorhaben	NN	NN	_	gen|pl|fem	-1	3	_	AG	_	_
+7	der	die	die	ART	ART	_	gen|sg|fem	-1	8	_	NK	_	_
+8	Gemeinde	Gemeinde	Gemeinde	NN	NN	_	gen|sg|fem	-1	6	_	AG	_	_
+9	verwirklicht	verwirklichen	verwirklichen	VVPP	VVPP	_	_	-1	2	_	OC	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	3	_	JU	_	_
+2	doch	doch	doch	ADV	ADV	_	_	-1	3	_	MO	_	_
+3	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	die	die	die	ART	ART	_	nom|sg|fem	-1	5	_	NK	_	_
+5	Freude	Freude	Freude	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+6	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	7	_	NG	_	_
+7	ganz	ganz	ganz	ADV	ADV	_	_	-1	8	_	MO	_	_
+8	ungetrübt	ungetrübt	ungetrübt	ADJD	ADJD	_	pos	-1	3	_	PD	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+1	Weil	weil	weil	KOUS	KOUS	_	_	-1	8	_	CP	_	_
+2	die	die	die	ART	ART	_	nom|sg|fem	-1	3	_	NK	_	_
+3	Bahnhofstraße	Bahnhofstraße	Bahnhofstraße	NN	NN	_	nom|sg|fem	-1	8	_	SB	_	_
+4	ihrem	ihr	ihr	PPOSAT	PPOSAT	_	dat|sg|masc	-1	5	_	NK	_	_
+5	Namen	Name	Name	NN	NN	_	dat|sg|masc	-1	7	_	DA	_	_
+6	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	7	_	NG	_	_
+7	gerecht	rechen	rechen	VVPP	VVPP	_	pos	-1	8	_	OC	_	_
+8	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+	sentence_start	0	104	171	262	444
+	token_offsets	sentence	0	offsets	0::3	4::5	10::3	14::3	18::8	27::6	34::6	41::3	45::3	49::3	53::2	56::5	62::11	74::1	76::2	79::3	83::5	89::4	94::6	101::1
+	token_offsets	sentence	1	offsets	104::5	110::4	115::4	120::3	124::8	133::8	142::6	149::4	154::6	161::6	168::1
+	token_offsets	sentence	2	offsets	171::4	176::5	182::3	186::2	189::8	198::4	203::4	208::4	213::13	227::3	231::10	242::3	246::3	250::8	259::1
+	token_offsets	sentence	3	offsets	262::5	268::3	272::3	276::16	293::1	295::4	300::3	304::3	308::8	317::5	323::3	327::1	329::3	333::6	340::7	348::9	358::5	364::5	370::1	372::4	377::5	383::5	389::4	394::5	400::13	414::8	423::9	433::7	441::1
+	token_offsets	sentence	4	offsets	444::4	449::4	454::3	458::14	473::6	480::8	489::3	493::1	495::4	500::3	504::6	511::5	517::12	530::5	536::8	545::1	547::7	555::3	559::7	567::3	571::3	575::3	579::4	584::2	587::6	594::1
+1	Bis	bis	bis	APPR	APPR	_	_	-1	3	_	MO	_	_
+2	jetzt	jetzt	jetzt	ADV	ADV	_	_	-1	1	_	NK	_	_
+3	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	die	die	die	ART	ART	_	nom|sg|fem	-1	5	_	NK	_	_
+5	Fahrbahn	Fahrbahn	Fahrbahn	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+6	nichts	nichts	nichts	PIS	PIS	_	*|*|neut	-1	3	_	SB	_	_
+7	weiter	weiter	weiter	PTKVZ	PTKVZ	_	_	-1	3	_	SVP	_	_
+8	als	als	als	KOKOM	KOKOM	_	_	-1	10	_	CM	_	_
+9	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	10	_	NK	_	_
+10	Weg	Weg	Weg	NN	NN	_	nom|sg|masc	-1	6	_	CC	_	_
+11	zu	zu	zu	APPR	APPR	_	_	-1	10	_	MNR	_	_
+12	einer	eine	eine	ART	ART	_	dat|sg|fem	-1	13	_	NK	_	_
+13	Bahnstation	Bahnstation	Bahnstation	NN	NN	_	dat|sg|fem	-1	11	_	NK	_	_
+14	,	,	,	$,	$,	_	_	-1	13	_	--	_	_
+15	an	an	an	APPR	APPR	_	_	-1	19	_	OP	_	_
+16	der	die	die	PRELS	PRELS	_	dat|sg|fem	-1	15	_	NK	_	_
+17	keine	keine	keine	PIAT	PIAT	_	nom|pl|masc	-1	18	_	NK	_	_
+18	Züge	Zug	Zug	NN	NN	_	nom|pl|masc	-1	19	_	SB	_	_
+19	halten	halten	halten	VVINF	VVINF	_	pl|3|pres|ind	-1	13	_	RC	_	_
+20	.	.	.	$.	$.	_	_	-1	19	_	--	_	_
+
+1	Daran	daran	daran	PAV	PAV	_	_	-1	7	_	NK	_	_
+2	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	10	_	OA	_	_
+4	bis	bis	bis	APPR	APPR	_	_	-1	10	_	MO	_	_
+5	Frühjahr	Frühjahr	Frühjahr	NN	NN	_	dat|sg|neut	-1	4	_	NK	_	_
+6	nächsten	nah	nah	ADJA	ADJA	_	gen|sg|neut|pos	-1	7	_	NK	_	_
+7	Jahres	Jahr	Jahr	NN	NN	_	gen|sg|neut	-1	5	_	AG	_	_
+8	auch	auch	auch	ADV	ADV	_	_	-1	9	_	MO	_	_
+9	nichts	nichts	nichts	PIS	PIS	_	*|*|neut	-1	2	_	SB	_	_
+10	ändern	ändern	ändern	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Also	also	also	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	sieht	sehen	sehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	man	man	man	PIS	PIS	_	nom|sg|*	-1	2	_	SB	_	_
+4	in	in	in	APPR	APPR	_	_	-1	2	_	MO	_	_
+5	nächster	nah	nah	ADJA	ADJA	_	gen|sg|fem|pos	-1	6	_	NK	_	_
+6	Zeit	Zeit	Zeit	NN	NN	_	gen|sg|fem	-1	4	_	NK	_	_
+7	wohl	wohl	wohl	ADV	ADV	_	_	-1	2	_	MO	_	_
+8	eher	eher	eher	ADV	ADV	_	_	-1	2	_	MO	_	_
+9	Inline-Skater	Inline-Skater	Inline-Skater	NN	NN	_	nom|sg|masc	-1	2	_	OA	_	_
+10	als	als	als	KOKOM	KOKOM	_	_	-1	11	_	CM	_	_
+11	Autofahrer	Autofahrer	Autofahrer	NN	NN	_	nom|pl|masc	-1	8	_	CC	_	_
+12	auf	auf	auf	APPR	APPR	_	_	-1	2	_	MO	_	_
+13	der	die	die	ART	ART	_	dat|sg|fem	-1	14	_	NK	_	_
+14	Fahrbahn	Fahrbahn	Fahrbahn	NN	NN	_	dat|sg|fem	-1	12	_	NK	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+1	Schön	schön	schön	ADJD	ADJD	_	pos	-1	10	_	MO	_	_
+2	für	für	für	APPR	APPR	_	_	-1	1	_	MO	_	_
+3	die	die	die	ART	ART	_	acc|sg|fem	-1	4	_	NK	_	_
+4	Freizeitsportler	Freizeitsportler	Freizeitsportler	NN	NN	_	acc|sg|fem	-1	2	_	NK	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	aber	aber	aber	ADV	ADV	_	_	-1	7	_	MO	_	_
+7	für	für	für	APPR	APPR	_	_	-1	2	_	CJ	_	_
+8	die	die	die	ART	ART	_	acc|pl|masc	-1	9	_	NK	_	_
+9	Elstaler	Elstaler	Elstaler	NN	NN	_	acc|pl|masc	-1	7	_	NK	_	_
+10	heißt	heißen	heißen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+11	das	die	die	PDS	PDS	_	nom|sg|neut	-1	10	_	SB	_	_
+12	,	,	,	$,	$,	_	_	-1	11	_	--	_	_
+13	sie	sie	sie	PPER	PPER	_	nom|pl|*|3	-1	14	_	SB	_	_
+14	müssen	müssen	müssen	VMFIN	VMFIN	_	pl|3|pres|ind	-1	10	_	OC	_	_
+15	vorerst	vorerst	vorerst	ADV	ADV	_	_	-1	14	_	MO	_	_
+16	weiterhin	weiterhin	weiterhin	ADV	ADV	_	_	-1	18	_	MO	_	_
+17	damit	damit	damit	PAV	PAV	_	_	-1	18	_	NK	_	_
+18	leben	leben	leben	VVINF	VVINF	_	_	-1	14	_	OC	_	_
+19	,	,	,	$,	$,	_	_	-1	18	_	--	_	_
+20	dass	dass	dass	KOUS	KOUS	_	_	-1	28	_	CP	_	_
+21	Autos	Auto	Auto	NN	NN	_	nom|pl|neut	-1	28	_	SB	_	_
+22	durch	durch	durch	APPR	APPR	_	_	-1	28	_	MO	_	_
+23	ihre	ihr	ihr	PPOSAT	PPOSAT	_	acc|pl|neut	-1	27	_	NK	_	_
+24	unter	unter	unter	APPR	APPR	_	_	-1	26	_	CVC	_	_
+25	Denkmalschutz	Denkmalschutz	Denkmalschutz	NN	NN	_	acc|sg|masc	-1	24	_	NK	_	_
+26	stehende	stehend	stehend	ADJA	ADJA	_	acc|sg|fem|pos	-1	27	_	NK	_	_
+27	Ortsmitte	Ortsmitte	Ortsmitte	NN	NN	_	acc|sg|fem	-1	22	_	NK	_	_
+28	brausen	brausen	brausen	VVINF	VVINF	_	_	-1	18	_	MO	_	_
+29	.	.	.	$.	$.	_	_	-1	28	_	--	_	_
+
+1	Erst	erst	erst	ADV	ADV	_	_	-1	7	_	MO	_	_
+2	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	7	_	CP	_	_
+3	der	die	die	ART	ART	_	nom|sg|masc	-1	4	_	NK	_	_
+4	Bahnhaltepunkt	Bahnhaltepunkt	Bahnhaltepunkt	NN	NN	_	nom|sg|masc	-1	7	_	SB	_	_
+5	wieder	wieder	wieder	ADV	ADV	_	_	-1	6	_	MO	_	_
+6	eröffnet	eröffnen	eröffnen	VVPP	VVPP	_	_	-1	7	_	OC	_	_
+7	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	15	_	MO	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+10	die	die	die	ART	ART	_	nom|sg|fem	-1	11	_	NK	_	_
+11	Straße	Straße	Straße	NN	NN	_	nom|sg|fem	-1	9	_	SB	_	_
+12	ihren	ihr	ihr	PPOSAT	PPOSAT	_	acc|sg|masc	-1	14	_	NK	_	_
+13	eigentlichen	eigentlich	eigentlich	ADJA	ADJA	_	acc|sg|masc|pos	-1	14	_	NK	_	_
+14	Zweck	Zweck	Zweck	NN	NN	_	acc|sg|masc	-1	15	_	OA	_	_
+15	erfüllen	erfüllen	erfüllen	VVINF	VVINF	_	_	-1	9	_	OC	_	_
+16	,	,	,	$,	$,	_	_	-1	15	_	--	_	_
+17	nämlich	nämlich	nämlich	ADV	ADV	_	_	-1	25	_	MO	_	_
+18	den	die	die	ART	ART	_	acc|sg|masc	-1	19	_	NK	_	_
+19	Verkehr	Verkehr	Verkehr	NN	NN	_	acc|sg|masc	-1	25	_	OA	_	_
+20	aus	aus	aus	APPR	APPR	_	_	-1	19	_	MNR	_	_
+21	dem	die	die	ART	ART	_	dat|sg|masc	-1	22	_	NK	_	_
+22	Ort	Ort	Ort	NN	NN	_	dat|sg|masc	-1	20	_	NK	_	_
+23	fern	fern	fern	ADJD	ADJD	_	_	-1	25	_	MO	_	_
+24	zu	zu	zu	PTKZU	PTKZU	_	_	-1	25	_	PM	_	_
+25	halten	halten	halten	VVINF	VVINF	_	_	-1	15	_	CJ	_	_
+26	.	.	.	$.	$.	_	_	-1	25	_	--	_	_
+
+	sentence_start	0	105
+	token_offsets	sentence	0	offsets	0::5	6::3	10::4	15::12	28::3	32::10	43::19	63::6	70::6	77::3	81::3	85::1	87::6	94::5	100::1	102::1
+	token_offsets	sentence	1	offsets	105::4	110::5	116::2	119::4	124::3	128::5	134::13	148::2	151::8	160::6	167::6	174::4	179::4	184::3	188::1	190::5	196::9	206::3	210::1	212::8	221::4	226::1	228::4	233::3	237::9	247::13	261::1
+1	Damit	damit	damit	PAV	PAV	_	_	-1	2	_	NK	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	auch	auch	auch	ADV	ADV	_	_	-1	7	_	MO	_	_
+4	gleichzeitig	gleichzeitig	gleichzeitig	ADJD	ADJD	_	pos	-1	7	_	MO	_	_
+5	der	die	die	ART	ART	_	nom|sg|masc	-1	7	_	NK	_	_
+6	anstehende	anstehend	anstehend	ADJA	ADJA	_	nom|sg|masc|pos	-1	7	_	NK	_	_
+7	Generalverkehrsplan	Generalverkehrsplan	Generalverkehrsplan	NN	NN	_	nom|sg|masc	-1	2	_	SB	_	_
+8	nichts	nichts	nichts	PIS	PIS	_	*|*|neut	-1	2	_	SB	_	_
+9	weiter	weiter	weiter	PTKVZ	PTKVZ	_	_	-1	2	_	SVP	_	_
+10	als	als	als	KOKOM	KOKOM	_	_	-1	14	_	CM	_	_
+11	ein	eine	eine	ART	ART	_	nom|sg|neut	-1	14	_	NK	_	_
+12	"	"	"	$(	$(	_	_	-1	11	_	--	_	_
+13	hohler	hohl	hohl	ADJA	ADJA	_	nom|sg|masc|pos	-1	14	_	NK	_	_
+14	Vogel	Vogel	Vogel	NN	NN	_	nom|sg|masc	-1	8	_	CC	_	_
+15	"	"	"	$(	$(	_	_	-1	14	_	--	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+1	Wenn	wenn	wenn	KOUS	KOUS	_	_	-1	21	_	CP	_	_
+2	Demex	Demex	Demex	VVFIN	VVFIN	_	nom|sg|masc	-1	26	_	MO	_	_
+3	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	2	_	MO	_	_
+4	Zuge	Zug	Zug	NN	NN	_	dat|sg|masc	-1	3	_	NK	_	_
+5	der	die	die	ART	ART	_	gen|sg|fem	-1	7	_	NK	_	_
+6	neuen	neu	neu	ADJA	ADJA	_	gen|sg|fem|pos	-1	7	_	NK	_	_
+7	Investitionen	Investition	Investition	NN	NN	_	gen|sg|fem	-1	4	_	AG	_	_
+8	am	an	an	APPRART	APPRART	_	dat|sg|neut	-1	7	_	MNR	_	_
+9	Designer	Designer	Designer	NN	NN	_	dat|sg|neut	-1	8	_	NK	_	_
+10	Outlet	Outlet	Outlet	NN	NN	_	nom|sg|neut	-1	21	_	SB	_	_
+11	Center	Center	Center	NE	NE	_	nom|sg|neut	-1	10	_	NK	_	_
+12	auch	auch	auch	ADV	ADV	_	_	-1	21	_	MO	_	_
+13	noch	noch	noch	ADV	ADV	_	_	-1	21	_	MO	_	_
+14	den	die	die	ART	ART	_	acc|sg|masc	-1	18	_	NK	_	_
+15	"	"	"	$(	$(	_	_	-1	14	_	--	_	_
+16	Alten	alt	alt	ADJA	ADJA	_	acc|sg|masc|pos	-1	18	_	NK	_	_
+17	Spandauer	Spandauer	Spandauer	NN	NN	_	acc|sg|masc	-1	18	_	NK	_	_
+18	Weg	Weg	Weg	NN	NN	_	acc|sg|masc	-1	20	_	OA	_	_
+19	"	"	"	$(	$(	_	_	-1	18	_	--	_	_
+20	zumachen	zumachen	zumachen	VVINF	VVINF	_	_	-1	21	_	OC	_	_
+21	will	wollen	wollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	23	_	MO	_	_
+22	,	,	,	$,	$,	_	_	-1	21	_	--	_	_
+23	muss	müssen	müssen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+24	der	die	die	ART	ART	_	dat|sg|fem	-1	25	_	NK	_	_
+25	Außenring	Außenring	Außenring	NN	NN	_	dat|sg|fem	-1	26	_	DA	_	_
+26	funktionieren	funktionieren	funktionieren	VVINF	VVINF	_	_	-1	23	_	OC	_	_
+27	.	.	.	$.	$.	_	_	-1	26	_	--	_	_
+

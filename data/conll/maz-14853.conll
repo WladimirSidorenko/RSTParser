@@ -1,0 +1,213 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::3	4::7	12::5
+1	Ein	eine	eine	ART	ART	_	nom|sg|masc	-1	3	_	NK	_	_
+2	schöner	schön	schön	ADJA	ADJA	_	nom|sg|masc|pos	-1	3	_	NK	_	_
+3	Start	Start	Start	NN	NN	_	nom|sg|masc	-1	0	_	--	_	_
+
+	sentence_start	0	115	357
+	token_offsets	sentence	0	offsets	0::2	3::5	9::3	13::12	26::11	38::15	54::9	64::20	85::5	91::6	98::6	105::6	112::1
+	token_offsets	sentence	1	offsets	115::6	122::2	125::6	132::3	136::4	141::5	147::8	156::3	160::1	162::2	165::3	169::2	172::2	175::2	178::7	186::7	194::4	199::1	201::3	205::12	218::3	222::15	238::3	242::7	250::1	252::2	255::4	260::3	264::10	275::3	279::7	287::4	292::9	302::12	315::3	319::17	337::2	340::13	354::1
+	token_offsets	sentence	2	offsets	357::9	367::3	371::2	374::2	377::5	383::7	391::7	399::1	401::7	409::3	413::4	418::10	429::15	445::6	452::3	456::11	468::11	480::10	491::1	493::2	496::5	502::9	512::6	519::5	525::11	537::3	541::1
+1	Es	Es	Es	NN	NN	_	nom|sg|neut|3	-1	2	_	SB	_	_
+2	hätte	haben	haben	VAFIN	VAFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+3	für	für	für	APPR	APPR	_	_	-1	5	_	MO	_	_
+4	Luckenwaldes	Luckenwaldes	Luckenwaldes	NN	NN	_	acc|sg|neut	-1	3	_	NK	_	_
+5	designierte	designiert	designiert	ADJA	ADJA	_	acc|sg|neut|pos	-1	6	_	NK	_	_
+6	Bürgermeisterin	Bürgermeisterin	Bürgermeisterin	NN	NN	_	nom|sg|fem	-1	2	_	SB	_	_
+7	Elisabeth	Elisabeth	Elisabeth	NE	NE	_	nom|sg|fem	-1	8	_	PNC	_	_
+8	Herzog-von_der_Heide	Herzog-von_der_Heide	Herzog-von_der_Heide	NN	NN	_	nom|sg|fem	-1	6	_	NK	_	_
+9	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	12	_	NG	_	_
+10	besser	gut	gut	ADJD	ADJD	_	comp	-1	11	_	MO	_	_
+11	kommen	kommen	kommen	VVINF	VVINF	_	_	-1	12	_	OC	_	_
+12	können	können	können	VMINF	VMINF	_	_	-1	2	_	OC	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Gleich	gleich	gleich	ADJD	ADJD	_	_	-1	8	_	MO	_	_
+2	am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	8	_	MO	_	_
+3	ersten	erst	erst	ADJA	ADJA	_	dat|sg|masc|pos	-1	4	_	NK	_	_
+4	Tag	Tag	Tag	NN	NN	_	dat|sg|masc	-1	2	_	NK	_	_
+5	nach	nach	nach	APPR	APPR	_	_	-1	8	_	MO	_	_
+6	ihrem	ihr	ihr	PPOSAT	PPOSAT	_	dat|sg|masc	-1	7	_	NK	_	_
+7	Wahlsieg	Wahlsieg	Wahlsieg	NN	NN	_	dat|sg|masc	-1	5	_	NK	_	_
+8	kam	kommen	kommen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+9	-	-	-	$(	$(	_	_	-1	8	_	--	_	_
+10	so	so	so	ADV	ADV	_	_	-1	8	_	MO	_	_
+11	als	als	als	KOKOM	KOKOM	_	_	-1	17	_	CM	_	_
+12	ob	ob	ob	KOUS	KOUS	_	_	-1	17	_	CP	_	_
+13	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	17	_	SB	_	_
+14	so	so	so	ADV	ADV	_	_	-1	15	_	MO	_	_
+15	geplant	planen	planen	VVPP	VVPP	_	pos	-1	16	_	PD	_	_
+16	gewesen	sein	sein	VAPP	VAPP	_	_	-1	17	_	OC	_	_
+17	wäre	sein	sein	VAFIN	VAFIN	_	sg|3|past|subj	-1	10	_	CC	_	_
+18	-	-	-	$(	$(	_	_	-1	17	_	--	_	_
+19	der	die	die	ART	ART	_	nom|sg|masc	-1	20	_	NK	_	_
+20	EU-Kommissar	EU-Kommissar	EU-Kommissar	NN	NN	_	nom|sg|masc	-1	17	_	PD	_	_
+21	für	für	für	APPR	APPR	_	_	-1	20	_	MNR	_	_
+22	Regionalpolitik	Regionalpolitik	Regionalpolitik	NN	NN	_	acc|sg|fem	-1	21	_	NK	_	_
+23	aus	aus	aus	APPR	APPR	_	_	-1	22	_	MNR	_	_
+24	Brüssel	Brüssel	Brüssel	NE	NE	_	dat|sg|neut	-1	23	_	NK	_	_
+25	,	,	,	$,	$,	_	_	-1	24	_	--	_	_
+26	um	um	um	KOUI	KOUI	_	_	-1	38	_	CP	_	_
+27	hier	hier	hier	ADV	ADV	_	_	-1	38	_	MO	_	_
+28	mit	mit	mit	APPR	APPR	_	_	-1	38	_	MO	_	_
+29	Vertretern	Vertreter	Vertreter	NN	NN	_	dat|pl|masc	-1	28	_	NK	_	_
+30	der	die	die	ART	ART	_	gen|pl|neut	-1	34	_	NK	_	_
+31	letzten	letzt	letzt	ADJA	ADJA	_	gen|pl|neut|pos	-1	34	_	NK	_	_
+32	drei	drei	drei	CARD	CARD	_	_	-1	34	_	NK	_	_
+33	deutschen	deutsch	deutsch	ADJA	ADJA	_	gen|pl|masc|pos	-1	34	_	NK	_	_
+34	Urban-Städte	Urban-Städte	Urban-Städte	NN	NN	_	gen|pl|masc	-1	29	_	AG	_	_
+35	die	die	die	ART	ART	_	acc|sg|fem	-1	36	_	NK	_	_
+36	Programm-Verträge	Programm-Verträge	Programm-Verträge	NN	NN	_	acc|sg|fem	-1	38	_	OA	_	_
+37	zu	zu	zu	PTKZU	PTKZU	_	_	-1	38	_	PM	_	_
+38	unterzeichnen	unterzeichnen	unterzeichnen	VVINF	VVINF	_	_	-1	8	_	MO	_	_
+39	.	.	.	$.	$.	_	_	-1	38	_	--	_	_
+
+1	Natürlich	natürlich	natürlich	ADV	ADV	_	_	-1	6	_	MO	_	_
+2	war	sein	sein	VAFIN	VAFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+3	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	SB	_	_
+4	so	so	so	ADV	ADV	_	_	-1	6	_	MO	_	_
+5	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	6	_	NG	_	_
+6	geplant	planen	planen	VVPP	VVPP	_	_	-1	7	_	OC	_	_
+7	gewesen	sein	sein	VAPP	VAPP	_	_	-1	2	_	OC	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	sondern	sondern	sondern	KON	KON	_	_	-1	2	_	CD	_	_
+10	ein	eine	eine	ART	ART	_	nom|sg|neut	-1	13	_	NK	_	_
+11	rein	rein	rein	ADV	ADV	_	pos	-1	12	_	MO	_	_
+12	zufälliges	zufällig	zufällig	ADJA	ADJA	_	nom|sg|neut|pos	-1	13	_	NK	_	_
+13	Zusammentreffen	Zusammentreffen	Zusammentreffen	NN	NN	_	nom|sg|neut	-1	9	_	CJ	_	_
+14	zweier	zweier	zweier	ADJD	ADJD	_	pos	-1	15	_	MO	_	_
+15	für	für	für	APPR	APPR	_	_	-1	13	_	MNR	_	_
+16	Luckenwalde	Luckenwalde	Luckenwalde	NN	NN	_	acc|sg|fem	-1	15	_	NK	_	_
+17	bedeutsamer	bedeutsam	bedeutsam	ADJA	ADJA	_	gen|pl|masc|pos	-1	18	_	NK	_	_
+18	Ereignisse	Ereignis	Ereignis	NN	NN	_	gen|pl|masc	-1	16	_	AG	_	_
+19	,	,	,	$,	$,	_	_	-1	18	_	--	_	_
+20	an	an	an	APPR	APPR	_	_	-1	26	_	MO	_	_
+21	denen	die	die	PRELS	PRELS	_	dat|pl|masc	-1	20	_	NK	_	_
+22	Elisabeth	Elisabeth	Elisabeth	NE	NE	_	nom|sg|fem	-1	23	_	PNC	_	_
+23	Herzog	Herzog	Herzog	NE	NE	_	nom|sg|fem	-1	26	_	SB	_	_
+24	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	26	_	NG	_	_
+25	unbeteiligt	unbeteiligt	unbeteiligt	ADJD	ADJD	_	pos	-1	26	_	PD	_	_
+26	war	sein	sein	VAFIN	VAFIN	_	sg|3|past|ind	-1	13	_	RC	_	_
+27	.	.	.	$.	$.	_	_	-1	26	_	--	_	_
+
+	sentence_start	0	241	400	428
+	token_offsets	sentence	0	offsets	0::4	5::11	17::3	21::8	30::3	34::9	44::5	50::9	60::7	68::3	72::16	89::10	100::1	102::3	106::4	111::10	122::3	126::2	129::13	143::3	147::9	157::15	173::2	176::9	186::1	188::3	192::3	196::2	199::9	209::10	220::4	225::8	234::3	238::1
+	token_offsets	sentence	1	offsets	241::12	254::17	272::7	280::5	286::6	293::4	298::4	303::7	311::1	312::0	314::1	316::2	319::3	323::3	327::5	333::5	339::1	341::4	346::3	350::6	357::2	360::6	367::3	371::2	374::9	384::4	389::7	397::1
+	token_offsets	sentence	2	offsets	400::4	405::3	409::2	412::6	419::4	424::3
+	token_offsets	sentence	3	offsets	428::1
+1	Dass	dass	dass	KOUS	KOUS	_	_	-1	12	_	CP	_	_
+2	Luckenwalde	Luckenwalde	Luckenwalde	NN	NN	_	nom|pl|neut	-1	12	_	SB	_	_
+3	als	als	als	KOKOM	KOKOM	_	_	-1	12	_	CM	_	_
+4	kleinste	klein	klein	ADJA	ADJA	_	acc|sg|fem|sup	-1	12	_	SB	_	_
+5	von	von	von	APPR	APPR	_	_	-1	12	_	OP	_	_
+6	insgesamt	insgesamt	insgesamt	ADV	ADV	_	_	-1	7	_	MO	_	_
+7	zwölf	zwölf	zwölf	CARD	CARD	_	_	-1	9	_	NK	_	_
+8	deutschen	deutsch	deutsch	ADJA	ADJA	_	dat|pl|fem|pos	-1	9	_	NK	_	_
+9	Städten	Stadt	Stadt	NN	NN	_	dat|pl|fem	-1	5	_	NK	_	_
+10	vom	von	von	APPRART	APPRART	_	dat|sg|masc	-1	9	_	MNR	_	_
+11	Urban-II-Projekt	Urban-II-Projekt	Urban-II-Projekt	NN	NN	_	dat|sg|masc	-1	10	_	NK	_	_
+12	profitiert	profitieren	profitieren	VVFIN	VVFIN	_	sg|3|pres|ind	-1	24	_	MO	_	_
+13	,	,	,	$,	$,	_	_	-1	12	_	--	_	_
+14	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+15	ganz	ganz	ganz	ADV	ADV	_	_	-1	24	_	MO	_	_
+16	wesentlich	wesentlich	wesentlich	ADJD	ADJD	_	pos	-1	24	_	MO	_	_
+17	der	die	die	ART	ART	_	nom|sg|masc	-1	19	_	NK	_	_
+18	2.	2.	2.	ADJA	ADJA	_	nom|sg|masc|3	-1	19	_	NK	_	_
+19	Beigeordneten	Beigeordnete	Beigeordnete	NN	NN	_	acc|sg|neut	-1	24	_	DA	_	_
+20	und	und	und	KON	KON	_	_	-1	19	_	CD	_	_
+21	künftigen	künftig	künftig	ADJA	ADJA	_	acc|sg|masc|pos	-1	22	_	NK	_	_
+22	Bürgermeisterin	Bürgermeisterin	Bürgermeisterin	NN	NN	_	acc|sg|masc	-1	20	_	CJ	_	_
+23	zu	zu	zu	PTKZU	PTKZU	_	_	-1	24	_	PM	_	_
+24	verdanken	verdanken	verdanken	VVINF	VVINF	_	_	-1	14	_	OC	_	_
+25	,	,	,	$,	$,	_	_	-1	24	_	--	_	_
+26	was	was	was	PRELS	PRELS	_	nom|sg|neut	-1	33	_	SB	_	_
+27	ihr	ihr	ihr	PPER	PPER	_	dat|sg|fem|3	-1	32	_	DA	_	_
+28	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	32	_	MO	_	_
+29	Wahlkampf	Wahlkampf	Wahlkampf	NN	NN	_	dat|sg|masc	-1	28	_	NK	_	_
+30	sicherlich	sicherlich	sicherlich	ADV	ADV	_	_	-1	32	_	MO	_	_
+31	auch	auch	auch	ADV	ADV	_	_	-1	32	_	MO	_	_
+32	geholfen	helfen	helfen	VVPP	VVPP	_	_	-1	33	_	OC	_	_
+33	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	24	_	RC	_	_
+34	.	.	.	$.	$.	_	_	-1	33	_	--	_	_
+
+1	Brandenburgs	Brandenburg	Brandenburg	NE	NE	_	gen|sg|neut	-1	2	_	AG	_	_
+2	Städtebauminister	Städtebauminister	Städtebauminister	NN	NN	_	nom|sg|masc	-1	5	_	SB	_	_
+3	Hartmut	Hartmut	Hartmut	NE	NE	_	nom|sg|masc	-1	4	_	PNC	_	_
+4	Meyer	Meyer	Meyer	NE	NE	_	nom|sg|masc	-1	2	_	NK	_	_
+5	meinte	meinen	meinen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+6	dann	dann	dann	ADV	ADV	_	_	-1	5	_	MO	_	_
+7	auch	auch	auch	ADV	ADV	_	_	-1	5	_	MO	_	_
+8	gestern	gestern	gestern	ADV	ADV	_	_	-1	5	_	MO	_	_
+9	:	:	:	$.	$.	_	_	-1	8	_	--	_	_
+10	"	"	"	$(	$(	_	_	-1	11	_	--	_	_
+11	Es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	12	_	SB	_	_
+12	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	5	_	OC	_	_
+13	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	15	_	NK	_	_
+14	guter	gut	gut	ADJA	ADJA	_	nom|sg|masc|pos	-1	15	_	NK	_	_
+15	Start	Start	Start	NN	NN	_	nom|sg|masc	-1	12	_	PD	_	_
+16	,	,	,	$,	$,	_	_	-1	15	_	--	_	_
+17	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	26	_	CP	_	_
+18	man	man	man	PIS	PIS	_	nom|sg|*	-1	26	_	SB	_	_
+19	gleich	gleich	gleich	ADJD	ADJD	_	_	-1	26	_	MO	_	_
+20	am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	26	_	MO	_	_
+21	ersten	erst	erst	ADJA	ADJA	_	dat|sg|masc|pos	-1	22	_	NK	_	_
+22	Tag	Tag	Tag	NN	NN	_	dat|sg|masc	-1	20	_	NK	_	_
+23	38	@card@	@card@	CARD	CARD	_	_	-1	24	_	NMC	_	_
+24	Millionen	Million	Million	NN	NN	_	acc|pl|fem	-1	26	_	OA	_	_
+25	Mark	Mark	Mark	NN	NN	_	*|*|fem	-1	24	_	NK	_	_
+26	bekommt	bekommen	bekommen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	11	_	RE	_	_
+27	.	.	.	$.	$.	_	_	-1	26	_	--	_	_
+
+1	Wenn	wenn	wenn	KOUS	KOUS	_	_	-1	5	_	CP	_	_
+2	das	die	die	PDS	PDS	_	nom|sg|neut	-1	5	_	SB	_	_
+3	so	so	so	ADV	ADV	_	_	-1	4	_	MO	_	_
+4	weiter	weiter	weiter	ADV	ADV	_	_	-1	5	_	MO	_	_
+5	geht	gehen	gehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+6	...	...	...	$.	$.	_	_	-1	5	_	--	_	_
+
+1	"	"	"	$(	$(	_	_	-1	0	_	--	_	_
+
+	sentence_start	0	68
+	token_offsets	sentence	0	offsets	0::9	10::4	15::2	18::5	24::2	27::6	34::1	36::10	47::5	53::3	57::3	61::3	65::1
+	token_offsets	sentence	1	offsets	68::3	72::4	77::3	81::3	85::18	104::6	111::8	120::5	126::4	131::4	136::3	140::9	150::15	166::1	167::0	169::1	171::5	177::6	184::3	188::4	193::6	200::2	203::5	209::5	215::8	224::1	226::1
+1	Natürlich	natürlich	natürlich	ADJD	ADJD	_	pos	-1	2	_	MO	_	_
+2	geht	gehen	gehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	EP	_	_
+4	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	5	_	NG	_	_
+5	so	so	so	ADV	ADV	_	_	-1	2	_	MO	_	_
+6	weiter	weiter	weiter	PTKVZ	PTKVZ	_	_	-1	2	_	SVP	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	jedenfalls	jedenfalls	jedenfalls	ADV	ADV	_	_	-1	11	_	MO	_	_
+9	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	11	_	NG	_	_
+10	Tag	Tag	Tag	NN	NN	_	dat|sg|masc	-1	11	_	MO	_	_
+11	für	für	für	APPR	APPR	_	_	-1	2	_	MO	_	_
+12	Tag	Tag	Tag	NN	NN	_	acc|sg|masc	-1	11	_	NK	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	6	_	JU	_	_
+2	nach	nach	nach	APPR	APPR	_	_	-1	6	_	MO	_	_
+3	all	alle	alle	PIAT	PIAT	_	*|*|*	-1	5	_	NK	_	_
+4	den	die	die	ART	ART	_	dat|pl|fem	-1	5	_	NK	_	_
+5	Vorschusslorbeeren	Vorschusslorbeer	Vorschusslorbeer	NN	NN	_	dat|pl|masc	-1	2	_	NK	_	_
+6	meinte	meinen	meinen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+7	Minister	Minister	Minister	NN	NN	_	nom|sg|masc	-1	6	_	SB	_	_
+8	Meyer	Meyer	Meyer	NE	NE	_	nom|sg|masc	-1	7	_	NK	_	_
+9	dann	dann	dann	ADV	ADV	_	_	-1	6	_	MO	_	_
+10	auch	auch	auch	ADV	ADV	_	_	-1	11	_	MO	_	_
+11	zur	zu	zu	APPRART	APPRART	_	dat|sg|fem	-1	6	_	MO	_	_
+12	künftigen	künftig	künftig	ADJA	ADJA	_	dat|sg|fem|pos	-1	13	_	NK	_	_
+13	Bürgermeisterin	Bürgermeisterin	Bürgermeisterin	NN	NN	_	dat|sg|fem	-1	11	_	NK	_	_
+14	:	:	:	$.	$.	_	_	-1	13	_	--	_	_
+15	"	"	"	$(	$(	_	_	-1	14	_	--	_	_
+16	Jetzt	jetzt	jetzt	ADV	ADV	_	_	-1	24	_	MO	_	_
+17	werden	werden	werden	VAFIN	VAFIN	_	pl|3|pres|ind	-1	6	_	CJ	_	_
+18	Sie	Sie	Sie	PPER	PPER	_	nom|pl|*|3	-1	17	_	SB	_	_
+19	erst	erst	erst	ADV	ADV	_	_	-1	20	_	MO	_	_
+20	einmal	einmal	einmal	ADV	ADV	_	_	-1	24	_	MO	_	_
+21	an	an	an	APPR	APPR	_	_	-1	24	_	MO	_	_
+22	Ihren	ihr	ihr	PPOSAT	PPOSAT	_	dat|pl|fem	-1	23	_	NK	_	_
+23	Taten	Tat	Tat	NN	NN	_	dat|pl|fem	-1	21	_	NK	_	_
+24	gemessen	messen	messen	VVPP	VVPP	_	_	-1	17	_	OC	_	_
+25	.	.	.	$.	$.	_	_	-1	24	_	--	_	_
+26	"	"	"	$(	$(	_	_	-1	25	_	--	_	_
+

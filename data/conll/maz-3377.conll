@@ -1,0 +1,185 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::7
+1	Absicht	Absicht	Absicht	NN	NN	_	nom|sg|fem	-1	0	_	--	_	_
+
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::4	5::5	11::4	16::7	24::5	30::3	34::9	44::18	63::1	65::3	69::12	82::4	87::4	92::3	96::8	105::3	109::14	124::3	128::3	132::14	147::13	161::3	165::3	169::9	179::8	188::1
+1	Erst	erst	erst	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	rührt	rühren	rühren	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	2	_	OA	_	_
+4	niemand	niemand	niemand	PIS	PIS	_	nom|sg|masc	-1	2	_	SB	_	_
+5	unter	unter	unter	APPR	APPR	_	_	-1	2	_	MO	_	_
+6	den	die	die	ART	ART	_	dat|pl|masc	-1	7	_	NK	_	_
+7	Dallgower	Dallgower	Dallgower	NN	NN	_	dat|pl|masc	-1	5	_	NK	_	_
+8	Kommunalpolitikern	Kommunalpolitiker	Kommunalpolitiker	NN	NN	_	dat|pl|masc	-1	2	_	OA	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	nun	nun	nun	ADV	ADV	_	_	-1	11	_	MO	_	_
+11	überschlagen	überschlagen	überschlagen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	2	_	CJ	_	_
+12	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	11	_	OA	_	_
+13	alle	alle	alle	PIS	PIS	_	nom|pl|*	-1	11	_	SB	_	_
+14	mit	mit	mit	APPR	APPR	_	_	-1	11	_	MO	_	_
+15	Anträgen	Antrag	Antrag	NN	NN	_	dat|pl|masc	-1	14	_	NK	_	_
+16	zur	zu	zu	APPRART	APPRART	_	dat|sg|fem	-1	11	_	MO	_	_
+17	Gemeindereform	Gemeindereform	Gemeindereform	NN	NN	_	dat|sg|fem	-1	16	_	NK	_	_
+18	und	und	und	KON	KON	_	_	-1	11	_	CD	_	_
+19	den	die	die	ART	ART	_	dat|pl|neut	-1	21	_	NK	_	_
+20	vorausgehenden	vorausgehend	vorausgehend	ADJA	ADJA	_	dat|pl|neut|pos	-1	21	_	NK	_	_
+21	Verhandlungen	Verhandlung	Verhandlung	NN	NN	_	dat|pl|neut	-1	18	_	CJ	_	_
+22	mit	mit	mit	APPR	APPR	_	_	-1	21	_	OP	_	_
+23	den	die	die	ART	ART	_	dat|pl|neut	-1	25	_	NK	_	_
+24	südlichen	südlich	südlich	ADJA	ADJA	_	dat|pl|neut|pos	-1	25	_	NK	_	_
+25	Nachbarn	Nachbar	Nachbar	NN	NN	_	dat|pl|neut	-1	22	_	NK	_	_
+26	.	.	.	$.	$.	_	_	-1	25	_	--	_	_
+
+	sentence_start	0	214	424	492
+	token_offsets	sentence	0	offsets	0::5	6::4	11::4	16::3	20::8	29::9	39::1	41::6	48::9	58::6	65::3	69::11	81::11	93::6	100::1	101::0	103::4	108::3	112::12	125::1	127::6	134::6	141::6	148::4	153::8	162::7	170::1	172::8	181::5	187::13	201::9	211::1
+	token_offsets	sentence	1	offsets	214::5	220::6	227::3	231::4	236::6	243::12	256::11	268::1	270::5	276::3	280::3	284::13	298::3	302::5	308::5	314::3	318::11	330::18	349::10	360::1	362::4	367::6	374::3	378::4	383::3	387::3	391::3	395::13	409::6	416::4	421::1
+	token_offsets	sentence	2	offsets	424::5	430::7	438::3	442::3	446::3	450::5	456::11	468::20	489::1
+	token_offsets	sentence	3	offsets	492::6	499::3	503::16	520::3	524::6	531::1	533::8	542::9	552::18	571::1	573::3	577::3	581::2	584::5	590::9	600::2	603::9	613::8	622::10	633::1
+1	Nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	6	_	NG	_	_
+2	klar	klar	klar	ADJD	ADJD	_	pos	-1	14	_	MO	_	_
+3	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	zum	zu	zu	APPRART	APPRART	_	dat|sg|masc	-1	3	_	MO	_	_
+5	jetzigen	jetzig	jetzig	ADJA	ADJA	_	dat|sg|masc|pos	-1	6	_	NK	_	_
+6	Zeitpunkt	Zeitpunkt	Zeitpunkt	NN	NN	_	dat|sg|masc	-1	4	_	NK	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	welche	welche	welche	PRELS	PRELS	_	acc|pl|fem	-1	9	_	NK	_	_
+9	Absichten	Absicht	Absicht	NN	NN	_	acc|pl|fem	-1	14	_	SB	_	_
+10	hinter	hinter	hinter	APPR	APPR	_	_	-1	14	_	MO	_	_
+11	dem	die	die	ART	ART	_	dat|sg|masc	-1	13	_	NK	_	_
+12	plötzlichen	plötzlich	plötzlich	ADJA	ADJA	_	dat|sg|masc|pos	-1	13	_	NK	_	_
+13	Aktionismus	Aktionismus	Aktionismus	NN	NN	_	dat|sg|masc	-1	10	_	NK	_	_
+14	stehen	stehen	stehen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	16	_	OC	_	_
+15	:	:	:	$.	$.	_	_	-1	14	_	--	_	_
+16	Will	wollen	wollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	3	_	CJ	_	_
+17	die	die	die	ART	ART	_	nom|sg|fem	-1	18	_	NK	_	_
+18	SPD-Fraktion	SPD-Fraktion	SPD-Fraktion	NN	NN	_	nom|sg|fem	-1	16	_	SB	_	_
+19	-	-	-	$(	$(	_	_	-1	18	_	--	_	_
+20	bisher	bisher	bisher	ADV	ADV	_	_	-1	22	_	MO	_	_
+21	völlig	völlig	völlig	ADJD	ADJD	_	pos	-1	22	_	MO	_	_
+22	uneins	uneins	uneins	ADJD	ADJD	_	_	-1	18	_	PAR	_	_
+23	über	über	über	APPR	APPR	_	_	-1	22	_	OP	_	_
+24	Dallgows	Dallgows	Dallgows	NN	NN	_	gen|sg|*	-1	25	_	AG	_	_
+25	Zukunft	Zukunft	Zukunft	NN	NN	_	dat|sg|fem	-1	23	_	NK	_	_
+26	-	-	-	$(	$(	_	_	-1	25	_	--	_	_
+27	wirklich	wirklich	wirklich	ADJD	ADJD	_	pos	-1	28	_	MO	_	_
+28	faire	fair	fair	ADJA	ADJA	_	acc|pl|*|comp	-1	29	_	NK	_	_
+29	Verhandlungen	Verhandlung	Verhandlung	NN	NN	_	dat|pl|fem	-1	30	_	OA	_	_
+30	anstreben	anstreben	anstreben	VVINF	VVINF	_	pl|3|pres|ind	-1	16	_	OC	_	_
+31	?	?	?	$.	$.	_	_	-1	30	_	--	_	_
+
+1	Warum	warum	warum	PWAV	PWAV	_	_	-1	2	_	MO	_	_
+2	stellt	stellen	stellen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	sie	sie	sie	PPER	PPER	_	nom|sg|fem|3	-1	2	_	SB	_	_
+4	dann	dann	dann	ADV	ADV	_	_	-1	2	_	MO	_	_
+5	schier	schier	schier	ADJD	ADJD	_	pos	-1	6	_	MO	_	_
+6	unannehmbare	unannehmbar	unannehmbar	ADJA	ADJA	_	acc|pl|fem|pos	-1	7	_	NK	_	_
+7	Bedingungen	Bedingung	Bedingung	NN	NN	_	acc|pl|fem	-1	2	_	OA	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	indem	indem	indem	KOUS	KOUS	_	_	-1	19	_	CP	_	_
+10	sie	sie	sie	PPER	PPER	_	nom|pl|*|3	-1	19	_	SB	_	_
+11	den	die	die	ART	ART	_	acc|sg|masc	-1	12	_	NK	_	_
+12	Bürgermeister	Bürgermeister	Bürgermeister	NN	NN	_	acc|sg|masc	-1	19	_	OA	_	_
+13	mit	mit	mit	APPR	APPR	_	_	-1	19	_	MO	_	_
+14	einem	eine	eine	ART	ART	_	dat|sg|masc	-1	18	_	NK	_	_
+15	solch	solche	solche	PIAT	PIAT	_	*|*|*	-1	17	_	MO	_	_
+16	eng	eng	eng	ADJD	ADJD	_	pos	-1	17	_	MO	_	_
+17	geschnürten	geschnürt	geschnürt	ADJA	ADJA	_	dat|sg|masc|pos	-1	18	_	NK	_	_
+18	Verhandlungsmandat	Verhandlungsmandat	Verhandlungsmandat	NN	NN	_	dat|sg|masc	-1	13	_	NK	_	_
+19	ausstattet	ausstatten	ausstatten	VVFIN	VVFIN	_	sg|3|pres|ind	-1	2	_	MO	_	_
+20	,	,	,	$,	$,	_	_	-1	19	_	--	_	_
+21	dass	dass	dass	KOUS	KOUS	_	_	-1	30	_	CP	_	_
+22	dieser	diese	diese	PDS	PDS	_	nom|sg|masc	-1	30	_	SB	_	_
+23	nur	nur	nur	ADV	ADV	_	_	-1	25	_	MO	_	_
+24	noch	noch	noch	ADV	ADV	_	_	-1	25	_	MO	_	_
+25	das	die	die	PDS	PDS	_	acc|sg|neut	-1	29	_	OA	_	_
+26	Wie	wie	wie	KOKOM	KOKOM	_	_	-1	28	_	CM	_	_
+27	der	die	die	ART	ART	_	dat|sg|fem	-1	28	_	NK	_	_
+28	Eingemeindung	Eingemeindung	Eingemeindung	NN	NN	_	dat|sg|fem	-1	24	_	CC	_	_
+29	klären	klären	klären	VVINF	VVINF	_	_	-1	30	_	OC	_	_
+30	darf	dürfen	dürfen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	2	_	MO	_	_
+31	.	.	.	$.	$.	_	_	-1	30	_	--	_	_
+
+1	Warum	warum	warum	PWAV	PWAV	_	_	-1	2	_	MO	_	_
+2	beharrt	beharren	beharren	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	die	die	die	ART	ART	_	nom|sg|fem	-1	4	_	NK	_	_
+4	CDU	CDU	CDU	NE	NE	_	nom|sg|fem	-1	2	_	SB	_	_
+5	auf	auf	auf	APPR	APPR	_	_	-1	2	_	OP	_	_
+6	einer	eine	eine	ART	ART	_	dat|sg|fem	-1	8	_	NK	_	_
+7	neuerlichen	neuerlich	neuerlich	ADJA	ADJA	_	dat|sg|fem|pos	-1	8	_	NK	_	_
+8	Einwohnerversammlung	Einwohnerversammlung	Einwohnerversammlung	NN	NN	_	dat|sg|fem	-1	5	_	NK	_	_
+9	?	?	?	$.	$.	_	_	-1	8	_	--	_	_
+
+1	Warten	warten	warten	VVFIN	VVFIN	_	nom|pl|fem	-1	0	_	--	_	_
+2	die	die	die	ART	ART	_	nom|pl|fem	-1	3	_	NK	_	_
+3	Christdemokraten	Christdemokrat	Christdemokrat	NN	NN	_	nom|pl|masc	-1	1	_	SB	_	_
+4	nur	nur	nur	ADV	ADV	_	_	-1	8	_	MO	_	_
+5	darauf	darauf	darauf	PAV	PAV	_	_	-1	8	_	NK	_	_
+6	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+7	genügend	genügend	genügend	ADJD	ADJD	_	pos	-1	8	_	MO	_	_
+8	Claqueure	Claqueure	Claqueure	NN	NN	_	acc|pl|masc	-1	9	_	OA	_	_
+9	zusammenzubekommen	zusammenbekommen	zusammenbekommen	VVIZU	VVIZU	_	_	-1	1	_	OC	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	die	die	die	PRELS	PRELS	_	nom|pl|masc	-1	19	_	OA	_	_
+12	sie	sie	sie	PPER	PPER	_	nom|sg|fem|3	-1	19	_	SB	_	_
+13	in	in	in	APPR	APPR	_	_	-1	19	_	MO	_	_
+14	ihrer	ihr	ihr	PPOSAT	PPOSAT	_	dat|sg|fem	-1	15	_	NK	_	_
+15	Ablehnung	Ablehnung	Ablehnung	NN	NN	_	dat|sg|fem	-1	13	_	NK	_	_
+16	zu	zu	zu	APPR	APPR	_	_	-1	19	_	MO	_	_
+17	jeglichen	jegliche	jegliche	PIAT	PIAT	_	dat|pl|fem	-1	18	_	NK	_	_
+18	Fusionen	Fusion	Fusion	NN	NN	_	dat|pl|fem	-1	16	_	NK	_	_
+19	bestätigen	bestätigen	bestätigen	VVINF	VVINF	_	_	-1	8	_	RC	_	_
+20	?	?	?	$.	$.	_	_	-1	19	_	--	_	_
+
+	sentence_start	0	233
+	token_offsets	sentence	0	offsets	0::6	7::4	12::8	21::1	23::3	27::3	31::6	38::18	57::1	59::3	63::6	70::3	74::5	80::13	94::3	98::17	116::19	136::11	148::1	150::7	158::4	163::3	167::10	178::3	182::5	188::9	198::3	202::3	206::3	210::3	214::15	230::1
+	token_offsets	sentence	1	offsets	233::3	237::7	245::6	252::2	255::8	264::8	273::8	282::6	289::1	291::4	296::3	300::2	303::7	311::6	318::1
+1	Allein	allein	allein	ADV	ADV	_	_	-1	3	_	MO	_	_
+2	eine	eine	eine	ART	ART	_	nom|sg|fem	-1	3	_	NK	_	_
+3	Fraktion	Fraktion	Fraktion	NN	NN	_	nom|sg|fem	-1	20	_	SB	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	die	die	die	PRELS	PRELS	_	nom|sg|fem	-1	10	_	SB	_	_
+6	der	die	die	ART	ART	_	dat|sg|fem	-1	8	_	NK	_	_
+7	Freien	frei	frei	ADJA	ADJA	_	nom|sg|fem|pos	-1	8	_	NK	_	_
+8	Wählergemeinschaft	Wählergemeinschaft	Wählergemeinschaft	NN	NN	_	nom|sg|fem	-1	5	_	AG	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	3	_	RC	_	_
+11	bisher	bisher	bisher	ADV	ADV	_	_	-1	18	_	MO	_	_
+12	mit	mit	mit	APPR	APPR	_	_	-1	18	_	MO	_	_
+13	einer	eine	eine	ART	ART	_	dat|sg|fem	-1	17	_	NK	_	_
+14	einheitlichen	einheitlich	einheitlich	ADJA	ADJA	_	dat|sg|fem|pos	-1	17	_	NK	_	_
+15	und	und	und	KON	KON	_	_	-1	14	_	CD	_	_
+16	nachvollziehbaren	nachvollziehbar	nachvollziehbar	ADJA	ADJA	_	dat|sg|fem|pos	-1	15	_	CJ	_	_
+17	Argumentationslinie	Argumentationslinie	Argumentationslinie	NN	NN	_	dat|sg|fem	-1	12	_	NK	_	_
+18	aufgetreten	auftreten	auftreten	VVPP	VVPP	_	_	-1	10	_	OC	_	_
+19	,	,	,	$,	$,	_	_	-1	18	_	--	_	_
+20	bekennt	bekennen	bekennen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+21	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	20	_	OA	_	_
+22	zum	zu	zu	APPRART	APPRART	_	dat|sg|masc	-1	20	_	MO	_	_
+23	Dreierbund	Dreierbund	Dreierbund	NN	NN	_	dat|sg|masc	-1	22	_	NK	_	_
+24	und	und	und	KON	KON	_	_	-1	20	_	CD	_	_
+25	lässt	lassen	lassen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	24	_	CJ	_	_
+26	Spielraum	Spielraum	Spielraum	NN	NN	_	acc|sg|masc	-1	25	_	OA	_	_
+27	für	für	für	APPR	APPR	_	_	-1	26	_	MNR	_	_
+28	die	die	die	ART	ART	_	acc|sg|fem	-1	29	_	NK	_	_
+29	Art	Art	Art	NN	NN	_	acc|sg|fem	-1	27	_	NK	_	_
+30	des	die	die	ART	ART	_	gen|sg|neut	-1	31	_	NK	_	_
+31	Zustandekommens	Zustandekommen	Zustandekommen	NN	NN	_	gen|sg|neut	-1	29	_	AG	_	_
+32	.	.	.	$.	$.	_	_	-1	31	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|pl|*	-1	2	_	NK	_	_
+2	anderen	andere	andere	PIS	PIS	_	nom|pl|*	-1	3	_	SB	_	_
+3	werden	werden	werden	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+4	am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	8	_	MO	_	_
+5	nächsten	nah	nah	ADJA	ADJA	_	dat|sg|masc|pos	-1	6	_	NK	_	_
+6	Mittwoch	Mittwoch	Mittwoch	NN	NN	_	dat|sg|masc	-1	4	_	NK	_	_
+7	beweisen	beweisen	beweisen	VVINF	VVINF	_	_	-1	8	_	OC	_	_
+8	müssen	müssen	müssen	VMINF	VMINF	_	_	-1	3	_	OC	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	dass	dass	dass	KOUS	KOUS	_	_	-1	14	_	CP	_	_
+11	sie	sie	sie	PPER	PPER	_	nom|pl|*|3	-1	14	_	SB	_	_
+12	es	es	es	PPER	PPER	_	acc|sg|neut|3	-1	14	_	OA	_	_
+13	ehrlich	ehrlich	ehrlich	ADJD	ADJD	_	pos	-1	14	_	MO	_	_
+14	meinen	meinen	meinen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	8	_	MO	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+

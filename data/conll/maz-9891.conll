@@ -1,0 +1,219 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::11
+1	Durchhalten	Durchhalten	Durchhalten	NN	NN	_	nom|pl|fem	-1	0	_	--	_	_
+
+	sentence_start	0	46	124	216
+	token_offsets	sentence	0	offsets	0::8	9::4	14::3	18::11	30::4	35::7	43::1
+	token_offsets	sentence	1	offsets	46::5	52::6	59::4	64::3	68::16	85::5	91::3	95::3	99::13	113::7	121::1
+	token_offsets	sentence	2	offsets	124::5	130::5	136::7	144::2	147::9	157::1	159::3	163::19	183::8	192::1	194::6	201::4	206::6	213::1
+	token_offsets	sentence	3	offsets	216::3	220::3	224::3	228::3	232::2	235::1
+1	Manchmal	manchmal	manchmal	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	die	die	die	ART	ART	_	nom|pl|masc	-1	4	_	NK	_	_
+4	Zehdenicker	Zehdenicker	Zehdenicker	NN	NN	_	nom|pl|masc	-1	2	_	SB	_	_
+5	zähe	zäh	zäh	ADJA	ADJA	_	acc|pl|fem|pos	-1	6	_	NK	_	_
+6	Brocken	Brocken	Brocken	NN	NN	_	acc|pl|fem	-1	2	_	PD	_	_
+7	.	.	.	$.	$.	_	_	-1	6	_	--	_	_
+
+1	Jetzt	jetzt	jetzt	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	wollen	wollen	wollen	VMFIN	VMFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	10	_	OA	_	_
+4	die	die	die	ART	ART	_	nom|pl|*	-1	5	_	NK	_	_
+5	Stadtverordneten	Stadtverordnete	Stadtverordnete	NN	NN	_	nom|pl|*	-1	2	_	SB	_	_
+6	sogar	sogar	sogar	ADV	ADV	_	_	-1	2	_	MO	_	_
+7	mit	mit	mit	APPR	APPR	_	_	-1	10	_	MO	_	_
+8	der	die	die	ART	ART	_	dat|sg|fem	-1	9	_	NK	_	_
+9	Denkmalpflege	Denkmalpflege	Denkmalpflege	NN	NN	_	dat|sg|fem	-1	7	_	NK	_	_
+10	anlegen	anlegen	anlegen	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	5	_	NG	_	_
+2	alles	alle	alle	PIS	PIS	_	nom|sg|neut	-1	8	_	NK	_	_
+3	einfach	einfach	einfach	ADV	ADV	_	_	-1	5	_	MO	_	_
+4	so	so	so	ADV	ADV	_	_	-1	5	_	MO	_	_
+5	hinnehmen	hinnehmen	hinnehmen	VVINF	VVINF	_	_	-1	11	_	OC	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	was	was	was	PRELS	PRELS	_	nom|sg|neut	-1	9	_	OA	_	_
+8	Behördenmitarbeiter	Behördenmitarbeiter	Behördenmitarbeiter	NN	NN	_	acc|pl|masc	-1	9	_	OA	_	_
+9	vorgeben	vorgeben	vorgeben	VVINF	VVINF	_	_	-1	5	_	OC	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	lautet	lauten	lauten	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+12	ihre	ihr	ihr	PPOSAT	PPOSAT	_	acc|sg|fem	-1	13	_	NK	_	_
+13	Devise	Devise	Devise	NN	NN	_	acc|sg|fem	-1	11	_	OA	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	3	_	JU	_	_
+2	das	die	die	PDS	PDS	_	nom|sg|neut	-1	3	_	SB	_	_
+3	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	gut	gut	gut	ADJD	ADJD	_	pos	-1	3	_	PD	_	_
+5	so	so	so	ADV	ADV	_	_	-1	3	_	MO	_	_
+6	.	.	.	$.	$.	_	_	-1	5	_	--	_	_
+
+	sentence_start	0	65	175	369	554	626	743
+	token_offsets	sentence	0	offsets	0::4	5::3	9::7	17::3	21::14	36::3	40::4	45::16	62::1
+	token_offsets	sentence	1	offsets	65::7	73::4	78::6	85::8	94::1	96::11	108::4	113::2	116::5	122::9	132::2	135::8	144::4	149::6	156::2	159::12	172::1
+	token_offsets	sentence	2	offsets	175::2	178::5	184::3	188::16	205::10	216::3	220::6	227::5	233::1	235::4	240::3	244::4	249::5	255::4	260::8	269::13	283::4	288::9	298::8	307::5	313::10	324::8	333::8	342::14	357::8	366::1
+	token_offsets	sentence	3	offsets	369::5	375::4	380::3	384::4	389::6	396::2	399::3	403::11	415::6	422::1	424::2	427::3	431::17	449::7	457::16	474::4	479::7	487::3	491::3	495::5	501::13	515::10	526::1	528::3	532::12	545::5	551::1
+	token_offsets	sentence	4	offsets	554::4	559::4	564::3	568::11	580::7	588::6	595::1	597::3	601::4	606::3	610::12	623::1
+	token_offsets	sentence	5	offsets	626::10	637::6	644::3	648::4	653::7	661::4	666::1	668::4	673::2	676::3	680::1	682::5	688::1	690::3	694::13	708::3	712::1	714::4	719::4	724::4	729::5	735::4	740::1
+	token_offsets	sentence	6	offsets	743::2	746::4	751::5	757::9	767::1	769::4	774::5	780::4	785::7	793::11	805::2	808::10	819::1	821::8	830::1	832::1
+1	Denn	denn	denn	KON	KON	_	_	-1	6	_	JU	_	_
+2	die	die	die	ART	ART	_	nom|sg|fem	-1	3	_	NK	_	_
+3	Ansicht	Ansicht	Ansicht	NN	NN	_	nom|sg|fem	-1	6	_	SB	_	_
+4	der	die	die	ART	ART	_	gen|pl|masc	-1	5	_	NK	_	_
+5	Denkmalpfleger	Denkmalpfleger	Denkmalpfleger	NN	NN	_	gen|pl|masc	-1	3	_	AG	_	_
+6	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+7	kaum	kaum	kaum	ADV	ADV	_	_	-1	8	_	MO	_	_
+8	nachzuvollziehen	nachvollziehen	nachvollziehen	VVIZU	VVIZU	_	_	-1	6	_	OC	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+1	Überall	überall	überall	ADV	ADV	_	_	-1	16	_	MO	_	_
+2	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	darauf	darauf	darauf	PAV	PAV	_	_	-1	7	_	NK	_	_
+4	gedrängt	drängen	drängen	VVPP	VVPP	_	_	-1	2	_	OC	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	historische	historisch	historisch	ADJA	ADJA	_	nom|pl|neut|pos	-1	7	_	NK	_	_
+7	Orte	Ort	Ort	NN	NN	_	nom|pl|neut	-1	12	_	OA	_	_
+8	in	in	in	APPR	APPR	_	_	-1	12	_	MO	_	_
+9	ihrem	ihr	ihr	PPOSAT	PPOSAT	_	dat|sg|neut	-1	10	_	NK	_	_
+10	Urzustand	Urzustand	Urzustand	NN	NN	_	acc|sg|masc	-1	8	_	NK	_	_
+11	zu	zu	zu	PTKZU	PTKZU	_	_	-1	12	_	PM	_	_
+12	belassen	belassen	belassen	VVINF	VVINF	_	_	-1	2	_	SB	_	_
+13	oder	oder	oder	KON	KON	_	_	-1	12	_	CD	_	_
+14	wieder	wieder	wieder	ADV	ADV	_	_	-1	16	_	MO	_	_
+15	so	so	so	ADV	ADV	_	_	-1	16	_	MO	_	_
+16	herzustellen	herstellen	herstellen	VVIZU	VVIZU	_	_	-1	13	_	CJ	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
+1	Da	da	da	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	kommt	kommen	kommen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	5	_	NK	_	_
+4	innerstädtischer	innerstädtisch	innerstädtisch	ADJA	ADJA	_	nom|sg|masc|pos	-1	5	_	NK	_	_
+5	Straßenbau	Straßenbau	Straßenbau	NN	NN	_	nom|sg|masc	-1	2	_	SB	_	_
+6	oft	oft	oft	ADV	ADV	_	_	-1	2	_	MO	_	_
+7	gerade	gerade	gerade	ADV	ADV	_	_	-1	2	_	MO	_	_
+8	Recht	Recht	Recht	NN	NN	_	acc|sg|neut	-1	2	_	SB	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	kann	können	können	VMFIN	VMFIN	_	sg|3|pres|ind	-1	2	_	CJ	_	_
+11	man	man	man	PIS	PIS	_	nom|sg|*	-1	10	_	SB	_	_
+12	doch	doch	doch	ADV	ADV	_	_	-1	10	_	MO	_	_
+13	dabei	dabei	dabei	PAV	PAV	_	_	-1	16	_	NK	_	_
+14	auch	auch	auch	ADV	ADV	_	_	-1	16	_	MO	_	_
+15	löchrige	löchrig	löchrig	ADJA	ADJA	_	nom|pl|fem|pos	-1	16	_	NK	_	_
+16	Asphaltpisten	Asphaltpiste	Asphaltpiste	NN	NN	_	nom|pl|fem	-1	25	_	OA	_	_
+17	oder	oder	oder	KON	KON	_	_	-1	16	_	CD	_	_
+18	buckliges	bucklig	bucklig	ADJA	ADJA	_	nom|sg|neut|pos	-1	19	_	NK	_	_
+19	Pflaster	Pflaster	Pflaster	NN	NN	_	nom|sg|neut	-1	17	_	CJ	_	_
+20	durch	durch	durch	APPR	APPR	_	_	-1	19	_	MNR	_	_
+21	ordentlich	ordentlich	ordentlich	ADJD	ADJD	_	pos	-1	22	_	MO	_	_
+22	verlegte	verlegt	verlegt	ADJA	ADJA	_	sg|3|past|ind	-1	24	_	NK	_	_
+23	passende	passend	passend	ADJA	ADJA	_	nom|sg|fem|pos	-1	24	_	NK	_	_
+24	Pflastersteine	Pflasterstein	Pflasterstein	NN	NN	_	nom|sg|fem	-1	20	_	NK	_	_
+25	ersetzen	ersetzen	ersetzen	VVINF	VVINF	_	_	-1	10	_	OC	_	_
+26	.	.	.	$.	$.	_	_	-1	25	_	--	_	_
+
+1	Warum	warum	warum	PWAV	PWAV	_	_	-1	2	_	MO	_	_
+2	soll	sollen	sollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	nun	nun	nun	ADV	ADV	_	_	-1	2	_	MO	_	_
+4	aber	aber	aber	ADV	ADV	_	_	-1	2	_	MO	_	_
+5	direkt	direkt	direkt	ADJD	ADJD	_	pos	-1	6	_	MO	_	_
+6	an	an	an	APPR	APPR	_	_	-1	2	_	MO	_	_
+7	der	die	die	ART	ART	_	dat|sg|fem	-1	8	_	NK	_	_
+8	Zehdenicker	Zehdenicker	Zehdenicker	NN	NN	_	dat|sg|fem	-1	6	_	NK	_	_
+9	Kirche	Kirche	Kirche	NN	NN	_	nom|sg|fem	-1	8	_	NK	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	wo	wo	wo	PWAV	PWAV	_	_	-1	18	_	MO	_	_
+12	das	die	die	ART	ART	_	nom|sg|neut	-1	13	_	NK	_	_
+13	Kopfsteinpflaster	Kopfsteinpflaster	Kopfsteinpflaster	NN	NN	_	nom|sg|neut	-1	18	_	SB	_	_
+14	derzeit	derzeit	derzeit	ADV	ADV	_	_	-1	18	_	MO	_	_
+15	zugegebenermaßen	zugegebenermaßen	zugegebenermaßen	ADV	ADV	_	_	-1	18	_	MO	_	_
+16	sehr	sehr	sehr	ADV	ADV	_	_	-1	17	_	MO	_	_
+17	hügelig	hügelig	hügelig	ADJD	ADJD	_	pos	-1	18	_	PD	_	_
+18	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	9	_	RC	_	_
+19	und	und	und	KON	KON	_	_	-1	18	_	CD	_	_
+20	laute	laut	laut	ADJA	ADJA	_	acc|pl|neut|pos	-1	21	_	NK	_	_
+21	Rollgeräusche	Rollgeräusch	Rollgeräusch	NN	NN	_	acc|pl|neut	-1	22	_	OA	_	_
+22	verursacht	verursachen	verursachen	VVPP	VVPP	_	_	-1	19	_	CJ	_	_
+23	,	,	,	$,	$,	_	_	-1	22	_	--	_	_
+24	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	25	_	NK	_	_
+25	Asphaltbelag	Asphaltbelag	Asphaltbelag	NN	NN	_	nom|sg|masc	-1	2	_	SB	_	_
+26	drauf	drauf	drauf	PAV	PAV	_	_	-1	25	_	NK	_	_
+27	?	?	?	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Dass	dass	dass	KOUS	KOUS	_	_	-1	6	_	CP	_	_
+2	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	6	_	OA	_	_
+3	die	die	die	ART	ART	_	nom|pl|masc	-1	4	_	NK	_	_
+4	Zehdenicker	Zehdenicker	Zehdenicker	NN	NN	_	nom|pl|masc	-1	6	_	SB	_	_
+5	dagegen	dagegen	dagegen	PAV	PAV	_	_	-1	6	_	NK	_	_
+6	wehren	wehren	wehren	VVINF	VVINF	_	pl|3|pres|ind	-1	8	_	SB	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+9	mehr	mehr	mehr	ADV	ADV	_	*|*|*	-1	8	_	MO	_	_
+10	als	als	als	KOKOM	KOKOM	_	_	-1	11	_	CM	_	_
+11	verständlich	verständlich	verständlich	ADJD	ADJD	_	pos	-1	9	_	CC	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Allerdings	allerdings	allerdings	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	müssen	müssen	müssen	VMFIN	VMFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	sie	sie	sie	PPER	PPER	_	nom|pl|*|3	-1	2	_	SB	_	_
+4	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	5	_	DA	_	_
+5	bewusst	bewusst	bewusst	ADJD	ADJD	_	_	-1	6	_	PD	_	_
+6	sein	sein	sein	VAINF	VAINF	_	_	-1	2	_	OC	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	dass	dass	dass	KOUS	KOUS	_	_	-1	16	_	CP	_	_
+9	so	so	so	ADV	ADV	_	_	-1	12	_	MO	_	_
+10	ein	eine	eine	ART	ART	_	nom|sg|neut	-1	12	_	NK	_	_
+11	"	"	"	$(	$(	_	_	-1	10	_	--	_	_
+12	Kampf	Kampf	Kampf	NN	NN	_	nom|sg|masc	-1	16	_	SB	_	_
+13	"	"	"	$(	$(	_	_	-1	12	_	--	_	_
+14	nur	nur	nur	ADV	ADV	_	_	-1	15	_	MO	_	_
+15	durchzustehen	durchstehen	durchstehen	VVIZU	VVIZU	_	_	-1	16	_	OC	_	_
+16	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	2	_	MO	_	_
+17	,	,	,	$,	$,	_	_	-1	16	_	--	_	_
+18	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	22	_	CP	_	_
+19	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	21	_	DA	_	_
+20	alle	alle	alle	PIS	PIS	_	nom|pl|*	-1	22	_	SB	_	_
+21	einig	einig	einig	ADJD	ADJD	_	pos	-1	22	_	PD	_	_
+22	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	2	_	MO	_	_
+23	.	.	.	$.	$.	_	_	-1	22	_	--	_	_
+
+1	Es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	SB	_	_
+2	darf	dürfen	dürfen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	2	_	NG	_	_
+4	passieren	passieren	passieren	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	dass	dass	dass	KOUS	KOUS	_	_	-1	14	_	CP	_	_
+7	einer	eine	eine	PIS	PIS	_	nom|sg|masc	-1	14	_	SB	_	_
+8	oder	oder	oder	KON	KON	_	_	-1	7	_	CD	_	_
+9	mehrere	mehrere	mehrere	PIAT	PIAT	_	acc|pl|*	-1	10	_	NK	_	_
+10	Abgeordnete	Abgeordnete	Abgeordnete	NN	NN	_	acc|pl|*	-1	8	_	CJ	_	_
+11	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	14	_	MO	_	_
+12	Nachhinein	nachhinein	nachhinein	ADV	ADV	_	_	-1	11	_	NK	_	_
+13	"	"	"	$(	$(	_	_	-1	12	_	--	_	_
+14	umfallen	umfallen	umfallen	VVINF	VVINF	_	_	-1	1	_	RE	_	_
+15	"	"	"	$(	$(	_	_	-1	14	_	--	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+	sentence_start	0	66
+	token_offsets	sentence	0	offsets	0::3	4::5	10::4	15::4	20::5	26::6	33::3	37::3	41::11	53::9	63::1
+	token_offsets	sentence	1	offsets	66::3	70::4	75::2	78::4	83::8	92::6	99::1
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	2	_	NK	_	_
+2	Kampf	Kampf	Kampf	NN	NN	_	nom|sg|masc	-1	3	_	SB	_	_
+3	kann	können	können	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	sehr	sehr	sehr	ADV	ADV	_	_	-1	5	_	MO	_	_
+5	lange	lange	lange	ADV	ADV	_	_	-1	6	_	MO	_	_
+6	dauern	dauern	dauern	VVINF	VVINF	_	_	-1	3	_	OC	_	_
+7	und	und	und	KON	KON	_	_	-1	6	_	CD	_	_
+8	das	die	die	ART	ART	_	acc|sg|neut	-1	9	_	NK	_	_
+9	Bauvorhaben	Bauvorhaben	Bauvorhaben	NN	NN	_	acc|sg|neut	-1	10	_	OA	_	_
+10	verzögern	verzögern	verzögern	VVINF	VVINF	_	_	-1	7	_	CJ	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Das	die	die	PDS	PDS	_	nom|sg|neut	-1	2	_	SB	_	_
+2	muss	müssen	müssen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	in	in	in	APPR	APPR	_	_	-1	5	_	CVC	_	_
+4	Kauf	Kauf	Kauf	NN	NN	_	acc|sg|masc	-1	3	_	NK	_	_
+5	genommen	nehmen	nehmen	VVPP	VVPP	_	_	-1	6	_	OC	_	_
+6	werden	werden	werden	VAINF	VAINF	_	_	-1	2	_	OC	_	_
+7	.	.	.	$.	$.	_	_	-1	6	_	--	_	_
+

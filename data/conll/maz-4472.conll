@@ -1,0 +1,212 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::2	3::4
+1	Zu	zu	zu	PTKA	PTKA	_	_	-1	2	_	MO	_	_
+2	spät	spät	spät	ADJD	ADJD	_	pos	-1	0	_	--	_	_
+
+	sentence_start	0	164
+	token_offsets	sentence	0	offsets	0::3	4::8	13::3	17::8	26::6	33::5	39::3	43::3	47::7	55::8	64::1	66::4	71::3	75::2	78::8	87::4	92::4	97::1	99::9	109::3	113::7	121::3	125::4	130::4	135::11	147::6	154::6	161::1
+	token_offsets	sentence	1	offsets	164::5	170::3	174::22	197::6	204::3	208::7	216::1	218::4	223::3	227::14	242::5	248::4	253::3	257::22	280::5	286::6	293::3	297::7	305::13	319::4	324::14	339::1
+1	Die	die	die	ART	ART	_	nom|pl|masc	-1	2	_	NK	_	_
+2	Ketziner	Ketziner	Ketziner	NN	NN	_	nom|pl|masc	-1	5	_	SB	_	_
+3	und	und	und	KON	KON	_	_	-1	2	_	CD	_	_
+4	Paretzer	Paretzer	Paretzer	NN	NN	_	nom|pl|masc	-1	3	_	CJ	_	_
+5	werden	werden	werden	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+6	heute	heute	heute	ADV	ADV	_	_	-1	10	_	MO	_	_
+7	aus	aus	aus	APPR	APPR	_	_	-1	10	_	MO	_	_
+8	der	die	die	ART	ART	_	dat|sg|fem	-1	9	_	NK	_	_
+9	Zeitung	Zeitung	Zeitung	NN	NN	_	dat|sg|fem	-1	7	_	NK	_	_
+10	erfahren	erfahren	erfahren	VVPP	VVPP	_	_	-1	5	_	OC	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	dass	dass	dass	KOUS	KOUS	_	_	-1	27	_	CP	_	_
+13	sie	sie	sie	PPER	PPER	_	nom|sg|fem|3	-1	27	_	SB	_	_
+14	ab	ab	ab	APPR	APPR	_	_	-1	26	_	MO	_	_
+15	Mittwoch	Mittwoch	Mittwoch	NN	NN	_	dat|sg|masc	-1	14	_	NK	_	_
+16	nach	nach	nach	APPR	APPR	_	_	-1	26	_	MO	_	_
+17	Uetz	Uetz	Uetz	NE	NE	_	dat|sg|neut	-1	16	_	NK	_	_
+18	,	,	,	$,	$,	_	_	-1	17	_	--	_	_
+19	Marquardt	Marquardt	Marquardt	NE	NE	_	dat|sg|neut	-1	17	_	CJ	_	_
+20	und	und	und	KON	KON	_	_	-1	19	_	CD	_	_
+21	Potsdam	Potsdam	Potsdam	NE	NE	_	dat|sg|neut	-1	20	_	CJ	_	_
+22	nur	nur	nur	ADV	ADV	_	_	-1	24	_	MO	_	_
+23	noch	noch	noch	ADV	ADV	_	_	-1	22	_	MO	_	_
+24	über	über	über	APPR	APPR	_	_	-1	26	_	MO	_	_
+25	Falkenrehde	Falkenrehde	Falkenrehde	NN	NN	_	acc|sg|fem	-1	24	_	NK	_	_
+26	fahren	fahren	fahren	VVINF	VVINF	_	_	-1	27	_	OC	_	_
+27	können	können	können	VMINF	VMINF	_	_	-1	10	_	MO	_	_
+28	.	.	.	$.	$.	_	_	-1	27	_	--	_	_
+
+1	Weder	weder	weder	KON	KON	_	_	-1	16	_	CD	_	_
+2	das	die	die	ART	ART	_	nom|sg|neut	-1	3	_	NK	_	_
+3	Wasserstraßenneubauamt	Wasserstraßenneubauamt	Wasserstraßenneubauamt	NN	NN	_	nom|sg|neut	-1	16	_	OA	_	_
+4	Berlin	Berlin	Berlin	NE	NE	_	nom|sg|neut	-1	3	_	NK	_	_
+5	als	als	als	KOKOM	KOKOM	_	_	-1	6	_	CM	_	_
+6	Bauherr	Bauherr	Bauherr	NN	NN	_	nom|sg|masc	-1	3	_	CC	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	noch	noch	noch	ADV	ADV	_	_	-1	11	_	MO	_	_
+9	die	die	die	ART	ART	_	nom|sg|fem	-1	11	_	NK	_	_
+10	bauausführende	bauausführend	bauausführend	ADJA	ADJA	_	nom|sg|fem|pos	-1	11	_	NK	_	_
+11	Firma	Firma	Firma	NN	NN	_	nom|sg|fem	-1	3	_	CJ	_	_
+12	oder	oder	oder	KON	KON	_	_	-1	11	_	CD	_	_
+13	die	die	die	ART	ART	_	nom|sg|fem	-1	14	_	NK	_	_
+14	Straßenverkehrsbehörde	Straßenverkehrsbehörde	Straßenverkehrsbehörde	NN	NN	_	nom|sg|fem	-1	12	_	CJ	_	_
+15	Nauen	Nauen	Nauen	ADJA	ADJA	_	acc|pl|fem|pos	-1	14	_	NK	_	_
+16	hatten	haben	haben	VAFIN	VAFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+17	bis	bis	bis	KON	KON	_	_	-1	18	_	CD	_	_
+18	gestern	gestern	gestern	ADV	ADV	_	_	-1	21	_	MO	_	_
+19	Informationen	Information	Information	NN	NN	_	acc|pl|fem	-1	21	_	OA	_	_
+20	dazu	dazu	dazu	PAV	PAV	_	_	-1	5	_	NK	_	_
+21	veröffentlicht	veröffentlichen	veröffentlichen	VVPP	VVPP	_	_	-1	16	_	OC	_	_
+22	.	.	.	$.	$.	_	_	-1	21	_	--	_	_
+
+	sentence_start	0	249	311	357
+	token_offsets	sentence	0	offsets	0::9	10::3	14::3	18::2	21::6	28::12	41::10	52::9	62::5	68::3	72::11	84::3	88::3	92::5	98::11	110::13	124::1	126::3	130::6	137::5	143::3	147::4	152::7	160::3	164::5	170::2	173::5	179::6	186::2	189::6	196::1	198::3	202::5	208::2	211::6	218::3	222::5	228::5	234::11	246::1
+	token_offsets	sentence	1	offsets	249::4	254::3	258::3	262::9	272::4	277::7	285::3	289::3	293::9	303::4	308::1
+	token_offsets	sentence	2	offsets	311::4	316::3	320::6	327::3	331::8	340::3	344::9	354::1
+	token_offsets	sentence	3	offsets	357::3	361::4	366::9	376::1	378::3	382::6	389::3	393::9	403::3	407::5	413::9	423::2	426::8	435::3	439::3	443::6	450::8	459::3	463::6	470::1
+1	Abgesehen	absehen	absehen	VVPP	VVPP	_	_	-1	30	_	MO	_	_
+2	von	von	von	APPR	APPR	_	_	-1	1	_	OP	_	_
+3	der	die	die	ART	ART	_	dat|sg|fem	-1	8	_	NK	_	_
+4	in	in	in	APPR	APPR	_	_	-1	6	_	MO	_	_
+5	Paretz	Paretz	Paretz	NN	NN	_	dat|sg|masc	-1	4	_	NK	_	_
+6	herrschenden	herrschend	herrschend	ADJA	ADJA	_	dat|sg|masc|pos	-1	8	_	NK	_	_
+7	generellen	generell	generell	ADJA	ADJA	_	dat|sg|masc|pos	-1	8	_	NK	_	_
+8	Ablehnung	Ablehnung	Ablehnung	NN	NN	_	dat|sg|masc	-1	2	_	NK	_	_
+9	gegen	gegen	gegen	APPR	APPR	_	_	-1	8	_	MNR	_	_
+10	den	die	die	ART	ART	_	acc|sg|masc	-1	11	_	NK	_	_
+11	Havelausbau	Havelausbau	Havelausbau	NN	NN	_	acc|sg|masc	-1	9	_	NK	_	_
+12	und	und	und	KON	KON	_	_	-1	11	_	CD	_	_
+13	den	die	die	ART	ART	_	acc|sg|masc	-1	16	_	NK	_	_
+14	damit	damit	damit	PAV	PAV	_	_	-1	16	_	NK	_	_
+15	verbundenen	verbunden	verbunden	ADJA	ADJA	_	acc|sg|masc|pos	-1	16	_	NK	_	_
+16	Brückenneubau	Brückenneubau	Brückenneubau	NN	NN	_	acc|sg|masc	-1	12	_	CJ	_	_
+17	-	-	-	$(	$(	_	_	-1	16	_	--	_	_
+18	die	die	die	ART	ART	_	acc|pl|masc	-1	19	_	NK	_	_
+19	Bürger	Bürger	Bürger	NN	NN	_	acc|pl|masc	-1	30	_	OA	_	_
+20	quasi	quasi	quasi	ADV	ADV	_	_	-1	21	_	MO	_	_
+21	bis	bis	bis	APPR	APPR	_	_	-1	30	_	MO	_	_
+22	fünf	fünf	fünf	CARD	CARD	_	_	-1	23	_	NK	_	_
+23	Minuten	Minute	Minute	NN	NN	_	nom|pl|masc	-1	21	_	NK	_	_
+24	vor	vor	vor	APPR	APPR	_	_	-1	28	_	MO	_	_
+25	Zwölf	zwölf	zwölf	CARD	CARD	_	dat|sg|neut	-1	24	_	NK	_	_
+26	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	28	_	MO	_	_
+27	Regen	Regen	Regen	NN	NN	_	dat|sg|neut	-1	26	_	NK	_	_
+28	stehen	stehen	stehen	VVINF	VVINF	_	_	-1	30	_	OC	_	_
+29	zu	zu	zu	PTKZU	PTKZU	_	_	-1	30	_	PM	_	_
+30	lassen	lassen	lassen	VVINF	VVINF	_	_	-1	32	_	SB	_	_
+31	,	,	,	$,	$,	_	_	-1	30	_	--	_	_
+32	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+33	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	35	_	NG	_	_
+34	zu	zu	zu	PTKZU	PTKZU	_	_	-1	35	_	PM	_	_
+35	fassen	fassen	fassen	VVINF	VVINF	_	_	-1	32	_	OC	_	_
+36	bei	bei	bei	APPR	APPR	_	_	-1	35	_	MO	_	_
+37	solch	solche	solche	PIAT	PIAT	_	*|*|*	-1	38	_	MO	_	_
+38	einem	eine	eine	ART	ART	_	dat|sg|neut	-1	39	_	NK	_	_
+39	Großprojekt	Großprojekt	Großprojekt	NN	NN	_	dat|sg|neut	-1	36	_	NK	_	_
+40	.	.	.	$.	$.	_	_	-1	39	_	--	_	_
+
+1	Zwar	zwar	zwar	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	die	die	die	ART	ART	_	nom|sg|fem	-1	4	_	NK	_	_
+4	Umleitung	Umleitung	Umleitung	NN	NN	_	nom|sg|fem	-1	2	_	SB	_	_
+5	laut	laut	laut	APPR	APPR	_	_	-1	2	_	MO	_	_
+6	Bauherr	Bauherr	Bauherr	NN	NN	_	dat|sg|*	-1	5	_	NK	_	_
+7	nur	nur	nur	ADV	ADV	_	_	-1	8	_	MO	_	_
+8	4,5	4,5	4,5	CARD	CARD	_	_	-1	9	_	NK	_	_
+9	Kilometer	Kilometer	Kilometer	NN	NN	_	acc|pl|masc	-1	10	_	AMS	_	_
+10	lang	lang	lang	ADJD	ADJD	_	pos	-1	2	_	PD	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Aber	aber	aber	KON	KON	_	_	-1	3	_	JU	_	_
+2	was	was	was	PWS	PWS	_	acc|sg|neut	-1	3	_	OA	_	_
+3	machen	machen	machen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+4	die	die	die	ART	ART	_	nom|pl|masc	-1	5	_	NK	_	_
+5	Wanderer	Wanderer	Wanderer	NN	NN	_	nom|pl|masc	-1	3	_	SB	_	_
+6	und	und	und	KON	KON	_	_	-1	5	_	CD	_	_
+7	Radfahrer	Radfahrer	Radfahrer	NN	NN	_	nom|pl|masc	-1	6	_	CJ	_	_
+8	?	?	?	$.	$.	_	_	-1	7	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	6	_	JU	_	_
+2	noch	noch	noch	ADV	ADV	_	_	-1	3	_	MO	_	_
+3	schlimmer	schlimm	schlimm	ADJD	ADJD	_	comp	-1	6	_	PD	_	_
+4	-	-	-	$(	$(	_	_	-1	3	_	--	_	_
+5	wie	wie	wie	KOUS	KOUS	_	_	-1	6	_	MO	_	_
+6	kommen	kommen	kommen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+7	die	die	die	ART	ART	_	nom|pl|masc	-1	8	_	NK	_	_
+8	Landwirte	Landwirt	Landwirt	NN	NN	_	nom|pl|masc	-1	6	_	SB	_	_
+9	mit	mit	mit	APPR	APPR	_	_	-1	6	_	MO	_	_
+10	ihren	ihr	ihr	PPOSAT	PPOSAT	_	dat|pl|masc	-1	11	_	NK	_	_
+11	Traktoren	Traktor	Traktor	NN	NN	_	dat|pl|masc	-1	9	_	NK	_	_
+12	ab	ab	ab	APPR	APPR	_	_	-1	6	_	MO	_	_
+13	Mittwoch	Mittwoch	Mittwoch	NN	NN	_	dat|sg|masc	-1	12	_	NK	_	_
+14	auf	auf	auf	APPR	APPR	_	_	-1	6	_	MO	_	_
+15	die	die	die	ART	ART	_	acc|sg|fem	-1	16	_	NK	_	_
+16	Felder	Feld	Feld	NN	NN	_	acc|sg|fem	-1	14	_	NK	_	_
+17	jenseits	jenseits	jenseits	APPR	APPR	_	_	-1	16	_	MNR	_	_
+18	des	die	die	ART	ART	_	gen|sg|neut	-1	19	_	NK	_	_
+19	Kanals	Kanal	Kanal	NN	NN	_	gen|sg|neut	-1	17	_	NK	_	_
+20	?	?	?	$.	$.	_	_	-1	19	_	--	_	_
+
+	sentence_start	0	68	203	264
+	token_offsets	sentence	0	offsets	0::4	5::3	9::3	13::22	36::7	44::1	46::4	51::4	56::3	60::4	65::1
+	token_offsets	sentence	1	offsets	68::5	74::3	78::7	86::6	93::6	100::4	105::1	107::3	111::3	115::12	128::9	138::3	142::10	153::2	156::4	161::4	166::3	170::15	186::3	190::9	200::1
+	token_offsets	sentence	2	offsets	203::4	208::5	214::4	219::3	223::4	228::1	230::4	235::2	238::4	243::3	247::4	252::3	256::4	261::1
+	token_offsets	sentence	3	offsets	264::3	268::6	275::10	286::4	291::7	299::3	303::5	309::12	322::1
+1	Hier	hier	hier	ADV	ADV	_	_	-1	5	_	MO	_	_
+2	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	das	die	die	ART	ART	_	nom|sg|neut	-1	4	_	NK	_	_
+4	Wasserstraßenneubauamt	Wasserstraßenneubauamt	Wasserstraßenneubauamt	NN	NN	_	nom|sg|neut	-1	2	_	SB	_	_
+5	versagt	versagen	versagen	VVPP	VVPP	_	sg|3|pres|ind	-1	2	_	OC	_	_
+6	-	-	-	$(	$(	_	_	-1	5	_	--	_	_
+7	ohne	ohne	ohne	APPR	APPR	_	_	-1	8	_	MO	_	_
+8	Wenn	wenn	wenn	KOUS	KOUS	_	_	-1	5	_	MO	_	_
+9	und	und	und	KON	KON	_	_	-1	8	_	CD	_	_
+10	Aber	aber	aber	KON	KON	_	_	-1	9	_	CD	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Wofür	wofür	wofür	PWAV	PWAV	_	_	-1	6	_	MO	_	_
+2	die	die	die	ART	ART	_	nom|sg|fem	-1	3	_	NK	_	_
+3	Behörde	Behörde	Behörde	NN	NN	_	nom|sg|fem	-1	6	_	SB	_	_
+4	jedoch	jedoch	jedoch	KON	KON	_	_	-1	3	_	CD	_	_
+5	nichts	nichts	nichts	PIS	PIS	_	*|*|neut	-1	4	_	CJ	_	_
+6	kann	können	können	VMFIN	VMFIN	_	sg|3|pres|ind	-1	8	_	SB	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+9	der	die	die	ART	ART	_	nom|sg|masc	-1	11	_	NK	_	_
+10	unglückliche	unglücklich	unglücklich	ADJA	ADJA	_	nom|sg|masc|pos	-1	11	_	NK	_	_
+11	Zeitpunkt	Zeitpunkt	Zeitpunkt	NN	NN	_	nom|sg|masc	-1	8	_	SB	_	_
+12	des	die	die	ART	ART	_	gen|sg|neut	-1	13	_	NK	_	_
+13	Baubeginns	Baubeginn	Baubeginn	NN	NN	_	gen|sg|neut	-1	11	_	AG	_	_
+14	so	so	so	ADV	ADV	_	_	-1	15	_	MO	_	_
+15	kurz	kurz	kurz	ADJD	ADJD	_	pos	-1	16	_	MO	_	_
+16	nach	nach	nach	APPR	APPR	_	_	-1	11	_	MNR	_	_
+17	der	die	die	ART	ART	_	dat|sg|fem	-1	18	_	NK	_	_
+18	Wiedereröffnung	Wiedereröffnung	Wiedereröffnung	NN	NN	_	dat|sg|fem	-1	16	_	NK	_	_
+19	des	die	die	ART	ART	_	gen|sg|neut	-1	20	_	NK	_	_
+20	Schlosses	Schloss	Schloss	NN	NN	_	gen|sg|neut	-1	18	_	AG	_	_
+21	.	.	.	$.	$.	_	_	-1	20	_	--	_	_
+
+1	Seit	seit	seit	APPR	APPR	_	_	-1	4	_	MO	_	_
+2	einem	eine	eine	ART	ART	_	dat|sg|neut	-1	3	_	NK	_	_
+3	Jahr	Jahr	Jahr	NN	NN	_	dat|sg|neut	-1	1	_	NK	_	_
+4	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	klar	klar	klar	ADJD	ADJD	_	pos	-1	4	_	PD	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	dass	dass	dass	KOUS	KOUS	_	_	-1	13	_	CP	_	_
+8	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	13	_	EP	_	_
+9	nach	nach	nach	APPR	APPR	_	_	-1	13	_	MO	_	_
+10	der	die	die	ART	ART	_	dat|sg|fem	-1	11	_	NK	_	_
+11	Buga	Buga	Buga	NN	NN	_	dat|sg|fem	-1	9	_	NK	_	_
+12	los	los	los	ADJD	ADJD	_	_	-1	13	_	MO	_	_
+13	geht	gehen	gehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	4	_	MO	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	3	_	NK	_	_
+2	enorme	enorm	enorm	ADJA	ADJA	_	nom|sg|masc|pos	-1	3	_	NK	_	_
+3	Zeitverzug	Zeitverzug	Zeitverzug	NN	NN	_	nom|sg|masc	-1	6	_	SB	_	_
+4	beim	bei	bei	APPRART	APPRART	_	dat|sg|masc	-1	3	_	MNR	_	_
+5	Schloss	Schloss	Schloss	NN	NN	_	dat|sg|masc	-1	4	_	NK	_	_
+6	war	sein	sein	VAFIN	VAFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+7	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	6	_	NG	_	_
+8	vorhersehbar	vorhersehbar	vorhersehbar	ADJD	ADJD	_	pos	-1	6	_	PD	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+

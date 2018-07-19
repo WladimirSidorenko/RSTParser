@@ -1,0 +1,237 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::1	2::16	19::1
+1	"	"	"	$(	$(	_	_	-1	2	_	--	_	_
+2	Schmierentheater	Schmierentheater	Schmierentheater	NN	NN	_	nom|pl|neut	-1	0	_	--	_	_
+3	"	"	"	$(	$(	_	_	-1	2	_	--	_	_
+
+	sentence_start	0	21	73	104	357	492	601	710
+	token_offsets	sentence	0	offsets	0::2	3::8	12::5	18::1
+	token_offsets	sentence	1	offsets	21::6	28::4	33::3	37::8	46::1	48::3	52::5	58::5	64::5	70::1
+	token_offsets	sentence	2	offsets	73::4	78::7	86::3	90::3	94::3	98::2	101::1
+	token_offsets	sentence	3	offsets	104::3	108::8	117::16	134::6	141::2	144::7	152::7	160::2	163::6	170::2	173::3	177::7	185::3	189::16	206::1	208::3	212::2	215::2	218::3	222::10	233::3	237::4	242::12	255::10	266::4	271::3	275::4	280::5	286::7	294::9	304::3	308::1	310::3	314::5	320::8	329::7	337::2	340::7	348::5	354::1
+	token_offsets	sentence	4	offsets	357::2	360::7	368::4	373::2	376::1	378::3	382::5	388::2	391::4	396::4	401::12	414::3	418::5	424::1	426::3	430::2	433::3	437::14	452::9	462::4	467::7	475::1	477::11	489::1
+	token_offsets	sentence	5	offsets	492::3	496::3	500::2	503::6	510::4	515::5	521::5	527::8	536::1	538::4	543::2	546::5	552::8	561::3	565::1	567::16	584::1	586::11	598::1
+	token_offsets	sentence	6	offsets	601::4	606::5	612::4	617::1	618::0	620::4	625::6	632::8	641::6	648::3	652::1	654::4	659::7	667::4	672::10	683::12	696::3	700::6	707::1
+	token_offsets	sentence	7	offsets	710::8	719::9	729::7	737::8	746::3	750::11	762::8	771::4	776::1
+1	Er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	2	_	SB	_	_
+2	stänkert	stänkern	stänkern	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	gerne	gerne	gerne	ADV	ADV	_	_	-1	2	_	MO	_	_
+4	.	.	.	$.	$.	_	_	-1	3	_	--	_	_
+
+1	Gunnar	Gunnar	Gunnar	NE	NE	_	nom|sg|masc	-1	2	_	PNC	_	_
+2	Lade	Lade	Lade	NN	NN	_	nom|sg|masc	-1	3	_	SB	_	_
+3	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	unbequem	unbequem	unbequem	ADJD	ADJD	_	pos	-1	3	_	PD	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	das	die	die	PDS	PDS	_	nom|sg|neut	-1	7	_	SB	_	_
+7	steht	stehen	stehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	3	_	CJ	_	_
+8	außer	außer	außer	APPR	APPR	_	_	-1	7	_	CVC	_	_
+9	Frage	Frage	Frage	NN	NN	_	acc|sg|fem	-1	8	_	NK	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+1	Doch	doch	doch	KON	KON	_	_	-1	3	_	JU	_	_
+2	diesmal	diesmal	diesmal	ADV	ADV	_	_	-1	3	_	MO	_	_
+3	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	das	die	die	PDS	PDS	_	nom|sg|neut	-1	3	_	SB	_	_
+5	gut	gut	gut	ADJD	ADJD	_	pos	-1	6	_	MO	_	_
+6	so	so	so	ADV	ADV	_	_	-1	3	_	MO	_	_
+7	.	.	.	$.	$.	_	_	-1	6	_	--	_	_
+
+1	Als	als	als	KOKOM	KOKOM	_	_	-1	4	_	MO	_	_
+2	einziger	einzig	einzig	ADJA	ADJA	_	nom|sg|masc|pos	-1	3	_	NK	_	_
+3	Stadtverordneter	Stadtverordnete	Stadtverordnete	NN	NN	_	nom|sg|masc	-1	1	_	NK	_	_
+4	zeigte	zeigen	zeigen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+5	er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	4	_	SB	_	_
+6	nämlich	nämlich	nämlich	ADV	ADV	_	_	-1	4	_	MO	_	_
+7	Courage	Courage	Courage	NN	NN	_	nom|sg|masc	-1	4	_	OA	_	_
+8	am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	4	_	MO	_	_
+9	Montag	Montag	Montag	NN	NN	_	dat|sg|masc	-1	8	_	NK	_	_
+10	in	in	in	APPR	APPR	_	_	-1	4	_	MO	_	_
+11	der	die	die	ART	ART	_	dat|sg|fem	-1	12	_	NK	_	_
+12	Sitzung	Sitzung	Sitzung	NN	NN	_	dat|sg|fem	-1	10	_	NK	_	_
+13	des	die	die	ART	ART	_	gen|sg|masc	-1	14	_	NK	_	_
+14	Hauptausschusses	Hauptausschuss	Hauptausschuss	NN	NN	_	gen|sg|masc	-1	12	_	AG	_	_
+15	,	,	,	$,	$,	_	_	-1	14	_	--	_	_
+16	als	als	als	KOUS	KOUS	_	_	-1	25	_	CP	_	_
+17	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	25	_	EP	_	_
+18	um	um	um	APPR	APPR	_	_	-1	25	_	OP	_	_
+19	die	die	die	ART	ART	_	acc|sg|fem	-1	20	_	NK	_	_
+20	Abstimmung	Abstimmung	Abstimmung	NN	NN	_	acc|sg|fem	-1	18	_	NK	_	_
+21	zum	zu	zu	APPRART	APPRART	_	dat|sg|masc	-1	20	_	MNR	_	_
+22	lang	lang	lang	ADJD	ADJD	_	pos	-1	23	_	MO	_	_
+23	diskutierten	diskutiert	diskutiert	ADJA	ADJA	_	gen|sg|fem|pos	-1	24	_	NK	_	_
+24	Schulthema	Schulthema	Schulthema	NN	NN	_	gen|sg|fem	-1	21	_	NK	_	_
+25	ging	gehen	gehen	VVFIN	VVFIN	_	sg|3|past|ind	-1	4	_	MO	_	_
+26	und	und	und	KON	KON	_	_	-1	25	_	CD	_	_
+27	eine	eine	eine	ART	ART	_	acc|sg|fem	-1	29	_	NK	_	_
+28	klare	klar	klar	ADJA	ADJA	_	acc|sg|fem|pos	-1	29	_	NK	_	_
+29	Aussage	Aussage	Aussage	NN	NN	_	acc|sg|fem	-1	30	_	OA	_	_
+30	gefordert	fordern	fordern	VVPP	VVPP	_	_	-1	31	_	OC	_	_
+31	war	sein	sein	VAFIN	VAFIN	_	sg|3|past|ind	-1	26	_	CJ	_	_
+32	,	,	,	$,	$,	_	_	-1	31	_	--	_	_
+33	die	die	die	PRELS	PRELS	_	nom|sg|fem	-1	39	_	SB	_	_
+34	sonst	sonst	sonst	ADV	ADV	_	_	-1	39	_	MO	_	_
+35	offenbar	offenbar	offenbar	ADJD	ADJD	_	pos	-1	39	_	MO	_	_
+36	niemand	niemand	niemand	PIS	PIS	_	nom|sg|masc	-1	39	_	SB	_	_
+37	zu	zu	zu	PTKZU	PTKZU	_	_	-1	38	_	PM	_	_
+38	treffen	treffen	treffen	VVINF	VVINF	_	_	-1	39	_	OC	_	_
+39	wagte	wagen	wagen	VVFIN	VVFIN	_	sg|3|past|ind	-1	29	_	RC	_	_
+40	.	.	.	$.	$.	_	_	-1	39	_	--	_	_
+
+1	Es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	EP	_	_
+2	scheint	scheinen	scheinen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	fast	fast	fast	ADV	ADV	_	_	-1	4	_	MO	_	_
+4	so	so	so	ADV	ADV	_	_	-1	2	_	MO	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	als	als	als	KOUS	KOUS	_	_	-1	7	_	CM	_	_
+7	wolle	wollen	wollen	VMFIN	VMFIN	_	sg|3|pres|subj	-1	4	_	RE	_	_
+8	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	7	_	EP	_	_
+9	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	23	_	OA	_	_
+10	kein	keine	keine	PIAT	PIAT	_	nom|sg|masc	-1	11	_	NK	_	_
+11	Abgeordneter	Abgeordnete	Abgeordnete	NN	NN	_	nom|sg|masc	-1	23	_	SB	_	_
+12	mit	mit	mit	APPR	APPR	_	_	-1	11	_	MNR	_	_
+13	denen	die	die	PDS	PDS	_	dat|pl|*	-1	12	_	NK	_	_
+14	,	,	,	$,	$,	_	_	-1	13	_	--	_	_
+15	die	die	die	PRELS	PRELS	_	nom|pl|*	-1	21	_	SB	_	_
+16	da	da	da	ADV	ADV	_	_	-1	19	_	MO	_	_
+17	von	von	von	APPR	APPR	_	_	-1	19	_	SBP	_	_
+18	Entscheidungen	Entscheidung	Entscheidung	NN	NN	_	dat|pl|fem	-1	17	_	NK	_	_
+19	betroffen	betreffen	betreffen	VVPP	VVPP	_	_	-1	20	_	PD	_	_
+20	sein	sein	sein	VAINF	VAINF	_	_	-1	21	_	OC	_	_
+21	könnten	können	können	VMFIN	VMFIN	_	pl|3|past|subj	-1	13	_	RC	_	_
+22	,	,	,	$,	$,	_	_	-1	21	_	--	_	_
+23	verscherzen	verscherzen	verscherzen	VVINF	VVINF	_	_	-1	7	_	OC	_	_
+24	.	.	.	$.	$.	_	_	-1	23	_	--	_	_
+
+1	Man	man	man	PIS	PIS	_	nom|sg|*	-1	2	_	SB	_	_
+2	mag	mögen	mögen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	SB	_	_
+4	Gunnar	Gunnar	Gunnar	NE	NE	_	acc|sg|*	-1	5	_	NK	_	_
+5	Lade	Lade	Lade	NN	NN	_	acc|pl|masc	-1	8	_	OA	_	_
+6	daher	daher	daher	PAV	PAV	_	_	-1	3	_	NK	_	_
+7	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	2	_	NG	_	_
+8	verübeln	verübeln	verübeln	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	18	_	CP	_	_
+11	er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	18	_	SB	_	_
+12	diese	dies	dies	PDAT	PDAT	_	acc|sg|fem	-1	13	_	NK	_	_
+13	Szenerie	Szenerie	Szenerie	NN	NN	_	acc|sg|fem	-1	18	_	OA	_	_
+14	als	als	als	KOKOM	KOKOM	_	_	-1	16	_	CM	_	_
+15	"	"	"	$(	$(	_	acc|sg|neut	-1	16	_	--	_	_
+16	Schmierentheater	Schmierentheater	Schmierentheater	NN	NN	_	acc|sg|neut	-1	12	_	CC	_	_
+17	"	"	"	$(	$(	_	_	-1	16	_	--	_	_
+18	bezeichnete	bezeichnen	bezeichnen	VVFIN	VVFIN	_	sg|3|past|ind	-1	2	_	MO	_	_
+19	.	.	.	$.	$.	_	_	-1	18	_	--	_	_
+
+1	Fest	fest	fest	ADJD	ADJD	_	pos	-1	2	_	MO	_	_
+2	steht	stehen	stehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	doch	doch	doch	ADV	ADV	_	_	-1	2	_	MO	_	_
+4	:	:	:	$.	$.	_	_	-1	3	_	--	_	_
+5	Kein	keine	keine	PIAT	PIAT	_	nom|sg|masc	-1	6	_	NK	_	_
+6	Lehrer	Lehrer	Lehrer	NN	NN	_	nom|sg|masc	-1	7	_	SB	_	_
+7	verliert	verlieren	verlieren	VVFIN	VVFIN	_	sg|3|pres|ind	-1	3	_	RS	_	_
+8	seinen	sein	sein	PPOSAT	PPOSAT	_	acc|sg|masc	-1	9	_	NK	_	_
+9	Job	Job	Job	NN	NN	_	acc|sg|masc	-1	7	_	OA	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	kein	keine	keine	PIAT	PIAT	_	nom|sg|masc	-1	12	_	NK	_	_
+12	Schüler	Schüler	Schüler	NN	NN	_	nom|sg|masc	-1	13	_	SB	_	_
+13	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	7	_	CJ	_	_
+14	schlechter	schlecht	schlecht	ADJD	ADJD	_	pos	-1	15	_	MO	_	_
+15	unterrichtet	unterrichten	unterrichten	VVPP	VVPP	_	_	-1	13	_	OC	_	_
+16	als	als	als	KOKOM	KOKOM	_	_	-1	17	_	CM	_	_
+17	vorher	vorher	vorher	ADV	ADV	_	_	-1	14	_	CC	_	_
+18	.	.	.	$.	$.	_	_	-1	17	_	--	_	_
+
+1	Wirklich	wirklich	wirklich	ADJD	ADJD	_	pos	-1	2	_	MO	_	_
+2	betroffen	betreffen	betreffen	VVPP	VVPP	_	_	-1	8	_	PD	_	_
+3	könnten	können	können	VMFIN	VMFIN	_	pl|3|past|subj	-1	0	_	--	_	_
+4	Erzieher	Erzieher	Erzieher	NN	NN	_	nom|pl|masc	-1	3	_	SB	_	_
+5	und	und	und	KON	KON	_	_	-1	4	_	CD	_	_
+6	technisches	technisch	technisch	ADJA	ADJA	_	acc|sg|neut|pos	-1	7	_	NK	_	_
+7	Personal	Personal	Personal	NN	NN	_	acc|sg|neut	-1	5	_	CJ	_	_
+8	sein	sein	sein	VAINF	VAINF	_	_	-1	3	_	OC	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+	sentence_start	0	97	183	247	291
+	token_offsets	sentence	0	offsets	0::10	11::6	18::2	21::5	27::16	44::3	48::17	66::2	69::4	74::13	88::5	94::1
+	token_offsets	sentence	1	offsets	97::4	102::4	107::2	110::3	114::1	116::4	121::3	125::10	136::7	144::3	148::6	155::9	165::14	180::1
+	token_offsets	sentence	2	offsets	183::2	186::6	193::4	198::3	202::5	208::1	210::3	214::2	217::4	222::3	226::5	232::6	239::4	244::1
+	token_offsets	sentence	3	offsets	247::8	256::1	258::13	272::5	278::3	282::5	288::1
+	token_offsets	sentence	4	offsets	291::4	296::3	300::4	305::6	312::5	318::1	320::6	327::3	331::7	339::10	350::1	352::10	363::14	378::2	381::7	389::1	391::4	396::4	401::3	405::10	416::8	425::8	434::2	437::6	444::1
+1	Gleichwohl	Gleichwohl	Gleichwohl	NN	NN	_	_	-1	2	_	OC	_	_
+2	sollte	sollen	sollen	VMFIN	VMFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+3	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	EP	_	_
+4	neben	neben	neben	APPR	APPR	_	_	-1	11	_	MO	_	_
+5	wirtschaftlichen	wirtschaftlich	wirtschaftlich	ADJA	ADJA	_	dat|pl|fem|pos	-1	4	_	NK	_	_
+6	und	und	und	KON	KON	_	_	-1	5	_	CD	_	_
+7	Kapazitätsgründen	Kapazitätsgrund	Kapazitätsgrund	NN	NN	_	dat|pl|masc	-1	6	_	CJ	_	_
+8	um	um	um	APPR	APPR	_	_	-1	11	_	MO	_	_
+9	gute	gut	gut	ADJA	ADJA	_	acc|pl|masc|pos	-1	10	_	NK	_	_
+10	Schulkonzepte	Schulkonzept	Schulkonzept	NN	NN	_	acc|pl|masc	-1	8	_	NK	_	_
+11	gehen	gehen	gehen	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Wozu	wozu	wozu	PWAV	PWAV	_	_	-1	2	_	MO	_	_
+2	gibt	geben	geben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	EP	_	_
+4	die	die	die	PDS	PDS	_	acc|pl|*	-1	2	_	OA	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	9	_	CP	_	_
+7	sie	sie	sie	PPER	PPER	_	nom|sg|fem|3	-1	9	_	SB	_	_
+8	unbeachtet	unbeachtet	unbeachtet	ADJD	ADJD	_	pos	-1	9	_	PD	_	_
+9	bleiben	bleiben	bleiben	VVFIN	VVFIN	_	pl|3|pres|ind	-1	2	_	MO	_	_
+10	bei	bei	bei	APPR	APPR	_	_	-1	9	_	MO	_	_
+11	derart	derart	derart	ADV	ADV	_	_	-1	12	_	MO	_	_
+12	wichtigen	wichtig	wichtig	ADJA	ADJA	_	dat|pl|fem|pos	-1	13	_	NK	_	_
+13	Entscheidungen	Entscheidung	Entscheidung	NN	NN	_	dat|pl|fem	-1	10	_	NK	_	_
+14	?	?	?	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Da	da	da	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	stellt	stellen	stellen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	2	_	OA	_	_
+4	die	die	die	ART	ART	_	nom|sg|fem	-1	5	_	NK	_	_
+5	Frage	Frage	Frage	NN	NN	_	nom|sg|fem	-1	2	_	SB	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	wer	wer	wer	PWS	PWS	_	nom|sg|masc	-1	13	_	SB	_	_
+8	es	es	es	PPER	PPER	_	acc|sg|neut|3	-1	12	_	OA	_	_
+9	hier	hier	hier	PTKVZ	PTKVZ	_	_	-1	2	_	SVP	_	_
+10	wem	wer	wer	PWS	PWS	_	dat|sg|masc	-1	12	_	DA	_	_
+11	recht	recht	recht	ADJD	ADJD	_	pos	-1	12	_	MO	_	_
+12	machen	machen	machen	VVINF	VVINF	_	_	-1	13	_	OC	_	_
+13	will	wollen	wollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	5	_	OC	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Freilich	freilich	freilich	ADV	ADV	_	_	-1	3	_	MO	_	_
+2	,	,	,	$,	$,	_	_	-1	1	_	--	_	_
+3	Außenstehende	Außenstehende	Außenstehende	NN	NN	_	nom|pl|*	-1	4	_	SB	_	_
+4	haben	haben	haben	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+5	gut	gut	gut	ADJD	ADJD	_	pos	-1	6	_	MO	_	_
+6	reden	reden	reden	VVINF	VVINF	_	_	-1	4	_	OC	_	_
+7	.	.	.	$.	$.	_	_	-1	6	_	--	_	_
+
+1	Doch	doch	doch	KON	KON	_	_	-1	7	_	JU	_	_
+2	wer	wer	wer	PWS	PWS	_	nom|sg|masc	-1	5	_	SB	_	_
+3	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	4	_	OA	_	_
+4	wählen	wählen	wählen	VVINF	VVINF	_	_	-1	5	_	OC	_	_
+5	lässt	lassen	lassen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	7	_	SB	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	sollte	sollen	sollen	VMFIN	VMFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+8	die	die	die	ART	ART	_	nom|sg|fem	-1	9	_	NK	_	_
+9	Courage	Courage	Courage	NN	NN	_	nom|sg|fem	-1	7	_	SB	_	_
+10	aufbringen	aufbringen	aufbringen	VVINF	VVINF	_	_	-1	7	_	OC	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	unpopuläre	unpopulär	unpopulär	ADJA	ADJA	_	acc|pl|fem|pos	-1	13	_	NK	_	_
+13	Entscheidungen	Entscheidung	Entscheidung	NN	NN	_	acc|pl|fem	-1	15	_	OA	_	_
+14	zu	zu	zu	PTKZU	PTKZU	_	_	-1	15	_	PM	_	_
+15	treffen	treffen	treffen	VVINF	VVINF	_	_	-1	9	_	OC	_	_
+16	,	,	,	$,	$,	_	_	-1	15	_	--	_	_
+17	ohne	ohne	ohne	KOUI	KOUI	_	_	-1	24	_	CP	_	_
+18	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	22	_	DA	_	_
+19	ein	eine	eine	ART	ART	_	nom|sg|neut	-1	21	_	NK	_	_
+20	schlechtes	schlecht	schlecht	ADJA	ADJA	_	nom|sg|neut|pos	-1	21	_	NK	_	_
+21	Gewissen	Gewissen	Gewissen	NN	NN	_	nom|sg|neut	-1	22	_	OA	_	_
+22	einreden	einreden	einreden	VVINF	VVINF	_	_	-1	24	_	OC	_	_
+23	zu	zu	zu	PTKZU	PTKZU	_	_	-1	24	_	PM	_	_
+24	lassen	lassen	lassen	VVINF	VVINF	_	_	-1	15	_	MO	_	_
+25	.	.	.	$.	$.	_	_	-1	24	_	--	_	_
+

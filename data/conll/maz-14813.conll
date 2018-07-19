@@ -1,0 +1,204 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::13
+1	Knebelvertrag	Knebelvertrag	Knebelvertrag	NN	NN	_	nom|sg|masc	-1	0	_	--	_	_
+
+	sentence_start	0	128	206	301	424	527	653	688	725	870	1013
+	token_offsets	sentence	0	offsets	0::10	11::6	18::3	22::2	25::5	31::4	36::5	42::1	44::19	64::1	66::6	73::8	82::1	84::6	91::19	111::3	115::2	118::6	125::1
+	token_offsets	sentence	1	offsets	128::3	132::3	136::5	142::6	149::3	153::6	160::17	178::1	180::1	182::3	186::4	191::3	195::5	201::1	203::1
+	token_offsets	sentence	2	offsets	206::7	214::2	217::5	223::7	231::21	253::6	260::4	265::3	269::5	275::4	280::4	285::12	298::1
+	token_offsets	sentence	3	offsets	301::2	304::5	310::3	314::9	324::8	333::1	335::3	339::3	343::2	346::6	353::3	357::3	361::11	373::5	379::8	388::4	393::4	398::5	404::6	411::6	418::2	421::1
+	token_offsets	sentence	4	offsets	424::4	429::3	433::5	439::3	443::21	465::2	468::3	472::7	480::1	482::3	486::4	491::6	498::5	504::7	512::6	519::4	524::1
+	token_offsets	sentence	5	offsets	527::2	530::5	536::6	543::7	551::2	554::6	561::1	563::4	568::2	571::4	576::12	589::1	591::3	595::5	601::2	604::6	611::5	617::7	625::14	640::2	643::6	650::1
+	token_offsets	sentence	6	offsets	653::4	658::3	662::5	668::9	678::6	685::1
+	token_offsets	sentence	7	offsets	688::3	692::3	696::5	702::12	715::6	722::1
+	token_offsets	sentence	8	offsets	725::4	730::3	734::5	740::6	747::5	753::13	767::4	772::1	774::5	780::3	784::5	790::1	792::14	807::6	814::1	816::6	823::2	826::7	834::1	836::4	841::3	845::7	853::2	856::10	867::1
+	token_offsets	sentence	9	offsets	870::8	879::4	884::3	888::4	893::5	899::3	903::2	906::12	919::8	928::4	933::7	941::6	948::1	950::11	962::3	966::9	976::3	980::17	998::11	1010::1
+	token_offsets	sentence	10	offsets	1013::3	1017::7	1025::6	1032::4	1037::4	1042::4	1047::5	1053::5	1059::7	1067::9	1077::6	1084::1
+1	Eigentlich	eigentlich	eigentlich	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	können	können	können	VMFIN	VMFIN	_	pl|1|pres|ind	-1	0	_	--	_	_
+3	wir	wir	wir	PPER	PPER	_	nom|pl|*|1	-1	2	_	SB	_	_
+4	es	es	es	PPER	PPER	_	acc|sg|neut|3	-1	7	_	OA	_	_
+5	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	2	_	NG	_	_
+6	mehr	mehr	mehr	ADV	ADV	_	_	-1	5	_	MO	_	_
+7	sehen	sehen	sehen	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+8	:	:	:	$.	$.	_	_	-1	7	_	--	_	_
+9	Harry-Potter-Tassen	Harry-Potter-Tassen	Harry-Potter-Tassen	NN	NN	_	nom|pl|fem	-1	4	_	RE	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	Potter	Potter	Potter	NN	NN	_	*|*|*	-1	12	_	PNC	_	_
+12	T-Shirts	T-Shirt	T-Shirt	NN	NN	_	acc|pl|neut	-1	9	_	CJ	_	_
+13	,	,	,	$,	$,	_	_	-1	12	_	--	_	_
+14	kleine	klein	klein	ADJA	ADJA	_	nom|pl|neut|pos	-1	15	_	NK	_	_
+15	Potter-Legomännchen	Potter-Legomännchen	Potter-Legomännchen	NN	NN	_	nom|pl|neut	-1	12	_	CJ	_	_
+16	und	und	und	KON	KON	_	_	-1	15	_	CD	_	_
+17	so	so	so	ADV	ADV	_	_	-1	18	_	MO	_	_
+18	weiter	weiter	weiter	PTKVZ	PTKVZ	_	_	-1	16	_	CJ	_	_
+19	.	.	.	$.	$.	_	_	-1	18	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	3	_	JU	_	_
+2	nun	nun	nun	ADV	ADV	_	_	-1	3	_	MO	_	_
+3	folgt	folgen	folgen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	gleich	gleich	gleich	APPR	APPR	_	_	-1	3	_	MO	_	_
+5	das	die	die	ART	ART	_	acc|sg|neut	-1	7	_	NK	_	_
+6	zweite	zweit	zweit	ADJA	ADJA	_	acc|sg|neut|pos	-1	7	_	NK	_	_
+7	Mega-Kinoereignis	Mega-Kinoereignis	Mega-Kinoereignis	NN	NN	_	acc|sg|neut	-1	4	_	NK	_	_
+8	:	:	:	$.	$.	_	_	-1	7	_	--	_	_
+9	"	"	"	$(	$(	_	_	-1	8	_	--	_	_
+10	Der	die	die	ART	ART	_	nom|sg|masc	-1	11	_	NK	_	_
+11	Herr	Herr	Herr	NN	NN	_	nom|sg|masc	-1	3	_	SB	_	_
+12	der	die	die	ART	ART	_	gen|pl|masc	-1	13	_	NK	_	_
+13	Ringe	Ring	Ring	NN	NN	_	gen|pl|masc	-1	11	_	AG	_	_
+14	"	"	"	$(	$(	_	_	-1	13	_	--	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+1	Bereits	bereits	bereits	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	in	in	in	APPR	APPR	_	_	-1	6	_	MO	_	_
+3	jedem	jede	jede	PIAT	PIAT	_	dat|sg|neut	-1	5	_	NK	_	_
+4	siebten	siebt	siebt	ADJA	ADJA	_	acc|sg|masc|pos	-1	5	_	NK	_	_
+5	Kinderüberraschungsei	Kinderüberraschungsei	Kinderüberraschungsei	NN	NN	_	acc|sg|masc	-1	2	_	NK	_	_
+6	findet	finden	finden	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+7	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	6	_	OA	_	_
+8	ein	eine	eine	ART	ART	_	nom|sg|neut	-1	9	_	NK	_	_
+9	Frodo	Frodo	Frodo	NE	NE	_	nom|sg|neut	-1	6	_	SB	_	_
+10	oder	oder	oder	KON	KON	_	_	-1	9	_	CD	_	_
+11	eine	eine	eine	ART	ART	_	nom|sg|fem	-1	12	_	NK	_	_
+12	Elbenkönigin	Elbenkönigin	Elbenkönigin	NN	NN	_	nom|sg|fem	-1	10	_	CJ	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Da	da	da	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	boomt	boomen	boomen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	die	die	die	ART	ART	_	nom|sg|fem	-1	4	_	NK	_	_
+4	Industrie	Industrie	Industrie	NN	NN	_	nom|sg|fem	-1	2	_	SB	_	_
+5	gewaltig	gewaltig	gewaltig	ADJD	ADJD	_	pos	-1	2	_	MO	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	mag	mögen	mögen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	2	_	OC	_	_
+8	man	man	man	PIS	PIS	_	nom|sg|*	-1	7	_	SB	_	_
+9	so	so	so	ADV	ADV	_	_	-1	10	_	MO	_	_
+10	denken	denken	denken	VVINF	VVINF	_	_	-1	7	_	OC	_	_
+11	und	und	und	KON	KON	_	_	-1	10	_	CD	_	_
+12	die	die	die	ART	ART	_	nom|pl|masc	-1	14	_	NK	_	_
+13	gebeutelten	gebeutelt	gebeutelt	ADJA	ADJA	_	nom|pl|masc|pos	-1	14	_	NK	_	_
+14	Kinos	Kino	Kino	NN	NN	_	nom|pl|masc	-1	15	_	SB	_	_
+15	bekommen	bekommen	bekommen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	11	_	CJ	_	_
+16	auch	auch	auch	ADV	ADV	_	_	-1	15	_	MO	_	_
+17	noch	noch	noch	ADV	ADV	_	_	-1	15	_	MO	_	_
+18	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	20	_	NK	_	_
+19	dicken	dick	dick	ADJA	ADJA	_	acc|sg|masc|pos	-1	20	_	NK	_	_
+20	Batzen	Batzen	Batzen	NN	NN	_	acc|sg|masc	-1	15	_	OA	_	_
+21	ab	ab	ab	PTKVZ	PTKVZ	_	_	-1	15	_	SVP	_	_
+22	.	.	.	$.	$.	_	_	-1	21	_	--	_	_
+
+1	Aber	aber	aber	KON	KON	_	_	-1	3	_	JU	_	_
+2	was	was	was	PWS	PWS	_	nom|sg|neut	-1	3	_	SB	_	_
+3	macht	machen	machen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	5	_	NK	_	_
+5	Lichtspieltheaterchef	Lichtspieltheaterchef	Lichtspieltheaterchef	NN	NN	_	nom|sg|masc	-1	3	_	SB	_	_
+6	in	in	in	APPR	APPR	_	_	-1	5	_	MNR	_	_
+7	der	die	die	ART	ART	_	dat|sg|fem	-1	8	_	NK	_	_
+8	Provinz	Provinz	Provinz	NN	NN	_	dat|sg|fem	-1	6	_	NK	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	der	die	die	PRELS	PRELS	_	dat|sg|fem	-1	16	_	SB	_	_
+11	erst	erst	erst	ADV	ADV	_	_	-1	16	_	MO	_	_
+12	abends	abends	abends	ADV	ADV	_	_	-1	16	_	MO	_	_
+13	seine	sein	sein	PPOSAT	PPOSAT	_	acc|pl|neut	-1	14	_	NK	_	_
+14	Pforten	Pforte	Pforte	NN	NN	_	acc|pl|neut	-1	15	_	OA	_	_
+15	öffnen	öffnen	öffnen	VVINF	VVINF	_	_	-1	16	_	OC	_	_
+16	kann	können	können	VMFIN	VMFIN	_	sg|3|pres|ind	-1	8	_	RC	_	_
+17	?	?	?	$.	$.	_	_	-1	16	_	--	_	_
+
+1	Um	um	um	APPR	APPR	_	_	-1	6	_	CP	_	_
+2	Harry	Harry	Harry	NE	NE	_	gen|sg|*	-1	3	_	AG	_	_
+3	Potter	Potter	Potter	NN	NN	_	acc|*|*	-1	4	_	OA	_	_
+4	spielen	spielen	spielen	VVINF	VVINF	_	_	-1	6	_	OC	_	_
+5	zu	zu	zu	PTKZU	PTKZU	_	_	-1	6	_	PM	_	_
+6	können	können	können	VMINF	VMINF	_	_	-1	8	_	MO	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	muss	müssen	müssen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+9	er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	8	_	SB	_	_
+10	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	11	_	OA	_	_
+11	verpflichten	verpflichten	verpflichten	VVINF	VVINF	_	_	-1	8	_	OC	_	_
+12	,	,	,	$,	$,	_	_	-1	11	_	--	_	_
+13	die	die	die	ART	ART	_	acc|sg|fem	-1	14	_	NK	_	_
+14	Kopie	Kopie	Kopie	NN	NN	_	acc|sg|fem	-1	21	_	OA	_	_
+15	an	an	an	APPR	APPR	_	_	-1	14	_	MNR	_	_
+16	sieben	sieben	sieben	CARD	CARD	_	_	-1	17	_	NK	_	_
+17	Tagen	Tag	Tag	NN	NN	_	dat|pl|masc	-1	15	_	NK	_	_
+18	dreimal	dreimal	dreimal	ADV	ADV	_	_	-1	21	_	MO	_	_
+19	hintereinander	hintereinander	hintereinander	ADV	ADV	_	_	-1	21	_	MO	_	_
+20	zu	zu	zu	PTKZU	PTKZU	_	_	-1	21	_	PM	_	_
+21	zeigen	zeigen	zeigen	VVINF	VVINF	_	_	-1	11	_	OC	_	_
+22	.	.	.	$.	$.	_	_	-1	21	_	--	_	_
+
+1	Egal	egal	egal	ADJD	ADJD	_	pos	-1	5	_	MO	_	_
+2	wie	wie	wie	KOKOM	KOKOM	_	_	-1	4	_	CM	_	_
+3	viele	viele	viele	PIAT	PIAT	_	nom|pl|masc	-1	4	_	NK	_	_
+4	Zuschauer	Zuschauer	Zuschauer	NN	NN	_	nom|pl|masc	-1	5	_	MO	_	_
+5	kommen	kommen	kommen	VVINF	VVINF	_	pl|3|pres|ind	-1	0	_	--	_	_
+6	.	.	.	$.	$.	_	_	-1	5	_	--	_	_
+
+1	Das	die	die	PDS	PDS	_	nom|sg|neut	-1	2	_	SB	_	_
+2	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	viele	viele	viele	PIAT	PIAT	_	acc|pl|masc	-1	4	_	NK	_	_
+4	Kinobesitzer	Kinobesitzer	Kinobesitzer	NN	NN	_	acc|pl|masc	-1	5	_	OA	_	_
+5	empört	empören	empören	VVPP	VVPP	_	_	-1	2	_	OC	_	_
+6	.	.	.	$.	$.	_	_	-1	5	_	--	_	_
+
+1	Wenn	wenn	wenn	KOUS	KOUS	_	_	-1	14	_	CP	_	_
+2	sie	sie	sie	PPER	PPER	_	nom|pl|*|3	-1	14	_	SB	_	_
+3	jetzt	jetzt	jetzt	ADV	ADV	_	_	-1	14	_	MO	_	_
+4	wieder	wieder	wieder	ADV	ADV	_	_	-1	13	_	MO	_	_
+5	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	6	_	NK	_	_
+6	Knebelvertrag	Knebelvertrag	Knebelvertrag	NN	NN	_	acc|sg|masc	-1	13	_	OA	_	_
+7	beim	bei	bei	APPRART	APPRART	_	dat|sg|masc	-1	6	_	MNR	_	_
+8	"	"	"	$(	$(	_	dat|sg|masc	-1	9	_	--	_	_
+9	Herrn	Herr	Herr	NN	NN	_	dat|sg|masc	-1	7	_	NK	_	_
+10	der	die	die	ART	ART	_	gen|pl|masc	-1	11	_	NK	_	_
+11	Ringe	Ring	Ring	NN	NN	_	gen|pl|masc	-1	9	_	AG	_	_
+12	"	"	"	$(	$(	_	_	-1	11	_	--	_	_
+13	unterschreiben	unterschreiben	unterschreiben	VVINF	VVINF	_	_	-1	14	_	OC	_	_
+14	sollen	sollen	sollen	VMFIN	VMFIN	_	pl|3|pres|ind	-1	16	_	MO	_	_
+15	,	,	,	$,	$,	_	_	-1	14	_	--	_	_
+16	erwägt	erwägen	erwägen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+17	so	so	so	ADV	ADV	_	_	-1	18	_	MO	_	_
+18	mancher	manche	manche	PIS	PIS	_	nom|sg|masc	-1	16	_	SB	_	_
+19	,	,	,	$,	$,	_	_	-1	18	_	--	_	_
+20	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	24	_	OA	_	_
+21	dem	die	die	ART	ART	_	dat|sg|masc	-1	24	_	DA	_	_
+22	einfach	einfach	einfach	ADV	ADV	_	_	-1	24	_	MO	_	_
+23	zu	zu	zu	PTKZU	PTKZU	_	_	-1	24	_	PM	_	_
+24	verweigern	verweigern	verweigern	VVINF	VVINF	_	_	-1	16	_	OC	_	_
+25	.	.	.	$.	$.	_	_	-1	24	_	--	_	_
+
+1	Außerdem	außerdem	außerdem	ADV	ADV	_	_	-1	12	_	MO	_	_
+2	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	man	man	man	PIS	PIS	_	nom|sg|*	-1	2	_	SB	_	_
+4	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	11	_	OA	_	_
+5	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	6	_	NG	_	_
+6	nur	nur	nur	ADV	ADV	_	_	-1	7	_	MO	_	_
+7	in	in	in	APPR	APPR	_	_	-1	11	_	MO	_	_
+8	katholischen	katholisch	katholisch	ADJA	ADJA	_	dat|pl|fem|pos	-1	9	_	NK	_	_
+9	Gegenden	Gegend	Gegend	NN	NN	_	dat|pl|fem	-1	7	_	NK	_	_
+10	kaum	kaum	kaum	ADV	ADV	_	_	-1	12	_	MO	_	_
+11	zwingen	zwingen	zwingen	VVINF	VVINF	_	_	-1	12	_	OC	_	_
+12	lassen	lassen	lassen	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+13	,	,	,	$,	$,	_	_	-1	12	_	--	_	_
+14	Heiligabend	Heiligabend	Heiligabend	NN	NN	_	dat|sg|masc	-1	12	_	CJ	_	_
+15	und	und	und	KON	KON	_	_	-1	14	_	CD	_	_
+16	Silvester	Silvester	Silvester	NN	NN	_	dat|sg|neut	-1	15	_	CJ	_	_
+17	das	die	die	ART	ART	_	acc|sg|neut	-1	18	_	NK	_	_
+18	Fantasiespektakel	Fantasiespektakel	Fantasiespektakel	NN	NN	_	acc|sg|neut	-1	19	_	OA	_	_
+19	abzuspielen	abspielen	abspielen	VVIZU	VVIZU	_	_	-1	12	_	OC	_	_
+20	.	.	.	$.	$.	_	_	-1	19	_	--	_	_
+
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	3	_	NK	_	_
+2	Verleih	Verleih	Verleih	NN	NN	_	nom|sg|masc	-1	3	_	NK	_	_
+3	Warner	Warner	Warner	NN	NN	_	nom|sg|masc	-1	5	_	SB	_	_
+4	Bros	Bros	Bros	NN	NN	_	nom|sg|masc	-1	3	_	NK	_	_
+5	muss	müssen	müssen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+6	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	10	_	DA	_	_
+7	schon	schon	schon	ADV	ADV	_	_	-1	10	_	MO	_	_
+8	etwas	etwas	etwas	ADV	ADV	_	*|*|*	-1	9	_	MO	_	_
+9	anderes	andere	andere	PIS	PIS	_	acc|sg|neut	-1	5	_	SB	_	_
+10	einfallen	einfallen	einfallen	VVINF	VVINF	_	_	-1	11	_	OC	_	_
+11	lassen	lassen	lassen	VVINF	VVINF	_	_	-1	5	_	OC	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+

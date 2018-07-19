@@ -1,0 +1,245 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::5	6::3	10::6
+1	Alles	alle	alle	PIS	PIS	_	nom|sg|neut	-1	0	_	--	_	_
+2	wie	wie	wie	KOUS	KOUS	_	_	-1	3	_	NK	_	_
+3	gehabt	haben	haben	VAPP	VAPP	_	_	-1	1	_	NK	_	_
+
+	sentence_start	0	55	164	263
+	token_offsets	sentence	0	offsets	0::3	4::8	13::2	16::9	26::3	30::5	36::4	41::3	45::6	52::1
+	token_offsets	sentence	1	offsets	55::4	60::4	65::3	69::4	74::5	80::3	84::12	97::6	104::2	107::5	113::3	117::6	124::4	129::7	137::4	142::6	149::3	153::7	161::1
+	token_offsets	sentence	2	offsets	164::3	168::6	175::6	182::1	183::0	185::1	187::4	192::9	202::2	205::5	211::4	216::1	218::1	220::5	226::4	231::2	234::8	243::1	245::3	249::5	255::4	260::1
+	token_offsets	sentence	3	offsets	263::3	267::4	272::6	279::4	284::3	288::3	292::11	304::6	311::2	314::1
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	2	_	NK	_	_
+2	Kurzfilm	Kurzfilm	Kurzfilm	NN	NN	_	nom|sg|masc	-1	5	_	SB	_	_
+3	zu	zu	zu	APPR	APPR	_	_	-1	2	_	MNR	_	_
+4	Silvester	Silvester	Silvester	NN	NN	_	dat|sg|neut	-1	3	_	NK	_	_
+5	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+6	immer	immer	immer	ADV	ADV	_	_	-1	7	_	MO	_	_
+7	noch	noch	noch	ADV	ADV	_	_	-1	5	_	MO	_	_
+8	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	9	_	NK	_	_
+9	Renner	Renner	Renner	NN	NN	_	nom|sg|masc	-1	5	_	SB	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+1	Eine	eine	eine	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Frau	Frau	Frau	NN	NN	_	nom|sg|fem	-1	5	_	SB	_	_
+3	von	von	von	APPR	APPR	_	_	-1	2	_	PG	_	_
+4	Adel	Adel	Adel	NN	NN	_	dat|sg|masc	-1	3	_	NK	_	_
+5	sitzt	sitzen	sitzen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+6	mit	mit	mit	APPR	APPR	_	_	-1	5	_	MO	_	_
+7	unsichtbaren	unsichtbar	unsichtbar	ADJA	ADJA	_	dat|pl|fem|pos	-1	8	_	NK	_	_
+8	Gästen	Gast	Gast	NN	NN	_	dat|pl|fem	-1	6	_	NK	_	_
+9	am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	5	_	MO	_	_
+10	Tisch	Tisch	Tisch	NN	NN	_	dat|sg|masc	-1	9	_	NK	_	_
+11	und	und	und	KON	KON	_	_	-1	5	_	CD	_	_
+12	trinkt	trinken	trinken	VVFIN	VVFIN	_	sg|3|pres|ind	-1	11	_	CJ	_	_
+13	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	12	_	OA	_	_
+14	langsam	langsam	langsam	ADJD	ADJD	_	pos	-1	12	_	MO	_	_
+15	aber	aber	aber	KON	KON	_	_	-1	14	_	CD	_	_
+16	sicher	sicher	sicher	ADJD	ADJD	_	pos	-1	15	_	CJ	_	_
+17	ins	in	in	APPRART	APPRART	_	acc|sg|neut	-1	12	_	MO	_	_
+18	Abseits	Abseits	Abseits	NN	NN	_	acc|sg|neut	-1	17	_	NK	_	_
+19	.	.	.	$.	$.	_	_	-1	18	_	--	_	_
+
+1	Sie	Sie	Sie	PPER	PPER	_	nom|sg|fem|3	-1	2	_	SB	_	_
+2	betont	betonen	betonen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	jedoch	jedoch	jedoch	ADV	ADV	_	_	-1	2	_	MO	_	_
+4	:	:	:	$.	$.	_	_	-1	3	_	--	_	_
+5	"	"	"	$(	$(	_	_	-1	4	_	--	_	_
+6	Same	Same	Same	NN	NN	_	nom|sg|fem	-1	2	_	SB	_	_
+7	procedure	procedure	procedure	ADJA	ADJA	_	nom|sg|fem|pos	-1	9	_	NK	_	_
+8	as	as	as	NE	NE	_	nom|sg|fem	-1	9	_	PNC	_	_
+9	every	every	every	NE	NE	_	nom|sg|fem	-1	6	_	NK	_	_
+10	year	year	year	ADJD	ADJD	_	_	-1	2	_	SVP	_	_
+11	"	"	"	$(	$(	_	_	-1	10	_	--	_	_
+12	,	,	,	$,	$,	_	_	-1	11	_	--	_	_
+13	alles	alle	alle	PIS	PIS	_	nom|sg|neut	-1	14	_	SB	_	_
+14	soll	sollen	sollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	2	_	CJ	_	_
+15	so	so	so	ADV	ADV	_	_	-1	16	_	MO	_	_
+16	ablaufen	ablaufen	ablaufen	VVINF	VVINF	_	_	-1	14	_	OC	_	_
+17	,	,	,	$,	$,	_	_	-1	16	_	--	_	_
+18	wie	wie	wie	KOUS	KOUS	_	_	-1	20	_	CM	_	_
+19	jedes	jede	jede	PIAT	PIAT	_	acc|sg|neut	-1	20	_	NK	_	_
+20	Jahr	Jahr	Jahr	NN	NN	_	acc|sg|neut	-1	15	_	CC	_	_
+21	.	.	.	$.	$.	_	_	-1	20	_	--	_	_
+
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	2	_	NK	_	_
+2	Satz	Satz	Satz	NN	NN	_	nom|sg|masc	-1	3	_	SB	_	_
+3	trifft	treffen	treffen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	auch	auch	auch	ADV	ADV	_	_	-1	5	_	MO	_	_
+5	auf	auf	auf	APPR	APPR	_	_	-1	3	_	MO	_	_
+6	die	die	die	ART	ART	_	acc|sg|fem	-1	7	_	NK	_	_
+7	Wittstocker	Wittstocker	Wittstocker	NN	NN	_	acc|sg|fem	-1	5	_	NK	_	_
+8	Region	Region	Region	NN	NN	_	acc|sg|fem	-1	7	_	NK	_	_
+9	zu	zu	zu	PTKVZ	PTKVZ	_	_	-1	3	_	SVP	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+	sentence_start	0	55	119	231
+	token_offsets	sentence	0	offsets	0::3	4::16	21::5	27::5	33::5	39::5	45::6	52::1
+	token_offsets	sentence	1	offsets	55::3	59::6	66::2	69::3	73::11	85::6	92::3	96::5	102::3	106::9	116::1
+	token_offsets	sentence	2	offsets	119::3	123::7	131::2	134::3	138::7	146::1	148::4	153::2	156::2	159::11	171::6	178::4	183::16	200::4	205::1	207::4	212::3	216::5	222::5	228::1
+	token_offsets	sentence	3	offsets	231::2	234::3	238::7	246::1	248::4	253::9	263::1
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Bürgerinitiative	Bürgerinitiative	Bürgerinitiative	NN	NN	_	nom|sg|fem	-1	5	_	SB	_	_
+3	Freie	Freie	Freie	NN	NN	_	nom|sg|fem	-1	2	_	NK	_	_
+4	Heide	Heide	Heide	NE	NE	_	nom|sg|fem	-1	3	_	NK	_	_
+5	lässt	lassen	lassen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+6	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	5	_	NG	_	_
+7	locker	locker	locker	PTKVZ	PTKVZ	_	_	-1	5	_	SVP	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	2	_	NK	_	_
+2	Streit	Streit	Streit	NN	NN	_	nom|sg|masc	-1	6	_	SB	_	_
+3	um	um	um	APPR	APPR	_	_	-1	2	_	OP	_	_
+4	den	die	die	ART	ART	_	acc|sg|masc	-1	5	_	NK	_	_
+5	Schießplatz	Schießplatz	Schießplatz	NN	NN	_	acc|sg|masc	-1	3	_	NK	_	_
+6	dauert	dauern	dauern	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+7	nun	nun	nun	ADV	ADV	_	_	-1	6	_	MO	_	_
+8	schon	schon	schon	ADV	ADV	_	_	-1	6	_	MO	_	_
+9	ein	eine	eine	ART	ART	_	acc|sg|neut	-1	10	_	NK	_	_
+10	Jahrzehnt	Jahrzehnt	Jahrzehnt	NN	NN	_	acc|sg|neut	-1	6	_	OA	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Meldung	Meldung	Meldung	NN	NN	_	nom|sg|fem	-1	16	_	SB	_	_
+3	in	in	in	APPR	APPR	_	_	-1	2	_	MNR	_	_
+4	der	die	die	ART	ART	_	dat|sg|fem	-1	5	_	NK	_	_
+5	Zeitung	Zeitung	Zeitung	NN	NN	_	dat|sg|fem	-1	3	_	NK	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	dass	dass	dass	KOUS	KOUS	_	_	-1	14	_	CP	_	_
+8	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	14	_	EP	_	_
+9	am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	14	_	MO	_	_
+10	Neujahrstag	Neujahrstag	Neujahrstag	NN	NN	_	dat|sg|masc	-1	9	_	NK	_	_
+11	wieder	wieder	wieder	ADV	ADV	_	_	-1	14	_	MO	_	_
+12	eine	eine	eine	ART	ART	_	nom|sg|fem	-1	13	_	NK	_	_
+13	Protestwanderung	Protestwanderung	Protestwanderung	NN	NN	_	nom|sg|fem	-1	14	_	OA	_	_
+14	gibt	geben	geben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	2	_	OC	_	_
+15	,	,	,	$,	$,	_	_	-1	14	_	--	_	_
+16	wäre	sein	sein	VAFIN	VAFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+17	gar	gar	gar	ADV	ADV	_	_	-1	18	_	MO	_	_
+18	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	16	_	NG	_	_
+19	nötig	nötig	nötig	ADJD	ADJD	_	pos	-1	16	_	PD	_	_
+20	.	.	.	$.	$.	_	_	-1	19	_	--	_	_
+
+1	Es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	SB	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	bekannt	bekannt	bekannt	ADJD	ADJD	_	pos	-1	2	_	PD	_	_
+4	:	:	:	$.	$.	_	_	-1	3	_	--	_	_
+5	same	samen	samen	VVFIN	VVFIN	_	_	-1	6	_	MO	_	_
+6	procedure	procedure	procedure	ADJA	ADJA	_	nom|pl|masc|pos	-1	1	_	RE	_	_
+7	.	.	.	$.	$.	_	_	-1	6	_	--	_	_
+
+	sentence_start	0	108	195	264
+	token_offsets	sentence	0	offsets	0::7	8::6	15::4	20::3	24::7	32::9	42::9	52::6	59::1	60::0	62::3	66::6	73::4	78::7	86::11	98::6	105::1
+	token_offsets	sentence	1	offsets	108::2	111::5	117::6	124::1	126::5	132::3	136::10	147::4	152::3	156::20	177::3	181::3	185::6	192::1
+	token_offsets	sentence	2	offsets	195::3	199::3	203::5	209::9	219::3	223::3	227::5	233::10	244::5	250::2	253::7	261::1
+	token_offsets	sentence	3	offsets	264::3	268::6	275::5	281::4	286::5	292::1	294::3	298::5	304::6	311::5	317::1
+1	Deshalb	deshalb	deshalb	PAV	PAV	_	_	-1	2	_	NK	_	_
+2	könnte	können	können	VMFIN	VMFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+3	auch	auch	auch	ADV	ADV	_	_	-1	6	_	MO	_	_
+4	der	die	die	ART	ART	_	nom|sg|masc	-1	6	_	NK	_	_
+5	gleiche	gleich	gleich	ADJA	ADJA	_	nom|sg|masc|pos	-1	6	_	NK	_	_
+6	Kommentar	Kommentar	Kommentar	NN	NN	_	nom|sg|masc	-1	2	_	SB	_	_
+7	abgegeben	abgeben	abgeben	VVPP	VVPP	_	_	-1	8	_	OC	_	_
+8	werden	werden	werden	VAINF	VAINF	_	_	-1	2	_	OC	_	_
+9	:	:	:	$.	$.	_	_	-1	8	_	--	_	_
+10	Der	die	die	ART	ART	_	nom|sg|masc	-1	11	_	NK	_	_
+11	Streit	Streit	Streit	NN	NN	_	nom|sg|masc	-1	12	_	SB	_	_
+12	muss	müssen	müssen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	2	_	CJ	_	_
+13	endlich	endlich	endlich	ADV	ADV	_	_	-1	12	_	MO	_	_
+14	entschieden	entscheiden	entscheiden	VVPP	VVPP	_	_	-1	15	_	OC	_	_
+15	werden	werden	werden	VAINF	VAINF	_	_	-1	12	_	OC	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+1	Er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	2	_	SB	_	_
+2	nutzt	nutzen	nutzen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	keinem	keine	keine	PIS	PIS	_	dat|sg|masc	-1	2	_	OA	_	_
+4	-	-	-	$(	$(	_	_	-1	3	_	--	_	_
+5	weder	weder	weder	KON	KON	_	_	-1	7	_	CD	_	_
+6	der	die	die	ART	ART	_	dat|sg|fem	-1	7	_	NK	_	_
+7	Bundeswehr	Bundeswehr	Bundeswehr	NN	NN	_	dat|sg|fem	-1	2	_	OA	_	_
+8	noch	noch	noch	ADV	ADV	_	_	-1	10	_	MO	_	_
+9	den	die	die	ART	ART	_	acc|sg|masc	-1	10	_	NK	_	_
+10	Schießplatzgemeinden	Schießplatzgemeinden	Schießplatzgemeinden	NN	NN	_	acc|sg|masc	-1	2	_	OA	_	_
+11	und	und	und	KON	KON	_	_	-1	10	_	CD	_	_
+12	der	die	die	ART	ART	_	gen|sg|fem	-1	13	_	NK	_	_
+13	Region	Region	Region	NN	NN	_	gen|sg|fem	-1	11	_	CJ	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	5	_	JU	_	_
+2	die	die	die	ART	ART	_	nom|sg|fem	-1	3	_	NK	_	_
+3	Stadt	Stadt	Stadt	NN	NN	_	nom|sg|fem	-1	5	_	SB	_	_
+4	Wittstock	Wittstock	Wittstock	NN	NN	_	nom|sg|neut	-1	3	_	NK	_	_
+5	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+6	mit	mit	mit	APPR	APPR	_	_	-1	11	_	OP	_	_
+7	einem	eine	eine	ART	ART	_	dat|sg|masc	-1	9	_	NK	_	_
+8	schlechten	schlecht	schlecht	ADJA	ADJA	_	dat|sg|masc|pos	-1	9	_	NK	_	_
+9	Image	Image	Image	NN	NN	_	dat|sg|masc	-1	6	_	NK	_	_
+10	zu	zu	zu	PTKZU	PTKZU	_	_	-1	11	_	PM	_	_
+11	kämpfen	kämpfen	kämpfen	VVINF	VVINF	_	_	-1	5	_	OC	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Den	die	die	ART	ART	_	acc|sg|masc	-1	2	_	NK	_	_
+2	Streit	Streit	Streit	NN	NN	_	acc|sg|masc	-1	3	_	OA	_	_
+3	kennt	kennen	kennen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	fast	fast	fast	ADV	ADV	_	_	-1	5	_	MO	_	_
+5	jeder	jede	jede	PIS	PIS	_	nom|sg|masc	-1	3	_	OA	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	die	die	die	ART	ART	_	nom|sg|fem	-1	8	_	NK	_	_
+8	Stadt	Stadt	Stadt	NN	NN	_	nom|sg|fem	-1	5	_	APP	_	_
+9	selbst	selbst	selbst	ADV	ADV	_	_	-1	8	_	MNR	_	_
+10	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	3	_	NG	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+	sentence_start	0	58	171
+	token_offsets	sentence	0	offsets	0::4	5::10	16::3	20::3	24::5	30::7	38::5	44::4	49::5	55::1
+	token_offsets	sentence	1	offsets	58::4	63::4	68::4	73::7	81::4	86::4	91::1	93::4	98::9	108::9	118::7	126::3	130::3	134::8	143::3	147::4	152::8	161::6	168::1
+	token_offsets	sentence	2	offsets	171::3	175::3	179::4	184::4	189::5	195::9	205::14	220::1	222::4	227::3	231::6	238::4	243::4	248::7	256::3	260::5	266::1
+1	Aber	aber	aber	KON	KON	_	_	-1	3	_	JU	_	_
+2	irgendwann	irgendwann	irgendwann	ADV	ADV	_	_	-1	3	_	MO	_	_
+3	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	der	die	die	ART	ART	_	nom|sg|masc	-1	5	_	NK	_	_
+5	Platz	Platz	Platz	NN	NN	_	nom|sg|masc	-1	3	_	SB	_	_
+6	sowieso	sowieso	sowieso	ADV	ADV	_	_	-1	3	_	MO	_	_
+7	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	3	_	NG	_	_
+8	mehr	mehr	mehr	ADV	ADV	_	_	-1	7	_	MO	_	_
+9	nötig	nötig	nötig	ADJD	ADJD	_	pos	-1	3	_	PD	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+1	Dann	dann	dann	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	muss	müssen	müssen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	kein	keine	keine	PIAT	PIAT	_	nom|sg|masc	-1	4	_	NK	_	_
+4	Tornado	Tornado	Tornado	NN	NN	_	nom|sg|masc	-1	2	_	SB	_	_
+5	mehr	mehr	mehr	ADV	ADV	_	_	-1	4	_	MO	_	_
+6	üben	üben	üben	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	weil	weil	weil	KOUS	KOUS	_	_	-1	11	_	CP	_	_
+9	Geschosse	Geschoss	Geschoss	NN	NN	_	nom|pl|neut	-1	11	_	SB	_	_
+10	unbemannt	unbemannt	unbemannt	ADJD	ADJD	_	pos	-1	11	_	MO	_	_
+11	fliegen	fliegen	fliegen	VVINF	VVINF	_	_	-1	6	_	MO	_	_
+12	und	und	und	KON	KON	_	_	-1	11	_	CD	_	_
+13	via	via	via	APPR	APPR	_	_	-1	17	_	MO	_	_
+14	Satellit	Satellit	Satellit	NN	NN	_	acc|sg|masc	-1	13	_	NK	_	_
+15	ins	in	in	APPRART	APPRART	_	acc|sg|neut	-1	17	_	MO	_	_
+16	Ziel	Ziel	Ziel	NN	NN	_	acc|sg|neut	-1	15	_	NK	_	_
+17	gebracht	bringen	bringen	VVPP	VVPP	_	_	-1	18	_	OC	_	_
+18	werden	werden	werden	VAINF	VAINF	_	_	-1	12	_	CJ	_	_
+19	.	.	.	$.	$.	_	_	-1	18	_	--	_	_
+
+1	Das	die	die	PDS	PDS	_	nom|sg|neut	-1	2	_	SB	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	zwar	zwar	zwar	ADV	ADV	_	_	-1	2	_	MO	_	_
+4	auch	auch	auch	ADV	ADV	_	_	-1	7	_	MO	_	_
+5	keine	keine	keine	PIAT	PIAT	_	acc|sg|fem	-1	7	_	NK	_	_
+6	angenehme	angenehm	angenehm	ADJA	ADJA	_	acc|sg|fem|pos	-1	7	_	NK	_	_
+7	Zukunftsvision	Zukunftsvision	Zukunftsvision	NN	NN	_	acc|sg|fem	-1	2	_	PD	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	aber	aber	aber	KON	KON	_	_	-1	2	_	CD	_	_
+10	der	die	die	ART	ART	_	nom|sg|masc	-1	11	_	NK	_	_
+11	Streit	Streit	Streit	NN	NN	_	nom|sg|masc	-1	12	_	SB	_	_
+12	wäre	sein	sein	VAFIN	VAFIN	_	sg|3|past|subj	-1	9	_	CJ	_	_
+13	dann	dann	dann	ADV	ADV	_	_	-1	12	_	MO	_	_
+14	endlich	endlich	endlich	ADV	ADV	_	_	-1	12	_	MO	_	_
+15	vom	von	von	APPRART	APPRART	_	dat|sg|masc	-1	12	_	MO	_	_
+16	Tisch	Tisch	Tisch	NN	NN	_	dat|sg|masc	-1	15	_	NK	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+

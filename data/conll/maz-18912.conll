@@ -1,0 +1,235 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::14
+1	Engelsgedanken	Engelsgedanken	Engelsgedanken	NN	NN	_	nom|pl|fem	-1	0	_	--	_	_
+
+	sentence_start	0	139	221	288
+	token_offsets	sentence	0	offsets	0::3	4::5	10::7	18::3	22::4	27::4	32::11	44::4	49::5	55::4	60::5	66::6	73::8	82::7	90::1	92::3	96::2	99::3	103::3	107::5	113::1	115::3	119::14	134::1	136::1
+	token_offsets	sentence	1	offsets	139::4	144::2	147::6	154::4	159::3	163::4	168::3	172::3	176::9	186::16	203::4	208::9	218::1
+	token_offsets	sentence	2	offsets	221::4	226::3	230::5	236::6	243::3	247::5	253::10	264::1	266::3	270::3	274::2	277::7	285::1
+	token_offsets	sentence	3	offsets	288::3	292::9	302::5	308::3	312::4	317::11	329::3	333::1	335::3	339::5	345::3	349::6	356::1	358::8	367::1
+1	Als	als	als	KOKOM	KOKOM	_	_	-1	14	_	MO	_	_
+2	Franz	Franz	Franz	NE	NE	_	nom|sg|masc	-1	3	_	PNC	_	_
+3	Fühmann	Fühmann	Fühmann	NN	NN	_	nom|sg|masc	-1	1	_	NK	_	_
+4	vor	vor	vor	APPR	APPR	_	_	-1	3	_	MNR	_	_
+5	fast	fast	fast	ADV	ADV	_	_	-1	6	_	MO	_	_
+6	zwei	zwei	zwei	CARD	CARD	_	_	-1	7	_	NK	_	_
+7	Jahrzehnten	Jahrzehnt	Jahrzehnt	NN	NN	_	dat|pl|neut	-1	4	_	NK	_	_
+8	sein	sein	sein	PPOSAT	PPOSAT	_	acc|sg|neut	-1	9	_	NK	_	_
+9	Essay	Essay	Essay	NN	NN	_	acc|sg|neut	-1	14	_	OA	_	_
+10	über	über	über	APPR	APPR	_	_	-1	9	_	MNR	_	_
+11	Georg	Georg	Georg	NE	NE	_	acc|sg|neut	-1	10	_	NK	_	_
+12	Trakls	Trakls	Trakls	NN	NN	_	acc|sg|neut	-1	9	_	MNR	_	_
+13	Dichtung	Dichtung	Dichtung	NN	NN	_	nom|sg|fem	-1	12	_	NK	_	_
+14	schrieb	schreiben	schreiben	VVFIN	VVFIN	_	sg|3|past|ind	-1	16	_	MO	_	_
+15	,	,	,	$,	$,	_	_	-1	14	_	--	_	_
+16	gab	geben	geben	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+17	er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	16	_	SB	_	_
+18	ihm	er	er	PPER	PPER	_	dat|sg|neut|3	-1	16	_	DA	_	_
+19	den	die	die	ART	ART	_	acc|sg|masc	-1	20	_	NK	_	_
+20	Titel	Titel	Titel	NN	NN	_	acc|sg|masc	-1	16	_	OA	_	_
+21	"	"	"	$(	$(	_	_	-1	20	_	--	_	_
+22	Vor	vor	vor	APPR	APPR	_	_	-1	20	_	MNR	_	_
+23	Feuerschlünden	Feuerschlünden	Feuerschlünden	NN	NN	_	dat|pl|masc	-1	22	_	NK	_	_
+24	"	"	"	$(	$(	_	_	-1	23	_	--	_	_
+25	.	.	.	$.	$.	_	_	-1	24	_	--	_	_
+
+1	Auch	auch	auch	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	4	_	MO	_	_
+3	Westen	Weste|Westen	Weste|Westen	NN	NN	_	dat|sg|masc	-1	2	_	NK	_	_
+4	fand	finden	finden	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+5	das	die	die	ART	ART	_	acc|sg|neut	-1	6	_	NK	_	_
+6	Buch	Buch	Buch	NN	NN	_	acc|sg|neut	-1	4	_	OA	_	_
+7	aus	aus	aus	APPR	APPR	_	_	-1	4	_	MO	_	_
+8	dem	die	die	ART	ART	_	dat|sg|neut	-1	9	_	NK	_	_
+9	Rostocker	Rostocker	Rostocker	NN	NN	_	dat|sg|neut	-1	7	_	NK	_	_
+10	Hinstorff-Verlag	Hinstorff-Verlag	Hinstorff-Verlag	NN	NN	_	nom|sg|masc	-1	9	_	NK	_	_
+11	viel	viele	viele	PIAT	PIAT	_	*|*|*	-1	12	_	NK	_	_
+12	Beachtung	Beachtung	Beachtung	NN	NN	_	acc|sg|fem	-1	4	_	OA	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Bloß	bloß	bloß	ADJD	ADJD	_	pos	-1	7	_	MO	_	_
+2	den	die	die	ART	ART	_	acc|sg|masc	-1	3	_	NK	_	_
+3	Titel	Titel	Titel	NN	NN	_	acc|sg|masc	-1	7	_	OA	_	_
+4	wollte	wollen	wollen	VMFIN	VMFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+5	man	man	man	PIS	PIS	_	nom|sg|*	-1	4	_	SB	_	_
+6	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	4	_	NG	_	_
+7	übernehmen	übernehmen	übernehmen	VVINF	VVINF	_	_	-1	4	_	OC	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	der	die	die	PDS	PDS	_	dat|sg|fem	-1	10	_	SB	_	_
+10	sei	sein	sein	VAFIN	VAFIN	_	sg|3|pres|subj	-1	4	_	CJ	_	_
+11	zu	zu	zu	PTKA	PTKA	_	_	-1	12	_	MO	_	_
+12	sperrig	sperrig	sperrig	ADJD	ADJD	_	pos	-1	10	_	PD	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	2	_	NK	_	_
+2	Westleser	Westleser	Westleser	NN	NN	_	nom|sg|masc	-1	3	_	SB	_	_
+3	bekam	bekommen	bekommen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+4	das	die	die	ART	ART	_	acc|sg|neut	-1	5	_	NK	_	_
+5	Buch	Buch	Buch	NN	NN	_	acc|sg|neut	-1	3	_	OA	_	_
+6	schließlich	schließlich	schließlich	ADV	ADV	_	_	-1	3	_	MO	_	_
+7	als	als	als	KOKOM	KOKOM	_	_	-1	14	_	MO	_	_
+8	"	"	"	$(	$(	_	nom|sg|masc	-1	7	_	--	_	_
+9	Der	die	die	ART	ART	_	nom|sg|masc	-1	10	_	NK	_	_
+10	Sturz	Sturz	Sturz	NN	NN	_	nom|sg|masc	-1	7	_	NK	_	_
+11	des	die	die	ART	ART	_	gen|sg|masc	-1	12	_	NK	_	_
+12	Engels	Engel	Engel	NN	NN	_	gen|sg|masc	-1	10	_	AG	_	_
+13	"	"	"	$(	$(	_	_	-1	12	_	--	_	_
+14	serviert	servieren	servieren	VVPP	VVPP	_	_	-1	3	_	MO	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+	sentence_start	0	49	113	178	274
+	token_offsets	sentence	0	offsets	0::5	6::9	16::4	21::7	29::6	36::1	38::4	43::2	46::1
+	token_offsets	sentence	1	offsets	49::3	53::2	56::5	62::2	65::4	70::5	76::1	78::3	82::5	88::2	91::3	95::14	110::1
+	token_offsets	sentence	2	offsets	113::2	116::8	125::5	131::4	136::10	147::6	154::1	156::3	160::5	166::3	170::4	175::1
+	token_offsets	sentence	3	offsets	178::6	185::3	189::10	200::5	206::4	211::6	218::4	223::1	225::4	230::3	234::5	240::4	245::3	249::9	259::2	262::8	271::1
+	token_offsets	sentence	4	offsets	274::2	277::3	281::2	284::4	289::6	296::1	298::4	303::3	307::4	312::5	318::3	322::11	334::2	337::3	341::8	350::7	358::3	362::6	369::6	376::8	385::6	392::6	399::1	401::4	406::5	412::6	419::2	422::11	434::1	436::6	443::2	446::11	458::1	460::8	469::2	472::9	482::3	486::8	495::2	498::5	504::1
+1	Engel	Engel	Engel	NN	NN	_	nom|pl|masc	-1	2	_	SB	_	_
+2	verkaufen	verkaufen	verkaufen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	7	_	OC	_	_
+3	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	2	_	OA	_	_
+4	einfach	einfach	einfach	ADJD	ADJD	_	_	-1	2	_	MO	_	_
+5	besser	gut	gut	ADJD	ADJD	_	comp	-1	2	_	MO	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	hieß	heißen	heißen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+8	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	7	_	EP	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	3	_	JU	_	_
+2	so	so	so	ADV	ADV	_	_	-1	3	_	MO	_	_
+3	heißt	heißen	heißen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	3	_	EP	_	_
+5	noch	noch	noch	ADV	ADV	_	_	-1	6	_	MO	_	_
+6	heute	heute	heute	ADV	ADV	_	_	-1	3	_	MO	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	vor	vor	vor	APPR	APPR	_	_	-1	10	_	MO	_	_
+9	allem	alle	alle	PIS	PIS	_	dat|sg|neut	-1	8	_	NK	_	_
+10	in	in	in	APPR	APPR	_	_	-1	3	_	MO	_	_
+11	der	die	die	ART	ART	_	dat|sg|fem	-1	12	_	NK	_	_
+12	Weihnachtszeit	Weihnachtszeit	Weihnachtszeit	NN	NN	_	dat|sg|fem	-1	10	_	NK	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Ob	ob	ob	KOUS	KOUS	_	_	-1	3	_	CP	_	_
+2	feenhaft	feenhaft	feenhaft	ADJD	ADJD	_	pos	-1	3	_	MO	_	_
+3	schön	schön	schön	ADJD	ADJD	_	pos	-1	9	_	MO	_	_
+4	oder	oder	oder	KON	KON	_	_	-1	3	_	CD	_	_
+5	pausbäckig	pausbäckig	pausbäckig	ADJD	ADJD	_	pos	-1	6	_	MO	_	_
+6	barock	barock	barock	ADJD	ADJD	_	pos	-1	4	_	CJ	_	_
+7	-	-	-	$(	$(	_	_	-1	6	_	--	_	_
+8	wir	wir	wir	PPER	PPER	_	nom|pl|*|1	-1	9	_	SB	_	_
+9	mögen	mögen	mögen	VMFIN	VMFIN	_	pl|1|pres|ind	-1	0	_	--	_	_
+10	sie	sie	sie	PPER	PPER	_	acc|pl|masc|3	-1	9	_	SB	_	_
+11	alle	alle	alle	PIAT	PIAT	_	acc|pl|neut	-1	10	_	NK	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Selbst	selbst	selbst	ADV	ADV	_	_	-1	4	_	MO	_	_
+2	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	4	_	NK	_	_
+3	gefallener	gefallen	gefallen	ADJA	ADJA	_	nom|sg|masc|pos	-1	4	_	NK	_	_
+4	Engel	Engel	Engel	NN	NN	_	nom|sg|masc	-1	5	_	SB	_	_
+5	kann	können	können	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+6	sicher	sicher	sicher	ADJD	ADJD	_	pos	-1	7	_	PD	_	_
+7	sein	sein	sein	VAINF	VAINF	_	_	-1	5	_	OC	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	noch	noch	noch	ADV	ADV	_	_	-1	16	_	MO	_	_
+10	auf	auf	auf	APPR	APPR	_	_	-1	16	_	MO	_	_
+11	einer	eine	eine	ART	ART	_	dat|sg|fem	-1	12	_	NK	_	_
+12	Woge	Woge	Woge	NN	NN	_	dat|sg|fem	-1	10	_	NK	_	_
+13	der	die	die	ART	ART	_	gen|sg|fem	-1	14	_	NK	_	_
+14	Sympathie	Sympathie	Sympathie	NN	NN	_	gen|sg|fem	-1	12	_	AG	_	_
+15	zu	zu	zu	PTKZU	PTKZU	_	_	-1	16	_	PM	_	_
+16	schweben	schweben	schweben	VVINF	VVINF	_	_	-1	6	_	OC	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
+1	So	so	so	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	SB	_	_
+4	kein	keine	keine	PIAT	PIAT	_	nom|sg|masc	-1	5	_	NK	_	_
+5	Wunder	Wunder	Wunder	NN	NN	_	nom|sg|masc	-1	2	_	PD	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	22	_	CP	_	_
+8	wir	wir	wir	PPER	PPER	_	nom|pl|*|1	-1	22	_	SB	_	_
+9	beim	bei	bei	APPRART	APPRART	_	dat|sg|masc	-1	22	_	MO	_	_
+10	Blick	Blick	Blick	NN	NN	_	dat|sg|masc	-1	9	_	NK	_	_
+11	ins	in	in	APPRART	APPRART	_	acc|sg|neut	-1	10	_	MNR	_	_
+12	Telefonbuch	Telefonbuch	Telefonbuch	NN	NN	_	acc|sg|neut	-1	11	_	NK	_	_
+13	in	in	in	APPR	APPR	_	_	-1	10	_	MNR	_	_
+14	den	die	die	ART	ART	_	acc|sg|masc	-1	16	_	NK	_	_
+15	größeren	groß	groß	ADJA	ADJA	_	acc|sg|masc|comp	-1	16	_	NK	_	_
+16	Städten	Stadt	Stadt	NN	NN	_	acc|sg|masc	-1	13	_	NK	_	_
+17	der	die	die	ART	ART	_	gen|sg|fem	-1	18	_	NK	_	_
+18	Region	Region	Region	NN	NN	_	gen|sg|fem	-1	16	_	AG	_	_
+19	keinen	keine	keine	PIAT	PIAT	_	acc|sg|masc	-1	21	_	NK	_	_
+20	einzigen	einzig	einzig	ADJA	ADJA	_	acc|sg|masc|pos	-1	21	_	NK	_	_
+21	Teufel	Teufel	Teufel	NN	NN	_	acc|sg|masc	-1	22	_	OA	_	_
+22	finden	finden	finden	VVINF	VVINF	_	_	-1	3	_	RE	_	_
+23	,	,	,	$,	$,	_	_	-1	22	_	--	_	_
+24	aber	aber	aber	KON	KON	_	_	-1	9	_	CD	_	_
+25	Engel	Engel	Engel	NE	NE	_	nom|sg|neut	-1	18	_	NK	_	_
+26	21-mal	21-mal	21-mal	ADV	ADV	_	_	-1	27	_	MO	_	_
+27	in	in	in	APPR	APPR	_	_	-1	24	_	CJ	_	_
+28	Hennigsdorf	Hennigsdorf	Hennigsdorf	NN	NN	_	dat|sg|neut	-1	27	_	NK	_	_
+29	,	,	,	$,	$,	_	_	-1	28	_	--	_	_
+30	13-mal	13-mal	13-mal	ADV	ADV	_	_	-1	31	_	MO	_	_
+31	in	in	in	APPR	APPR	_	_	-1	27	_	CJ	_	_
+32	Oranienburg	Oranienburg	Oranienburg	NE	NE	_	dat|sg|neut	-1	31	_	NK	_	_
+33	,	,	,	$,	$,	_	_	-1	32	_	--	_	_
+34	zwölfmal	zwölfmal	zwölfmal	ADV	ADV	_	_	-1	35	_	MO	_	_
+35	in	in	in	APPR	APPR	_	_	-1	31	_	CJ	_	_
+36	Falkensee	Falkensee	Falkensee	NN	NN	_	dat|sg|masc	-1	35	_	NK	_	_
+37	und	und	und	KON	KON	_	_	-1	35	_	CD	_	_
+38	sechsmal	sechsmal	sechsmal	ADV	ADV	_	_	-1	39	_	MO	_	_
+39	in	in	in	APPR	APPR	_	_	-1	37	_	CJ	_	_
+40	Nauen	Nauen	Nauen	NN	NN	_	dat|sg|neut	-1	39	_	NK	_	_
+41	.	.	.	$.	$.	_	_	-1	40	_	--	_	_
+
+	sentence_start	0	72	257
+	token_offsets	sentence	0	offsets	0::3	4::5	10::7	18::3	22::11	34::5	40::1	42::3	46::5	52::3	56::12	69::1
+	token_offsets	sentence	1	offsets	72::4	77::14	92::3	96::14	111::3	115::9	125::3	129::6	136::1	138::12	151::3	155::13	169::4	174::3	178::9	188::3	192::12	205::12	218::1	220::6	227::3	231::5	237::2	240::5	246::7	254::1
+	token_offsets	sentence	2	offsets	257::3	261::6	268::3	272::6	279::7	287::8	296::6	303::1
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Engel	Engel	Engel	NN	NN	_	nom|sg|fem	-1	3	_	PD	_	_
+3	bleiben	bleiben	bleiben	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+4	die	die	die	ART	ART	_	acc|pl|fem	-1	6	_	NK	_	_
+5	wunderbaren	wunderbar	wunderbar	ADJA	ADJA	_	acc|pl|fem|pos	-1	6	_	NK	_	_
+6	Boten	Bote	Bote	NN	NN	_	acc|pl|fem	-1	3	_	SB	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	die	die	die	ART	ART	_	nom|pl|fem	-1	9	_	NK	_	_
+9	Musen	Mus|Muse	Mus|Muse	NN	NN	_	nom|pl|fem	-1	6	_	CJ	_	_
+10	und	und	und	KON	KON	_	_	-1	9	_	CD	_	_
+11	Heilsbringer	Heilsbringer	Heilsbringer	NN	NN	_	nom|pl|masc	-1	10	_	CJ	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Wenn	wenn	wenn	KOUS	KOUS	_	_	-1	18	_	CP	_	_
+2	Werbestrategen	Werbestratege	Werbestratege	NN	NN	_	nom|pl|masc	-1	18	_	SB	_	_
+3	die	die	die	ART	ART	_	nom|pl|masc	-1	4	_	NK	_	_
+4	Himmelsscharen	Himmelsscharen	Himmelsscharen	NN	NN	_	nom|pl|masc	-1	18	_	OA	_	_
+5	als	als	als	KOKOM	KOKOM	_	_	-1	6	_	CM	_	_
+6	Verkäufer	Verkäufer	Verkäufer	NN	NN	_	nom|pl|masc	-1	4	_	CC	_	_
+7	für	für	für	APPR	APPR	_	_	-1	6	_	MNR	_	_
+8	Handys	Handy	Handy	NN	NN	_	acc|pl|masc	-1	7	_	NK	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	Abführpillen	Abführpillen	Abführpillen	NN	NN	_	acc|pl|fem	-1	8	_	CJ	_	_
+11	und	und	und	KON	KON	_	_	-1	10	_	CD	_	_
+12	Aktienpapiere	Aktienpapier	Aktienpapier	NN	NN	_	acc|pl|neut	-1	11	_	CJ	_	_
+13	oder	oder	oder	KON	KON	_	_	-1	6	_	CD	_	_
+14	als	als	als	KOKOM	KOKOM	_	_	-1	13	_	CJ	_	_
+15	Blickfang	Blickfang	Blickfang	NN	NN	_	nom|sg|masc	-1	14	_	NK	_	_
+16	für	für	für	APPR	APPR	_	_	-1	15	_	MNR	_	_
+17	Erotikmessen	Erotikmessen	Erotikmessen	NN	NN	_	acc|pl|fem	-1	16	_	NK	_	_
+18	missbrauchen	missbrauchen	missbrauchen	VVINF	VVINF	_	_	-1	20	_	MO	_	_
+19	,	,	,	$,	$,	_	_	-1	18	_	--	_	_
+20	müssen	müssen	müssen	VMFIN	VMFIN	_	pl|1|pres|ind	-1	0	_	--	_	_
+21	wir	wir	wir	PPER	PPER	_	nom|pl|*|1	-1	20	_	SB	_	_
+22	ihnen	sie	sie	PPER	PPER	_	dat|pl|*|3	-1	25	_	DA	_	_
+23	ja	ja	ja	ADV	ADV	_	_	-1	20	_	MO	_	_
+24	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	20	_	NG	_	_
+25	glauben	glauben	glauben	VVINF	VVINF	_	_	-1	20	_	OC	_	_
+26	.	.	.	$.	$.	_	_	-1	25	_	--	_	_
+
+1	Wir	wir	wir	PPER	PPER	_	nom|pl|*|1	-1	2	_	SB	_	_
+2	können	können	können	VMFIN	VMFIN	_	pl|1|pres|ind	-1	0	_	--	_	_
+3	uns	wir	wir	PRF	PRF	_	acc|pl|*|1	-1	7	_	DA	_	_
+4	unsere	unser	unser	PPOSAT	PPOSAT	_	acc|pl|fem	-1	6	_	NK	_	_
+5	eigenen	eigen	eigen	ADJA	ADJA	_	acc|pl|fem|pos	-1	6	_	NK	_	_
+6	Gedanken	Gedanke	Gedanke	NN	NN	_	acc|pl|fem	-1	7	_	OA	_	_
+7	machen	machen	machen	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+

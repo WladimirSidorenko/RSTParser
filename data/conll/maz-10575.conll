@@ -1,0 +1,241 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::5	6::9	16::4
+1	Keine	keine	keine	PIAT	PIAT	_	nom|sg|fem	-1	3	_	NK	_	_
+2	schlechte	schlecht	schlecht	ADJA	ADJA	_	nom|sg|fem|pos	-1	3	_	NK	_	_
+3	Wahl	Wahl	Wahl	NN	NN	_	nom|sg|fem	-1	0	_	--	_	_
+
+	sentence_start	0	200	267
+	token_offsets	sentence	0	offsets	0::3	4::4	9::3	13::3	17::1	18::0	20::3	24::5	30::6	37::14	52::2	55::5	61::3	65::9	75::1	77::7	85::7	93::3	97::2	100::3	104::4	109::3	113::6	120::5	126::1	128::4	133::2	136::2	139::8	148::4	153::6	160::3	164::3	168::5	174::3	178::10	189::7	197::1
+	token_offsets	sentence	1	offsets	200::3	204::7	212::1	214::3	218::3	222::12	235::7	243::5	249::1	251::3	255::8	264::1
+	token_offsets	sentence	2	offsets	267::5	273::3	277::13	291::6	298::2	301::6	308::5	314::3	318::8	327::2	330::7	338::7	346::4	351::1	353::3	357::3	361::7	369::10	380::1
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Idee	Idee	Idee	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+3	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	gut	gut	gut	ADJD	ADJD	_	pos	-1	3	_	PD	_	_
+5	:	:	:	$.	$.	_	_	-1	4	_	--	_	_
+6	Die	die	die	ART	ART	_	nom|sg|fem	-1	7	_	NK	_	_
+7	Stadt	Stadt	Stadt	NN	NN	_	nom|sg|fem	-1	8	_	SB	_	_
+8	stellt	stellen	stellen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	3	_	CJ	_	_
+9	Blumenzwiebeln	Blumenzwiebel	Blumenzwiebel	NN	NN	_	acc|pl|fem	-1	8	_	OA	_	_
+10	en	en	en	FM	FM	_	_	-1	11	_	SB	_	_
+11	masse	maßen	maßen	VVFIN	VVFIN	_	sg|3|pres|subj	-1	9	_	OC	_	_
+12	zur	zu	zu	APPRART	APPRART	_	dat|sg|fem	-1	8	_	CVC	_	_
+13	Verfügung	Verfügung	Verfügung	NN	NN	_	dat|sg|fem	-1	12	_	NK	_	_
+14	,	,	,	$,	$,	_	_	-1	13	_	--	_	_
+15	Schüler	Schüler	Schüler	NN	NN	_	acc|pl|masc	-1	16	_	OA	_	_
+16	bringen	bringen	bringen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	8	_	CJ	_	_
+17	sie	sie	sie	PPER	PPER	_	nom|pl|*|3	-1	16	_	SB	_	_
+18	in	in	in	APPR	APPR	_	_	-1	16	_	MO	_	_
+19	die	die	die	ART	ART	_	acc|sg|fem	-1	20	_	NK	_	_
+20	Erde	Erde	Erde	NN	NN	_	acc|sg|fem	-1	18	_	NK	_	_
+21	und	und	und	KON	KON	_	_	-1	16	_	CD	_	_
+22	sorgen	sorgen	sorgen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	21	_	CJ	_	_
+23	dafür	dafür	dafür	PAV	PAV	_	_	-1	10	_	NK	_	_
+24	,	,	,	$,	$,	_	_	-1	22	_	--	_	_
+25	dass	dass	dass	KOUS	KOUS	_	_	-1	31	_	CP	_	_
+26	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	31	_	SB	_	_
+27	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	31	_	MO	_	_
+28	Frühjahr	Frühjahr	Frühjahr	NN	NN	_	dat|sg|neut	-1	27	_	NK	_	_
+29	noch	noch	noch	ADV	ADV	_	_	-1	30	_	MO	_	_
+30	bunter	bunt	bunt	ADJD	ADJD	_	comp	-1	31	_	PD	_	_
+31	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	22	_	CJ	_	_
+32	als	als	als	KOKOM	KOKOM	_	_	-1	33	_	CM	_	_
+33	sonst	sonst	sonst	ADV	ADV	_	_	-1	31	_	MO	_	_
+34	auf	auf	auf	APPR	APPR	_	_	-1	22	_	OP	_	_
+35	kommunalen	kommunal	kommunal	ADJA	ADJA	_	dat|pl|fem|pos	-1	36	_	NK	_	_
+36	Flächen	Fläche	Fläche	NN	NN	_	dat|pl|fem	-1	34	_	NK	_	_
+37	.	.	.	$.	$.	_	_	-1	36	_	--	_	_
+
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	2	_	NK	_	_
+2	Auftakt	Auftakt	Auftakt	NN	NN	_	nom|sg|masc	-1	10	_	SB	_	_
+3	,	,	,	$,	$,	_	_	-1	2	_	--	_	_
+4	den	die	die	PRELS	PRELS	_	acc|sg|masc	-1	8	_	OA	_	_
+5	die	die	die	ART	ART	_	nom|sg|fem	-1	6	_	NK	_	_
+6	Grundschüler	Grundschüler	Grundschüler	NN	NN	_	acc|pl|masc	-1	8	_	SB	_	_
+7	gestern	gestern	gestern	ADV	ADV	_	_	-1	8	_	MO	_	_
+8	gaben	geben	geben	VVFIN	VVFIN	_	pl|3|past|ind	-1	2	_	RC	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+11	gelungen	gelingen	gelingen	VVPP	VVPP	_	_	-1	10	_	OC	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Real-	Real-	Real-	TRUNC	TRUNC	_	_	-1	2	_	CJ	_	_
+2	und	und	und	KON	KON	_	_	-1	3	_	CD	_	_
+3	Gesamtschüler	Gesamtschüler	Gesamtschüler	NN	NN	_	nom|pl|masc	-1	4	_	SB	_	_
+4	setzen	setzen	setzen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+5	in	in	in	APPR	APPR	_	_	-1	4	_	MO	_	_
+6	diesen	dies	dies	PDAT	PDAT	_	dat|pl|masc	-1	7	_	NK	_	_
+7	Tagen	Tag	Tag	NN	NN	_	dat|pl|masc	-1	5	_	NK	_	_
+8	die	die	die	ART	ART	_	nom|pl|masc	-1	9	_	NK	_	_
+9	Arbeiten	Arbeit|Arbeiten	Arbeit|Arbeiten	NN	NN	_	nom|pl|masc	-1	4	_	SB	_	_
+10	an	an	an	APPR	APPR	_	_	-1	9	_	MNR	_	_
+11	anderen	andere	andere	PIS	PIS	_	dat|pl|masc|pos	-1	12	_	NK	_	_
+12	Stellen	Stelle|Stellen	Stelle|Stellen	NN	NN	_	dat|pl|masc	-1	10	_	NK	_	_
+13	fort	fort	fort	PTKVZ	PTKVZ	_	_	-1	4	_	SVP	_	_
+14	,	,	,	$,	$,	_	_	-1	13	_	--	_	_
+15	wie	wie	wie	KOUS	KOUS	_	_	-1	18	_	CP	_	_
+16	MAZ	MAZ	MAZ	NE	NE	_	nom|sg|*	-1	18	_	SB	_	_
+17	gestern	gestern	gestern	ADV	ADV	_	_	-1	18	_	MO	_	_
+18	berichtete	berichten	berichten	VVFIN	VVFIN	_	sg|3|past|ind	-1	4	_	MO	_	_
+19	.	.	.	$.	$.	_	_	-1	18	_	--	_	_
+
+	sentence_start	0	142	317	433	522	635	718
+	token_offsets	sentence	0	offsets	0::2	3::6	10::5	16::4	21::9	31::1	33::3	37::7	45::5	51::3	55::7	63::3	67::6	74::3	78::3	82::6	89::10	100::2	103::3	107::8	116::6	123::2	126::5	132::6	139::1
+	token_offsets	sentence	1	offsets	142::3	146::3	150::5	156::3	160::3	164::10	175::4	180::5	186::14	201::6	208::1	209::0	211::3	215::4	220::1	222::3	226::4	231::6	238::2	241::5	247::5	253::12	266::6	273::1	275::7	283::3	287::8	296::2	299::4	304::4	309::4	314::1
+	token_offsets	sentence	2	offsets	317::3	321::2	324::5	330::3	334::5	340::6	347::1	349::5	355::3	359::3	363::13	377::5	383::2	386::5	392::1	394::7	402::13	416::3	420::3	424::5	430::1
+	token_offsets	sentence	3	offsets	433::3	437::3	441::10	452::1	454::2	457::11	469::6	476::3	480::6	487::6	494::1	496::5	502::2	505::13	519::1
+	token_offsets	sentence	4	offsets	522::3	526::2	529::7	537::3	541::6	548::5	554::4	559::4	564::8	573::2	576::3	580::14	595::8	604::3	608::6	615::16	632::1
+	token_offsets	sentence	5	offsets	635::5	641::3	645::9	655::1	657::6	664::1	666::4	671::2	674::2	677::7	685::7	693::6	700::5	706::4	711::3	715::1
+	token_offsets	sentence	6	offsets	718::10	729::6	736::4	741::3	745::7	753::3	757::11	769::1	771::4	776::3	780::9	790::4	795::3	799::5	805::2	808::9	818::4	823::9	833::5	839::1
+1	Es	Es	Es	NN	NN	_	nom|sg|neut|3	-1	2	_	SB	_	_
+2	machte	machen	machen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+3	schon	schon	schon	ADV	ADV	_	_	-1	2	_	MO	_	_
+4	Spaß	Spaß	Spaß	NN	NN	_	acc|sg|masc	-1	5	_	OA	_	_
+5	zuzusehen	zusehen	zusehen	VVIZU	VVIZU	_	_	-1	2	_	OC	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	mit	mit	mit	APPR	APPR	_	_	-1	24	_	MO	_	_
+8	welchem	welche	welche	PRELS	PRELS	_	dat|sg|masc	-1	9	_	NK	_	_
+9	Eifer	Eifer	Eifer	NN	NN	_	dat|sg|masc	-1	7	_	NK	_	_
+10	die	die	die	ART	ART	_	acc|pl|masc	-1	11	_	NK	_	_
+11	Mädchen	Mädchen	Mädchen	NN	NN	_	acc|pl|masc	-1	24	_	OA	_	_
+12	und	und	und	KON	KON	_	_	-1	11	_	CD	_	_
+13	Jungen	Junge	Junge	NN	NN	_	nom|pl|masc	-1	12	_	CJ	_	_
+14	auf	auf	auf	APPR	APPR	_	_	-1	24	_	MO	_	_
+15	der	die	die	ART	ART	_	dat|sg|fem	-1	17	_	NK	_	_
+16	großen	groß	groß	ADJA	ADJA	_	dat|sg|fem|pos	-1	17	_	NK	_	_
+17	Freifläche	Freifläche	Freifläche	NN	NN	_	dat|sg|fem	-1	14	_	NK	_	_
+18	in	in	in	APPR	APPR	_	_	-1	24	_	MO	_	_
+19	der	die	die	ART	ART	_	dat|sg|fem	-1	21	_	NK	_	_
+20	Berliner	Berliner	Berliner	ADJA	ADJA	_	*|*|*|pos	-1	21	_	NK	_	_
+21	Straße	Straße	Straße	NN	NN	_	dat|sg|fem	-1	18	_	NK	_	_
+22	zu	zu	zu	APPR	APPR	_	_	-1	24	_	MO	_	_
+23	Werke	Werk	Werk	NN	NN	_	dat|sg|neut	-1	22	_	NK	_	_
+24	gingen	gehen	gehen	VVFIN	VVFIN	_	pl|3|past|ind	-1	4	_	RC	_	_
+25	.	.	.	$.	$.	_	_	-1	24	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	4	_	JU	_	_
+2	das	die	die	ART	ART	_	nom|sg|neut	-1	3	_	NK	_	_
+3	Ganze	Ganze	Ganze	NN	NN	_	nom|sg|neut	-1	4	_	SB	_	_
+4	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	24	_	OC	_	_
+5	mit	mit	mit	APPR	APPR	_	_	-1	4	_	MO	_	_
+6	Sicherheit	Sicherheit	Sicherheit	NN	NN	_	dat|sg|fem	-1	5	_	NK	_	_
+7	auch	auch	auch	ADV	ADV	_	_	-1	10	_	MO	_	_
+8	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	10	_	NK	_	_
+9	erzieherischen	erzieherisch	erzieherisch	ADJA	ADJA	_	acc|sg|masc|pos	-1	10	_	NK	_	_
+10	Nutzen	Nutzen	Nutzen	NN	NN	_	acc|sg|masc	-1	4	_	OA	_	_
+11	:	:	:	$.	$.	_	_	-1	10	_	--	_	_
+12	Wer	wer	wer	PWS	PWS	_	nom|sg|masc	-1	13	_	SB	_	_
+13	weiß	wissen	wissen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	4	_	OC	_	_
+14	,	,	,	$,	$,	_	_	-1	13	_	--	_	_
+15	wie	wie	wie	KOUS	KOUS	_	_	-1	22	_	MO	_	_
+16	viel	viele	viele	PIAT	PIAT	_	*|*|*	-1	17	_	NK	_	_
+17	Arbeit	Arbeit	Arbeit	NN	NN	_	acc|sg|fem	-1	22	_	SB	_	_
+18	in	in	in	APPR	APPR	_	_	-1	22	_	MO	_	_
+19	solch	solche	solche	PIAT	PIAT	_	*|*|*	-1	20	_	MO	_	_
+20	einer	eine	eine	ART	ART	_	dat|sg|fem	-1	21	_	NK	_	_
+21	Pflanzaktion	Pflanzaktion	Pflanzaktion	NN	NN	_	dat|sg|fem	-1	18	_	NK	_	_
+22	steckt	stecken	stecken	VVFIN	VVFIN	_	sg|3|pres|ind	-1	13	_	OC	_	_
+23	,	,	,	$,	$,	_	_	-1	22	_	--	_	_
+24	schätzt	schätzen	schätzen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+25	das	die	die	ART	ART	_	nom|sg|neut	-1	26	_	NK	_	_
+26	Ergebnis	Ergebnis	Ergebnis	NN	NN	_	nom|sg|neut	-1	24	_	SB	_	_
+27	am	an	an	APPRART	APPRART	_	dat|sg|neut	-1	24	_	MO	_	_
+28	Ende	Ende	Ende	NN	NN	_	dat|sg|neut	-1	27	_	NK	_	_
+29	umso	umso	umso	ADV	ADV	_	_	-1	30	_	MO	_	_
+30	mehr	mehr	mehr	ADV	ADV	_	_	-1	24	_	MO	_	_
+31	.	.	.	$.	$.	_	_	-1	30	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	3	_	JU	_	_
+2	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	3	_	PH	_	_
+3	weckt	wecken	wecken	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	den	die	die	ART	ART	_	acc|sg|masc	-1	5	_	NK	_	_
+5	Stolz	Stolz	Stolz	NN	NN	_	acc|sg|masc	-1	3	_	OA	_	_
+6	darauf	darauf	darauf	PAV	PAV	_	_	-1	5	_	NK	_	_
+7	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+8	etwas	etwas	etwas	ADV	ADV	_	_	-1	12	_	OA	_	_
+9	für	für	für	APPR	APPR	_	_	-1	12	_	MO	_	_
+10	die	die	die	ART	ART	_	acc|sg|fem	-1	11	_	NK	_	_
+11	Allgemeinheit	Allgemeinheit	Allgemeinheit	NN	NN	_	acc|sg|fem	-1	9	_	NK	_	_
+12	getan	tun	tun	VVPP	VVPP	_	_	-1	14	_	OC	_	_
+13	zu	zu	zu	PTKZU	PTKZU	_	_	-1	14	_	PM	_	_
+14	haben	haben	haben	VAINF	VAINF	_	_	-1	3	_	OC	_	_
+15	,	,	,	$,	$,	_	_	-1	14	_	--	_	_
+16	schafft	schaffen	schaffen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	3	_	CJ	_	_
+17	Verbundenheit	Verbundenheit	Verbundenheit	NN	NN	_	acc|sg|fem	-1	16	_	SB	_	_
+18	mit	mit	mit	APPR	APPR	_	_	-1	16	_	MO	_	_
+19	der	die	die	ART	ART	_	dat|sg|fem	-1	20	_	NK	_	_
+20	Stadt	Stadt	Stadt	NN	NN	_	dat|sg|fem	-1	18	_	NK	_	_
+21	.	.	.	$.	$.	_	_	-1	20	_	--	_	_
+
+1	Das	die	die	PDS	PDS	_	nom|sg|neut	-1	2	_	SB	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	heutzutage	heutzutage	heutzutage	ADV	ADV	_	_	-1	14	_	MO	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	wo	wo	wo	PWAV	PWAV	_	_	-1	10	_	MO	_	_
+6	Vandalismus	Vandalismus	Vandalismus	NN	NN	_	nom|sg|masc	-1	10	_	SB	_	_
+7	längst	längst	längst	ADV	ADV	_	_	-1	10	_	MO	_	_
+8	zum	zu	zu	APPRART	APPRART	_	dat|sg|masc	-1	10	_	OP	_	_
+9	Alltag	Alltag	Alltag	NN	NN	_	dat|sg|masc	-1	8	_	NK	_	_
+10	gehört	gehören	gehören	VVFIN	VVFIN	_	sg|3|pres|ind	-1	3	_	RC	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	14	_	NG	_	_
+13	zu	zu	zu	PTKZU	PTKZU	_	_	-1	14	_	PM	_	_
+14	unterschätzen	unterschätzen	unterschätzen	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|pl|*	-1	3	_	NK	_	_
+2	30	30	30	CARD	CARD	_	_	-1	3	_	NK	_	_
+3	Mädchen	Mädchen	Mädchen	NN	NN	_	nom|pl|neut	-1	6	_	SB	_	_
+4	und	und	und	KON	KON	_	_	-1	3	_	CD	_	_
+5	Jungen	Junge	Junge	NN	NN	_	nom|pl|masc	-1	4	_	CJ	_	_
+6	haben	haben	haben	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+7	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	16	_	OA	_	_
+8	eher	eher	eher	ADV	ADV	_	_	-1	9	_	MO	_	_
+9	zufällig	zufällig	zufällig	ADJD	ADJD	_	pos	-1	16	_	MO	_	_
+10	in	in	in	APPR	APPR	_	_	-1	16	_	MO	_	_
+11	der	die	die	ART	ART	_	dat|sg|fem	-1	12	_	NK	_	_
+12	Neigungsgruppe	Neigungsgruppe	Neigungsgruppe	NN	NN	_	dat|sg|fem	-1	10	_	NK	_	_
+13	Biologie	Biologie	Biologie	NN	NN	_	nom|sg|fem	-1	6	_	SB	_	_
+14	und	und	und	KON	KON	_	_	-1	13	_	CD	_	_
+15	Umwelt	Umwelt	Umwelt	NN	NN	_	nom|sg|fem	-1	14	_	CJ	_	_
+16	zusammengefunden	zusammenfinden	zusammenfinden	VVPP	VVPP	_	_	-1	6	_	OC	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
+1	Viele	viele	viele	PIS	PIS	_	nom|pl|*	-1	15	_	OA	_	_
+2	aus	aus	aus	APPR	APPR	_	_	-1	1	_	MNR	_	_
+3	Interesse	Interesse	Interesse	NN	NN	_	dat|sg|fem	-1	2	_	NK	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	einige	einige	einige	PIS	PIS	_	acc|pl|*	-1	15	_	MO	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	weil	weil	weil	KOUS	KOUS	_	_	-1	15	_	CP	_	_
+8	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	15	_	EP	_	_
+9	in	in	in	APPR	APPR	_	_	-1	15	_	MO	_	_
+10	anderen	andere	andere	PIS	PIS	_	dat|pl|*	-1	11	_	NK	_	_
+11	Gruppen	Gruppe	Gruppe	NN	NN	_	dat|pl|fem	-1	9	_	NK	_	_
+12	keinen	keine	keine	PIAT	PIAT	_	acc|sg|masc	-1	13	_	NK	_	_
+13	Platz	Platz	Platz	NN	NN	_	acc|sg|masc	-1	15	_	OA	_	_
+14	mehr	mehr	mehr	ADV	ADV	_	_	-1	13	_	MO	_	_
+15	gab	geben	geben	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+1	Vielleicht	vielleicht	vielleicht	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	fanden	finden	finden	VVFIN	VVFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+3	auch	auch	auch	ADV	ADV	_	_	-1	4	_	MO	_	_
+4	die	die	die	ART	ART	_	nom|pl|fem	-1	2	_	SB	_	_
+5	gestern	gestern	gestern	ADV	ADV	_	_	-1	2	_	MO	_	_
+6	die	die	die	ART	ART	_	acc|sg|fem	-1	7	_	NK	_	_
+7	Bestätigung	Bestätigung	Bestätigung	NN	NN	_	acc|sg|fem	-1	2	_	OA	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	dass	dass	dass	KOUS	KOUS	_	_	-1	19	_	CP	_	_
+10	sie	sie	sie	PPER	PPER	_	nom|sg|fem|3	-1	19	_	SB	_	_
+11	letztlich	letztlich	letztlich	ADV	ADV	_	_	-1	18	_	MO	_	_
+12	doch	doch	doch	ADV	ADV	_	_	-1	18	_	MO	_	_
+13	gar	gar	gar	ADV	ADV	_	_	-1	14	_	MO	_	_
+14	keine	keine	keine	PIAT	PIAT	_	acc|sg|fem	-1	17	_	NK	_	_
+15	so	so	so	ADV	ADV	_	_	-1	16	_	MO	_	_
+16	schlechte	schlecht	schlecht	ADJA	ADJA	_	acc|sg|fem|pos	-1	17	_	NK	_	_
+17	Wahl	Wahl	Wahl	NN	NN	_	acc|sg|fem	-1	18	_	OA	_	_
+18	getroffen	treffen|triefen	treffen|triefen	VVPP	VVPP	_	_	-1	19	_	OC	_	_
+19	haben	haben	haben	VAFIN	VAFIN	_	pl|3|pres|ind	-1	2	_	MO	_	_
+20	.	.	.	$.	$.	_	_	-1	19	_	--	_	_
+

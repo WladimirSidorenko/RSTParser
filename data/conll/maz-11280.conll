@@ -1,0 +1,221 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::11
+1	Kurzsichtig	kurzsichtig	kurzsichtig	ADJD	ADJD	_	pos	-1	0	_	--	_	_
+
+	sentence_start	0	84	182	303	455	542	703	800	875	1038
+	token_offsets	sentence	0	offsets	0::15	16::4	21::10	32::1	34::4	39::6	46::13	60::3	64::5	70::2	73::7	81::1
+	token_offsets	sentence	1	offsets	84::3	88::3	92::3	96::7	104::13	118::4	123::3	127::4	132::1	134::3	138::3	142::15	158::3	162::10	173::5	179::1
+	token_offsets	sentence	2	offsets	182::5	188::8	197::8	206::2	209::7	217::5	223::1	225::5	231::4	236::7	244::2	247::3	251::4	256::7	264::16	281::8	290::2	293::6	300::1
+	token_offsets	sentence	3	offsets	303::2	306::5	312::10	323::3	327::4	332::3	336::13	350::1	352::4	357::3	361::3	365::18	384::3	388::8	397::5	403::6	410::12	423::14	438::4	443::8	452::1
+	token_offsets	sentence	4	offsets	455::3	459::20	480::5	486::5	492::5	498::8	507::3	511::3	515::15	531::7	539::1
+	token_offsets	sentence	5	offsets	542::4	547::1	549::2	552::3	556::9	566::4	571::3	575::12	588::1	590::8	599::3	603::9	613::10	624::13	638::1	640::4	645::3	649::6	656::3	660::7	668::5	674::2	677::3	681::8	690::9	700::1
+	token_offsets	sentence	6	offsets	703::2	706::3	710::2	713::3	717::7	725::1	727::4	732::3	736::10	747::5	753::2	756::4	761::3	765::4	770::3	774::12	787::9	797::1
+	token_offsets	sentence	7	offsets	800::12	813::15	829::6	836::2	839::4	844::3	848::13	862::9	872::1
+	token_offsets	sentence	8	offsets	875::14	890::3	894::7	902::3	906::3	910::2	913::7	921::4	926::5	932::4	937::6	944::3	948::6	955::3	959::6	966::1	968::4	973::3	977::5	983::6	990::1	992::5	998::5	1004::3	1008::12	1021::1	1023::2	1026::8	1035::1
+	token_offsets	sentence	9	offsets	1038::3	1042::7	1050::4	1055::12	1068::4	1073::6	1080::10	1091::1	1093::4	1098::5	1104::3	1108::6	1115::1	1117::4	1122::3	1126::14	1141::12	1154::1	1156::3	1160::3	1164::3	1168::3	1172::3	1176::6	1183::4	1188::3	1192::3	1196::7	1204::6	1211::3	1215::3	1219::5	1225::3	1229::9	1239::1
+1	Containerplätze	Containerplatz	Containerplatz	NN	NN	_	nom|pl|masc	-1	2	_	SB	_	_
+2	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	zweckmäßig	zweckmäßig	zweckmäßig	ADJD	ADJD	_	pos	-1	2	_	PD	_	_
+4	,	,	,	$,	$,	_	_	-1	3	_	--	_	_
+5	doch	doch	doch	KON	KON	_	_	-1	2	_	CD	_	_
+6	leider	leider	leider	ADV	ADV	_	_	-1	7	_	MO	_	_
+7	funktionieren	funktionieren	funktionieren	VVFIN	VVFIN	_	pl|3|pres|ind	-1	5	_	CJ	_	_
+8	sie	sie	sie	PPER	PPER	_	nom|pl|*|3	-1	7	_	SB	_	_
+9	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	7	_	NG	_	_
+10	so	so	so	ADV	ADV	_	_	-1	11	_	MO	_	_
+11	richtig	richtig	richtig	ADJD	ADJD	_	pos	-1	7	_	MO	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Das	die	die	PDS	PDS	_	nom|sg|neut	-1	2	_	SB	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	bei	bei	bei	APPR	APPR	_	_	-1	2	_	MO	_	_
+4	anderen	andere	andere	PIS	PIS	_	dat|pl|fem|pos	-1	5	_	NK	_	_
+5	Einrichtungen	Einrichtung	Einrichtung	NN	NN	_	dat|pl|fem	-1	3	_	NK	_	_
+6	auch	auch	auch	ADV	ADV	_	_	-1	8	_	MO	_	_
+7	der	die	die	ART	ART	_	nom|sg|masc	-1	8	_	NK	_	_
+8	Fall	Fall	Fall	NN	NN	_	nom|sg|masc	-1	2	_	PD	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	die	die	die	PRELS	PRELS	_	nom|sg|fem	-1	15	_	SB	_	_
+11	auf	auf	auf	APPR	APPR	_	_	-1	15	_	MO	_	_
+12	Selbstdisziplin	Selbstdisziplin	Selbstdisziplin	NN	NN	_	acc|sg|neut	-1	11	_	NK	_	_
+13	und	und	und	KON	KON	_	_	-1	12	_	CD	_	_
+14	Bürgersinn	Bürgersinn	Bürgersinn	NN	NN	_	acc|sg|masc	-1	13	_	CJ	_	_
+15	bauen	bauen	bauen	VVINF	VVINF	_	_	-1	8	_	RC	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+1	Viele	viele	viele	PIAT	PIAT	_	nom|pl|masc	-1	2	_	NK	_	_
+2	Menschen	Mensch	Mensch	NN	NN	_	nom|pl|masc	-1	3	_	SB	_	_
+3	schaffen	schaffen	schaffen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+4	es	es	es	PPER	PPER	_	acc|sg|neut|3	-1	3	_	OA	_	_
+5	nämlich	nämlich	nämlich	ADV	ADV	_	_	-1	3	_	MO	_	_
+6	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	3	_	NG	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	ihren	ihr	ihr	PPOSAT	PPOSAT	_	acc|sg|masc	-1	9	_	NK	_	_
+9	Müll	Müll	Müll	NN	NN	_	acc|sg|masc	-1	18	_	OA	_	_
+10	korrekt	korrekt	korrekt	ADJD	ADJD	_	pos	-1	18	_	MO	_	_
+11	in	in	in	APPR	APPR	_	_	-1	18	_	MO	_	_
+12	die	die	die	ART	ART	_	acc|sg|fem	-1	16	_	NK	_	_
+13	doch	doch	doch	ADV	ADV	_	_	-1	15	_	MO	_	_
+14	einfach	einfach	einfach	ADJD	ADJD	_	pos	-1	15	_	MO	_	_
+15	gekennzeichneten	gekennzeichnet	gekennzeichnet	ADJA	ADJA	_	dat|pl|masc|pos	-1	16	_	NK	_	_
+16	Behälter	Behälter	Behälter	NN	NN	_	acc|pl|masc	-1	11	_	NK	_	_
+17	zu	zu	zu	PTKZU	PTKZU	_	_	-1	18	_	PM	_	_
+18	werfen	werfen	werfen	VVINF	VVINF	_	_	-1	4	_	RE	_	_
+19	.	.	.	$.	$.	_	_	-1	18	_	--	_	_
+
+1	So	so	so	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	gehen	gehen	gehen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	Kunststoff	Kunststoff	Kunststoff	NN	NN	_	acc|sg|masc	-1	2	_	SB	_	_
+4	und	und	und	KON	KON	_	_	-1	3	_	CD	_	_
+5	Glas	Glas	Glas	NN	NN	_	acc|sg|masc	-1	4	_	CJ	_	_
+6	oft	oft	oft	ADV	ADV	_	_	-1	2	_	MO	_	_
+7	durcheinander	durcheinander	durcheinander	PTKVZ	PTKVZ	_	_	-1	2	_	SVP	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	auch	auch	auch	ADV	ADV	_	_	-1	10	_	MO	_	_
+10	bei	bei	bei	APPR	APPR	_	_	-1	2	_	MO	_	_
+11	der	die	die	ART	ART	_	dat|sg|fem	-1	12	_	NK	_	_
+12	Farbunterscheidung	Farbunterscheidung	Farbunterscheidung	NN	NN	_	dat|sg|fem	-1	10	_	NK	_	_
+13	von	von	von	APPR	APPR	_	_	-1	12	_	PG	_	_
+14	Flaschen	Flasche	Flasche	NN	NN	_	dat|pl|fem	-1	13	_	NK	_	_
+15	haben	haben	haben	VAFIN	VAFIN	_	pl|3|pres|ind	-1	2	_	CJ	_	_
+16	einige	einige	einige	PIAT	PIAT	_	nom|pl|masc	-1	17	_	NK	_	_
+17	Zeitgenossen	Zeitgenosse	Zeitgenosse	NN	NN	_	nom|pl|masc	-1	15	_	SB	_	_
+18	offensichtlich	offensichtlich	offensichtlich	ADJD	ADJD	_	pos	-1	15	_	MO	_	_
+19	ihre	ihr	ihr	PPOSAT	PPOSAT	_	acc|pl|neut	-1	20	_	NK	_	_
+20	Probleme	Problem	Problem	NN	NN	_	acc|pl|neut	-1	15	_	OA	_	_
+21	.	.	.	$.	$.	_	_	-1	20	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Rethmann-Mitarbeiter	Rethmann-Mitarbeiter	Rethmann-Mitarbeiter	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+3	haben	haben	haben	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+4	sogar	sogar	sogar	ADV	ADV	_	_	-1	10	_	MO	_	_
+5	schon	schon	schon	ADV	ADV	_	_	-1	10	_	MO	_	_
+6	Teppiche	Teppich	Teppich	NN	NN	_	nom|pl|masc	-1	10	_	OA	_	_
+7	aus	aus	aus	APPR	APPR	_	_	-1	10	_	MO	_	_
+8	dem	die	die	ART	ART	_	dat|sg|masc	-1	9	_	NK	_	_
+9	Papiercontainer	Papiercontainer	Papiercontainer	NN	NN	_	dat|sg|masc	-1	7	_	NK	_	_
+10	gezogen	ziehen	ziehen	VVPP	VVPP	_	_	-1	3	_	OC	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Egal	egal	egal	ADJD	ADJD	_	_	-1	11	_	PD	_	_
+2	,	,	,	$,	$,	_	_	-1	1	_	--	_	_
+3	ob	ob	ob	KOUS	KOUS	_	_	-1	21	_	CP	_	_
+4	nun	nun	nun	ADV	ADV	_	_	-1	5	_	MO	_	_
+5	mutwillig	mutwillig	mutwillig	ADJD	ADJD	_	pos	-1	1	_	CJ	_	_
+6	oder	oder	oder	KON	KON	_	_	-1	5	_	CD	_	_
+7	aus	aus	aus	APPR	APPR	_	_	-1	6	_	CJ	_	_
+8	Unwissenheit	Unwissenheit	Unwissenheit	NN	NN	_	dat|sg|fem	-1	7	_	NK	_	_
+9	-	-	-	$(	$(	_	_	-1	8	_	--	_	_
+10	ersteres	ersteres	ersteres	ADJA	ADJA	_	acc|sg|neut|comp	-1	11	_	SB	_	_
+11	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+12	moralisch	moralisch	moralisch	ADJD	ADJD	_	pos	-1	14	_	MO	_	_
+13	sicherlich	sicherlich	sicherlich	ADV	ADV	_	_	-1	14	_	MO	_	_
+14	verwerflicher	verwerflich	verwerflich	ADJD	ADJD	_	comp	-1	11	_	PD	_	_
+15	-	-	-	$(	$(	_	_	-1	14	_	--	_	_
+16	rund	rund	rund	ADV	ADV	_	pos	-1	18	_	MO	_	_
+17	die	die	die	ART	ART	_	nom|sg|fem	-1	18	_	NK	_	_
+18	Hälfte	Hälfte	Hälfte	NN	NN	_	nom|sg|fem	-1	21	_	SB	_	_
+19	der	die	die	ART	ART	_	gen|pl|neut	-1	20	_	NK	_	_
+20	Abfälle	Abfall	Abfall	NN	NN	_	gen|pl|neut	-1	18	_	AG	_	_
+21	gerät	geraten	geraten	VVFIN	VVFIN	_	sg|3|pres|ind	-1	11	_	CJ	_	_
+22	in	in	in	APPR	APPR	_	_	-1	21	_	MO	_	_
+23	den	die	die	ART	ART	_	dat|pl|neut	-1	25	_	NK	_	_
+24	falschen	falsch	falsch	ADJA	ADJA	_	dat|pl|neut|pos	-1	25	_	NK	_	_
+25	Kreislauf	Kreislauf	Kreislauf	NN	NN	_	dat|pl|neut	-1	22	_	NK	_	_
+26	.	.	.	$.	$.	_	_	-1	25	_	--	_	_
+
+1	Da	da	da	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	SB	_	_
+4	nur	nur	nur	ADV	ADV	_	_	-1	5	_	MO	_	_
+5	logisch	logisch	logisch	ADJD	ADJD	_	pos	-1	2	_	PD	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	dass	dass	dass	KOUS	KOUS	_	_	-1	17	_	CP	_	_
+8	die	die	die	ART	ART	_	nom|sg|fem	-1	9	_	NK	_	_
+9	Rethmänner	Rethmänner	Rethmänner	NN	NN	_	nom|sg|fem	-1	17	_	SB	_	_
+10	jetzt	jetzt	jetzt	ADV	ADV	_	_	-1	17	_	MO	_	_
+11	so	so	so	ADV	ADV	_	_	-1	12	_	MO	_	_
+12	nach	nach	nach	PTKVZ	PTKVZ	_	_	-1	17	_	MO	_	_
+13	und	und	und	KON	KON	_	_	-1	12	_	CD	_	_
+14	nach	nach	nach	APPR	APPR	_	_	-1	13	_	CJ	_	_
+15	das	die	die	ART	ART	_	acc|sg|neut	-1	16	_	NK	_	_
+16	Sammelsystem	Sammelsystem	Sammelsystem	NN	NN	_	acc|sg|neut	-1	14	_	NK	_	_
+17	umstellen	umstellen	umstellen	VVINF	VVINF	_	_	-1	3	_	RE	_	_
+18	.	.	.	$.	$.	_	_	-1	17	_	--	_	_
+
+1	Schmuddelige	schmuddelig	schmuddelig	ADJA	ADJA	_	acc|pl|masc|pos	-1	2	_	NK	_	_
+2	Containerplätze	Containerplatz	Containerplatz	NN	NN	_	acc|pl|masc	-1	3	_	SB	_	_
+3	sollen	sollen	sollen	VMFIN	VMFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+4	so	so	so	ADV	ADV	_	_	-1	5	_	MO	_	_
+5	bald	bald	bald	ADV	ADV	_	_	-1	8	_	MO	_	_
+6	der	die	die	ART	ART	_	gen|sg|fem	-1	7	_	NK	_	_
+7	Vergangenheit	Vergangenheit	Vergangenheit	NN	NN	_	gen|sg|fem	-1	8	_	DA	_	_
+8	angehören	angehören	angehören	VVINF	VVINF	_	_	-1	3	_	OC	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+1	Unverständlich	unverständlich	unverständlich	ADJD	ADJD	_	pos	-1	2	_	PD	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	deshalb	deshalb	deshalb	PAV	PAV	_	_	-1	23	_	NK	_	_
+4	die	die	die	ART	ART	_	nom|sg|fem	-1	11	_	NK	_	_
+5	mit	mit	mit	APPR	APPR	_	_	-1	10	_	MO	_	_
+6	37	37	37	CARD	CARD	_	_	-1	7	_	NK	_	_
+7	Prozent	Prozent	Prozent	NN	NN	_	*|*|neut	-1	5	_	NK	_	_
+8	doch	doch	doch	ADV	ADV	_	_	-1	10	_	MO	_	_
+9	recht	recht	recht	ADJD	ADJD	_	pos	-1	10	_	MO	_	_
+10	hohe	hoch	hoch	ADJA	ADJA	_	acc|sg|fem|pos	-1	11	_	NK	_	_
+11	Anzahl	Anzahl	Anzahl	NN	NN	_	acc|sg|fem	-1	2	_	SB	_	_
+12	der	die	die	ART	ART	_	gen|pl|masc	-1	13	_	NK	_	_
+13	Bürger	Bürger	Bürger	NN	NN	_	gen|pl|masc	-1	11	_	AG	_	_
+14	vom	von	von	APPRART	APPRART	_	dat|sg|masc	-1	13	_	MNR	_	_
+15	Görden	Görden	Görden	NN	NN	_	dat|sg|masc	-1	14	_	NK	_	_
+16	,	,	,	$,	$,	_	_	-1	15	_	--	_	_
+17	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	28	_	OA	_	_
+18	dem	die	die	ART	ART	_	dat|sg|masc	-1	20	_	NK	_	_
+19	neuen	neu	neu	ADJA	ADJA	_	dat|sg|masc|pos	-1	20	_	NK	_	_
+20	System	System	System	NN	NN	_	dat|sg|masc	-1	28	_	DA	_	_
+21	-	-	-	$(	$(	_	_	-1	20	_	--	_	_
+22	gelbe	gelb	gelb	ADJA	ADJA	_	acc|sg|fem|pos	-1	23	_	NK	_	_
+23	Säcke	Sack	Sack	NN	NN	_	acc|sg|fem	-1	28	_	OA	_	_
+24	und	und	und	KON	KON	_	_	-1	23	_	CD	_	_
+25	Papiertonnen	Papiertonne	Papiertonne	NN	NN	_	dat|pl|fem	-1	24	_	CJ	_	_
+26	-	-	-	$(	$(	_	_	-1	25	_	--	_	_
+27	zu	zu	zu	PTKZU	PTKZU	_	_	-1	28	_	PM	_	_
+28	versagen	versagen	versagen	VVINF	VVINF	_	_	-1	11	_	OC	_	_
+29	.	.	.	$.	$.	_	_	-1	28	_	--	_	_
+
+1	Sie	Sie	Sie	PPER	PPER	_	nom|pl|*|3	-1	2	_	SB	_	_
+2	sollten	sollen	sollen	VMFIN	VMFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+3	ihre	ihr	ihr	PPOSAT	PPOSAT	_	acc|sg|fem	-1	4	_	NK	_	_
+4	Entscheidung	Entscheidung	Entscheidung	NN	NN	_	acc|sg|fem	-1	7	_	OA	_	_
+5	noch	noch	noch	ADV	ADV	_	_	-1	6	_	MO	_	_
+6	einmal	einmal	einmal	ADV	ADV	_	_	-1	7	_	MO	_	_
+7	überdenken	überdenken	überdenken	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	denn	denn	denn	KON	KON	_	_	-1	2	_	CD	_	_
+10	neben	neben	neben	APPR	APPR	_	_	-1	19	_	MO	_	_
+11	dem	die	die	ART	ART	_	dat|sg|masc	-1	12	_	NK	_	_
+12	Effekt	Effekt	Effekt	NN	NN	_	dat|sg|masc	-1	10	_	NK	_	_
+13	,	,	,	$,	$,	_	_	-1	12	_	--	_	_
+14	dass	dass	dass	KOUS	KOUS	_	_	-1	17	_	CP	_	_
+15	die	die	die	ART	ART	_	nom|pl|fem	-1	16	_	NK	_	_
+16	Schmuddelecken	Schmuddelecke	Schmuddelecke	NN	NN	_	nom|pl|fem	-1	17	_	SB	_	_
+17	verschwinden	verschwinden	verschwinden	VVINF	VVINF	_	pl|3|pres|ind	-1	12	_	OC	_	_
+18	,	,	,	$,	$,	_	_	-1	17	_	--	_	_
+19	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	9	_	CJ	_	_
+20	der	die	die	ART	ART	_	nom|sg|masc	-1	21	_	NK	_	_
+21	Weg	Weg	Weg	NN	NN	_	nom|sg|masc	-1	19	_	SB	_	_
+22	mit	mit	mit	APPR	APPR	_	_	-1	21	_	MNR	_	_
+23	dem	die	die	ART	ART	_	dat|sg|neut	-1	25	_	NK	_	_
+24	gelben	gelb	gelb	ADJA	ADJA	_	dat|sg|neut|pos	-1	25	_	NK	_	_
+25	Sack	Sack	Sack	NN	NN	_	dat|sg|neut	-1	22	_	NK	_	_
+26	vor	vor	vor	APPR	APPR	_	_	-1	21	_	MNR	_	_
+27	die	die	die	ART	ART	_	nom|sg|fem	-1	28	_	NK	_	_
+28	Haustür	Haustür	Haustür	NN	NN	_	nom|sg|fem	-1	26	_	NK	_	_
+29	kürzer	kurz	kurz	ADJD	ADJD	_	comp	-1	19	_	PD	_	_
+30	als	als	als	KOKOM	KOKOM	_	_	-1	32	_	CM	_	_
+31	die	die	die	ART	ART	_	nom|sg|fem	-1	32	_	NK	_	_
+32	Fahrt	Fahrt	Fahrt	NN	NN	_	nom|sg|fem	-1	29	_	CC	_	_
+33	zum	zu	zu	APPRART	APPRART	_	dat|sg|masc	-1	32	_	MNR	_	_
+34	Container	Container	Container	NN	NN	_	dat|sg|masc	-1	33	_	NK	_	_
+35	.	.	.	$.	$.	_	_	-1	34	_	--	_	_
+

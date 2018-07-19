@@ -1,0 +1,189 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::9	10::3	14::6
+1	Punktsieg	Punktsieg	Punktsieg	NN	NN	_	nom|sg|masc	-1	0	_	--	_	_
+2	für	für	für	APPR	APPR	_	_	-1	1	_	MNR	_	_
+3	Arafat	Arafat	Arafat	NE	NE	_	acc|sg|*	-1	2	_	NK	_	_
+
+	sentence_start	0	185	242	276	330	445	665	753	951	1023
+	token_offsets	sentence	0	offsets	0::4	5::3	9::8	18::2	21::5	27::5	33::5	39::2	42::7	50::3	54::7	62::1	64::6	71::3	75::4	80::7	88::9	98::1	100::3	104::5	110::7	118::3	122::6	129::6	136::9	146::1	148::4	153::11	165::16	182::1
+	token_offsets	sentence	1	offsets	185::7	193::6	200::1	202::6	209::9	219::3	223::15	239::1
+	token_offsets	sentence	2	offsets	242::6	249::6	256::1	258::7	266::6	273::1
+	token_offsets	sentence	3	offsets	276::3	280::11	292::3	296::12	309::3	313::5	319::3	323::3	327::1
+	token_offsets	sentence	4	offsets	330::10	341::10	352::3	356::6	363::6	370::4	375::4	380::5	386::1	387::0	389::3	393::3	397::8	406::3	410::5	416::4	421::6	428::5	434::7	442::1
+	token_offsets	sentence	5	offsets	445::3	449::2	452::8	461::3	465::8	474::4	479::10	490::1	492::2	495::6	502::5	508::3	512::11	524::3	528::14	543::6	550::1	552::3	556::13	570::3	574::12	587::5	593::3	597::2	600::3	604::10	615::7	623::1	625::3	629::5	635::13	649::3	653::8	662::1
+	token_offsets	sentence	6	offsets	665::3	669::5	675::3	679::3	683::5	689::4	694::13	708::4	713::3	717::3	721::12	734::15	750::1
+	token_offsets	sentence	7	offsets	753::2	756::11	768::10	779::5	785::4	790::13	804::3	808::8	817::5	823::1	824::0	826::3	830::3	834::12	847::7	855::9	865::11	877::3	881::6	888::3	892::11	904::4	909::9	919::3	923::7	931::3	935::12	948::1
+	token_offsets	sentence	8	offsets	951::9	961::4	966::3	970::3	974::17	992::2	995::5	1001::3	1005::5	1011::8	1020::1
+	token_offsets	sentence	9	offsets	1023::3	1027::3	1031::8	1040::9	1050::1
+1	Wäre	sein	sein	VAFIN	VAFIN	_	sg|3|past|subj	-1	13	_	MO	_	_
+2	der	die	die	ART	ART	_	nom|sg|masc	-1	3	_	NK	_	_
+3	Konflikt	Konflikt	Konflikt	NN	NN	_	nom|sg|masc	-1	1	_	SB	_	_
+4	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	3	_	MNR	_	_
+5	Nahen	nah	nah	ADJA	ADJA	_	dat|sg|masc|pos	-1	6	_	NK	_	_
+6	Osten	Osten	Osten	NN	NN	_	dat|sg|masc	-1	4	_	NK	_	_
+7	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	1	_	NG	_	_
+8	so	so	so	ADV	ADV	_	_	-1	9	_	MO	_	_
+9	tödlich	tödlich	tödlich	ADJD	ADJD	_	pos	-1	1	_	PD	_	_
+10	und	und	und	KON	KON	_	_	-1	9	_	CD	_	_
+11	grausam	grausam	grausam	ADJD	ADJD	_	pos	-1	10	_	CJ	_	_
+12	,	,	,	$,	$,	_	_	-1	11	_	--	_	_
+13	könnte	können	können	VMFIN	VMFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+14	man	man	man	PIS	PIS	_	nom|sg|*	-1	13	_	SB	_	_
+15	sich	sich	sich	PRF	PRF	_	dat|sg|3	-1	17	_	OA	_	_
+16	darüber	darüber	darüber	PAV	PAV	_	_	-1	17	_	NK	_	_
+17	amüsieren	amüsieren	amüsieren	VVINF	VVINF	_	_	-1	13	_	OC	_	_
+18	,	,	,	$,	$,	_	_	-1	17	_	--	_	_
+19	wie	wie	wie	KOUS	KOUS	_	_	-1	25	_	CP	_	_
+20	Ariel	Ariel	Ariel	NE	NE	_	nom|sg|masc	-1	25	_	SB	_	_
+21	Scharon	Scharon	Scharon	NN	NN	_	nom|sg|masc	-1	25	_	SB	_	_
+22	und	und	und	KON	KON	_	_	-1	21	_	CD	_	_
+23	Jassir	Jassir	Jassir	NN	NN	_	nom|sg|masc	-1	22	_	CJ	_	_
+24	Arafat	Arafat	Arafat	NE	NE	_	nom|sg|masc	-1	23	_	NK	_	_
+25	versuchen	versuchen	versuchen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	13	_	MO	_	_
+26	,	,	,	$,	$,	_	_	-1	25	_	--	_	_
+27	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	29	_	OA	_	_
+28	gegenseitig	gegenseitig	gegenseitig	ADJD	ADJD	_	pos	-1	29	_	MO	_	_
+29	auszumanövrieren	ausmanövrieren	ausmanövrieren	VVIZU	VVIZU	_	_	-1	25	_	OC	_	_
+30	.	.	.	$.	$.	_	_	-1	29	_	--	_	_
+
+1	Scharon	Scharon	Scharon	NN	NN	_	nom|sg|masc	-1	2	_	SB	_	_
+2	agiert	agieren	agieren	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	,	,	,	$,	$,	_	_	-1	2	_	--	_	_
+4	Arafat	Arafat	Arafat	NE	NE	_	dat|sg|*	-1	5	_	SB	_	_
+5	antwortet	antworten	antworten	VVFIN	VVFIN	_	sg|3|pres|ind	-1	2	_	CJ	_	_
+6	mit	mit	mit	APPR	APPR	_	_	-1	5	_	MO	_	_
+7	Gegenreaktionen	Gegenreaktion	Gegenreaktion	NN	NN	_	dat|pl|fem	-1	6	_	NK	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+
+1	Arafat	Arafat	Arafat	NE	NE	_	nom|sg|*	-1	2	_	SB	_	_
+2	agiert	agieren	agieren	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	,	,	,	$,	$,	_	_	-1	2	_	--	_	_
+4	Scharon	Scharon	Scharon	NN	NN	_	acc|sg|masc	-1	5	_	OA	_	_
+5	blockt	blocken	blocken	VVFIN	VVFIN	_	sg|3|pres|ind	-1	2	_	CJ	_	_
+6	.	.	.	$.	$.	_	_	-1	5	_	--	_	_
+
+1	Ein	eine	eine	ART	ART	_	nom|sg|neut	-1	2	_	NK	_	_
+2	Schachspiel	Schachspiel	Schachspiel	NN	NN	_	nom|sg|neut	-1	0	_	--	_	_
+3	mit	mit	mit	APPR	APPR	_	_	-1	2	_	MNR	_	_
+4	Konsequenzen	Konsequenz	Konsequenz	NN	NN	_	dat|pl|fem	-1	3	_	NK	_	_
+5	für	für	für	APPR	APPR	_	_	-1	4	_	MNR	_	_
+6	Leben	Leben	Leben	NN	NN	_	acc|sg|neut	-1	5	_	NK	_	_
+7	und	und	und	KON	KON	_	_	-1	6	_	CD	_	_
+8	Tod	Tod	Tod	NN	NN	_	acc|sg|masc	-1	7	_	CJ	_	_
+9	.	.	.	$.	$.	_	_	-1	8	_	--	_	_
+
+1	Politische	politisch	politisch	ADJA	ADJA	_	nom|pl|masc|pos	-1	2	_	NK	_	_
+2	Beobachter	Beobachter	Beobachter	NN	NN	_	nom|pl|masc	-1	6	_	SB	_	_
+3	auf	auf	auf	APPR	APPR	_	_	-1	2	_	MNR	_	_
+4	beiden	beide	beide	PIAT	PIAT	_	nom|pl|masc	-1	5	_	NK	_	_
+5	Seiten	Seite	Seite	NN	NN	_	nom|pl|masc	-1	3	_	NK	_	_
+6	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+7	sich	sich	sich	PRF	PRF	_	dat|pl|3	-1	8	_	DA	_	_
+8	einig	einig	einig	ADJD	ADJD	_	pos	-1	6	_	PD	_	_
+9	:	:	:	$.	$.	_	_	-1	8	_	--	_	_
+10	Nur	nur	nur	ADV	ADV	_	_	-1	12	_	MO	_	_
+11	der	die	die	ART	ART	_	nom|sg|masc	-1	12	_	NK	_	_
+12	Einfluss	Einfluss	Einfluss	NN	NN	_	nom|sg|masc	-1	15	_	SB	_	_
+13	von	von	von	APPR	APPR	_	_	-1	12	_	MNR	_	_
+14	außen	außen	außen	ADV	ADV	_	_	-1	13	_	NK	_	_
+15	kann	können	können	VMFIN	VMFIN	_	sg|3|pres|ind	-1	6	_	CJ	_	_
+16	diesen	dies	dies	PDAT	PDAT	_	acc|sg|masc	-1	17	_	NK	_	_
+17	Poker	Poker	Poker	NN	NN	_	acc|sg|masc	-1	15	_	SB	_	_
+18	beenden	beenden	beenden	VVINF	VVINF	_	_	-1	15	_	OC	_	_
+19	.	.	.	$.	$.	_	_	-1	18	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	3	_	JU	_	_
+2	so	so	so	ADV	ADV	_	_	-1	3	_	MO	_	_
+3	schielen	schielen	schielen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+4	die	die	die	ART	ART	_	nom|pl|masc	-1	5	_	NK	_	_
+5	Israelis	Israeli	Israeli	NN	NN	_	nom|pl|masc	-1	3	_	SB	_	_
+6	nach	nach	nach	APPR	APPR	_	_	-1	3	_	MO	_	_
+7	Washington	Washington	Washington	NE	NE	_	dat|sg|neut	-1	6	_	NK	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	an	an	an	APPR	APPR	_	_	-1	16	_	MO	_	_
+10	dessen	die	die	PRELAT	PRELAT	_	gen|sg|masc	-1	11	_	AG	_	_
+11	Tropf	Tropf	Tropf	NN	NN	_	acc|sg|masc	-1	9	_	NK	_	_
+12	sie	sie	sie	PPER	PPER	_	acc|pl|masc|3	-1	16	_	SB	_	_
+13	militärisch	militärisch	militärisch	ADJD	ADJD	_	pos	-1	16	_	MO	_	_
+14	und	und	und	KON	KON	_	_	-1	13	_	CD	_	_
+15	wirtschaftlich	wirtschaftlich	wirtschaftlich	ADJD	ADJD	_	pos	-1	14	_	CJ	_	_
+16	hängen	hängen	hängen	VVINF	VVINF	_	_	-1	3	_	MO	_	_
+17	,	,	,	$,	$,	_	_	-1	16	_	--	_	_
+18	die	die	die	ART	ART	_	nom|pl|masc	-1	19	_	NK	_	_
+19	Palästinenser	Palästinenser	Palästinenser	NN	NN	_	nom|pl|masc	-1	12	_	APP	_	_
+20	zur	zu	zu	APPRART	APPRART	_	dat|sg|fem	-1	19	_	MNR	_	_
+21	Europäischen	europäisch	europäisch	ADJA	ADJA	_	dat|sg|fem|pos	-1	22	_	NK	_	_
+22	Union	Union	Union	NN	NN	_	dat|sg|fem	-1	20	_	NK	_	_
+23	und	und	und	KON	KON	_	_	-1	20	_	CD	_	_
+24	zu	zu	zu	APPR	APPR	_	_	-1	23	_	CJ	_	_
+25	den	die	die	ART	ART	_	dat|pl|fem	-1	27	_	NK	_	_
+26	arabischen	arabisch	arabisch	ADJA	ADJA	_	dat|pl|fem|pos	-1	27	_	NK	_	_
+27	Staaten	Staat	Staat	NN	NN	_	dat|pl|fem	-1	24	_	NK	_	_
+28	,	,	,	$,	$,	_	_	-1	27	_	--	_	_
+29	von	von	von	APPR	APPR	_	_	-1	33	_	OP	_	_
+30	deren	die	die	PRELAT	PRELAT	_	gen|sg|fem	-1	31	_	AG	_	_
+31	Unterstützung	Unterstützung	Unterstützung	NN	NN	_	acc|sg|fem	-1	29	_	NK	_	_
+32	sie	sie	sie	PPER	PPER	_	nom|pl|*|3	-1	33	_	SB	_	_
+33	abhängen	abhängen	abhängen	VVINF	VVINF	_	_	-1	27	_	RC	_	_
+34	.	.	.	$.	$.	_	_	-1	33	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Folge	Folge	Folge	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+3	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	oft	oft	oft	ADV	ADV	_	_	-1	3	_	MO	_	_
+5	genug	genug	genug	ADV	ADV	_	_	-1	4	_	MO	_	_
+6	eine	eine	eine	ART	ART	_	nom|sg|fem	-1	7	_	NK	_	_
+7	Polarisierung	Polarisierung	Polarisierung	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+8	auch	auch	auch	ADV	ADV	_	_	-1	9	_	MO	_	_
+9	bei	bei	bei	APPR	APPR	_	_	-1	3	_	MO	_	_
+10	den	die	die	ART	ART	_	dat|pl|masc	-1	12	_	NK	_	_
+11	potenziellen	potentiell	potentiell	ADJA	ADJA	_	dat|pl|masc|pos	-1	12	_	NK	_	_
+12	Schiedsrichtern	Schiedsrichtern	Schiedsrichtern	NN	NN	_	dat|pl|masc	-1	9	_	NK	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Zu	zu	zu	APPR	APPR	_	_	-1	9	_	MO	_	_
+2	Weihnachten	Weihnachten	Weihnachten	NN	NN	_	dat|sg|neut	-1	1	_	NK	_	_
+3	allerdings	allerdings	allerdings	ADV	ADV	_	_	-1	1	_	MO	_	_
+4	waren	sein	sein	VAFIN	VAFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+5	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	9	_	DA	_	_
+6	US-Amerikaner	US-Amerikaner	US-Amerikaner	NN	NN	_	nom|pl|masc	-1	4	_	SB	_	_
+7	und	und	und	KON	KON	_	_	-1	6	_	CD	_	_
+8	Europäer	Europäer	Europäer	NN	NN	_	nom|pl|masc	-1	7	_	CJ	_	_
+9	einig	einig	einig	ADJD	ADJD	_	pos	-1	4	_	PD	_	_
+10	:	:	:	$.	$.	_	_	-1	9	_	--	_	_
+11	Das	die	die	ART	ART	_	nom|sg|neut	-1	16	_	NK	_	_
+12	vom	von	von	APPRART	APPRART	_	dat|sg|masc	-1	15	_	SBP	_	_
+13	israelischen	israelisch	israelisch	ADJA	ADJA	_	dat|sg|masc|pos	-1	14	_	NK	_	_
+14	Premier	Premier	Premier	NN	NN	_	dat|sg|masc	-1	12	_	NK	_	_
+15	verhängte	verhängt	verhängt	ADJA	ADJA	_	acc|sg|neut|pos	-1	16	_	NK	_	_
+16	Reiseverbot	Reiseverbot	Reiseverbot	NN	NN	_	acc|sg|neut	-1	23	_	SB	_	_
+17	für	für	für	APPR	APPR	_	_	-1	16	_	MNR	_	_
+18	Arafat	Arafat	Arafat	NE	NE	_	acc|sg|*	-1	17	_	NK	_	_
+19	zur	zu	zu	APPRART	APPRART	_	dat|sg|fem	-1	16	_	MNR	_	_
+20	Christmette	Christmett	Christmett	NN	NN	_	dat|sg|fem	-1	19	_	NK	_	_
+21	nach	nach	nach	APPR	APPR	_	_	-1	20	_	MNR	_	_
+22	Bethlehem	Bethlehem	Bethlehem	NE	NE	_	dat|sg|neut	-1	21	_	NK	_	_
+23	war	sein	sein	VAFIN	VAFIN	_	sg|3|past|ind	-1	4	_	CJ	_	_
+24	unnötig	unnötig	unnötig	ADJD	ADJD	_	pos	-1	23	_	PD	_	_
+25	und	und	und	KON	KON	_	_	-1	24	_	CD	_	_
+26	unangemessen	unangemessen	unangemessen	ADJD	ADJD	_	pos	-1	25	_	CJ	_	_
+27	.	.	.	$.	$.	_	_	-1	26	_	--	_	_
+
+1	Punktsieg	Punktsieg	Punktsieg	NN	NN	_	nom|sg|masc	-1	0	_	--	_	_
+2	also	also	also	ADV	ADV	_	_	-1	1	_	MO	_	_
+3	für	für	für	APPR	APPR	_	_	-1	1	_	MNR	_	_
+4	den	die	die	ART	ART	_	acc|sg|masc	-1	5	_	NK	_	_
+5	Palästinenserchef	Palästinenserchef	Palästinenserchef	NN	NN	_	acc|sg|masc	-1	3	_	NK	_	_
+6	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	5	_	MNR	_	_
+7	Duell	Duell	Duell	NN	NN	_	dat|sg|masc	-1	6	_	NK	_	_
+8	der	die	die	ART	ART	_	gen|pl|fem	-1	10	_	NK	_	_
+9	alten	alt	alt	ADJA	ADJA	_	gen|pl|fem|pos	-1	10	_	NK	_	_
+10	Haudegen	Haudegen	Haudegen	NN	NN	_	gen|pl|fem	-1	7	_	AG	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Bis	bis	bis	KON	KON	_	_	-1	2	_	CD	_	_
+2	zum	zu	zu	APPRART	APPRART	_	dat|sg|masc	-1	0	_	--	_	_
+3	nächsten	nah	nah	ADJA	ADJA	_	dat|sg|masc|pos	-1	4	_	NK	_	_
+4	Schachzug	Schachzug	Schachzug	NN	NN	_	dat|sg|masc	-1	2	_	NK	_	_
+5	.	.	.	$.	$.	_	_	-1	4	_	--	_	_
+

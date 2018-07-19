@@ -1,0 +1,171 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::11
+1	Augenschein	Augenschein	Augenschein	NN	NN	_	nom|sg|masc	-1	0	_	--	_	_
+
+	sentence_start	0	149	334	440	589	612	669	847
+	token_offsets	sentence	0	offsets	0::3	4::12	17::5	23::6	30::4	35::5	41::3	45::16	62::1	64::16	81::5	87::3	91::6	98::3	102::5	108::4	113::4	118::3	122::5	128::7	136::2	139::6	146::1
+	token_offsets	sentence	1	offsets	149::3	153::3	157::9	167::3	171::8	180::2	183::3	187::14	202::3	206::4	211::3	215::5	221::14	236::1	238::4	243::10	254::11	266::3	270::1	272::9	282::1	284::2	287::9	297::1	299::8	308::1	310::5	316::9	326::4	331::1
+	token_offsets	sentence	2	offsets	334::4	339::9	349::18	368::7	376::3	380::9	390::3	394::7	402::3	406::10	417::4	422::2	425::11	437::1
+	token_offsets	sentence	3	offsets	440::3	444::13	458::10	469::3	473::4	478::6	485::3	489::16	506::5	512::8	521::1	523::3	527::3	531::2	534::3	538::7	546::5	552::5	558::1	559::0	561::3	565::3	569::7	577::8	586::1
+	token_offsets	sentence	4	offsets	589::3	593::3	597::2	600::8	609::1
+	token_offsets	sentence	5	offsets	612::3	616::2	619::6	626::8	635::6	642::4	647::10	658::2	661::4	666::1
+	token_offsets	sentence	6	offsets	669::5	675::7	683::14	698::3	702::10	713::6	720::6	727::7	735::3	739::11	751::6	758::9	768::3	772::3	776::12	789::5	795::4	800::4	805::11	817::5	823::3	827::16	844::1
+	token_offsets	sentence	7	offsets	847::3	851::11	863::3	867::3	871::5	877::6	884::7	892::2	895::4	900::6	907::4	912::3	916::3	920::3	924::12	937::1	938::0	940::2	943::4	948::5	954::6	961::1
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	US-Regierung	US-Regierung	US-Regierung	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+3	macht	machen	machen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	dieser	dies	dies	PDAT	PDAT	_	gen|pl|masc	-1	5	_	NK	_	_
+5	Tage	Tag	Tag	NN	NN	_	gen|pl|masc	-1	3	_	MO	_	_
+6	Druck	Druck	Druck	NN	NN	_	nom|sg|masc	-1	3	_	OA	_	_
+7	auf	auf	auf	APPR	APPR	_	_	-1	3	_	MO	_	_
+8	Fernsehstationen	Fernsehstation	Fernsehstation	NN	NN	_	acc|pl|fem	-1	7	_	NK	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	Video-Ansprachen	Video-Ansprachen	Video-Ansprachen	NN	NN	_	acc|pl|fem	-1	8	_	CJ	_	_
+11	Osama	Osama	Osama	NE	NE	_	nom|sg|fem	-1	10	_	NK	_	_
+12	bin	sein	sein	VAFIN	VAFIN	_	sg|1|pres|ind	-1	3	_	CJ	_	_
+13	Ladens	Laden	Laden	NN	NN	_	gen|sg|neut	-1	22	_	OA	_	_
+14	gar	gar	gar	ADV	ADV	_	_	-1	15	_	MO	_	_
+15	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	22	_	MO	_	_
+16	mehr	mehr	mehr	ADV	ADV	_	_	-1	15	_	MO	_	_
+17	oder	oder	oder	KON	KON	_	_	-1	15	_	CD	_	_
+18	nur	nur	nur	ADV	ADV	_	_	-1	20	_	MO	_	_
+19	stark	stark	stark	ADJD	ADJD	_	pos	-1	20	_	MO	_	_
+20	gekürzt	gekürzt	gekürzt	ADJD	ADJD	_	_	-1	17	_	CJ	_	_
+21	zu	zu	zu	PTKZU	PTKZU	_	_	-1	22	_	PM	_	_
+22	senden	senden	senden	VVINF	VVINF	_	_	-1	12	_	OC	_	_
+23	.	.	.	$.	$.	_	_	-1	22	_	--	_	_
+
+1	Das	die	die	PDS	PDS	_	nom|sg|neut	-1	2	_	SB	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	natürlich	natürlich	natürlich	ADV	ADV	_	_	-1	2	_	MO	_	_
+4	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	5	_	NK	_	_
+5	Eingriff	Eingriff	Eingriff	NN	NN	_	nom|sg|masc	-1	2	_	PD	_	_
+6	in	in	in	APPR	APPR	_	_	-1	5	_	MNR	_	_
+7	die	die	die	ART	ART	_	acc|sg|fem	-1	8	_	NK	_	_
+8	Pressefreiheit	Pressefreiheit	Pressefreiheit	NN	NN	_	acc|sg|fem	-1	6	_	NK	_	_
+9	und	und	und	KON	KON	_	_	-1	2	_	CD	_	_
+10	doch	doch	doch	ADV	ADV	_	_	-1	13	_	MO	_	_
+11	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	9	_	CJ	_	_
+12	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	13	_	NG	_	_
+13	auszuschließen	ausschließen	ausschließen	VVIZU	VVIZU	_	_	-1	11	_	OC	_	_
+14	,	,	,	$,	$,	_	_	-1	13	_	--	_	_
+15	dass	dass	dass	KOUS	KOUS	_	_	-1	29	_	CP	_	_
+16	versteckte	versteckt	versteckt	ADJA	ADJA	_	acc|pl|fem|pos	-1	17	_	NK	_	_
+17	Botschaften	Botschaft	Botschaft	NN	NN	_	acc|pl|fem	-1	29	_	SB	_	_
+18	zum	zu	zu	APPRART	APPRART	_	dat|sg|masc	-1	17	_	MNR	_	_
+19	"	"	"	$(	$(	_	_	-1	18	_	--	_	_
+20	Aufwecken	Aufwecken	Aufwecken	NN	NN	_	nom|pl|fem	-1	17	_	APP	_	_
+21	"	"	"	$(	$(	_	_	-1	20	_	--	_	_
+22	so	so	so	ADV	ADV	_	_	-1	23	_	MO	_	_
+23	genannter	genannter	genannter	ADJA	ADJA	_	comp	-1	28	_	MO	_	_
+24	"	"	"	$(	$(	_	_	-1	23	_	--	_	_
+25	Schläfer	Schläfer	Schläfer	NN	NN	_	comp	-1	28	_	OA	_	_
+26	"	"	"	$(	$(	_	_	-1	25	_	--	_	_
+27	darin	darin	darin	PAV	PAV	_	_	-1	25	_	NK	_	_
+28	verborgen	verbergen	verbergen	VVPP	VVPP	_	_	-1	29	_	PD	_	_
+29	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	11	_	SB	_	_
+30	.	.	.	$.	$.	_	_	-1	29	_	--	_	_
+
+1	Eine	eine	eine	ART	ART	_	nom|sg|fem	-1	3	_	NK	_	_
+2	westliche	westlich	westlich	ADJA	ADJA	_	nom|sg|fem|pos	-1	3	_	NK	_	_
+3	Journalistengruppe	Journalistengruppe	Journalistengruppe	NN	NN	_	nom|sg|fem	-1	4	_	SB	_	_
+4	besucht	besuchen	besuchen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	auf	auf	auf	APPR	APPR	_	_	-1	4	_	MO	_	_
+6	Einladung	Einladung	Einladung	NN	NN	_	acc|sg|fem	-1	5	_	NK	_	_
+7	der	die	die	ART	ART	_	gen|pl|fem	-1	8	_	NK	_	_
+8	Taliban	Taliban	Taliban	NE	NE	_	gen|pl|fem	-1	6	_	AG	_	_
+9	ein	eine	eine	ART	ART	_	acc|sg|neut	-1	11	_	NK	_	_
+10	zerstörtes	zerstört	zerstört	ADJA	ADJA	_	acc|sg|neut|pos	-1	11	_	NK	_	_
+11	Dorf	Dorf	Dorf	NN	NN	_	acc|sg|neut	-1	4	_	OA	_	_
+12	in	in	in	APPR	APPR	_	_	-1	11	_	MNR	_	_
+13	Afghanistan	Afghanistan	Afghanistan	NE	NE	_	dat|sg|neut	-1	12	_	NK	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Ein	eine	eine	ART	ART	_	nom|sg|masc	-1	3	_	NK	_	_
+2	authentischer	authentisch	authentisch	ADJA	ADJA	_	nom|sg|masc|pos	-1	3	_	NK	_	_
+3	Ortstermin	Ortstermin	Ortstermin	NN	NN	_	nom|sg|masc	-1	21	_	SB	_	_
+4	und	und	und	KON	KON	_	_	-1	3	_	CD	_	_
+5	doch	doch	doch	ADV	ADV	_	_	-1	6	_	MO	_	_
+6	wissen	wissen	wissen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	4	_	CJ	_	_
+7	die	die	die	ART	ART	_	nom|pl|masc	-1	8	_	NK	_	_
+8	Berichterstatter	Berichterstatter	Berichterstatter	NN	NN	_	nom|pl|masc	-1	6	_	SB	_	_
+9	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	10	_	NG	_	_
+10	wirklich	wirklich	wirklich	ADJD	ADJD	_	pos	-1	6	_	MO	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	was	was	was	PRELS	PRELS	_	acc|sg|neut	-1	18	_	OA	_	_
+13	sie	sie	sie	PPER	PPER	_	nom|sg|fem|3	-1	18	_	SB	_	_
+14	da	da	da	ADV	ADV	_	_	-1	18	_	MO	_	_
+15	mit	mit	mit	APPR	APPR	_	_	-1	18	_	MO	_	_
+16	eigenen	eigen	eigen	ADJA	ADJA	_	dat|pl|fem|pos	-1	17	_	NK	_	_
+17	Augen	Auge	Auge	NN	NN	_	dat|pl|fem	-1	15	_	NK	_	_
+18	sehen	sehen	sehen	VVINF	VVINF	_	_	-1	21	_	OC	_	_
+19	:	:	:	$.	$.	_	_	-1	18	_	--	_	_
+20	Was	was	was	PWS	PWS	_	nom|sg|neut	-1	21	_	SB	_	_
+21	war	sein	sein	VAFIN	VAFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+22	bereits	bereits	bereits	ADV	ADV	_	_	-1	23	_	MO	_	_
+23	zerstört	zerstören	zerstören	VVPP	VVPP	_	_	-1	21	_	PD	_	_
+24	?	?	?	$.	$.	_	_	-1	23	_	--	_	_
+
+1	Wer	wer	wer	PWS	PWS	_	nom|sg|*	-1	2	_	SB	_	_
+2	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	es	es	es	PPER	PPER	_	acc|sg|neut|3	-1	4	_	OA	_	_
+4	zerstört	zerstören	zerstören	VVPP	VVPP	_	_	-1	2	_	OC	_	_
+5	?	?	?	$.	$.	_	_	-1	4	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	5	_	JU	_	_
+2	zu	zu	zu	PTKA	PTKA	_	_	-1	7	_	MNR	_	_
+3	wessen	wer	wer	PWS	PWS	_	_	-1	4	_	NK	_	_
+4	Werkzeug	Werkzeug	Werkzeug	NN	NN	_	dat|sg|neut	-1	2	_	NK	_	_
+5	werden	werden	werden	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+6	ihre	ihr	ihr	PPOSAT	PPOSAT	_	nom|pl|fem	-1	7	_	NK	_	_
+7	Reportagen	Reportage	Reportage	NN	NN	_	nom|pl|fem	-1	5	_	SB	_	_
+8	am	an	an	APPRART	APPRART	_	dat|sg|neut	-1	7	_	MNR	_	_
+9	Ende	Ende	Ende	NN	NN	_	dat|sg|neut	-1	8	_	NK	_	_
+10	?	?	?	$.	$.	_	_	-1	9	_	--	_	_
+
+1	Allzu	allzu	allzu	PTKA	PTKA	_	_	-1	2	_	MO	_	_
+2	präzise	präzise	präzise	ADJD	ADJD	_	pos	-1	3	_	MO	_	_
+3	Treffer-Bilder	Treffer-Bilder	Treffer-Bilder	NN	NN	_	acc|pl|neut	-1	6	_	SB	_	_
+4	aus	aus	aus	APPR	APPR	_	_	-1	3	_	MNR	_	_
+5	Washington	Washington	Washington	NE	NE	_	dat|sg|neut	-1	4	_	NK	_	_
+6	machen	machen	machen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+7	ebenso	ebenso	ebenso	ADV	ADV	_	_	-1	8	_	MO	_	_
+8	stutzig	stutzig	stutzig	ADJD	ADJD	_	pos	-1	6	_	MO	_	_
+9	wie	wie	wie	KOKOM	KOKOM	_	_	-1	10	_	CM	_	_
+10	verblüffend	verblüffend	verblüffend	ADJD	ADJD	_	pos	-1	7	_	CC	_	_
+11	rasche	rasch	rasch	ADJA	ADJA	_	acc|pl|fem|pos	-1	12	_	NK	_	_
+12	Meldungen	Meldung	Meldung	NN	NN	_	acc|pl|fem	-1	6	_	OA	_	_
+13	aus	aus	aus	APPR	APPR	_	_	-1	12	_	MNR	_	_
+14	dem	die	die	ART	ART	_	dat|sg|neut	-1	16	_	NK	_	_
+15	afghanischen	afghanisch	afghanisch	ADJA	ADJA	_	dat|sg|neut|pos	-1	16	_	NK	_	_
+16	Chaos	Chaos	Chaos	NN	NN	_	dat|sg|neut	-1	13	_	NK	_	_
+17	über	über	über	APPR	APPR	_	_	-1	12	_	MNR	_	_
+18	hohe	hoch	hoch	ADJA	ADJA	_	acc|pl|fem|pos	-1	19	_	NK	_	_
+19	Opferzahlen	Opferzahl	Opferzahl	NN	NN	_	acc|pl|fem	-1	17	_	NK	_	_
+20	unter	unter	unter	APPR	APPR	_	_	-1	19	_	MNR	_	_
+21	der	die	die	ART	ART	_	dat|sg|fem	-1	22	_	NK	_	_
+22	Zivilbevölkerung	Zivilbevölkerung	Zivilbevölkerung	NN	NN	_	dat|sg|fem	-1	20	_	NK	_	_
+23	.	.	.	$.	$.	_	_	-1	22	_	--	_	_
+
+1	Bei	bei	bei	APPR	APPR	_	_	-1	7	_	MO	_	_
+2	Nachrichten	Nachricht	Nachricht	NN	NN	_	dat|pl|fem	-1	1	_	NK	_	_
+3	aus	aus	aus	APPR	APPR	_	_	-1	2	_	MNR	_	_
+4	nur	nur	nur	ADV	ADV	_	_	-1	5	_	MO	_	_
+5	einer	eine	eine	ART	ART	_	dat|sg|fem	-1	6	_	NK	_	_
+6	Quelle	Quelle	Quelle	NN	NN	_	dat|sg|fem	-1	3	_	NK	_	_
+7	verhält	verhalten	verhalten	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+8	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	18	_	EP	_	_
+9	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	7	_	OA	_	_
+10	dieser	dies	dies	PDAT	PDAT	_	gen|pl|masc	-1	11	_	NK	_	_
+11	Tage	Tag	Tag	NN	NN	_	gen|pl|masc	-1	7	_	OA	_	_
+12	wie	wie	wie	KOKOM	KOKOM	_	_	-1	13	_	CM	_	_
+13	mit	mit	mit	APPR	APPR	_	_	-1	7	_	MO	_	_
+14	den	die	die	ART	ART	_	dat|pl|fem	-1	15	_	NK	_	_
+15	Lotto-Zahlen	Lotto-Zahl	Lotto-Zahl	NN	NN	_	dat|pl|fem	-1	13	_	NK	_	_
+16	:	:	:	$.	$.	_	_	-1	15	_	--	_	_
+17	Es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	18	_	EP	_	_
+18	gibt	geben	geben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	7	_	CJ	_	_
+19	keine	keine	keine	PIAT	PIAT	_	acc|sg|fem	-1	20	_	NK	_	_
+20	Gewähr	Gewähr	Gewähr	NN	NN	_	acc|sg|fem	-1	18	_	OA	_	_
+21	.	.	.	$.	$.	_	_	-1	20	_	--	_	_
+

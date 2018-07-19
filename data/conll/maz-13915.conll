@@ -1,0 +1,222 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::10
+1	Nagelprobe	Nagelprobe	Nagelprobe	NN	NN	_	nom|sg|fem	-1	0	_	--	_	_
+
+	sentence_start	0	85	163	215	276	377	537	605	772	874	1017
+	token_offsets	sentence	0	offsets	0::2	3::9	13::4	18::4	23::3	27::5	33::4	38::3	42::3	46::12	59::7	67::10	78::3	82::1
+	token_offsets	sentence	1	offsets	85::3	89::3	93::4	98::3	102::14	117::7	125::4	130::3	134::4	139::5	145::9	155::4	160::1
+	token_offsets	sentence	2	offsets	163::5	169::3	173::3	177::5	183::3	187::5	193::2	196::3	200::3	204::3	208::3	212::1
+	token_offsets	sentence	3	offsets	215::3	219::4	224::3	228::3	232::8	241::7	249::9	259::3	263::9	273::1
+	token_offsets	sentence	4	offsets	276::3	280::4	285::13	299::11	311::3	315::3	319::1	321::9	331::8	340::3	344::23	368::1	370::3	374::1
+	token_offsets	sentence	5	offsets	377::3	381::3	385::7	393::6	400::4	405::11	417::3	421::14	436::9	446::3	450::12	463::6	470::4	475::3	479::3	483::9	493::3	497::3	501::7	509::10	520::7	528::5	534::1
+	token_offsets	sentence	6	offsets	537::2	540::3	544::3	548::11	560::3	564::9	574::7	582::1	584::6	591::10	602::1
+	token_offsets	sentence	7	offsets	605::4	610::2	613::3	617::10	628::5	634::4	639::4	644::5	650::7	658::3	662::14	677::8	686::1	688::3	692::5	698::7	706::10	717::6	724::3	728::3	732::5	738::15	754::2	757::4	762::6	769::1
+	token_offsets	sentence	8	offsets	772::6	779::6	786::4	791::5	797::16	814::2	817::3	821::10	832::3	836::5	842::3	846::7	854::3	858::12	871::1
+	token_offsets	sentence	9	offsets	874::5	880::3	884::16	901::3	905::20	926::5	932::3	936::2	939::3	943::11	955::7	963::1	965::3	969::4	974::3	978::3	982::3	986::8	995::3	999::1	1001::3	1005::3	1009::4	1014::1
+	token_offsets	sentence	10	offsets	1017::9	1027::2	1030::3	1034::4	1039::3	1043::3	1047::10	1058::5	1064::20	1085::1	1087::7	1095::4	1100::3	1104::5	1110::9	1120::13	1134::8	1143::2	1146::3	1150::10	1161::3	1165::2	1168::3	1172::3	1176::1	1178::3	1182::3	1186::5	1192::4	1197::13	1211::6	1218::5	1224::1
+1	37	37	37	CARD	CARD	_	_	-1	2	_	NMC	_	_
+2	Millionen	Million	Million	NN	NN	_	nom|pl|fem	-1	4	_	OA	_	_
+3	Mark	Mark	Mark	NN	NN	_	*|*|fem	-1	2	_	NK	_	_
+4	gibt	geben	geben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	die	die	die	ART	ART	_	acc|sg|fem	-1	6	_	NK	_	_
+6	Stadt	Stadt	Stadt	NN	NN	_	acc|sg|fem	-1	4	_	OA	_	_
+7	2001	@card@	@card@	CARD	CARD	_	_	-1	6	_	NK	_	_
+8	für	für	für	APPR	APPR	_	_	-1	6	_	MNR	_	_
+9	die	die	die	ART	ART	_	acc|sg|fem	-1	10	_	NK	_	_
+10	Unterhaltung	Unterhaltung	Unterhaltung	NN	NN	_	acc|sg|fem	-1	8	_	NK	_	_
+11	eigener	eigen	eigen	ADJA	ADJA	_	gen|pl|fem|pos	-1	12	_	NK	_	_
+12	Immobilien	Immobilie	Immobilie	NN	NN	_	gen|pl|fem	-1	10	_	AG	_	_
+13	aus	aus	aus	PTKVZ	PTKVZ	_	_	-1	4	_	SVP	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	6	_	JU	_	_
+2	der	die	die	ART	ART	_	nom|sg|masc	-1	3	_	NK	_	_
+3	Wert	Wert	Wert	NN	NN	_	nom|sg|masc	-1	6	_	SB	_	_
+4	der	die	die	ART	ART	_	gen|sg|fem	-1	5	_	NK	_	_
+5	Liegenschaften	Liegenschaft	Liegenschaft	NN	NN	_	gen|sg|fem	-1	3	_	AG	_	_
+6	beläuft	belaufen	belaufen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+7	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	6	_	OA	_	_
+8	auf	auf	auf	APPR	APPR	_	_	-1	6	_	OP	_	_
+9	eine	eine	eine	ART	ART	_	acc|sg|fem	-1	11	_	NMC	_	_
+10	halbe	halb	halb	ADJA	ADJA	_	acc|sg|fem|pos	-1	11	_	NMC	_	_
+11	Milliarde	Milliarde	Milliarde	NN	NN	_	acc|sg|fem	-1	8	_	NK	_	_
+12	Mark	Mark	Mark	NN	NN	_	*|*|fem	-1	11	_	NK	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Damit	damit	damit	PAV	PAV	_	_	-1	2	_	NK	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	die	die	die	ART	ART	_	nom|sg|fem	-1	4	_	NK	_	_
+4	Stadt	Stadt	Stadt	NN	NN	_	nom|sg|fem	-1	2	_	SB	_	_
+5	gar	gar	gar	ADV	ADV	_	_	-1	6	_	MO	_	_
+6	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	2	_	NG	_	_
+7	so	so	so	ADV	ADV	_	_	-1	8	_	MO	_	_
+8	arm	arm	arm	ADJD	ADJD	_	pos	-1	2	_	PD	_	_
+9	wie	wie	wie	KOKOM	KOKOM	_	_	-1	11	_	CM	_	_
+10	sie	sie	sie	PPER	PPER	_	nom|sg|fem|3	-1	11	_	SB	_	_
+11	tut	tun	tun	VVFIN	VVFIN	_	sg|3|pres|ind	-1	7	_	CC	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Nur	nur	nur	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	muss	müssen	müssen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	sie	sie	sie	PPER	PPER	_	nom|sg|fem|3	-1	2	_	SB	_	_
+4	ihr	ihr	ihr	PPOSAT	PPOSAT	_	acc|sg|neut	-1	5	_	NK	_	_
+5	Vermögen	Vermögen	Vermögen	NN	NN	_	acc|sg|neut	-1	7	_	OA	_	_
+6	richtig	richtig	richtig	ADJD	ADJD	_	pos	-1	7	_	MO	_	_
+7	einsetzen	einsetzen	einsetzen	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+8	und	und	und	KON	KON	_	_	-1	2	_	CD	_	_
+9	verwalten	verwalten	verwalten	VVFIN	VVFIN	_	pl|3|pres|ind	-1	8	_	CJ	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+1	Das	die	die	PDS	PDS	_	nom|sg|neut	-1	2	_	SB	_	_
+2	will	wollen	wollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	Bürgermeister	Bürgermeister	Bürgermeister	NN	NN	_	nom|sg|masc	-1	2	_	SB	_	_
+4	Langerwisch	Langerwisch	Langerwisch	NN	NN	_	nom|sg|masc	-1	13	_	OA	_	_
+5	mit	mit	mit	APPR	APPR	_	_	-1	4	_	MNR	_	_
+6	dem	die	die	ART	ART	_	dat|sg|masc	-1	11	_	NK	_	_
+7	"	"	"	$(	$(	_	_	-1	6	_	--	_	_
+8	zentralen	zentral	zentral	ADJA	ADJA	_	dat|sg|masc|pos	-1	11	_	NK	_	_
+9	Gebäude-	Gebäude-	Gebäude-	TRUNC	TRUNC	_	_	-1	10	_	CJ	_	_
+10	und	und	und	KON	KON	_	_	-1	11	_	CD	_	_
+11	Liegenschaftsmanagement	Liegenschaftsmanagement	Liegenschaftsmanagement	NN	NN	_	nom|sg|neut	-1	5	_	NK	_	_
+12	"	"	"	$(	$(	_	_	-1	11	_	--	_	_
+13	tun	tun	tun	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+1	Mit	mit	mit	APPR	APPR	_	_	-1	4	_	MO	_	_
+2	dem	die	die	ART	ART	_	dat|sg|neut	-1	3	_	NK	_	_
+3	Konzept	Konzept	Konzept	NN	NN	_	dat|sg|neut	-1	1	_	NK	_	_
+4	lassen	lassen	lassen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+5	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	9	_	OA	_	_
+6	Unterhalts-	Unterhalts-	Unterhalts-	TRUNC	TRUNC	_	_	-1	7	_	CJ	_	_
+7	und	und	und	KON	KON	_	_	-1	8	_	CD	_	_
+8	Personalkosten	Personalkosten	Personalkosten	NN	NN	_	dat|pl|*	-1	4	_	SB	_	_
+9	einsparen	einsparen	einsparen	VVINF	VVINF	_	_	-1	4	_	OC	_	_
+10	und	und	und	KON	KON	_	_	-1	4	_	CD	_	_
+11	gleichzeitig	gleichzeitig	gleichzeitig	ADJD	ADJD	_	pos	-1	12	_	MO	_	_
+12	bleibt	bleiben	bleiben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	10	_	CJ	_	_
+13	Geld	Geld	Geld	NN	NN	_	nom|sg|neut	-1	12	_	SB	_	_
+14	für	für	für	APPR	APPR	_	_	-1	12	_	MO	_	_
+15	die	die	die	ART	ART	_	acc|sg|fem	-1	16	_	NK	_	_
+16	Sanierung	Sanierung	Sanierung	NN	NN	_	acc|sg|fem	-1	14	_	NK	_	_
+17	der	die	die	ART	ART	_	gen|sg|fem	-1	21	_	NK	_	_
+18	oft	oft	oft	ADV	ADV	_	_	-1	19	_	MO	_	_
+19	maroden	marode	marode	ADJA	ADJA	_	gen|sg|fem|pos	-1	21	_	NK	_	_
+20	kommunalen	kommunal	kommunal	ADJA	ADJA	_	gen|sg|fem|pos	-1	21	_	NK	_	_
+21	Gebäude	Gebäude	Gebäude	NN	NN	_	gen|sg|fem	-1	16	_	AG	_	_
+22	übrig	übrig	übrig	ADJD	ADJD	_	pos	-1	12	_	PD	_	_
+23	.	.	.	$.	$.	_	_	-1	22	_	--	_	_
+
+1	Ob	ob	ob	KOUS	KOUS	_	_	-1	7	_	CP	_	_
+2	und	und	und	KON	KON	_	_	-1	1	_	CD	_	_
+3	wie	wie	wie	KOKOM	KOKOM	_	_	-1	2	_	CJ	_	_
+4	Langerwisch	Langerwisch	Langerwisch	NN	NN	_	nom|sg|masc	-1	7	_	SB	_	_
+5	die	die	die	ART	ART	_	acc|sg|fem	-1	6	_	NK	_	_
+6	Umsetzung	Umsetzung	Umsetzung	NN	NN	_	acc|sg|fem	-1	7	_	OA	_	_
+7	gelingt	gelingen	gelingen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	9	_	SB	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	bleibt	bleiben	bleiben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+10	abzuwarten	abwarten	abwarten	VVIZU	VVIZU	_	_	-1	9	_	OC	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Auch	auch	auch	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	in	in	in	APPR	APPR	_	_	-1	12	_	MO	_	_
+3	der	die	die	ART	ART	_	dat|sg|fem	-1	4	_	NK	_	_
+4	Verwaltung	Verwaltung	Verwaltung	NN	NN	_	dat|sg|fem	-1	2	_	NK	_	_
+5	haben	haben	haben	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+6	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	12	_	OA	_	_
+7	über	über	über	APPR	APPR	_	_	-1	12	_	MO	_	_
+8	Jahre	Jahr	Jahr	NN	NN	_	acc|pl|neut	-1	7	_	NK	_	_
+9	Pfründe	Pfründe	Pfründe	NN	NN	_	acc|pl|masc	-1	5	_	SB	_	_
+10	und	und	und	KON	KON	_	_	-1	9	_	CD	_	_
+11	Abhängigkeiten	Abhängigkeit	Abhängigkeit	NN	NN	_	acc|pl|fem	-1	10	_	CJ	_	_
+12	gebildet	bilden	bilden	VVPP	VVPP	_	_	-1	5	_	OC	_	_
+13	,	,	,	$,	$,	_	_	-1	12	_	--	_	_
+14	die	die	die	PRELS	PRELS	_	nom|pl|fem	-1	18	_	SB	_	_
+15	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	17	_	NG	_	_
+16	einfach	einfach	einfach	ADJD	ADJD	_	pos	-1	17	_	MO	_	_
+17	aufgegeben	aufgeben	aufgeben	VVPP	VVPP	_	_	-1	18	_	OC	_	_
+18	werden	werden	werden	VAFIN	VAFIN	_	pl|3|pres|ind	-1	11	_	RC	_	_
+19	und	und	und	KON	KON	_	_	-1	18	_	CD	_	_
+20	die	die	die	PRELS	PRELS	_	nom|sg|fem	-1	25	_	SB	_	_
+21	einer	eine	eine	ART	ART	_	dat|sg|fem	-1	22	_	NK	_	_
+22	Zentralisierung	Zentralisierung	Zentralisierung	NN	NN	_	dat|sg|fem	-1	25	_	DA	_	_
+23	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	25	_	MO	_	_
+24	Wege	Weg	Weg	NN	NN	_	dat|sg|masc	-1	23	_	NK	_	_
+25	stehen	stehen	stehen	VVFIN	VVFIN	_	_	-1	19	_	CJ	_	_
+26	.	.	.	$.	$.	_	_	-1	25	_	--	_	_
+
+1	Bisher	bisher	bisher	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	sprang	springen	springen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+3	noch	noch	noch	ADV	ADV	_	_	-1	5	_	MO	_	_
+4	jeder	jede	jede	PIAT	PIAT	_	nom|sg|masc	-1	5	_	NK	_	_
+5	Strukturreformer	Strukturreformer	Strukturreformer	NN	NN	_	nom|sg|masc	-1	2	_	SB	_	_
+6	in	in	in	APPR	APPR	_	_	-1	2	_	MO	_	_
+7	der	die	die	ART	ART	_	dat|sg|fem	-1	8	_	NK	_	_
+8	Verwaltung	Verwaltung	Verwaltung	NN	NN	_	dat|sg|fem	-1	6	_	NK	_	_
+9	als	als	als	KOKOM	KOKOM	_	_	-1	10	_	CM	_	_
+10	Tiger	Tiger	Tiger	NN	NN	_	nom|sg|masc	-1	8	_	CC	_	_
+11	und	und	und	KON	KON	_	_	-1	2	_	CD	_	_
+12	landete	landen	landen	VVFIN	VVFIN	_	sg|3|past|ind	-1	11	_	CJ	_	_
+13	als	als	als	KOKOM	KOKOM	_	_	-1	14	_	CM	_	_
+14	Bettvorleger	Bettvorleger	Bettvorleger	NN	NN	_	nom|sg|masc	-1	4	_	CC	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+1	Schon	schon	schon	ADV	ADV	_	_	-1	3	_	MO	_	_
+2	die	die	die	ART	ART	_	nom|sg|fem	-1	3	_	NK	_	_
+3	Nichteinbringung	Nichteinbringung	Nichteinbringung	NN	NN	_	nom|sg|fem	-1	9	_	SB	_	_
+4	der	die	die	ART	ART	_	gen|sg|fem	-1	5	_	NK	_	_
+5	Fachbereichsstruktur	Fachbereichsstruktur	Fachbereichsstruktur	NN	NN	_	gen|sg|fem	-1	3	_	AG	_	_
+6	durch	durch	durch	APPR	APPR	_	_	-1	3	_	MNR	_	_
+7	den	die	die	ART	ART	_	acc|sg|masc	-1	8	_	NK	_	_
+8	OB	OB	OB	NN	NN	_	acc|sg|masc	-1	6	_	NK	_	_
+9	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+10	Langerwisch	Langerwisch	Langerwisch	NN	NN	_	nom|sg|neut	-1	11	_	OA	_	_
+11	gezeigt	zeigen	zeigen	VVPP	VVPP	_	_	-1	9	_	OC	_	_
+12	,	,	,	$,	$,	_	_	-1	11	_	--	_	_
+13	wie	wie	wie	KOKOM	KOKOM	_	_	-1	23	_	MO	_	_
+14	dünn	dünn	dünn	ADJD	ADJD	_	pos	-1	19	_	PD	_	_
+15	das	die	die	ART	ART	_	nom|sg|neut	-1	16	_	NK	_	_
+16	Eis	Eis	Eis	NN	NN	_	nom|sg|neut	-1	19	_	PD	_	_
+17	des	die	die	ART	ART	_	gen|sg|masc	-1	18	_	NK	_	_
+18	Erfolges	Erfolg	Erfolg	NN	NN	_	gen|sg|masc	-1	16	_	AG	_	_
+19	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	23	_	CC	_	_
+20	,	,	,	$,	$,	_	_	-1	19	_	--	_	_
+21	das	die	die	PRELS	PRELS	_	nom|sg|neut	-1	23	_	OA	_	_
+22	ihn	er	er	PPER	PPER	_	acc|sg|masc|3	-1	23	_	OA	_	_
+23	trug	tragen	tragen	VVFIN	VVFIN	_	sg|3|past|ind	-1	11	_	MO	_	_
+24	.	.	.	$.	$.	_	_	-1	23	_	--	_	_
+
+1	Scheitert	scheitern	scheitern	VVFIN	VVFIN	_	sg|3|pres|ind	-1	11	_	MO	_	_
+2	er	er	er	PPER	PPER	_	nom|sg|masc|3	-1	1	_	SB	_	_
+3	nun	nun	nun	ADV	ADV	_	_	-1	1	_	MO	_	_
+4	auch	auch	auch	ADV	ADV	_	_	-1	5	_	MO	_	_
+5	mit	mit	mit	APPR	APPR	_	_	-1	1	_	MO	_	_
+6	dem	die	die	ART	ART	_	dat|sg|masc	-1	9	_	NK	_	_
+7	zweifellos	zweifellos	zweifellos	ADJD	ADJD	_	pos	-1	8	_	MO	_	_
+8	guten	gut	gut	ADJA	ADJA	_	dat|sg|neut|pos	-1	9	_	NK	_	_
+9	Liegenschaftskonzept	Liegenschaftskonzept	Liegenschaftskonzept	NN	NN	_	dat|sg|neut	-1	5	_	NK	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	spräche	sprechen	sprechen	VVFIN	VVFIN	_	sg|3|pres|subj	-1	0	_	--	_	_
+12	dies	dies	dies	PDS	PDS	_	nom|sg|neut	-1	11	_	OA	_	_
+13	für	für	für	APPR	APPR	_	_	-1	11	_	MO	_	_
+14	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	17	_	NK	_	_
+15	drastisch	drastisch	drastisch	ADJD	ADJD	_	pos	-1	16	_	MO	_	_
+16	geschwundenen	geschwunden	geschwunden	ADJA	ADJA	_	acc|sg|masc|pos	-1	17	_	NK	_	_
+17	Einfluss	Einfluss	Einfluss	NN	NN	_	acc|sg|masc	-1	13	_	NK	_	_
+18	in	in	in	APPR	APPR	_	_	-1	17	_	MNR	_	_
+19	der	die	die	ART	ART	_	dat|sg|fem	-1	20	_	NK	_	_
+20	Verwaltung	Verwaltung	Verwaltung	NN	NN	_	dat|sg|fem	-1	18	_	NK	_	_
+21	und	und	und	KON	KON	_	_	-1	18	_	CD	_	_
+22	in	in	in	APPR	APPR	_	_	-1	21	_	CJ	_	_
+23	der	die	die	ART	ART	_	dat|sg|fem	-1	24	_	NK	_	_
+24	SVV	SVV	SVV	NE	NE	_	dat|sg|fem	-1	22	_	NK	_	_
+25	,	,	,	$,	$,	_	_	-1	24	_	--	_	_
+26	was	was	was	PRELS	PRELS	_	acc|sg|neut	-1	32	_	OA	_	_
+27	die	die	die	ART	ART	_	nom|sg|fem	-1	28	_	NK	_	_
+28	Stadt	Stadt	Stadt	NN	NN	_	nom|sg|fem	-1	32	_	SB	_	_
+29	noch	noch	noch	ADV	ADV	_	_	-1	30	_	MO	_	_
+30	unregierbarer	unregierbarer	unregierbarer	ADJD	ADJD	_	comp	-1	31	_	PD	_	_
+31	werden	werden	werden	VAINF	VAINF	_	_	-1	32	_	OC	_	_
+32	ließe	lassen	lassen	VVFIN	VVFIN	_	sg|3|past|subj	-1	17	_	RC	_	_
+33	.	.	.	$.	$.	_	_	-1	32	_	--	_	_
+

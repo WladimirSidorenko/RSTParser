@@ -1,0 +1,217 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::7
+1	Abwägen	Abwägen	Abwägen	NN	NN	_	nom|pl|fem	-1	0	_	--	_	_
+
+	sentence_start	0	141
+	token_offsets	sentence	0	offsets	0::7	8::1	10::3	14::19	34::6	41::3	45::3	49::6	56::3	60::4	65::2	68::3	72::11	84::2	87::9	97::3	101::5	107::5	113::3	117::7	125::3	129::4	134::3	138::1
+	token_offsets	sentence	1	offsets	141::4	146::6	153::7	161::3	165::2	168::5	174::11	186::4	191::4	196::3	200::7	208::1	210::4	215::3	219::10	230::4	235::3	239::3	243::9	253::3	257::3	261::2	264::6	271::1
+1	Richtig	richtig	richtig	ADJD	ADJD	_	pos	-1	3	_	CJ	_	_
+2	,	,	,	$,	$,	_	_	-1	1	_	--	_	_
+3	als	als	als	KOKOM	KOKOM	_	_	-1	5	_	MO	_	_
+4	Nicht-Teschendorfer	Nicht-Teschendorfer	Nicht-Teschendorfer	NN	NN	_	nom|sg|masc	-1	3	_	NK	_	_
+5	erlebt	erleben	erleben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+6	man	man	man	PIS	PIS	_	nom|sg|*	-1	5	_	SB	_	_
+7	die	die	die	ART	ART	_	acc|pl|fem	-1	8	_	NK	_	_
+8	Sorgen	Sorge|Sorgen	Sorge|Sorgen	NN	NN	_	acc|pl|fem	-1	5	_	OA	_	_
+9	und	und	und	KON	KON	_	_	-1	8	_	CD	_	_
+10	Nöte	Not	Not	NN	NN	_	acc|pl|fem	-1	9	_	CJ	_	_
+11	um	um	um	APPR	APPR	_	_	-1	8	_	MNR	_	_
+12	den	die	die	ART	ART	_	acc|sg|masc	-1	13	_	NK	_	_
+13	Lkw-Verkehr	Lkw-Verkehr	Lkw-Verkehr	NN	NN	_	acc|sg|masc	-1	11	_	NK	_	_
+14	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	13	_	MNR	_	_
+15	Griebener	Griebener	Griebener	NN	NN	_	dat|sg|neut	-1	14	_	NK	_	_
+16	Weg	Weg	Weg	NN	NN	_	nom|sg|masc	-1	15	_	NK	_	_
+17	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	5	_	NG	_	_
+18	jeden	jede	jede	PIAT	PIAT	_	acc|sg|masc	-1	19	_	NK	_	_
+19	Tag	Tag	Tag	NN	NN	_	acc|sg|masc	-1	20	_	MO	_	_
+20	hautnah	hautnah	hautnah	ADJD	ADJD	_	pos	-1	5	_	MO	_	_
+21	und	und	und	KON	KON	_	_	-1	20	_	CD	_	_
+22	live	live	live	ADJD	ADJD	_	pos	-1	21	_	CJ	_	_
+23	mit	mit	mit	PTKVZ	PTKVZ	_	_	-1	5	_	SVP	_	_
+24	.	.	.	$.	$.	_	_	-1	23	_	--	_	_
+
+1	Aber	aber	aber	KON	KON	_	_	-1	4	_	JU	_	_
+2	gerade	gerade	gerade	ADV	ADV	_	_	-1	4	_	MO	_	_
+3	deshalb	deshalb	deshalb	PAV	PAV	_	_	-1	21	_	NK	_	_
+4	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	4	_	SB	_	_
+6	einem	eine	eine	ART	ART	_	dat|sg|masc	-1	7	_	NK	_	_
+7	Auswärtigen	Auswärtige	Auswärtige	NN	NN	_	dat|sg|masc	-1	11	_	DA	_	_
+8	wohl	wohl	wohl	ADV	ADV	_	_	-1	10	_	MO	_	_
+9	ganz	ganz	ganz	ADV	ADV	_	_	-1	10	_	MO	_	_
+10	gut	gut	gut	ADJD	ADJD	_	pos	-1	11	_	MO	_	_
+11	möglich	möglich	möglich	ADJD	ADJD	_	pos	-1	4	_	PD	_	_
+12	,	,	,	$,	$,	_	_	-1	11	_	--	_	_
+13	sich	sich	sich	PRF	PRF	_	dat|sg|3	-1	23	_	DA	_	_
+14	ein	eine	eine	ART	ART	_	acc|sg|neut	-1	16	_	NK	_	_
+15	objektives	objektiv	objektiv	ADJA	ADJA	_	acc|sg|neut|pos	-1	16	_	NK	_	_
+16	Bild	Bild	Bild	NN	NN	_	acc|sg|neut	-1	23	_	OA	_	_
+17	von	von	von	APPR	APPR	_	_	-1	16	_	PG	_	_
+18	der	die	die	ART	ART	_	dat|sg|fem	-1	19	_	NK	_	_
+19	Situation	Situation	Situation	NN	NN	_	dat|sg|fem	-1	17	_	NK	_	_
+20	vor	vor	vor	APPR	APPR	_	_	-1	19	_	MNR	_	_
+21	Ort	Ort	Ort	NN	NN	_	dat|sg|masc	-1	20	_	NK	_	_
+22	zu	zu	zu	PTKZU	PTKZU	_	_	-1	23	_	PM	_	_
+23	machen	machen	machen	VVINF	VVINF	_	_	-1	5	_	RE	_	_
+24	.	.	.	$.	$.	_	_	-1	23	_	--	_	_
+
+	sentence_start	0	73	199	282
+	token_offsets	sentence	0	offsets	0::8	9::11	21::3	25::3	29::7	37::5	43::3	47::4	52::5	58::6	65::4	70::1
+	token_offsets	sentence	1	offsets	73::3	77::4	82::4	87::3	91::7	99::5	105::2	108::3	112::26	139::3	143::2	146::4	151::6	158::1	160::4	165::4	170::3	174::5	180::15	196::1
+	token_offsets	sentence	2	offsets	199::11	211::7	219::3	223::15	239::2	242::7	250::1	252::3	256::7	264::6	271::7	279::1
+	token_offsets	sentence	3	offsets	282::3	286::3	290::8	299::3	303::7	311::12	324::1	326::3	330::8	339::5	345::12	358::2	361::6	368::1
+1	Häufigen	häufig	häufig	ADJA	ADJA	_	dat|pl|masc|pos	-1	2	_	NK	_	_
+2	Lkw-Verkehr	Lkw-Verkehr	Lkw-Verkehr	NN	NN	_	nom|sg|masc	-1	6	_	OA	_	_
+3	vor	vor	vor	APPR	APPR	_	_	-1	2	_	MNR	_	_
+4	der	die	die	ART	ART	_	dat|sg|fem	-1	5	_	NK	_	_
+5	Haustür	Haustür	Haustür	NN	NN	_	dat|sg|fem	-1	3	_	NK	_	_
+6	finde	finden	finden	VVFIN	VVFIN	_	sg|1|pres|ind	-1	0	_	--	_	_
+7	ich	ich	ich	PPER	PPER	_	nom|sg|*|1	-1	6	_	SB	_	_
+8	auch	auch	auch	ADV	ADV	_	_	-1	6	_	MO	_	_
+9	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	6	_	NG	_	_
+10	gerade	gerade	gerade	ADV	ADV	_	_	-1	9	_	MO	_	_
+11	toll	toll	toll	ADJD	ADJD	_	pos	-1	6	_	MO	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	15	_	JU	_	_
+2	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	13	_	CP	_	_
+3	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	13	_	OA	_	_
+4	die	die	die	ART	ART	_	nom|sg|fem	-1	5	_	NK	_	_
+5	Brummis	Brummis	Brummis	NN	NN	_	nom|sg|fem	-1	13	_	OA	_	_
+6	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	9	_	NG	_	_
+7	an	an	an	APPR	APPR	_	_	-1	13	_	MO	_	_
+8	die	die	die	ART	ART	_	acc|sg|fem	-1	9	_	NK	_	_
+9	Geschwindigkeitsbegrenzung	Geschwindigkeitsbegrenzung	Geschwindigkeitsbegrenzung	NN	NN	_	acc|sg|fem	-1	7	_	NK	_	_
+10	von	von	von	APPR	APPR	_	_	-1	9	_	MNR	_	_
+11	30	30	30	CARD	CARD	_	_	-1	12	_	NK	_	_
+12	km/h	km/h	km/h	NN	NN	_	_	-1	10	_	NK	_	_
+13	halten	halten	halten	VVINF	VVINF	_	pl|3|pres|ind	-1	19	_	MO	_	_
+14	,	,	,	$,	$,	_	_	-1	13	_	--	_	_
+15	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+16	Lärm	Lärm	Lärm	NN	NN	_	nom|sg|masc	-1	15	_	SB	_	_
+17	und	und	und	KON	KON	_	_	-1	16	_	CD	_	_
+18	Ärger	Ärger	Ärger	NN	NN	_	nom|sg|masc	-1	17	_	CJ	_	_
+19	vorprogrammiert	vorprogrammieren	vorprogrammieren	VVPP	VVPP	_	_	-1	15	_	PD	_	_
+20	.	.	.	$.	$.	_	_	-1	19	_	--	_	_
+
+1	Ordentliche	ordentlich	ordentlich	ADJA	ADJA	_	nom|pl|fem|pos	-1	2	_	NK	_	_
+2	Straßen	Straße	Straße	NN	NN	_	nom|pl|fem	-1	6	_	OA	_	_
+3	und	und	und	KON	KON	_	_	-1	2	_	CD	_	_
+4	Tempokontrollen	Tempokontrolle	Tempokontrolle	NN	NN	_	nom|pl|fem	-1	3	_	CJ	_	_
+5	zu	zu	zu	PTKZU	PTKZU	_	_	-1	6	_	PM	_	_
+6	fordern	fordern	fordern	VVINF	VVINF	_	_	-1	8	_	SB	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+9	deshalb	deshalb	deshalb	PAV	PAV	_	_	-1	11	_	NK	_	_
+10	völlig	völlig	völlig	ADJD	ADJD	_	pos	-1	11	_	MO	_	_
+11	legitim	legitim	legitim	ADJD	ADJD	_	pos	-1	8	_	PD	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	4	_	JU	_	_
+2	die	die	die	ART	ART	_	nom|sg|fem	-1	3	_	NK	_	_
+3	Gemeinde	Gemeinde	Gemeinde	NN	NN	_	nom|sg|fem	-1	4	_	SB	_	_
+4	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	bereits	bereits	bereits	ADV	ADV	_	_	-1	6	_	MO	_	_
+6	signalisiert	signalisieren	signalisieren	VVPP	VVPP	_	_	-1	4	_	OC	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	die	die	die	ART	ART	_	acc|pl|*	-1	9	_	NK	_	_
+9	Anlieger	Anlieger	Anlieger	NN	NN	_	acc|pl|masc	-1	11	_	OA	_	_
+10	dabei	dabei	dabei	PAV	PAV	_	_	-1	9	_	NK	_	_
+11	unterstützen	unterstützen	unterstützen	VVINF	VVINF	_	_	-1	13	_	OC	_	_
+12	zu	zu	zu	PTKZU	PTKZU	_	_	-1	13	_	PM	_	_
+13	wollen	wollen	wollen	VMINF	VMINF	_	_	-1	6	_	OC	_	_
+14	.	.	.	$.	$.	_	_	-1	13	_	--	_	_
+
+	sentence_start	0	40
+	token_offsets	sentence	0	offsets	0::3	4::2	7::3	11::10	22::3	26::10	37::1
+	token_offsets	sentence	1	offsets	40::3	44::17	62::4	67::15	83::13	97::3	101::4	106::7	114::10	125::2	128::6	135::1	137::6	144::9	154::3	158::10	169::12	182::9	192::3	196::4	201::1	203::3	207::3	211::3	215::14	230::1	232::7	240::3	244::16	261::3	265::3	269::7	277::3	281::14	296::6	303::1
+1	Nun	nun	nun	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	zu	zu	zu	APPR	APPR	_	_	-1	0	_	--	_	_
+3	den	die	die	ART	ART	_	dat|pl|neut	-1	4	_	NK	_	_
+4	Argumenten	Argument	Argument	NN	NN	_	dat|pl|neut	-1	2	_	NK	_	_
+5	der	die	die	ART	ART	_	gen|sg|fem	-1	6	_	NK	_	_
+6	Gegenseite	Gegenseite	Gegenseite	NN	NN	_	gen|sg|fem	-1	4	_	AG	_	_
+7	.	.	.	$.	$.	_	_	-1	6	_	--	_	_
+
+1	Ein	eine	eine	ART	ART	_	nom|sg|neut	-1	2	_	NK	_	_
+2	Zweischichtsystem	Zweischichtsystem	Zweischichtsystem	NN	NN	_	nom|sg|neut	-1	13	_	SB	_	_
+3	ohne	ohne	ohne	APPR	APPR	_	_	-1	11	_	MO	_	_
+4	wirtschaftliche	wirtschaftlich	wirtschaftlich	ADJA	ADJA	_	acc|sg|fem|pos	-1	5	_	NK	_	_
+5	Notwendigkeit	Notwendigkeit	Notwendigkeit	NN	NN	_	acc|sg|fem	-1	3	_	NK	_	_
+6	auf	auf	auf	APPR	APPR	_	_	-1	9	_	OP	_	_
+7	eine	eine	eine	ART	ART	_	acc|sg|fem	-1	8	_	NK	_	_
+8	Schicht	Schicht	Schicht	NN	NN	_	acc|sg|fem	-1	6	_	NK	_	_
+9	reduzieren	reduzieren	reduzieren	VVINF	VVINF	_	_	-1	11	_	OC	_	_
+10	zu	zu	zu	PTKZU	PTKZU	_	_	-1	11	_	PM	_	_
+11	müssen	müssen	müssen	VMINF	VMINF	_	_	-1	2	_	OC	_	_
+12	,	,	,	$,	$,	_	_	-1	11	_	--	_	_
+13	bringt	bringen	bringen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+14	gegenüber	gegenüber	gegenüber	APPR	APPR	_	_	-1	13	_	MO	_	_
+15	der	die	die	ART	ART	_	dat|sg|fem	-1	16	_	NK	_	_
+16	Konkurrenz	Konkurrenz	Konkurrenz	NN	NN	_	dat|sg|fem	-1	14	_	NK	_	_
+17	zwangsläufig	zwangsläufig	zwangsläufig	ADJD	ADJD	_	pos	-1	13	_	MO	_	_
+18	Nachteile	Nachteil	Nachteil	NN	NN	_	acc|pl|masc	-1	13	_	OA	_	_
+19	mit	mit	mit	APPR	APPR	_	_	-1	13	_	MO	_	_
+20	sich	sich	sich	PRF	PRF	_	dat|sg|3	-1	19	_	NK	_	_
+21	,	,	,	$,	$,	_	_	-1	20	_	--	_	_
+22	die	die	die	PRELS	PRELS	_	nom|pl|fem	-1	35	_	SB	_	_
+23	bis	bis	bis	APPR	APPR	_	_	-1	24	_	AC	_	_
+24	zur	zu	zu	APPRART	APPRART	_	dat|sg|fem	-1	35	_	MO	_	_
+25	Unrentabilität	Unrentabilität	Unrentabilität	NN	NN	_	dat|sg|fem	-1	24	_	NK	_	_
+26	,	,	,	$,	$,	_	_	-1	25	_	--	_	_
+27	Aufgabe	Aufgabe	Aufgabe	NN	NN	_	nom|sg|fem	-1	25	_	CJ	_	_
+28	des	die	die	ART	ART	_	gen|sg|neut	-1	29	_	NK	_	_
+29	Firmenstandortes	Firmenstandortes	Firmenstandortes	NN	NN	_	gen|sg|neut	-1	27	_	AG	_	_
+30	und	und	und	KON	KON	_	_	-1	27	_	CD	_	_
+31	den	die	die	ART	ART	_	acc|sg|masc	-1	32	_	NK	_	_
+32	Verlust	Verlust	Verlust	NN	NN	_	acc|sg|masc	-1	30	_	CJ	_	_
+33	von	von	von	APPR	APPR	_	_	-1	32	_	PG	_	_
+34	Arbeitsplätzen	Arbeitsplatz	Arbeitsplatz	NN	NN	_	dat|pl|masc	-1	33	_	NK	_	_
+35	führen	führen	führen	VVINF	VVINF	_	_	-1	16	_	RC	_	_
+36	.	.	.	$.	$.	_	_	-1	35	_	--	_	_
+
+	sentence_start	0	155	189
+	token_offsets	sentence	0	offsets	0::6	7::6	14::6	21::3	25::5	31::5	37::6	44::1	45::0	47::8	56::7	64::3	68::4	73::3	77::12	90::3	94::5	100::10	111::4	116::7	124::4	129::3	133::4	138::4	143::8	152::1
+	token_offsets	sentence	1	offsets	155::7	163::1	165::3	169::5	175::6	182::3	186::1
+	token_offsets	sentence	2	offsets	189::3	193::3	197::6	204::3	208::11	220::1
+1	Bleibt	bleiben	bleiben	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+2	unterm	unterm	unterm	APPRART	APPRART	_	dat|sg|masc	-1	1	_	MO	_	_
+3	Strich	Strich	Strich	NN	NN	_	dat|sg|masc	-1	2	_	NK	_	_
+4	die	die	die	ART	ART	_	acc|sg|fem	-1	5	_	NK	_	_
+5	Frage	Frage	Frage	NN	NN	_	acc|sg|fem	-1	1	_	OA	_	_
+6	aller	alle	alle	PIAT	PIAT	_	gen|pl|fem	-1	7	_	NK	_	_
+7	Fragen	Frage	Frage	NN	NN	_	gen|pl|fem	-1	5	_	AG	_	_
+8	:	:	:	$.	$.	_	_	-1	7	_	--	_	_
+9	Sozialer	sozial	sozial	ADJA	ADJA	_	*|*|*|pos	-1	10	_	NK	_	_
+10	Frieden	Frieden	Frieden	NN	NN	_	acc|sg|masc	-1	7	_	APP	_	_
+11	für	für	für	APPR	APPR	_	_	-1	10	_	MNR	_	_
+12	rund	rund	rund	ADV	ADV	_	pos	-1	13	_	MO	_	_
+13	200	200	200	CARD	CARD	_	_	-1	14	_	NK	_	_
+14	Arbeitnehmer	Arbeitnehmer	Arbeitnehmer	NN	NN	_	nom|pl|masc	-1	11	_	NK	_	_
+15	und	und	und	KON	KON	_	_	-1	14	_	CD	_	_
+16	deren	die	die	PDAT	PDAT	_	gen|pl|masc	-1	17	_	NK	_	_
+17	Angehörige	Angehörige	Angehörige	NN	NN	_	nom|pl|*	-1	15	_	CJ	_	_
+18	oder	oder	oder	KON	KON	_	_	-1	10	_	CD	_	_
+19	private	privat	privat	ADJA	ADJA	_	acc|sg|fem|pos	-1	20	_	NK	_	_
+20	Ruhe	Ruhe	Ruhe	NN	NN	_	acc|sg|fem	-1	18	_	CJ	_	_
+21	für	für	für	APPR	APPR	_	_	-1	20	_	MNR	_	_
+22	etwa	etwa	etwa	ADV	ADV	_	_	-1	23	_	MO	_	_
+23	zehn	zehn	zehn	CARD	CARD	_	_	-1	24	_	NK	_	_
+24	Anlieger	Anlieger	Anlieger	NN	NN	_	nom|pl|masc	-1	21	_	NK	_	_
+25	?	?	?	$.	$.	_	_	-1	24	_	--	_	_
+
+1	Ehrlich	ehrlich	ehrlich	ADJD	ADJD	_	pos	-1	4	_	PD	_	_
+2	,	,	,	$,	$,	_	_	-1	1	_	--	_	_
+3	ich	ich	ich	PPER	PPER	_	nom|sg|*|1	-1	4	_	SB	_	_
+4	ziehe	zeihen|ziehen	zeihen|ziehen	VVFIN	VVFIN	_	sg|1|pres|ind	-1	0	_	--	_	_
+5	Arbeit	Arbeit	Arbeit	NN	NN	_	acc|sg|fem	-1	4	_	OA	_	_
+6	vor	vor	vor	PTKVZ	PTKVZ	_	_	-1	4	_	SVP	_	_
+7	.	.	.	$.	$.	_	_	-1	6	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	3	_	JU	_	_
+2	wie	wie	wie	KOUS	KOUS	_	_	-1	5	_	MO	_	_
+3	würden	werden	werden	VAFIN	VAFIN	_	pl|3|past|subj	-1	0	_	--	_	_
+4	Sie	Sie	Sie	PPER	PPER	_	nom|pl|*|3	-1	3	_	SB	_	_
+5	entscheiden	entscheiden	entscheiden	VVINF	VVINF	_	_	-1	3	_	OC	_	_
+6	?	?	?	$.	$.	_	_	-1	5	_	--	_	_
+

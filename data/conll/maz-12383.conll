@@ -1,0 +1,236 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::4	5::4	10::5	16::3	20::3	24::1
+1	Aber	aber	aber	KON	KON	_	_	-1	2	_	JU	_	_
+2	doch	doch	doch	ADV	ADV	_	_	-1	4	_	MO	_	_
+3	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	4	_	NG	_	_
+4	bei	bei	bei	APPR	APPR	_	_	-1	0	_	--	_	_
+5	uns	wir	wir	PPER	PPER	_	dat|pl|*|1	-1	4	_	NK	_	_
+6	!	!	!	$.	$.	_	_	-1	5	_	--	_	_
+
+	sentence_start	0	54	66	126	156	191
+	token_offsets	sentence	0	offsets	0::3	4::4	9::6	16::6	23::11	35::10	46::4	51::1
+	token_offsets	sentence	1	offsets	54::1	56::6	63::1
+	token_offsets	sentence	2	offsets	66::2	69::7	77::6	84::4	89::7	97::1	99::1	101::4	106::3	110::5	116::6	123::1
+	token_offsets	sentence	3	offsets	126::3	130::7	138::4	143::2	146::6	153::1
+	token_offsets	sentence	4	offsets	156::3	160::7	168::6	175::4	180::2	183::4	188::1
+	token_offsets	sentence	5	offsets	191::4	196::1	198::2	201::4	206::6	213::4	218::5	224::7	232::1	234::4	239::3	243::13	257::6	264::3	268::3	272::10	283::5	289::1	291::4	296::3	300::6	307::4	312::6	319::2	322::6	329::5	335::1
+1	Wie	wie	wie	KOKOM	KOKOM	_	_	-1	2	_	MO	_	_
+2	naiv	naiv	naiv	ADJD	ADJD	_	pos	-1	3	_	MO	_	_
+3	können	können	können	VMFIN	VMFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+4	manche	manche	manche	PIAT	PIAT	_	nom|pl|*	-1	5	_	NK	_	_
+5	Schulleiter	Schulleiter	Schulleiter	NN	NN	_	nom|sg|masc	-1	3	_	SB	_	_
+6	eigentlich	eigentlich	eigentlich	ADV	ADV	_	_	-1	7	_	MO	_	_
+7	sein	sein	sein	VAINF	VAINF	_	_	-1	3	_	OC	_	_
+8	?	?	?	$.	$.	_	_	-1	7	_	--	_	_
+
+1	"	"	"	$(	$(	_	_	-1	2	_	--	_	_
+2	Drogen	Droge	Droge	NN	NN	_	nom|pl|fem	-1	0	_	--	_	_
+3	?	?	?	$.	$.	_	_	-1	2	_	--	_	_
+
+1	An	an	an	APPR	APPR	_	_	-1	8	_	MO	_	_
+2	unserer	unser	unser	PPOSAT	PPOSAT	_	dat|sg|fem	-1	3	_	NK	_	_
+3	Schule	Schule	Schule	NN	NN	_	dat|sg|fem	-1	1	_	NK	_	_
+4	kein	keine	keine	PIAT	PIAT	_	nom|sg|neut	-1	5	_	NK	_	_
+5	Problem	Problem	Problem	NN	NN	_	nom|sg|neut	-1	3	_	PD	_	_
+6	"	"	"	$(	$(	_	_	-1	5	_	--	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	hört	hören	hören	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+9	man	man	man	PIS	PIS	_	nom|sg|*	-1	8	_	SB	_	_
+10	immer	immer	immer	ADV	ADV	_	_	-1	11	_	MO	_	_
+11	wieder	wieder	wieder	ADV	ADV	_	_	-1	8	_	MO	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Polizei	Polizei	Polizei	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+3	weiß	wissen	wissen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	es	es	es	PPER	PPER	_	acc|sg|neut|3	-1	3	_	OA	_	_
+5	besser	gut	gut	ADJD	ADJD	_	comp	-1	3	_	MO	_	_
+6	.	.	.	$.	$.	_	_	-1	5	_	--	_	_
+
+1	Und	und	und	KON	KON	_	_	-1	4	_	JU	_	_
+2	mancher	manche	manche	PIAT	PIAT	_	nom|sg|masc	-1	3	_	NK	_	_
+3	Rektor	Rektor	Rektor	NN	NN	_	nom|sg|masc	-1	4	_	SB	_	_
+4	weiß	wissen	wissen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	es	es	es	PPER	PPER	_	acc|sg|neut|3	-1	4	_	OA	_	_
+6	auch	auch	auch	ADV	ADV	_	_	-1	4	_	MO	_	_
+7	.	.	.	$.	$.	_	_	-1	6	_	--	_	_
+
+1	Bloß	bloß	bloß	ADJD	ADJD	_	pos	-1	4	_	MO	_	_
+2	:	:	:	$.	$.	_	_	-1	1	_	--	_	_
+3	Es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	4	_	EP	_	_
+4	soll	sollen	sollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	nichts	nichts	nichts	PIS	PIS	_	*|*|neut	-1	6	_	NK	_	_
+6	nach	nach	nach	ADV	ADV	_	_	-1	4	_	MO	_	_
+7	außen	außen	außen	ADV	ADV	_	_	-1	8	_	MO	_	_
+8	dringen	dringen	dringen	VVINF	VVINF	_	_	-1	4	_	OC	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	weil	weil	weil	KOUS	KOUS	_	_	-1	13	_	CP	_	_
+11	die	die	die	ART	ART	_	nom|pl|fem	-1	12	_	NK	_	_
+12	Schülerzahlen	Schülerzahl	Schülerzahl	NN	NN	_	nom|pl|fem	-1	13	_	SB	_	_
+13	sinken	sinken	sinken	VVINF	VVINF	_	pl|3|pres|ind	-1	3	_	RE	_	_
+14	und	und	und	KON	KON	_	_	-1	13	_	CD	_	_
+15	die	die	die	ART	ART	_	acc|sg|fem	-1	16	_	NK	_	_
+16	Schließung	Schließung	Schließung	NN	NN	_	acc|sg|fem	-1	17	_	SB	_	_
+17	droht	drohen	drohen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	14	_	CJ	_	_
+18	,	,	,	$,	$,	_	_	-1	17	_	--	_	_
+19	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	26	_	CP	_	_
+20	die	die	die	ART	ART	_	nom|sg|fem	-1	21	_	NK	_	_
+21	Schule	Schule	Schule	NN	NN	_	nom|sg|fem	-1	26	_	SB	_	_
+22	erst	erst	erst	ADV	ADV	_	_	-1	23	_	MO	_	_
+23	einmal	einmal	einmal	ADV	ADV	_	_	-1	26	_	MO	_	_
+24	in	in	in	APPR	APPR	_	_	-1	26	_	CVC	_	_
+25	Verruf	Verruf	Verruf	NN	NN	_	acc|sg|masc	-1	24	_	NK	_	_
+26	kommt	kommen	kommen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	17	_	MO	_	_
+27	.	.	.	$.	$.	_	_	-1	26	_	--	_	_
+
+	sentence_start	0	76
+	token_offsets	sentence	0	offsets	0::5	6::12	19::7	27::3	31::3	35::7	43::10	54::5	60::3	64::3	68::4	73::1
+	token_offsets	sentence	1	offsets	76::5	82::3	86::10	97::3	101::11	113::3	117::14	132::5	138::3	142::12	155::3	159::7	167::4	172::4	177::11	189::3	193::4	198::1	200::2	203::4	208::3	212::5	218::5	224::6	231::3	235::4	240::3	244::7	252::8	261::1
+1	Durch	durch	durch	APPR	APPR	_	_	-1	3	_	MO	_	_
+2	Verschweigen	Verschweigen	Verschweigen	NN	NN	_	acc|sg|neut	-1	1	_	NK	_	_
+3	bekommt	bekommen	bekommen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	man	man	man	PIS	PIS	_	nom|sg|*	-1	3	_	SB	_	_
+5	das	die	die	ART	ART	_	acc|sg|neut	-1	6	_	NK	_	_
+6	Problem	Problem	Problem	NN	NN	_	acc|sg|neut	-1	3	_	OA	_	_
+7	allerdings	allerdings	allerdings	ADV	ADV	_	_	-1	3	_	MO	_	_
+8	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	3	_	NG	_	_
+9	aus	aus	aus	APPR	APPR	_	_	-1	3	_	MO	_	_
+10	der	die	die	ART	ART	_	dat|sg|fem	-1	11	_	NK	_	_
+11	Welt	Welt	Welt	NN	NN	_	dat|sg|fem	-1	9	_	NK	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Unter	unter	unter	APPR	APPR	_	_	-1	8	_	MO	_	_
+2	dem	die	die	ART	ART	_	dat|sg|neut	-1	3	_	NK	_	_
+3	Deckmantel	Deckmantel	Deckmantel	NN	NN	_	dat|sg|neut	-1	1	_	NK	_	_
+4	des	die	die	ART	ART	_	gen|sg|neut	-1	5	_	NK	_	_
+5	Wegschauens	Wegschauen	Wegschauen	NN	NN	_	gen|sg|neut	-1	3	_	AG	_	_
+6	und	und	und	KON	KON	_	_	-1	5	_	CD	_	_
+7	Verheimlichens	Verheimlichen	Verheimlichen	NN	NN	_	gen|sg|neut	-1	6	_	CJ	_	_
+8	blüht	blühen	blühen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+9	der	die	die	ART	ART	_	nom|sg|masc	-1	10	_	NK	_	_
+10	Drogenhandel	Drogenhandel	Drogenhandel	NN	NN	_	nom|sg|masc	-1	8	_	SB	_	_
+11	und	und	und	KON	KON	_	_	-1	10	_	CD	_	_
+12	-konsum	-konsum	-konsum	NN	NN	_	nom|sg|masc	-1	11	_	CJ	_	_
+13	noch	noch	noch	ADV	ADV	_	_	-1	14	_	MO	_	_
+14	viel	viel	viel	ADV	ADV	_	_	-1	15	_	MO	_	_
+15	ungestörter	ungestört	ungestört	ADJD	ADJD	_	comp	-1	8	_	MO	_	_
+16	als	als	als	KOKOM	KOKOM	_	_	-1	17	_	CM	_	_
+17	dort	dort	dort	ADV	ADV	_	_	-1	15	_	CC	_	_
+18	,	,	,	$,	$,	_	_	-1	17	_	--	_	_
+19	wo	wo	wo	PWAV	PWAV	_	_	-1	24	_	MO	_	_
+20	alle	alle	alle	PIS	PIS	_	nom|pl|fem	-1	24	_	SB	_	_
+21	die	die	die	ART	ART	_	nom|pl|fem	-1	22	_	NK	_	_
+22	Augen	Auge	Auge	NN	NN	_	acc|pl|neut	-1	24	_	OA	_	_
+23	offen	offen	offen	ADJD	ADJD	_	pos	-1	24	_	MO	_	_
+24	halten	halten	halten	VVINF	VVINF	_	pl|3|pres|ind	-1	17	_	RC	_	_
+25	und	und	und	KON	KON	_	_	-1	24	_	CD	_	_
+26	über	über	über	APPR	APPR	_	_	-1	29	_	OP	_	_
+27	das	die	die	ART	ART	_	acc|sg|neut	-1	28	_	NK	_	_
+28	Problem	Problem	Problem	NN	NN	_	acc|sg|neut	-1	26	_	NK	_	_
+29	sprechen	sprechen	sprechen	VVINF	VVINF	_	_	-1	25	_	CJ	_	_
+30	.	.	.	$.	$.	_	_	-1	29	_	--	_	_
+
+	sentence_start	0	197	352
+	token_offsets	sentence	0	offsets	0::3	4::8	13::13	27::3	31::13	45::6	52::10	63::2	66::3	70::3	74::8	83::6	90::3	94::8	103::6	110::7	118::3	122::10	133::1	135::4	140::3	144::4	149::5	155::9	165::3	169::9	179::2	182::11	194::1
+	token_offsets	sentence	1	offsets	197::6	204::3	208::2	211::7	219::4	224::1	226::4	231::4	236::3	240::6	247::3	251::12	264::2	267::11	279::7	287::2	290::8	299::2	302::5	308::3	312::3	316::5	322::3	326::7	334::14	349::1
+	token_offsets	sentence	2	offsets	352::3	356::3	360::5	366::10	377::8	386::3	390::6	397::1	399::3	403::10	414::8	423::8	432::1	434::3	438::4	443::4	448::4	453::5	459::9	469::1	471::4	476::3	480::3	484::7	492::3	496::3	500::12	513::3	517::4	522::8	531::1	533::3	537::6	544::6	551::6	558::5	564::12	577::6	584::3	588::5	594::6	601::1
+1	Die	die	die	ART	ART	_	nom|pl|fem	-1	3	_	NK	_	_
+2	riesigen	riesig	riesig	ADJA	ADJA	_	nom|pl|fem|pos	-1	3	_	NK	_	_
+3	Gewinnspannen	Gewinnspanne	Gewinnspanne	NN	NN	_	nom|pl|fem	-1	6	_	SB	_	_
+4	des	die	die	ART	ART	_	gen|sg|neut	-1	5	_	NK	_	_
+5	Drogenhandels	Drogenhandel	Drogenhandel	NN	NN	_	gen|sg|neut	-1	3	_	AG	_	_
+6	locken	locken	locken	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+7	Kriminelle	Kriminelle	Kriminelle	NN	NN	_	acc|pl|*	-1	6	_	OA	_	_
+8	an	an	an	PTKVZ	PTKVZ	_	_	-1	6	_	SVP	_	_
+9	und	und	und	KON	KON	_	_	-1	6	_	CD	_	_
+10	die	die	die	ART	ART	_	nom|pl|*	-1	12	_	NK	_	_
+11	immensen	immens	immens	ADJA	ADJA	_	nom|pl|*|pos	-1	12	_	NK	_	_
+12	Preise	Preis	Preis	NN	NN	_	nom|pl|masc	-1	16	_	SB	_	_
+13	für	für	für	APPR	APPR	_	_	-1	12	_	MNR	_	_
+14	illegale	illegal	illegal	ADJA	ADJA	_	acc|pl|fem|pos	-1	15	_	NK	_	_
+15	Drogen	Droge	Droge	NN	NN	_	acc|pl|fem	-1	13	_	NK	_	_
+16	zwingen	zwingen	zwingen	VVFIN	VVFIN	_	_	-1	9	_	CJ	_	_
+17	die	die	die	ART	ART	_	acc|pl|*	-1	18	_	NK	_	_
+18	Abhängigen	abhängig	abhängig	ADJA	ADJA	_	acc|pl|*	-1	16	_	SB	_	_
+19	,	,	,	$,	$,	_	_	-1	18	_	--	_	_
+20	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	28	_	DA	_	_
+21	das	die	die	ART	ART	_	nom|sg|neut	-1	22	_	NK	_	_
+22	Geld	Geld	Geld	NN	NN	_	nom|sg|neut	-1	28	_	OA	_	_
+23	durch	durch	durch	APPR	APPR	_	_	-1	28	_	MO	_	_
+24	Einbrüche	Einbruch	Einbruch	NN	NN	_	acc|pl|masc	-1	23	_	NK	_	_
+25	und	und	und	KON	KON	_	_	-1	24	_	CD	_	_
+26	Überfälle	Überfall	Überfall	NN	NN	_	acc|pl|masc	-1	25	_	CJ	_	_
+27	zu	zu	zu	PTKZU	PTKZU	_	_	-1	28	_	PM	_	_
+28	verschaffen	verschaffen	verschaffen	VVINF	VVINF	_	_	-1	16	_	OC	_	_
+29	.	.	.	$.	$.	_	_	-1	28	_	--	_	_
+
+1	Schade	schade	schade	ADJD	ADJD	_	pos	-1	2	_	PD	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	SB	_	_
+4	deshalb	deshalb	deshalb	PAV	PAV	_	_	-1	15	_	NK	_	_
+5	auch	auch	auch	ADV	ADV	_	_	-1	2	_	MO	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	dass	dass	dass	KOUS	KOUS	_	_	-1	25	_	CP	_	_
+8	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	25	_	OA	_	_
+9	die	die	die	ART	ART	_	nom|pl|masc	-1	10	_	NK	_	_
+10	Eltern	Eltern	Eltern	NN	NN	_	nom|pl|masc	-1	25	_	SB	_	_
+11	der	die	die	ART	ART	_	gen|pl|masc	-1	12	_	NK	_	_
+12	Jugendlichen	Jugendliche	Jugendliche	NN	NN	_	gen|pl|masc	-1	10	_	AG	_	_
+13	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	12	_	MNR	_	_
+14	Amtsbereich	Amtsbereich	Amtsbereich	NN	NN	_	dat|sg|neut	-1	13	_	NK	_	_
+15	Temnitz	Temnitz	Temnitz	NE	NE	_	nom|sg|neut	-1	14	_	NK	_	_
+16	am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	25	_	MO	_	_
+17	Dienstag	Dienstag	Dienstag	NN	NN	_	dat|sg|masc	-1	16	_	NK	_	_
+18	so	so	so	ADV	ADV	_	_	-1	19	_	MO	_	_
+19	wenig	wenig	wenig	ADV	ADV	_	*|*|*	-1	25	_	MO	_	_
+20	für	für	für	APPR	APPR	_	_	-1	25	_	MO	_	_
+21	die	die	die	ART	ART	_	acc|pl|masc	-1	22	_	NK	_	_
+22	Tipps	Tip	Tip	NN	NN	_	acc|pl|masc	-1	20	_	NK	_	_
+23	der	die	die	ART	ART	_	gen|sg|fem	-1	24	_	NK	_	_
+24	Polizei	Polizei	Polizei	NN	NN	_	gen|sg|fem	-1	22	_	AG	_	_
+25	interessierten	interessieren	interessieren	VVFIN	VVFIN	_	pl|3|past|ind	-1	3	_	RE	_	_
+26	.	.	.	$.	$.	_	_	-1	25	_	--	_	_
+
+1	Wie	wie	wie	KOUS	KOUS	_	_	-1	5	_	CP	_	_
+2	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	3	_	NK	_	_
+3	Joint	Joint	Joint	NN	NN	_	nom|sg|masc	-1	5	_	SB	_	_
+4	eigentlich	eigentlich	eigentlich	ADV	ADV	_	_	-1	5	_	MO	_	_
+5	aussieht	aussehen	aussehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	12	_	MO	_	_
+6	und	und	und	KON	KON	_	_	-1	5	_	CD	_	_
+7	riecht	riechen	riechen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	6	_	CJ	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	was	was	was	PWS	PWS	_	acc|sg|neut	-1	12	_	SB	_	_
+10	erweiterte	erweitert	erweitert	ADJA	ADJA	_	acc|sg|neut|pos	-1	11	_	NK	_	_
+11	Pupillen	Pupille	Pupille	NN	NN	_	acc|sg|neut	-1	12	_	OA	_	_
+12	verraten	verraten	verraten	VVPP	VVPP	_	_	-1	35	_	SB	_	_
+13	,	,	,	$,	$,	_	_	-1	12	_	--	_	_
+14	die	die	die	PRELS	PRELS	_	nom|sg|fem	-1	19	_	SB	_	_
+15	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	19	_	OA	_	_
+16	auch	auch	auch	ADV	ADV	_	_	-1	17	_	MO	_	_
+17	dann	dann	dann	ADV	ADV	_	_	-1	19	_	MO	_	_
+18	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	19	_	NG	_	_
+19	schließen	schließen	schließen	VVINF	VVINF	_	_	-1	11	_	RC	_	_
+20	,	,	,	$,	$,	_	_	-1	19	_	--	_	_
+21	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	30	_	CP	_	_
+22	man	man	man	PIS	PIS	_	nom|sg|*	-1	30	_	SB	_	_
+23	der	die	die	ART	ART	_	gen|pl|masc	-1	24	_	NK	_	_
+24	Tochter	Tochter	Tochter	NN	NN	_	gen|pl|masc	-1	22	_	AG	_	_
+25	mit	mit	mit	APPR	APPR	_	_	-1	30	_	MO	_	_
+26	der	die	die	ART	ART	_	dat|sg|fem	-1	27	_	NK	_	_
+27	Taschenlampe	Taschenlampe	Taschenlampe	NN	NN	_	dat|sg|fem	-1	25	_	NK	_	_
+28	ins	in	in	APPRART	APPRART	_	acc|sg|neut	-1	30	_	MO	_	_
+29	Auge	Auge	Auge	NN	NN	_	acc|sg|neut	-1	28	_	NK	_	_
+30	leuchtet	leuchten	leuchten	VVFIN	VVFIN	_	sg|3|pres|ind	-1	17	_	RE	_	_
+31	-	-	-	$(	$(	_	_	-1	30	_	--	_	_
+32	all	alle	alle	PIAT	PIAT	_	*|*|*	-1	34	_	NK	_	_
+33	dieses	dies	dies	PDAT	PDAT	_	acc|sg|neut	-1	34	_	NK	_	_
+34	Wissen	Wissen	Wissen	NN	NN	_	acc|sg|neut	-1	41	_	OA	_	_
+35	könnte	können	können	VMFIN	VMFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+36	manch	manche	manche	PIAT	PIAT	_	*|*|*	-1	38	_	NK	_	_
+37	ahnungsloser	ahnungsloser	ahnungsloser	ADJA	ADJA	_	*|*|*|pos	-1	38	_	NK	_	_
+38	Mutter	Mutter	Mutter	NN	NN	_	dat|sg|masc	-1	41	_	MO	_	_
+39	die	die	die	ART	ART	_	acc|pl|neut	-1	40	_	NK	_	_
+40	Augen	Auge	Auge	NN	NN	_	acc|pl|neut	-1	41	_	OA	_	_
+41	öffnen	öffnen	öffnen	VVINF	VVINF	_	_	-1	35	_	OC	_	_
+42	.	.	.	$.	$.	_	_	-1	41	_	--	_	_
+

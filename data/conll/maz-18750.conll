@@ -1,0 +1,216 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::5	6::9	16::1
+1	Nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	2	_	NG	_	_
+2	vergessen	vergessen	vergessen	VVINF	VVINF	_	_	-1	0	_	--	_	_
+3	!	!	!	$.	$.	_	_	-1	2	_	--	_	_
+
+	sentence_start	0	41	147
+	token_offsets	sentence	0	offsets	0::4	5::5	11::6	18::6	25::3	29::3	33::4	38::1
+	token_offsets	sentence	1	offsets	41::2	44::9	54::7	62::5	68::6	75::4	80::3	84::8	93::2	96::8	105::1	107::2	110::3	114::7	122::8	131::2	134::9	144::1
+	token_offsets	sentence	2	offsets	147::7	155::6	162::4	167::5	173::11	185::2	188::4	193::1	195::4	200::3	204::2	207::8	216::8	225::5	231::6	238::6	245::5	251::8	260::6	267::1
+1	Alle	alle	alle	PIAT	PIAT	_	acc|pl|neut	-1	2	_	NK	_	_
+2	Jahre	Jahr	Jahr	NN	NN	_	acc|pl|neut	-1	5	_	MO	_	_
+3	wieder	wieder	wieder	ADV	ADV	_	_	-1	4	_	MO	_	_
+4	Stress	Stress	Stress	NN	NN	_	acc|pl|neut	-1	0	_	--	_	_
+5	vor	vor	vor	APPR	APPR	_	_	-1	4	_	MNR	_	_
+6	dem	die	die	ART	ART	_	dat|sg|neut	-1	7	_	NK	_	_
+7	Fest	Fest	Fest	NN	NN	_	dat|sg|neut	-1	5	_	NK	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+
+1	Am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	3	_	MO	_	_
+2	Sonnabend	Sonnabend	Sonnabend	NN	NN	_	dat|sg|masc	-1	1	_	NK	_	_
+3	hetzten	hetzen	hetzen	VVFIN	VVFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+4	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	5	_	NG	_	_
+5	wenige	wenige	wenige	PIS	PIS	_	nom|pl|*	-1	3	_	MO	_	_
+6	noch	noch	noch	ADV	ADV	_	_	-1	3	_	MO	_	_
+7	von	von	von	APPR	APPR	_	_	-1	3	_	MO	_	_
+8	Geschäft	Geschäft	Geschäft	NN	NN	_	dat|sg|neut	-1	7	_	NK	_	_
+9	zu	zu	zu	APPR	APPR	_	_	-1	8	_	MNR	_	_
+10	Geschäft	Geschäft	Geschäft	NN	NN	_	dat|sg|neut	-1	9	_	NK	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	um	um	um	KOUI	KOUI	_	_	-1	17	_	CP	_	_
+13	die	die	die	ART	ART	_	acc|pl|neut	-1	15	_	NK	_	_
+14	letzten	letzt	letzt	ADJA	ADJA	_	acc|pl|neut|pos	-1	15	_	NK	_	_
+15	Einkäufe	Einkauf	Einkauf	NN	NN	_	acc|pl|neut	-1	17	_	OA	_	_
+16	zu	zu	zu	PTKZU	PTKZU	_	_	-1	17	_	PM	_	_
+17	erledigen	erledigen	erledigen	VVINF	VVINF	_	_	-1	3	_	MO	_	_
+18	.	.	.	$.	$.	_	_	-1	17	_	--	_	_
+
+1	Manchem	manche	manche	PIS	PIS	_	nom|sg|*	-1	2	_	SB	_	_
+2	schien	scheinen	scheinen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+3	erst	erst	erst	ADV	ADV	_	_	-1	4	_	MO	_	_
+4	jetzt	jetzt	jetzt	ADV	ADV	_	_	-1	5	_	MO	_	_
+5	eingefallen	einfallen	einfallen	VVPP	VVPP	_	_	-1	7	_	OC	_	_
+6	zu	zu	zu	PTKZU	PTKZU	_	_	-1	7	_	PM	_	_
+7	sein	sein	sein	VAINF	VAINF	_	_	-1	2	_	OC	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	dass	dass	dass	KOUS	KOUS	_	_	-1	19	_	CP	_	_
+10	man	man	man	PIS	PIS	_	nom|sg|*	-1	19	_	SB	_	_
+11	am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	18	_	MO	_	_
+12	heutigen	heutig	heutig	ADJA	ADJA	_	dat|sg|masc|pos	-1	14	_	NK	_	_
+13	Heiligen	heilig	heilig	ADJA	ADJA	_	dat|sg|masc|pos	-1	14	_	NK	_	_
+14	Abend	Abend	Abend	NN	NN	_	dat|sg|masc	-1	11	_	NK	_	_
+15	seinen	sein	sein	PPOSAT	PPOSAT	_	acc|sg|masc	-1	16	_	NK	_	_
+16	Lieben	Liebe|Lieben	Liebe|Lieben	NN	NN	_	acc|sg|masc	-1	18	_	OA	_	_
+17	etwas	etwas	etwas	ADV	ADV	_	_	-1	18	_	MO	_	_
+18	schenken	schenken	schenken	VVINF	VVINF	_	_	-1	19	_	OC	_	_
+19	könnte	können	können	VMFIN	VMFIN	_	sg|3|past|subj	-1	5	_	MO	_	_
+20	.	.	.	$.	$.	_	_	-1	19	_	--	_	_
+
+	sentence_start	0	132
+	token_offsets	sentence	0	offsets	0::4	5::5	11::3	15::5	21::7	29::15	45::6	52::4	57::5	63::5	69::6	76::5	82::8	91::4	96::4	101::10	112::9	122::6	129::1
+	token_offsets	sentence	1	offsets	132::6	139::6	146::3	150::4	155::3	159::3	163::15	179::8	188::9	198::1	200::3	204::5	210::3	214::8	223::1	225::3	229::11	241::3	245::13	259::1	261::3	265::11	277::1	279::10	290::1	292::7	300::1
+1	Doch	doch	doch	ADV	ADV	_	_	-1	7	_	MO	_	_
+2	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	3	_	NG	_	_
+3	nur	nur	nur	ADV	ADV	_	_	-1	4	_	MO	_	_
+4	wegen	wegen	wegen	APPR	APPR	_	_	-1	7	_	MO	_	_
+5	solcher	solche	solche	PIAT	PIAT	_	*|sg|fem	-1	6	_	NK	_	_
+6	Vergesslichkeit	Vergesslichkeit	Vergesslichkeit	NN	NN	_	*|sg|fem	-1	4	_	NK	_	_
+7	werden	werden	werden	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+8	auch	auch	auch	ADV	ADV	_	_	-1	18	_	MO	_	_
+9	heute	heute	heute	ADV	ADV	_	_	-1	18	_	MO	_	_
+10	Abend	abend	abend	ADV	ADV	_	_	-1	18	_	MO	_	_
+11	wieder	wieder	wieder	ADV	ADV	_	_	-1	17	_	MO	_	_
+12	viele	viele	viele	PIAT	PIAT	_	acc|pl|masc	-1	13	_	NK	_	_
+13	Menschen	Mensch	Mensch	NN	NN	_	acc|pl|masc	-1	7	_	SB	_	_
+14	ohne	ohne	ohne	APPR	APPR	_	_	-1	17	_	MO	_	_
+15	eine	eine	eine	ART	ART	_	acc|sg|fem	-1	16	_	NK	_	_
+16	Liebesgabe	Liebesgabe	Liebesgabe	NN	NN	_	acc|sg|fem	-1	14	_	NK	_	_
+17	auskommen	auskommen	auskommen	VVINF	VVINF	_	_	-1	18	_	OC	_	_
+18	müssen	müssen	müssen	VMINF	VMINF	_	_	-1	7	_	OC	_	_
+19	.	.	.	$.	$.	_	_	-1	18	_	--	_	_
+
+1	Häufig	häufig	häufig	ADJD	ADJD	_	pos	-1	9	_	MO	_	_
+2	werden	werden	werden	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	sie	sie	sie	PPER	PPER	_	nom|pl|*|3	-1	2	_	SB	_	_
+4	über	über	über	APPR	APPR	_	_	-1	9	_	MO	_	_
+5	all	alle	alle	PIAT	PIAT	_	*|*|*	-1	7	_	NK	_	_
+6	dem	die	die	ART	ART	_	dat|sg|neut	-1	7	_	NK	_	_
+7	Feiertagstrubel	Feiertagstrubel	Feiertagstrubel	NN	NN	_	dat|sg|neut	-1	4	_	NK	_	_
+8	wirklich	wirklich	wirklich	ADJD	ADJD	_	pos	-1	9	_	MO	_	_
+9	vergessen	vergessen	vergessen	VVPP	VVPP	_	_	-1	2	_	OC	_	_
+10	,	,	,	$,	$,	_	_	-1	9	_	--	_	_
+11	die	die	die	ART	ART	_	acc|pl|*	-1	12	_	NK	_	_
+12	Alten	Alte	Alte	NN	NN	_	acc|pl|*	-1	2	_	SB	_	_
+13	und	und	und	KON	KON	_	_	-1	12	_	CD	_	_
+14	Einsamen	Einsame	Einsame	NN	NN	_	acc|pl|masc	-1	13	_	CJ	_	_
+15	,	,	,	$,	$,	_	_	-1	14	_	--	_	_
+16	die	die	die	ART	ART	_	acc|pl|masc	-1	17	_	NK	_	_
+17	Flüchtlinge	Flüchtling	Flüchtling	NN	NN	_	acc|pl|masc	-1	12	_	CJ	_	_
+18	und	und	und	KON	KON	_	_	-1	17	_	CD	_	_
+19	Asylsuchenden	Asylsuchende	Asylsuchende	NN	NN	_	dat|pl|*	-1	18	_	CJ	_	_
+20	,	,	,	$,	$,	_	_	-1	19	_	--	_	_
+21	die	die	die	ART	ART	_	nom|pl|*	-1	22	_	NK	_	_
+22	Heimatlosen	Heimatlose	Heimatlose	NN	NN	_	nom|pl|*	-1	12	_	APP	_	_
+23	,	,	,	$,	$,	_	_	-1	22	_	--	_	_
+24	Hungernden	Hungernde	Hungernde	NN	NN	_	nom|pl|*	-1	22	_	CJ	_	_
+25	,	,	,	$,	$,	_	_	-1	24	_	--	_	_
+26	Kranken	Kranke	Kranke	NN	NN	_	nom|pl|*	-1	24	_	CJ	_	_
+27	.	.	.	$.	$.	_	_	-1	26	_	--	_	_
+
+	sentence_start	0	97
+	token_offsets	sentence	0	offsets	0::3	4::10	15::2	18::5	24::9	34::7	42::4	47::6	54::9	64::4	69::14	84::9	94::1
+	token_offsets	sentence	1	offsets	97::4	102::2	105::9	115::1	117::10	128::6	135::3	139::4	144::8	153::2	156::10	167::1	169::3	173::2	176::5	182::5	188::2	191::3	195::5	201::1	203::5	209::3	213::6	220::5	226::2	229::4	234::10	245::7	253::1
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Erinnerung	Erinnerung	Erinnerung	NN	NN	_	nom|sg|fem	-1	8	_	SB	_	_
+3	an	an	an	APPR	APPR	_	_	-1	2	_	OP	_	_
+4	diese	dies	dies	PDAT	PDAT	_	acc|pl|neut	-1	5	_	NK	_	_
+5	Verlierer	Verlierer	Verlierer	NN	NN	_	acc|pl|neut	-1	3	_	NK	_	_
+6	unserer	unser	unser	PPOSAT	PPOSAT	_	gen|sg|fem	-1	7	_	NK	_	_
+7	Zeit	Zeit	Zeit	NN	NN	_	gen|sg|fem	-1	5	_	AG	_	_
+8	sollte	sollen	sollen	VMFIN	VMFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+9	niemandem	niemand	niemand	PIS	PIS	_	dat|sg|masc	-1	11	_	NK	_	_
+10	sein	sein	sein	VAINF	VAINF	_	_	-1	11	_	NK	_	_
+11	Weihnachtsfest	Weihnachtsfest	Weihnachtsfest	NN	NN	_	dat|sg|masc	-1	12	_	OA	_	_
+12	vermiesen	vermiesen	vermiesen	VVINF	VVINF	_	_	-1	8	_	OC	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Ganz	ganz	ganz	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	6	_	MO	_	_
+3	Gegenteil	Gegenteil	Gegenteil	NN	NN	_	dat|sg|neut	-1	2	_	NK	_	_
+4	:	:	:	$.	$.	_	_	-1	3	_	--	_	_
+5	Vielleicht	vielleicht	vielleicht	ADV	ADV	_	_	-1	6	_	MO	_	_
+6	machen	machen	machen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+7	ein	eine	eine	ART	ART	_	*|*|*	-1	8	_	NK	_	_
+8	paar	paar	paar	PIAT	PIAT	_	*|*|*	-1	9	_	NK	_	_
+9	Gedanken	Gedanke	Gedanke	NN	NN	_	nom|pl|masc	-1	6	_	SB	_	_
+10	an	an	an	APPR	APPR	_	_	-1	6	_	MO	_	_
+11	diejenigen	diejenigen	diejenigen	PDS	PDS	_	nom|pl|*	-1	10	_	NK	_	_
+12	,	,	,	$,	$,	_	_	-1	11	_	--	_	_
+13	die	die	die	PRELS	PRELS	_	nom|pl|*	-1	19	_	SB	_	_
+14	es	es	es	PPER	PPER	_	acc|sg|neut|3	-1	19	_	OA	_	_
+15	heute	heute	heute	ADV	ADV	_	_	-1	19	_	MO	_	_
+16	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	18	_	NG	_	_
+17	so	so	so	ADV	ADV	_	_	-1	18	_	MO	_	_
+18	gut	gut	gut	ADJD	ADJD	_	pos	-1	19	_	MO	_	_
+19	haben	haben	haben	VAFIN	VAFIN	_	pl|3|pres|ind	-1	11	_	RC	_	_
+20	,	,	,	$,	$,	_	_	-1	19	_	--	_	_
+21	einem	eine	eine	PIS	PIS	_	dat|sg|masc	-1	27	_	DA	_	_
+22	das	die	die	ART	ART	_	nom|sg|neut	-1	24	_	NK	_	_
+23	eigene	eigen	eigen	ADJA	ADJA	_	nom|sg|neut|pos	-1	24	_	NK	_	_
+24	Glück	Glück	Glück	NN	NN	_	nom|sg|neut	-1	27	_	OA	_	_
+25	ja	ja	ja	ADV	ADV	_	_	-1	27	_	MO	_	_
+26	noch	noch	noch	ADV	ADV	_	_	-1	27	_	MO	_	_
+27	deutlicher	deutlich	deutlich	ADJD	ADJD	_	comp	-1	28	_	MO	_	_
+28	bewusst	bewusst	bewusst	ADJD	ADJD	_	_	-1	10	_	PD	_	_
+29	.	.	.	$.	$.	_	_	-1	28	_	--	_	_
+
+	sentence_start	0	124
+	token_offsets	sentence	0	offsets	0::10	11::6	18::6	25::8	34::4	39::4	44::1	46::5	52::3	56::5	62::8	71::2	74::6	81::1	83::4	88::4	93::3	97::11	109::4	114::6	121::1
+	token_offsets	sentence	1	offsets	124::3	128::4	133::5	139::8	148::1	149::0	151::11	163::6	170::4	175::4	180::3	184::6	191::5	197::3	201::9	211::1
+1	Vielleicht	vielleicht	vielleicht	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	halten	halten	halten	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	solche	solche	solche	PIAT	PIAT	_	nom|pl|fem	-1	4	_	NK	_	_
+4	Gedanken	Gedanke	Gedanke	NN	NN	_	nom|pl|fem	-1	2	_	SB	_	_
+5	auch	auch	auch	ADV	ADV	_	_	-1	6	_	MO	_	_
+6	wach	wach	wach	ADJD	ADJD	_	pos	-1	2	_	MO	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	damit	damit	damit	KOUS	KOUS	_	_	-1	20	_	CP	_	_
+9	man	man	man	PIS	PIS	_	nom|sg|*	-1	20	_	SB	_	_
+10	nicht	nicht	nicht	PTKNEG	PTKNEG	_	_	-1	11	_	NG	_	_
+11	verpasst	verpassen	verpassen	VVPP	VVPP	_	_	-1	13	_	MO	_	_
+12	zu	zu	zu	PTKZU	PTKZU	_	_	-1	13	_	PM	_	_
+13	helfen	helfen	helfen	VVINF	VVINF	_	_	-1	20	_	MO	_	_
+14	,	,	,	$,	$,	_	_	-1	13	_	--	_	_
+15	wenn	wenn	wenn	KOUS	KOUS	_	_	-1	20	_	CP	_	_
+16	sich	sich	sich	PRF	PRF	_	acc|sg|3	-1	20	_	OA	_	_
+17	die	die	die	ART	ART	_	nom|sg|fem	-1	18	_	NK	_	_
+18	Gelegenheit	Gelegenheit	Gelegenheit	NN	NN	_	nom|sg|fem	-1	20	_	SB	_	_
+19	dazu	dazu	dazu	PAV	PAV	_	_	-1	18	_	NK	_	_
+20	bietet	bieten	bieten	VVFIN	VVFIN	_	sg|3|pres|ind	-1	2	_	MO	_	_
+21	.	.	.	$.	$.	_	_	-1	20	_	--	_	_
+
+1	Wer	wer	wer	PWS	PWS	_	nom|sg|*	-1	2	_	SB	_	_
+2	will	wollen	wollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	daran	daran	daran	PAV	PAV	_	_	-1	4	_	NK	_	_
+4	zweifeln	zweifeln	zweifeln	VVINF	VVINF	_	_	-1	2	_	OC	_	_
+5	:	:	:	$.	$.	_	_	-1	4	_	--	_	_
+6	Weihnachten	Weihnachten	Weihnachten	NN	NN	_	nom|sg|neut	-1	9	_	PD	_	_
+7	sollte	sollen	sollen	VMFIN	VMFIN	_	sg|3|past|ind	-1	2	_	CJ	_	_
+8	mehr	mehr	mehr	PIS	PIS	_	*|*|*	-1	7	_	SB	_	_
+9	sein	sein	sein	VAINF	VAINF	_	_	-1	2	_	OC	_	_
+10	als	als	als	KOKOM	KOKOM	_	_	-1	12	_	CM	_	_
+11	fettes	fett	fett	ADJA	ADJA	_	nom|sg|neut|pos	-1	12	_	NK	_	_
+12	Essen	Essen	Essen	NN	NN	_	nom|sg|neut	-1	8	_	CC	_	_
+13	und	und	und	KON	KON	_	_	-1	12	_	CD	_	_
+14	Geschenke	Geschenk	Geschenk	NN	NN	_	acc|pl|neut	-1	13	_	CJ	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::2	3::6	10::5	16::7	24::3	28::3	32::5	38::6	45::3	49::6	56::10	67::3	71::12	84::4	89::1
+1	In	in	in	APPR	APPR	_	_	-1	4	_	MO	_	_
+2	diesem	dies	dies	PDAT	PDAT	_	dat|sg|masc	-1	3	_	NK	_	_
+3	Sinne	Sinn	Sinn	NN	NN	_	dat|sg|masc	-1	1	_	NK	_	_
+4	wünscht	wünschen	wünschen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	die	die	die	ART	ART	_	nom|sg|fem	-1	6	_	NK	_	_
+6	MAZ	MAZ	MAZ	NE	NE	_	nom|sg|fem	-1	4	_	SB	_	_
+7	allen	alle	alle	PIAT	PIAT	_	dat|pl|*	-1	8	_	NK	_	_
+8	Lesern	Leser	Leser	NN	NN	_	dat|pl|neut	-1	4	_	DA	_	_
+9	ein	eine	eine	ART	ART	_	acc|sg|neut	-1	14	_	NK	_	_
+10	ebenso	ebenso	ebenso	ADV	ADV	_	_	-1	11	_	MO	_	_
+11	fröhliches	fröhlich	fröhlich	ADJA	ADJA	_	acc|sg|neut|pos	-1	14	_	NK	_	_
+12	wie	wie	wie	KOKOM	KOKOM	_	_	-1	11	_	CD	_	_
+13	besinnliches	besinnlich	besinnlich	ADJA	ADJA	_	nom|sg|neut|pos	-1	12	_	CJ	_	_
+14	Fest	Fest	Fest	NN	NN	_	nom|sg|neut	-1	4	_	OA	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+

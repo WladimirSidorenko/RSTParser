@@ -1,0 +1,202 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::10	11::13
+1	Natürliche	natürlich	natürlich	ADJA	ADJA	_	nom|sg|fem|pos	-1	2	_	NK	_	_
+2	Rückeroberung	Rückeroberung	Rückeroberung	NN	NN	_	nom|sg|fem	-1	0	_	--	_	_
+
+	sentence_start	0	137	247
+	token_offsets	sentence	0	offsets	0::3	4::9	14::1	16::3	20::8	29::8	38::1	40::11	52::3	56::14	71::8	80::1	82::3	86::9	96::3	100::6	107::4	112::4	117::2	120::5	126::7	134::1
+	token_offsets	sentence	1	offsets	137::7	145::3	149::2	152::2	155::8	164::1	166::4	171::7	179::6	186::3	190::12	203::5	209::10	220::5	226::6	233::10	244::1
+	token_offsets	sentence	2	offsets	247::3	251::14	266::6	273::7	281::12	294::3	298::19	318::2	321::3	325::7	333::3	337::2	340::1	342::9	352::4	357::11	369::14	384::3	388::9	398::8	407::2	410::6	417::1
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	2	_	NK	_	_
+2	Naturpark	Naturpark	Naturpark	NN	NN	_	nom|sg|masc	-1	13	_	SB	_	_
+3	,	,	,	$,	$,	_	_	-1	2	_	--	_	_
+4	der	die	die	PRELS	PRELS	_	nom|sg|masc	-1	11	_	SB	_	_
+5	zwischen	zwischen	zwischen	APPR	APPR	_	_	-1	11	_	MO	_	_
+6	Jüterbog	Jüterbog	Jüterbog	NN	NN	_	dat|sg|masc	-1	5	_	NK	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	Luckenwalde	Luckenwalde	Luckenwalde	NN	NN	_	dat|sg|fem	-1	6	_	CJ	_	_
+9	und	und	und	KON	KON	_	_	-1	8	_	CD	_	_
+10	Treuenbrietzen	Treuenbrietzen	Treuenbrietzen	NN	NN	_	dat|pl|masc	-1	9	_	CJ	_	_
+11	entsteht	entstehen	entstehen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	2	_	RC	_	_
+12	,	,	,	$,	$,	_	_	-1	11	_	--	_	_
+13	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+14	außerhalb	außerhalb	außerhalb	APPR	APPR	_	_	-1	13	_	MO	_	_
+15	der	die	die	ART	ART	_	dat|sg|fem	-1	16	_	NK	_	_
+16	Region	Region	Region	NN	NN	_	dat|sg|fem	-1	14	_	NK	_	_
+17	noch	noch	noch	ADV	ADV	_	_	-1	18	_	MO	_	_
+18	viel	viel	viel	ADV	ADV	_	_	-1	21	_	MO	_	_
+19	zu	zu	zu	APPR	APPR	_	_	-1	21	_	MO	_	_
+20	wenig	wenige	wenige	PIS	PIS	_	*|*|*	-1	19	_	NK	_	_
+21	bekannt	bekannt	bekannt	ADJD	ADJD	_	_	-1	13	_	PD	_	_
+22	.	.	.	$.	$.	_	_	-1	21	_	--	_	_
+
+1	Deshalb	deshalb	deshalb	PAV	PAV	_	_	-1	2	_	NK	_	_
+2	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	2	_	SB	_	_
+4	zu	zu	zu	PTKZU	PTKZU	_	_	-1	5	_	PM	_	_
+5	begrüßen	begrüßen	begrüßen	VVINF	VVINF	_	_	-1	3	_	RE	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	dass	dass	dass	KOUS	KOUS	_	_	-1	16	_	CP	_	_
+8	Manfred	Manfred	Manfred	NE	NE	_	nom|sg|masc	-1	9	_	PNC	_	_
+9	Stolpe	Stolpe	Stolpe	NE	NE	_	nom|sg|masc	-1	16	_	SB	_	_
+10	dem	die	die	ART	ART	_	dat|sg|masc	-1	12	_	NK	_	_
+11	weiträumigen	weiträumig	weiträumig	ADJA	ADJA	_	dat|sg|masc|pos	-1	12	_	NK	_	_
+12	Areal	Areal	Areal	NN	NN	_	dat|sg|masc	-1	16	_	DA	_	_
+13	vorgestern	vorgestern	vorgestern	ADV	ADV	_	_	-1	16	_	MO	_	_
+14	einen	eine	eine	ART	ART	_	acc|sg|masc	-1	15	_	NK	_	_
+15	Besuch	Besuch	Besuch	NN	NN	_	acc|sg|masc	-1	16	_	OA	_	_
+16	abstattete	abstatten	abstatten	VVFIN	VVFIN	_	sg|3|past|ind	-1	2	_	MO	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
+1	Ein	eine	eine	ART	ART	_	nom|sg|masc	-1	3	_	NK	_	_
+2	beabsichtigter	beabsichtigt	beabsichtigt	ADJA	ADJA	_	nom|sg|masc|pos	-1	3	_	NK	_	_
+3	Effekt	Effekt	Effekt	NN	NN	_	nom|sg|masc	-1	11	_	PD	_	_
+4	solcher	solche	solche	PIAT	PIAT	_	gen|pl|fem	-1	5	_	NK	_	_
+5	Dienstreisen	Dienstreise	Dienstreise	NN	NN	_	gen|pl|fem	-1	3	_	AG	_	_
+6	des	die	die	ART	ART	_	gen|sg|masc	-1	7	_	NK	_	_
+7	Ministerpräsidenten	Ministerpräsident	Ministerpräsident	NN	NN	_	gen|sg|masc	-1	5	_	AG	_	_
+8	in	in	in	APPR	APPR	_	_	-1	5	_	MNR	_	_
+9	die	die	die	ART	ART	_	acc|sg|fem	-1	10	_	NK	_	_
+10	Provinz	Provinz	Provinz	NN	NN	_	acc|sg|fem	-1	8	_	NK	_	_
+11	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+12	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	11	_	SB	_	_
+13	,	,	,	$,	$,	_	_	-1	12	_	--	_	_
+14	möglichst	möglichst	möglichst	ADV	ADV	_	_	-1	15	_	MO	_	_
+15	viel	viele	viele	PIAT	PIAT	_	*|*|*	-1	16	_	MO	_	_
+16	öffentliche	öffentlich	öffentlich	ADJA	ADJA	_	acc|sg|fem|pos	-1	17	_	NK	_	_
+17	Aufmerksamkeit	Aufmerksamkeit	Aufmerksamkeit	NN	NN	_	acc|sg|fem	-1	22	_	OA	_	_
+18	auf	auf	auf	APPR	APPR	_	_	-1	22	_	MO	_	_
+19	bestimmte	bestimmt	bestimmt	ADJA	ADJA	_	acc|pl|masc|pos	-1	20	_	NK	_	_
+20	Vorhaben	Vorhaben	Vorhaben	NN	NN	_	acc|pl|masc	-1	18	_	NK	_	_
+21	zu	zu	zu	PTKZU	PTKZU	_	_	-1	22	_	PM	_	_
+22	lenken	lenken	lenken	VVINF	VVINF	_	_	-1	12	_	RE	_	_
+23	.	.	.	$.	$.	_	_	-1	22	_	--	_	_
+
+	sentence_start	0	77	195
+	token_offsets	sentence	0	offsets	0::2	3::3	7::4	12::4	17::6	24::6	31::9	41::4	46::3	50::7	58::8	67::6	74::1
+	token_offsets	sentence	1	offsets	77::3	81::4	86::3	90::11	102::7	110::3	114::9	124::4	129::1	131::3	135::10	146::18	165::11	177::2	180::11	192::1
+	token_offsets	sentence	2	offsets	195::3	199::10	210::3	214::5	220::5	226::3	230::5	236::5	242::3	246::3	250::11	262::3	266::13	280::13	294::9	304::12	317::1
+1	Um	um	um	APPR	APPR	_	_	-1	11	_	MO	_	_
+2	den	die	die	ART	ART	_	acc|sg|masc	-1	7	_	NK	_	_
+3	etwa	etwa	etwa	ADV	ADV	_	_	-1	4	_	MO	_	_
+4	7000	7000	7000	CARD	CARD	_	_	-1	5	_	NK	_	_
+5	Hektar	Hektar	Hektar	NN	NN	_	*|*|masc	-1	6	_	AMS	_	_
+6	großen	groß	groß	ADJA	ADJA	_	dat|sg|masc|pos	-1	7	_	NK	_	_
+7	Naturpark	Naturpark	Naturpark	NN	NN	_	dat|sg|masc	-1	1	_	NK	_	_
+8	soll	sollen	sollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+9	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	10	_	NK	_	_
+10	Rundweg	Rundweg	Rundweg	NN	NN	_	nom|sg|masc	-1	8	_	SB	_	_
+11	angelegt	anlegen	anlegen	VVPP	VVPP	_	_	-1	12	_	OC	_	_
+12	werden	werden	werden	VAINF	VAINF	_	_	-1	8	_	OC	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Das	die	die	PDS	PDS	_	nom|sg|neut	-1	2	_	SB	_	_
+2	wäre	sein	sein	VAFIN	VAFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+3	ein	eine	eine	ART	ART	_	nom|sg|masc	-1	5	_	NK	_	_
+4	bedeutender	bedeutend	bedeutend	ADJA	ADJA	_	nom|sg|masc|pos	-1	5	_	NK	_	_
+5	Schritt	Schritt	Schritt	NN	NN	_	nom|sg|masc	-1	2	_	PD	_	_
+6	zum	zu	zu	APPRART	APPRART	_	dat|sg|neut	-1	5	_	MNR	_	_
+7	erklärten	erklärt	erklärt	ADJA	ADJA	_	dat|sg|neut|pos	-1	8	_	NK	_	_
+8	Ziel	Ziel	Ziel	NN	NN	_	dat|sg|neut	-1	6	_	NK	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	den	die	die	ART	ART	_	acc|sg|masc	-1	12	_	NK	_	_
+11	ehemaligen	ehemalig	ehemalig	ADJA	ADJA	_	acc|sg|masc|pos	-1	12	_	NK	_	_
+12	Truppenübungsplatz	Truppenübungsplatz	Truppenübungsplatz	NN	NN	_	acc|sg|masc	-1	15	_	OA	_	_
+13	touristisch	touristisch	touristisch	ADJD	ADJD	_	pos	-1	15	_	MO	_	_
+14	zu	zu	zu	PTKZU	PTKZU	_	_	-1	15	_	PM	_	_
+15	erschließen	erschließen	erschließen	VVINF	VVINF	_	_	-1	8	_	OC	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Wanderdüne	Wanderdüne	Wanderdüne	NN	NN	_	nom|sg|fem	-1	6	_	SB	_	_
+3	bei	bei	bei	APPR	APPR	_	_	-1	2	_	MNR	_	_
+4	Forst	Forst	Forst	NN	NN	_	dat|sg|fem	-1	3	_	NK	_	_
+5	Zinna	Zinna	Zinna	NE	NE	_	dat|sg|fem	-1	4	_	NK	_	_
+6	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+7	schon	schon	schon	ADV	ADV	_	_	-1	8	_	MO	_	_
+8	jetzt	jetzt	jetzt	ADV	ADV	_	_	-1	6	_	MO	_	_
+9	ein	eine	eine	ART	ART	_	_	-1	16	_	NK	_	_
+10	bei	bei	bei	APPR	APPR	_	_	-1	15	_	MO	_	_
+11	Auswärtigen	Auswärtige	Auswärtige	NN	NN	_	dat|pl|masc	-1	10	_	NK	_	_
+12	und	und	und	KON	KON	_	_	-1	11	_	CD	_	_
+13	Einheimischen	Einheimische	Einheimische	NN	NN	_	dat|pl|*	-1	12	_	CJ	_	_
+14	gleichermaßen	gleichermaßen	gleichermaßen	ADV	ADV	_	_	-1	15	_	MO	_	_
+15	beliebtes	beliebt	beliebt	ADJA	ADJA	_	nom|sg|neut|pos	-1	16	_	NK	_	_
+16	Ausflugsziel	Ausflugsziel	Ausflugsziel	NN	NN	_	nom|sg|neut	-1	6	_	PD	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
+	sentence_start	0	107
+	token_offsets	sentence	0	offsets	0::5	6::3	10::3	14::10	25::1	27::3	31::5	37::7	45::7	53::14	68::6	75::1	77::3	81::15	97::6	104::1
+	token_offsets	sentence	1	offsets	107::3	111::10	122::1	124::3	128::5	134::14	149::9	159::11	171::8	180::6	187::1	189::7	197::10	208::11	220::1
+1	Diese	dies	dies	PDAT	PDAT	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Art	Art	Art	NN	NN	_	nom|sg|fem	-1	13	_	SB	_	_
+3	der	die	die	ART	ART	_	gen|sg|fem	-1	4	_	NK	_	_
+4	Konversion	Konversion	Konversion	NN	NN	_	gen|sg|fem	-1	2	_	AG	_	_
+5	-	-	-	$(	$(	_	_	-1	4	_	--	_	_
+6	die	die	die	ART	ART	_	nom|sg|fem	-1	7	_	NK	_	_
+7	Natur	Natur	Natur	NN	NN	_	nom|sg|fem	-1	8	_	SB	_	_
+8	erobert	erobern	erobern	VVFIN	VVFIN	_	_	-1	2	_	PAR	_	_
+9	frühere	früh	früh	ADJA	ADJA	_	acc|pl|fem|comp	-1	10	_	NK	_	_
+10	Militärflächen	Militärfläche	Militärfläche	NN	NN	_	acc|pl|fem	-1	8	_	OA	_	_
+11	zurück	zurück	zurück	PTKVZ	PTKVZ	_	_	-1	8	_	SVP	_	_
+12	-	-	-	$(	$(	_	_	-1	11	_	--	_	_
+13	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+14	vergleichsweise	vergleichsweise	vergleichsweise	ADV	ADV	_	_	-1	13	_	MO	_	_
+15	billig	billig	billig	ADJD	ADJD	_	pos	-1	13	_	PD	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Abschnitte	Abschnitt	Abschnitt	NN	NN	_	nom|sg|fem	-1	12	_	SB	_	_
+3	,	,	,	$,	$,	_	_	-1	2	_	--	_	_
+4	auf	auf	auf	APPR	APPR	_	_	-1	10	_	MO	_	_
+5	denen	die	die	PRELS	PRELS	_	dat|pl|neut	-1	4	_	NK	_	_
+6	möglicherweise	möglicherweise	möglicherweise	ADV	ADV	_	_	-1	10	_	MO	_	_
+7	weiterhin	weiterhin	weiterhin	ADV	ADV	_	_	-1	8	_	MO	_	_
+8	gefährliche	gefährlich	gefährlich	ADJA	ADJA	_	nom|sg|fem|pos	-1	9	_	NK	_	_
+9	Munition	Munition	Munition	NN	NN	_	nom|sg|fem	-1	10	_	OA	_	_
+10	lagert	lagern	lagern	VVFIN	VVFIN	_	sg|3|pres|ind	-1	2	_	RC	_	_
+11	,	,	,	$,	$,	_	_	-1	10	_	--	_	_
+12	bleiben	bleiben	bleiben	VVFIN	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+13	allerdings	allerdings	allerdings	ADV	ADV	_	_	-1	12	_	MO	_	_
+14	Sperrgebiet	Sperrgebiet	Sperrgebiet	NN	NN	_	acc|sg|neut	-1	12	_	OA	_	_
+15	.	.	.	$.	$.	_	_	-1	14	_	--	_	_
+
+	sentence_start	0	173
+	token_offsets	sentence	0	offsets	0::2	3::3	7::3	11::13	25::12	38::3	42::18	61::3	65::5	71::5	77::4	82::13	96::9	106::1	108::5	114::3	118::5	124::5	130::2	133::1	135::3	139::5	145::10	156::6	163::6	170::1
+	token_offsets	sentence	1	offsets	173::3	177::6	184::1	186::6	193::3	197::5	203::2	206::1
+1	Ob	ob	ob	KOUS	KOUS	_	_	-1	13	_	CP	_	_
+2	bei	bei	bei	APPR	APPR	_	_	-1	13	_	MO	_	_
+3	der	die	die	ART	ART	_	dat|sg|fem	-1	5	_	NK	_	_
+4	touristischen	touristisch	touristisch	ADJA	ADJA	_	dat|sg|fem|pos	-1	5	_	NK	_	_
+5	Erschließung	Erschließung	Erschließung	NN	NN	_	dat|sg|fem	-1	2	_	NK	_	_
+6	der	die	die	ART	ART	_	gen|pl|fem	-1	7	_	NK	_	_
+7	Konversionsflächen	Konversionsflächen	Konversionsflächen	NN	NN	_	gen|pl|fem	-1	5	_	AG	_	_
+8	auf	auf	auf	APPR	APPR	_	_	-1	13	_	MO	_	_
+9	lange	lang	lang	ADJA	ADJA	_	acc|sg|fem|pos	-1	10	_	NK	_	_
+10	Sicht	Sicht	Sicht	NN	NN	_	acc|sg|fem	-1	8	_	NK	_	_
+11	neue	neu	neu	ADJA	ADJA	_	acc|pl|masc|pos	-1	12	_	NK	_	_
+12	Arbeitsplätze	Arbeitsplatz	Arbeitsplatz	NN	NN	_	acc|pl|masc	-1	13	_	SB	_	_
+13	entstehen	entstehen	entstehen	VVINF	VVINF	_	_	-1	15	_	SB	_	_
+14	,	,	,	$,	$,	_	_	-1	13	_	--	_	_
+15	hängt	hängen	hängen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+16	vor	vor	vor	APPR	APPR	_	_	-1	24	_	MO	_	_
+17	allem	alle	alle	PIS	PIS	_	dat|sg|neut	-1	16	_	NK	_	_
+18	davon	davon	davon	PAV	PAV	_	_	-1	15	_	NK	_	_
+19	ab	ab	ab	PTKVZ	PTKVZ	_	_	-1	15	_	SVP	_	_
+20	,	,	,	$,	$,	_	_	-1	19	_	--	_	_
+21	wie	wie	wie	KOUS	KOUS	_	_	-1	25	_	CM	_	_
+22	viele	viele	viele	PIAT	PIAT	_	nom|pl|*	-1	23	_	NK	_	_
+23	Neugierige	Neugierige	Neugierige	NN	NN	_	nom|pl|*	-1	25	_	SB	_	_
+24	kommen	kommen	kommen	VVINF	VVINF	_	_	-1	25	_	OC	_	_
+25	werden	werden	werden	VAFIN	VAFIN	_	pl|3|pres|ind	-1	15	_	MO	_	_
+26	.	.	.	$.	$.	_	_	-1	25	_	--	_	_
+
+1	Wie	wie	wie	KOUS	KOUS	_	_	-1	2	_	MO	_	_
+2	gesagt	sagen	sagen	VVPP	VVPP	_	_	-1	5	_	CJ	_	_
+3	:	:	:	$.	$.	_	_	-1	2	_	--	_	_
+4	Stolpe	Stolpe	Stolpe	NE	NE	_	nom|sg|masc	-1	5	_	SB	_	_
+5	war	sein	sein	VAFIN	VAFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+6	schon	schon	schon	ADV	ADV	_	_	-1	5	_	MO	_	_
+7	da	da	da	PTKVZ	PTKVZ	_	_	-1	5	_	MO	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+

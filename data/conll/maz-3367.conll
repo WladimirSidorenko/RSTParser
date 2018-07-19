@@ -1,0 +1,255 @@
+	sentence_start	0
+	token_offsets	sentence	0	offsets	0::4	5::7	13::5	19::1
+1	Gebt	geben	geben	VVFIN	VVFIN	_	pl|2|imp	-1	0	_	--	_	_
+2	endlich	endlich	endlich	ADV	ADV	_	_	-1	1	_	MO	_	_
+3	Gummi	Gummi	Gummi	NN	NN	_	acc|sg|masc	-1	1	_	OA	_	_
+4	!	!	!	$.	$.	_	_	-1	3	_	--	_	_
+
+	sentence_start	0	70	123	187	236	300
+	token_offsets	sentence	0	offsets	0::4	5::14	20::2	23::12	36::5	42::4	47::7	55::4	60::6	67::1
+	token_offsets	sentence	1	offsets	70::3	74::6	81::4	86::3	90::10	101::4	106::4	111::2	114::5	120::1
+	token_offsets	sentence	2	offsets	123::3	127::8	136::3	140::4	145::3	149::3	153::8	162::6	169::4	174::9	184::1
+	token_offsets	sentence	3	offsets	187::3	191::14	206::3	210::3	214::9	224::8	233::1
+	token_offsets	sentence	4	offsets	236::3	240::4	245::10	256::2	259::3	263::6	270::3	274::3	278::9	288::2	291::5	297::1
+	token_offsets	sentence	5	offsets	300::3	304::3	308::9	318::4	323::3	327::6	334::3	338::3	342::9	352::3	356::11	368::6	375::1
+1	Eine	eine	eine	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Kunststoffbahn	Kunststoffbahn	Kunststoffbahn	NN	NN	_	nom|sg|fem	-1	5	_	SB	_	_
+3	am	an	an	APPRART	APPRART	_	dat|sg|neut	-1	2	_	MNR	_	_
+4	Schwedendamm	Schwedendamm	Schwedendamm	NN	NN	_	dat|sg|neut	-1	3	_	NK	_	_
+5	würde	werden	werden	VAFIN	VAFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+6	eine	eine	eine	ART	ART	_	nom|sg|fem	-1	7	_	NMC	_	_
+7	Million	Million	Million	NN	NN	_	nom|sg|fem	-1	5	_	SB	_	_
+8	Mark	Mark	Mark	NN	NN	_	nom|sg|fem	-1	7	_	NK	_	_
+9	kosten	kosten	kosten	VVINF	VVINF	_	_	-1	5	_	OC	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Brücke	Brücke	Brücke	NN	NN	_	nom|sg|fem	-1	6	_	SB	_	_
+3	über	über	über	APPR	APPR	_	_	-1	2	_	MNR	_	_
+4	den	die	die	ART	ART	_	acc|sg|masc	-1	5	_	NK	_	_
+5	Stadtkanal	Stadtkanal	Stadtkanal	NN	NN	_	acc|sg|masc	-1	3	_	NK	_	_
+6	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+7	auch	auch	auch	ADV	ADV	_	_	-1	6	_	MO	_	_
+8	so	so	so	ADV	ADV	_	_	-1	9	_	MO	_	_
+9	teuer	teuer	teuer	ADJD	ADJD	_	pos	-1	6	_	PD	_	_
+10	.	.	.	$.	$.	_	_	-1	9	_	--	_	_
+
+1	Das	die	die	ART	ART	_	nom|sg|neut	-1	2	_	NK	_	_
+2	Erneuern	Erneuern	Erneuern	NN	NN	_	nom|sg|neut	-1	8	_	SB	_	_
+3	der	die	die	ART	ART	_	gen|sg|fem	-1	4	_	NK	_	_
+4	Wege	Weg	Weg	NN	NN	_	gen|sg|fem	-1	2	_	AG	_	_
+5	auf	auf	auf	APPR	APPR	_	_	-1	2	_	MNR	_	_
+6	dem	die	die	ART	ART	_	dat|sg|masc	-1	7	_	NK	_	_
+7	Weinberg	Weinberg	Weinberg	NN	NN	_	dat|sg|masc	-1	5	_	NK	_	_
+8	kostet	kosten	kosten	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+9	zwei	zwei	zwei	CARD	CARD	_	_	-1	10	_	NMC	_	_
+10	Millionen	Million	Million	NN	NN	_	acc|pl|fem	-1	8	_	MO	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|sg|fem	-1	2	_	NK	_	_
+2	Havellandhalle	Havellandhalle	Havellandhalle	NN	NN	_	nom|sg|fem	-1	3	_	SB	_	_
+3	hat	haben	haben	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	5,5	5,5	5,5	CARD	CARD	_	_	-1	5	_	NMC	_	_
+5	Millionen	Million	Million	NN	NN	_	acc|pl|fem	-1	6	_	OA	_	_
+6	gekostet	kosten	kosten	VVPP	VVPP	_	_	-1	3	_	OC	_	_
+7	.	.	.	$.	$.	_	_	-1	6	_	--	_	_
+
+1	Der	die	die	ART	ART	_	nom|sg|masc	-1	3	_	NK	_	_
+2	neue	neu	neu	ADJA	ADJA	_	nom|sg|masc|pos	-1	3	_	NK	_	_
+3	Spielplatz	Spielplatz	Spielplatz	NN	NN	_	nom|sg|masc	-1	6	_	SB	_	_
+4	in	in	in	APPR	APPR	_	_	-1	3	_	MNR	_	_
+5	Ost	Ost	Ost	NN	NN	_	nom|sg|*	-1	4	_	NK	_	_
+6	schlug	schlagen	schlagen	VVFIN	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
+7	mit	mit	mit	APPR	APPR	_	_	-1	6	_	MO	_	_
+8	1,5	1,5	1,5	CARD	CARD	_	_	-1	9	_	NMC	_	_
+9	Millionen	Million	Million	NN	NN	_	dat|pl|fem	-1	7	_	NK	_	_
+10	zu	zu	zu	APPR	APPR	_	_	-1	6	_	MO	_	_
+11	Buche	Buche	Buche	NN	NN	_	dat|sg|neut	-1	10	_	NK	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Für	für	für	APPR	APPR	_	_	-1	11	_	MO	_	_
+2	1,5	1,5	1,5	CARD	CARD	_	_	-1	3	_	NMC	_	_
+3	Millionen	Million	Million	NN	NN	_	dat|pl|fem	-1	1	_	NK	_	_
+4	soll	sollen	sollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	das	die	die	ART	ART	_	nom|sg|neut	-1	6	_	NK	_	_
+6	Gebiet	Gebiet	Gebiet	NN	NN	_	nom|sg|neut	-1	4	_	SB	_	_
+7	vor	vor	vor	APPR	APPR	_	_	-1	11	_	MO	_	_
+8	der	die	die	ART	ART	_	dat|sg|fem	-1	9	_	NK	_	_
+9	Kaufhalle	Kaufhalle	Kaufhalle	NN	NN	_	dat|sg|fem	-1	7	_	NK	_	_
+10	Ost	Ost	Ost	NN	NN	_	nom|sg|*	-1	9	_	NK	_	_
+11	umgestaltet	umgestalten	umgestalten	VVPP	VVPP	_	_	-1	12	_	OC	_	_
+12	werden	werden	werden	VAINF	VAINF	_	_	-1	4	_	OC	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+	sentence_start	0	32	83	155	208	340
+	token_offsets	sentence	0	offsets	0::10	11::6	18::1	20::3	24::4	29::1
+	token_offsets	sentence	1	offsets	32::4	37::2	40::4	45::6	52::5	58::1	60::2	63::3	67::4	72::4	77::2	80::1
+	token_offsets	sentence	2	offsets	83::3	87::3	91::3	95::16	112::6	119::2	122::11	134::3	138::1	140::4	145::6	152::1
+	token_offsets	sentence	3	offsets	155::2	158::7	166::3	170::3	174::1	176::3	180::3	184::5	190::2	193::1	195::7	203::1	205::1
+	token_offsets	sentence	4	offsets	208::3	212::5	218::6	225::14	240::3	244::8	253::3	257::8	266::2	269::3	273::3	277::2	280::6	287::4	292::3	296::9	306::15	322::7	330::6	337::1
+	token_offsets	sentence	5	offsets	340::3	344::5	350::4	355::3	359::6	366::8	375::8	384::1
+1	Vergleiche	Vergleich	Vergleich	NN	NN	_	nom|pl|masc	-1	2	_	SB	_	_
+2	hinken	hinken	hinken	VVINF	VVINF	_	pl|3|pres|ind	-1	5	_	OC	_	_
+3	,	,	,	$,	$,	_	_	-1	2	_	--	_	_
+4	mag	mögen	mögen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+5	sein	sein	sein	VAINF	VAINF	_	_	-1	4	_	OC	_	_
+6	.	.	.	$.	$.	_	_	-1	5	_	--	_	_
+
+1	Aber	aber	aber	KON	KON	_	_	-1	3	_	JU	_	_
+2	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	3	_	EP	_	_
+3	soll	sollen	sollen	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	keiner	keine	keine	PIS	PIS	_	nom|sg|masc	-1	3	_	SB	_	_
+5	sagen	sagen	sagen	VVINF	VVINF	_	_	-1	3	_	OC	_	_
+6	,	,	,	$,	$,	_	_	-1	5	_	--	_	_
+7	es	es	es	PPER	PPER	_	nom|sg|neut|3	-1	8	_	SB	_	_
+8	sei	sein	sein	VAFIN	VAFIN	_	sg|3|pres|subj	-1	5	_	OC	_	_
+9	kein	keine	keine	PIAT	PIAT	_	nom|sg|neut	-1	10	_	NK	_	_
+10	Geld	Geld	Geld	NN	NN	_	nom|sg|neut	-1	8	_	SB	_	_
+11	da	da	da	PTKVZ	PTKVZ	_	_	-1	5	_	SVP	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	Was	was	was	PWS	PWS	_	nom|sg|neut	-1	8	_	SB	_	_
+2	für	für	für	APPR	APPR	_	_	-1	8	_	MO	_	_
+3	die	die	die	ART	ART	_	acc|pl|fem	-1	4	_	NK	_	_
+4	Verantwortlichen	Verantwortliche	Verantwortliche	NN	NN	_	acc|pl|fem	-1	2	_	NK	_	_
+5	gerade	gerade	gerade	ADV	ADV	_	_	-1	8	_	MO	_	_
+6	am	am	am	PTKA	PTKA	_	_	-1	7	_	PM	_	_
+7	wichtigsten	wichtig	wichtig	ADJD	ADJD	_	sup	-1	8	_	PD	_	_
+8	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	10	_	SB	_	_
+9	,	,	,	$,	$,	_	_	-1	8	_	--	_	_
+10	wird	werden	werden	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+11	gebaut	bauen	bauen	VVPP	VVPP	_	_	-1	10	_	OC	_	_
+12	.	.	.	$.	$.	_	_	-1	11	_	--	_	_
+
+1	So	so	so	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	einfach	einfach	einfach	ADV	ADV	_	pos	-1	3	_	PD	_	_
+3	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	das	die	die	PDS	PDS	_	nom|sg|neut	-1	3	_	SB	_	_
+5	,	,	,	$,	$,	_	_	-1	4	_	--	_	_
+6	und	und	und	KON	KON	_	_	-1	3	_	CD	_	_
+7	man	man	man	PIS	PIS	_	nom|sg|*	-1	8	_	SB	_	_
+8	nennt	nennen	nennen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	6	_	CJ	_	_
+9	es	es	es	PPER	PPER	_	acc|sg|neut|3	-1	8	_	OA	_	_
+10	"	"	"	$(	$(	_	_	-1	9	_	--	_	_
+11	Politik	Politik	Politik	NN	NN	_	acc|sg|fem	-1	8	_	SB	_	_
+12	"	"	"	$(	$(	_	_	-1	11	_	--	_	_
+13	.	.	.	$.	$.	_	_	-1	12	_	--	_	_
+
+1	Nie	nie	nie	ADV	ADV	_	_	-1	2	_	MO	_	_
+2	zuvor	zuvor	zuvor	ADV	ADV	_	_	-1	3	_	MO	_	_
+3	holten	holen	holen	VVFIN	VVFIN	_	pl|3|past|ind	-1	0	_	--	_	_
+4	Leichtathleten	Leichtathlet	Leichtathlet	NN	NN	_	nom|pl|fem	-1	3	_	SB	_	_
+5	aus	aus	aus	APPR	APPR	_	_	-1	4	_	MNR	_	_
+6	Rathenow	Rathenow	Rathenow	NE	NE	_	dat|sg|neut	-1	5	_	NK	_	_
+7	und	und	und	KON	KON	_	_	-1	6	_	CD	_	_
+8	Premnitz	Premnitz	Premnitz	NE	NE	_	dat|sg|neut	-1	7	_	CJ	_	_
+9	so	so	so	ADV	ADV	_	_	-1	10	_	MO	_	_
+10	oft	oft	oft	ADV	ADV	_	_	-1	3	_	MO	_	_
+11	wie	wie	wie	KOKOM	KOKOM	_	_	-1	12	_	CM	_	_
+12	in	in	in	APPR	APPR	_	_	-1	9	_	CC	_	_
+13	diesem	dies	dies	PDAT	PDAT	_	dat|sg|neut	-1	14	_	NK	_	_
+14	Jahr	Jahr	Jahr	NN	NN	_	dat|sg|neut	-1	12	_	NK	_	_
+15	bei	bei	bei	APPR	APPR	_	_	-1	3	_	MO	_	_
+16	Deutschen	deutsch	deutsch	ADJA	ADJA	_	dat|pl|fem|pos	-1	17	_	NK	_	_
+17	Meisterschaften	Meisterschaft	Meisterschaft	NN	NN	_	dat|pl|fem	-1	15	_	NK	_	_
+18	vordere	vorder	vorder	ADJA	ADJA	_	sg|3|pres|subj	-1	19	_	NK	_	_
+19	Plätze	Platz	Platz	NN	NN	_	acc|pl|masc	-1	3	_	OA	_	_
+20	.	.	.	$.	$.	_	_	-1	19	_	--	_	_
+
+1	Sie	Sie	Sie	PPER	PPER	_	nom|pl|*|3	-1	2	_	SB	_	_
+2	haben	haben	haben	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+3	sich	sich	sich	PRF	PRF	_	acc|pl|3	-1	7	_	OA	_	_
+4	ihr	ihr	ihr	PPOSAT	PPOSAT	_	dat|sg|fem|3	-1	5	_	NK	_	_
+5	Tartan	Tartan	Tartan	NE	NE	_	nom|sg|neut	-1	7	_	OA	_	_
+6	wirklich	wirklich	wirklich	ADJD	ADJD	_	pos	-1	7	_	MO	_	_
+7	verdient	verdienen	verdienen	VVPP	VVPP	_	_	-1	2	_	OC	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+
+	sentence_start	0	95	151	239	294	358
+	token_offsets	sentence	0	offsets	0::3	4::5	10::4	15::2	18::10	29::3	33::5	39::3	43::9	53::8	62::6	69::1	71::3	75::10	86::5	92::1
+	token_offsets	sentence	1	offsets	95::3	99::13	113::2	116::12	129::4	134::4	139::8	148::1
+	token_offsets	sentence	2	offsets	151::3	155::7	163::3	167::12	180::7	188::4	193::1	195::3	199::10	210::3	214::3	218::3	222::4	227::3	231::4	236::1
+	token_offsets	sentence	3	offsets	239::10	250::6	257::2	260::14	275::9	285::5	291::1
+	token_offsets	sentence	4	offsets	294::3	298::4	303::6	310::3	314::12	327::4	332::4	337::5	343::5	349::5	355::1
+	token_offsets	sentence	5	offsets	358::3	362::5	368::4	373::3	377::5	383::4	388::8	397::1	399::3	403::7	411::6	418::6	425::3	429::3	433::5	439::4	444::1
+1	Auf	auf	auf	APPR	APPR	_	_	-1	3	_	MO	_	_
+2	Asche	Asche	Asche	NN	NN	_	acc|sg|fem	-1	1	_	NK	_	_
+3	kann	können	können	VMFIN	VMFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+4	im	in	in	APPRART	APPRART	_	dat|sg|masc	-1	10	_	MO	_	_
+5	Höchstfall	Höchstfall	Höchstfall	NN	NN	_	dat|sg|masc	-1	4	_	NK	_	_
+6	von	von	von	APPR	APPR	_	_	-1	5	_	PG	_	_
+7	April	April	April	NN	NN	_	dat|sg|masc	-1	6	_	NK	_	_
+8	bis	bis	bis	KON	KON	_	_	-1	7	_	CD	_	_
+9	September	September	September	NN	NN	_	dat|sg|masc	-1	8	_	CJ	_	_
+10	gelaufen	laufen	laufen	VVPP	VVPP	_	_	-1	11	_	OC	_	_
+11	werden	werden	werden	VAINF	VAINF	_	_	-1	3	_	OC	_	_
+12	,	,	,	$,	$,	_	_	-1	11	_	--	_	_
+13	auf	auf	auf	APPR	APPR	_	_	-1	15	_	MO	_	_
+14	Kunststoff	Kunststoff	Kunststoff	NN	NN	_	acc|sg|masc	-1	13	_	NK	_	_
+15	immer	immer	immer	ADV	ADV	_	_	-1	10	_	MO	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+1	Die	die	die	ART	ART	_	nom|pl|fem	-1	2	_	NK	_	_
+2	Sprunganlagen	Sprunganlagen	Sprunganlagen	NN	NN	_	nom|pl|fem	-1	5	_	SB	_	_
+3	am	an	an	APPRART	APPRART	_	dat|sg|masc	-1	2	_	MNR	_	_
+4	Schwedendamm	Schwedendamm	Schwedendamm	NN	NN	_	dat|sg|masc	-1	3	_	NK	_	_
+5	sind	sein	sein	VAFIN	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
+6	eine	eine	eine	ART	ART	_	nom|sg|fem	-1	7	_	NK	_	_
+7	Zumutung	Zumutung	Zumutung	NN	NN	_	nom|sg|fem	-1	5	_	PD	_	_
+8	.	.	.	$.	$.	_	_	-1	7	_	--	_	_
+
+1	Wer	wer	wer	PWS	PWS	_	nom|sg|masc	-1	6	_	SB	_	_
+2	endlich	endlich	endlich	ADV	ADV	_	_	-1	6	_	MO	_	_
+3	ein	eine	eine	ART	ART	_	nom|sg|neut	-1	5	_	NK	_	_
+4	ordentliches	ordentlich	ordentlich	ADJA	ADJA	_	nom|sg|neut|pos	-1	5	_	NK	_	_
+5	Stadion	Stadion	Stadion	NN	NN	_	nom|sg|neut	-1	6	_	SB	_	_
+6	baut	bauen	bauen	VVFIN	VVFIN	_	sg|3|pres|ind	-1	8	_	SB	_	_
+7	,	,	,	$,	$,	_	_	-1	6	_	--	_	_
+8	ist	sein	sein	VAFIN	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+9	eigentlich	eigentlich	eigentlich	ADV	ADV	_	_	-1	8	_	MO	_	_
+10	nur	nur	nur	ADV	ADV	_	_	-1	11	_	MO	_	_
+11	auf	auf	auf	APPR	APPR	_	_	-1	8	_	MO	_	_
+12	der	die	die	ART	ART	_	dat|sg|fem	-1	13	_	NK	_	_
+13	Höhe	Höhe	Höhe	NN	NN	_	dat|sg|fem	-1	11	_	NK	_	_
+14	der	die	die	ART	ART	_	gen|sg|fem	-1	15	_	NK	_	_
+15	Zeit	Zeit	Zeit	NN	NN	_	gen|sg|fem	-1	13	_	AG	_	_
+16	.	.	.	$.	$.	_	_	-1	15	_	--	_	_
+
+1	Schulsport	Schulsport	Schulsport	NN	NN	_	nom|sg|*	-1	2	_	SB	_	_
+2	findet	finden	finden	VVFIN	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
+3	im	in	in	APPRART	APPRART	_	dat|sg|neut	-1	2	_	MO	_	_
+4	Jahn-Sportpark	Jahn-Sportpark	Jahn-Sportpark	NN	NN	_	dat|sg|neut	-1	3	_	NK	_	_
+5	ebenfalls	ebenfalls	ebenfalls	ADV	ADV	_	_	-1	2	_	MO	_	_
+6	statt	statt	statt	PTKVZ	PTKVZ	_	_	-1	2	_	SVP	_	_
+7	.	.	.	$.	$.	_	_	-1	6	_	--	_	_
+
+1	Für	für	für	APPR	APPR	_	_	-1	10	_	MO	_	_
+2	alle	alle	alle	PIAT	PIAT	_	nom|pl|neut	-1	3	_	NK	_	_
+3	Kinder	Kind	Kind	NN	NN	_	nom|pl|neut	-1	1	_	NK	_	_
+4	und	und	und	KON	KON	_	_	-1	3	_	CD	_	_
+5	Jugendlichen	Jugendliche	Jugendliche	NN	NN	_	dat|pl|*	-1	4	_	CJ	_	_
+6	wäre	sein	sein	VAFIN	VAFIN	_	sg|3|past|subj	-1	0	_	--	_	_
+7	also	also	also	ADV	ADV	_	_	-1	10	_	MO	_	_
+8	etwas	etwas	etwas	PIAT	PIAT	_	*|*|*	-1	9	_	NK	_	_
+9	Gutes	Gute	Gute	NN	NN	_	acc|sg|neut	-1	10	_	OA	_	_
+10	getan	tun	tun	VVPP	VVPP	_	_	-1	6	_	OC	_	_
+11	.	.	.	$.	$.	_	_	-1	10	_	--	_	_
+
+1	Sie	Sie	Sie	PPER	PPER	_	nom|pl|*|3	-1	2	_	SB	_	_
+2	wären	sein	sein	VAFIN	VAFIN	_	pl|3|past|subj	-1	0	_	--	_	_
+3	nach	nach	nach	APPR	APPR	_	_	-1	2	_	MO	_	_
+4	dem	die	die	ART	ART	_	dat|sg|masc	-1	5	_	NK	_	_
+5	Sport	Sport	Sport	NN	NN	_	dat|sg|masc	-1	3	_	NK	_	_
+6	viel	viel	viel	ADV	ADV	_	_	-1	7	_	MO	_	_
+7	sauberer	sauber	sauber	ADJD	ADJD	_	comp	-1	2	_	PD	_	_
+8	,	,	,	$,	$,	_	_	-1	7	_	--	_	_
+9	und	und	und	KON	KON	_	_	-1	2	_	CD	_	_
+10	bessere	gut	gut	ADJA	ADJA	_	acc|pl|fem|comp	-1	11	_	NK	_	_
+11	Zeiten	Zeit	Zeit	NN	NN	_	acc|pl|fem	-1	12	_	OA	_	_
+12	rennen	rennen	rennen	VVFIN	VVFIN	_	pl|3|pres|ind	-1	9	_	CJ	_	_
+13	sie	sie	sie	PPER	PPER	_	nom|pl|*|3	-1	12	_	SB	_	_
+14	auf	auf	auf	APPR	APPR	_	_	-1	12	_	MO	_	_
+15	Gummi	Gummi	Gummi	NN	NN	_	acc|sg|masc	-1	14	_	NK	_	_
+16	auch	auch	auch	ADV	ADV	_	_	-1	12	_	MO	_	_
+17	.	.	.	$.	$.	_	_	-1	16	_	--	_	_
+
