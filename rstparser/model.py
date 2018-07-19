@@ -13,10 +13,13 @@
 from __future__ import absolute_import, print_function, unicode_literals
 
 from six import iteritems
+from sklearn.exceptions import UndefinedMetricWarning
 from sklearn.pipeline import Pipeline
 from sklearn.feature_extraction import DictVectorizer
+from sklearn.metrics import precision_score, recall_score, f1_score
 from sklearn.svm import LinearSVC
 import numpy as np
+import warnings
 
 from .feature import FeatureExtractor
 from .utils import LOGGER
@@ -43,7 +46,6 @@ class Model(object):
         self._clf = Pipeline([("vect", DictVectorizer()),
                               ("clf", classifier)])
         self._feat_extractor = FeatureExtractor()
-        self._matrix = None
         self._action2idx = {}
         self._idx2action = {}
 
@@ -73,6 +75,16 @@ class Model(object):
         train_y = self._digitize_labels(train_y)
         train_x, train_y, dev_x, dev_y = self._split_data(train_x, train_y)
         self._clf.fit(train_x, train_y)
+        dev_predicted = [self._clf.predict(x_i)[0] for x_i in dev_x]
+        with warnings.catch_warnings():
+            warnings.simplefilter("ignore", UndefinedMetricWarning)
+            precision = precision_score(dev_y, dev_predicted, average="macro")
+            recall = recall_score(dev_y, dev_predicted, average="macro")
+            macro_f1 = f1_score(dev_y, dev_predicted, average="macro")
+            micro_f1 = f1_score(dev_y, dev_predicted, average="micro")
+        LOGGER.info("Performance on the dev set: precision: %.4f, "
+                    "recall: %.4f, macro-F1: %.4f, micro-F1: %.4f",
+                    precision, recall, macro_f1, micro_f1)
         LOGGER.debug("Internal model trained...")
 
     def predict(self, seg1, seg2, seg3):
