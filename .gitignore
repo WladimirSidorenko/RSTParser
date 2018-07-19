@@ -2,3 +2,5 @@
 venv/
 *.gz
 examples/
+*.pyc
+*.egg-info
