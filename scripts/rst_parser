@@ -13,7 +13,7 @@ import sys
 
 from rstparser.conll import CoNLLDoc
 from rstparser.tree import RSTTree
-from rstparser.utils import DFLT_ENCODING, LOGGER
+from rstparser.utils import DFLT_ENCODING, DFLT_MODEL_PATH, LOGGER
 from rstparser.parser import RSTParser
 
 
@@ -22,8 +22,6 @@ from rstparser.parser import RSTParser
 M_TRAIN = "train"
 M_TEST = "test"
 M_EVAL = "evauate"
-DFLT_MODEL_PATH = os.path.join(os.path.basename(__file__),
-                               "rstpaser.model")
 
 
 ##################################################################
@@ -72,11 +70,7 @@ def read_data(dis_dir, conll_dir):
         with codecs.open(conll_fname, 'r', DFLT_ENCODING) as ifile:
             conll_doc = CoNLLDoc(ifile)
         with codecs.open(dis_fname, 'r', DFLT_ENCODING) as ifile:
-            T = RSTTree(ifile.read(), conll_doc)
-        print(repr(T))
-        print(str(T))
-        print(repr(T.generate_samples()))
-    sys.exit(66)
+            yield RSTTree(ifile.read(), conll_doc)
 
 
 def main(argv):

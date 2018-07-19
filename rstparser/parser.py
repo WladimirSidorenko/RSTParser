@@ -19,6 +19,7 @@ try:
 except ImportError:
     from _pickle import dump, load
 
+from .model import Model
 from .node import SpanNode
 from .exceptions import ActionError, ParseError
 from .utils import LOGGER
@@ -45,7 +46,7 @@ class RSTParser(object):
         self._queue = queue
         self._stack = stack
         self._mpath = mpath
-        self._model = mpath if mpath is None else self.load(mpath)
+        self._model = Model() if mpath is None else self.load(mpath)
 
     @property
     def stack(self):
@@ -75,7 +76,13 @@ class RSTParser(object):
 
         """
         LOGGER.debug("rst_trees: %r", rst_trees)
-        raise NotImplementedError
+        actions = []
+        samples = []
+        for tree in rst_trees:
+            t_actions, t_samples = tree.generate_samples()
+            actions.extend(t_actions)
+            samples.extend(t_samples)
+        self._model.train(samples, actions)
 
     def save(self, mpath):
         """Save internal model at specifed location.
@@ -85,7 +92,8 @@ class RSTParser(object):
         """
         LOGGER.debug("Saving model to %s", mpath)
         self._model.reset()
-        dump(self._model, mpath)
+        with open(mpath, "wb") as ofile:
+            dump(self._model, ofile)
         self._model.restore()
         self._mpath = mpath
         LOGGER.debug("Model saved")

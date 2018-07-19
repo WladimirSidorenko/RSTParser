@@ -5,193 +5,242 @@
 # Imports
 from __future__ import absolute_import, print_function, unicode_literals
 
-from .utils import getgrams
+from .utils import LOGGER, getgrams
 
 
 ##################################################################
 # Class
-class FeatureGenerator(object):
-    def __init__(self, stack, queue, doc, nprefix=10):
-        """ Initialization of feature generator
+class FeatureExtractor(object):
+    @classmethod
+    def extract_feats(cls, stack_node1, stack_node2,
+                      queue_node, tree):
+        """Main function to extract features.
 
-        Currently, we only consider the feature generated
-        from the top 2 spans from the stack, and the first
-        span from the queue. However, you are available to
-        use any other information for feature generation.
-        - YJ
+        :param class cls: pointer to this class
+        :param stack_node1: first RST node on the stack
+        :type stack_node1: SpanNode or None
+        :param stack_node2: second RST node on the stack
+        :type stack_node2: SpanNode or None
+        :param queue_node: first RST node in the queue
+        :type queue_node: SpanNode or None
+        :param tree: first RST node in the queue
+        :type tree: RSTTree
 
-        :type stack: list
-        :param stack: list of Node instance
-
-        :type queue: list
-        :param queue: list of Node instance
-
-        :type doc: Doc instance
-        :param doc:
         """
-        # Predefined variables
-        self.npref = nprefix
-        # -------------------------------------
-        self.doc = doc
-        # Stack
-        if len(stack) >= 2:
-            self.top1span, self.top2span = stack[-1], stack[-2]
-        elif len(stack) == 1:
-            self.top1span, self.top2span = stack[-1], None
-        else:
-            self.top1span, self.top2span = None, None
-        # Queue
-        if len(queue) > 0:
-            self.firstspan = queue[0]
-        else:
-            self.firstspan = None
-        # Doc length wrt EDUs
-        self.doclen = len(self.doc.edudict)
-
-    def features(self):
-        """ Main function to generate features
-        """
-        featlist = []
+        LOGGER.debug("stack_node1: %r", stack_node1)
+        LOGGER.debug("stack_node2: %r", stack_node2)
+        LOGGER.debug("queue_node: %r", queue_node)
+        LOGGER.debug("tree: %r", tree)
+        feats = {}
         # Status features (Basic features)
-        for feat in self.status_features():
-            featlist.append(feat)
+        cls.extract_status_feats(feats, stack_node1, stack_node2,
+                                 queue_node, tree)
+        LOGGER.debug("status_feats: %r", feats)
         # Lexical features
-        for feat in self.lexical_features():
-            featlist.append(feat)
+        cls.extract_lex_feats(feats, stack_node1, stack_node2,
+                              queue_node, tree)
+        LOGGER.debug("status + lex feats: %r", feats)
         # Structural features
-        for feat in self.structural_features():
-            featlist.append(feat)
+        cls.extract_struct_feats(feats, stack_node1, stack_node2,
+                                 queue_node, tree)
+        LOGGER.debug("status + lex + struct feats: %r", feats)
         # EDU features
-        for feat in self.edu_features():
-            featlist.append(feat)
+        cls.extract_edu_feats(feats, stack_node1, stack_node2,
+                              queue_node, tree)
+        LOGGER.debug("status + lex + struct + edu feats: %r", feats)
         # Distributional representation
-        for feat in self.distributional_features():
-            featlist.append(feat)
+        cls.extract_distrib_feats(feats, stack_node1, stack_node2,
+                                  queue_node, tree)
+        LOGGER.debug("status + lex + struct + edu + distrib feats: %r", feats)
         # No Brown clusters
-        return featlist
+        return feats
 
-    def structural_features(self):
-        """ Structural features
+    @classmethod
+    def extract_struct_feats(cls, feats, stack_node1, stack_node2,
+                             queue_node, tree):
+        """Main function to extract structural features.
 
-        TODO: add a upper/lower thresholds
+        :param class cls: pointer to this class
+        :param dict feats: target dictionary of features
+        :param stack_node1: first RST node on the stack
+        :type stack_node1: SpanNode or None
+        :param stack_node2: second RST node on the stack
+        :type stack_node2: SpanNode or None
+        :param queue_node: first RST node in the queue
+        :type queue_node: SpanNode or None
+        :param tree: first RST node in the queue
+        :type tree: RSTTree
+
         """
-        if self.top1span is not None:
-            span = self.top1span
+        doclen = len(tree.edudict)
+        if stack_node1 is not None:
+            span = stack_node1
             # Span Length wrt EDUs
-            edulen1 = span.eduspan[1]-span.eduspan[0]+1
-            yield ('Top1-Stack', 'Length-EDU', edulen1)
+            edulen1 = span.eduspan[1] - span.eduspan[0] + 1
+            feats[('Top1-Stack', 'Length-EDU')] = edulen1
             # Distance to the beginning of the document wrt EDUs
-            yield ('Top1-Stack', 'Dist-To-Begin', span.eduspan[0])
+            feats[('Top1-Stack', 'Dist-To-Begin')] = span.eduspan[0]
             # Distance to the end of the document wrt EDUs
-            yield ('Top1-Stack', 'Dist-To-End', self.doclen-span.eduspan[1])
-        if self.top2span is not None:
-            span = self.top2span
-            edulen2 = span.eduspan[1]-span.eduspan[0]+1
-            yield ('Top2-Stack', 'Length-EDU', edulen2)
-            yield ('Top2-Stack', 'Dist-To-Begin', span.eduspan[0])
-            yield ('Top2-Stack', 'Dist-To-End', self.doclen-span.eduspan[1])
-        if self.firstspan is not None:
-            span = self.firstspan
-            yield ('First-Queue', 'Dist-To-Begin', span.eduspan[0])
+            feats[('Top1-Stack', 'Dist-To-End')] = doclen - span.eduspan[1]
+        if stack_node2 is not None:
+            span = stack_node2
+            edulen2 = span.eduspan[1]-span.eduspan[0] + 1
+            feats[('Top2-Stack', 'Length-EDU')] = edulen2
+            feats[('Top2-Stack', 'Dist-To-Begin')] = span.eduspan[0]
+            feats[('Top2-Stack', 'Dist-To-End')] = doclen - span.eduspan[1]
+        if queue_node is not None:
+            span = queue_node
+            feats[('First-Queue', 'Dist-To-Begin')] = span.eduspan[0]
 
-    def status_features(self):
-        """ Features related to stack/queue status
+    @classmethod
+    def extract_status_feats(cls, feats, stack_node1, stack_node2,
+                             queue_node, tree):
+        """Main function to extract status features.
+
+        :param class cls: pointer to this class
+        :param dict feats: target dictionary of features
+        :param stack_node1: first RST node on the stack
+        :type stack_node1: SpanNode or None
+        :param stack_node2: second RST node on the stack
+        :type stack_node2: SpanNode or None
+        :param queue_node: first RST node in the queue
+        :type queue_node: SpanNode or None
+        :param tree: first RST node in the queue
+        :type tree: RSTTree
+
         """
         # Stack
-        if (self.top1span is None) and (self.top2span is None):
-            yield ('Stack', 'Empty')
-        elif (self.top1span is not None) and (self.top2span is None):
-            yield ('Stack', 'OneElem')
-        elif (self.top1span is not None) and (self.top2span is not None):
-            yield ('Stack', 'MoreElem')
+        if (stack_node1 is None) and (stack_node2 is None):
+            feats[('Stack', 'Empty')] = 1
+        elif (stack_node1 is not None) and (stack_node2 is None):
+            feats[('Stack', 'OneElem')] = 1
+        elif (stack_node1 is not None) and (stack_node2 is not None):
+            feats[('Stack', 'MoreElem')] = 1
         else:
             raise ValueError("Unrecognized stack status")
         # Queue
-        if (self.firstspan is None):
-            yield ('Queue', 'Empty')
+        if (queue_node is None):
+            feats[('Queue', 'Empty')] = 1
         else:
-            yield ('Queue', 'NonEmpty')
+            feats[('Queue', 'NonEmpty')] = 1
 
-    def edu_features(self):
-        """ Features about EDUs in one text span
+    @classmethod
+    def extract_edu_feats(cls, feats, stack_node1, stack_node2,
+                          queue_node, tree):
+        """Main function to extract EDU features.
+
+        :param class cls: pointer to this class
+        :param dict feats: target dictionary of features
+        :param stack_node1: first RST node on the stack
+        :type stack_node1: SpanNode or None
+        :param stack_node2: second RST node on the stack
+        :type stack_node2: SpanNode or None
+        :param queue_node: first RST node in the queue
+        :type queue_node: SpanNode or None
+        :param tree: first RST node in the queue
+        :type tree: RSTTree
+
         """
+        tokendict = tree.tokendict
         # ---------------------------------------
         # EDU length
-        if self.top1span is not None:
-            eduspan = self.top1span.eduspan
-            yield ('Top1-Stack', 'nEDUs', eduspan[1]-eduspan[0]+1)
-        if self.top2span is not None:
-            eduspan = self.top2span.eduspan
-            yield ('Top1-Stack', 'nEDUs', eduspan[1]-eduspan[0]+1)
+        if stack_node1 is not None:
+            eduspan = stack_node1.eduspan
+            feats[('Top1-Stack', 'nEDUs')] = eduspan[1] - eduspan[0]+1
+        if stack_node2 is not None:
+            eduspan = stack_node2.eduspan
+            feats[('Top1-Stack', 'nEDUs')] = eduspan[1] - eduspan[0]+1
         # ---------------------------------------
         # Whether within same sentence
         # Span 1 and 2
         # Last word from span 1, first word from span 2
         try:
-            text1, text2 = self.top1span.text, self.top2span.text
-            if (self.doc.tokendict[text1[-1]].sidx
-                    == self.doc.tokendict[text2[0]].sidx):
-                yield ('Top12-Stack', 'SameSent', True)
+            text1, text2 = stack_node1.text, stack_node2.text
+            if (tokendict[text1[-1]].sidx == tokendict[text2[0]].sidx):
+                feats[('Top12-Stack', 'SameSent')] = 1
             else:
-                yield ('Top12-Stack', 'SameSent', False)
+                feats[('Top12-Stack', 'SameSent')] = 0
         except AttributeError:
-            yield ('Top12-Stack', 'SameSent', None)
+            feats[('Top12-Stack', 'SameSent')] = 0
         # Span 1 and top span
         # First word from span 1, last word from span 3
         try:
-            text1, text3 = self.top1span.text, self.firstspan.text
-            if (self.doc.tokendict[text1[0]].sidx
-                    == self.doc.tokendict[text3[-1]].sidx):
-                yield ('Stack-Queue', 'SameSent', True)
+            text1, text3 = stack_node1.text, queue_node.text
+            if (tokendict[text1[0]].sidx == tokendict[text3[-1]].sidx):
+                feats[('Stack-Queue', 'SameSent')] = 1
             else:
-                yield ('Stack-Queue', 'SameSent', False)
+                feats[('Stack-Queue', 'SameSent')] = 0
         except AttributeError:
-            yield ('Stack-Queue', 'SameSent', None)
+            feats[('Stack-Queue', 'SameSent')] = 0
 
-    def lexical_features(self):
-        """Features about tokens in one text span.
-        """
-        if self.top1span is not None:
-            span = self.top1span
-            # yield ('Top1-Stack', 'nTokens', len(span.text))
-            grams = getgrams(span.text, self.doc.tokendict)
-            for gram in grams:
-                yield ('Top1-Stack', 'nGram', gram)
-        if self.top2span is not None:
-            span = self.top2span
-            # yield ('Top2-Stack', 'nTokens', len(span.text))
-            grams = getgrams(span.text, self.doc.tokendict)
-            for gram in grams:
-                yield ('Top2-Stack', 'nGram', gram)
-        if self.firstspan is not None:
-            span = self.firstspan
-            # yield ('First-Queue', 'nTokens', len(span.text))
-            grams = getgrams(span.text, self.doc.tokendict)
-            for gram in grams:
-                yield ('First-Queue', 'nGram', gram)
+    @classmethod
+    def extract_lex_feats(cls, feats, stack_node1, stack_node2,
+                          queue_node, tree):
+        """Main function to extract lexical features.
 
-    def distributional_features(self):
-        """ Distributional representation features proposed in
-            (Ji and Eisenstein, 2014)
-        """
-        tokendict = self.doc.tokendict
-        if self.top1span is not None:
-            eduidx = self.top1span.nucedu
-            for gidx in self.doc.edudict[eduidx]:
-                word = tokendict[gidx].word.lower()
-                yield ('DisRep', 'Top1Span', word)
-        if self.top2span is not None:
-            eduidx = self.top2span.nucedu
-            for gidx in self.doc.edudict[eduidx]:
-                word = tokendict[gidx].word.lower()
-                yield ('DisRep', 'Top2Span', word)
-        if self.firstspan is not None:
-            eduidx = self.firstspan.nucedu
-            for gidx in self.doc.edudict[eduidx]:
-                word = tokendict[gidx].word.lower()
-                yield ('DisRep', 'FirstSpan', word)
+        :param class cls: pointer to this class
+        :param dict feats: target dictionary of features
+        :param stack_node1: first RST node on the stack
+        :type stack_node1: SpanNode or None
+        :param stack_node2: second RST node on the stack
+        :type stack_node2: SpanNode or None
+        :param queue_node: first RST node in the queue
+        :type queue_node: SpanNode or None
+        :param tree: first RST node in the queue
+        :type tree: RSTTree
 
-    def nucleus_features(self):
-        """ Feature extract from one single nucleus EDU
         """
-        pass
+        tokendict = tree.tokendict
+        if stack_node1 is not None:
+            span = stack_node1
+            # feats[('Top1-Stack', 'nTokens', len(span.text))
+            grams = getgrams(span.text, tokendict)
+            for gram in grams:
+                feats[('Top1-Stack', 'nGram', gram)] = 1
+        if stack_node2 is not None:
+            span = stack_node2
+            # feats[('Top2-Stack', 'nTokens', len(span.text))
+            grams = getgrams(span.text, tokendict)
+            for gram in grams:
+                feats[('Top2-Stack', 'nGram', gram)] = 1
+        if queue_node is not None:
+            span = queue_node
+            # feats[('First-Queue', 'nTokens', len(span.text))
+            grams = getgrams(span.text, tokendict)
+            for gram in grams:
+                feats[('First-Queue', 'nGram', gram)] = 1
+
+    @classmethod
+    def extract_distrib_feats(cls, feats, stack_node1, stack_node2,
+                              queue_node, tree):
+        """Main function to extract distributional features.
+
+        :param class cls: pointer to this class
+        :param dict feats: target dictionary of features
+        :param stack_node1: first RST node on the stack
+        :type stack_node1: SpanNode or None
+        :param stack_node2: second RST node on the stack
+        :type stack_node2: SpanNode or None
+        :param queue_node: first RST node in the queue
+        :type queue_node: SpanNode or None
+        :param tree: first RST node in the queue
+        :type tree: RSTTree
+
+        """
+        tokendict = tree.tokendict
+        edudict = tree.edudict
+        if stack_node1 is not None:
+            eduidx = stack_node1.nucedu
+            for gidx in edudict[eduidx]:
+                word = tokendict[gidx].word.lower()
+                feats[('DisRep', 'Top1Span', word)] = 1
+        if stack_node2 is not None:
+            eduidx = stack_node2.nucedu
+            for gidx in edudict[eduidx]:
+                word = tokendict[gidx].word.lower()
+                feats[('DisRep', 'Top2Span', word)] = 1
+        if queue_node is not None:
+            eduidx = queue_node.nucedu
+            for gidx in edudict[eduidx]:
+                word = tokendict[gidx].word.lower()
+                feats[('DisRep', 'FirstSpan', word)] = 1

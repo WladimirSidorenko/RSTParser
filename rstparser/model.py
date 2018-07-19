@@ -12,11 +12,14 @@
 # Imports
 from __future__ import absolute_import, print_function, unicode_literals
 
+from six import iteritems
 from sklearn.pipeline import Pipeline
 from sklearn.feature_extraction import DictVectorizer
 from sklearn.svm import LinearSVC
-
 import numpy as np
+
+from .feature import FeatureExtractor
+from .utils import LOGGER
 
 
 ##################################################################
@@ -37,8 +40,12 @@ class Model(object):
         :param clf: a multiclass classifier or None
         """
         classifier = clf or LinearSVC(C=DFLT_C, **DFLT_PARAMS)
-        self.clf = Pipeline([("vect", DictVectorizer()),
-                             ("clf", classifier)])
+        self._clf = Pipeline([("vect", DictVectorizer()),
+                              ("clf", classifier)])
+        self._feat_extractor = FeatureExtractor()
+        self._matrix = None
+        self._action2idx = {}
+        self._idx2action = {}
 
     def reset(self):
         """Set all unpickable components to None.
@@ -52,12 +59,21 @@ class Model(object):
         """
         pass
 
-    def train(self, trnM, trnL):
+    def train(self, train_x, train_y, grid_search=False):
         """ Perform batch-learning on parsing model.
 
+        :param list[tuple] x: list of training instances (3-tuples)
+        :param list[tuple] y: list of gold classes
+        :param bool grid_search: use grid search to optimize hyper-parameters
+
         """
-        raise NotImplementedError
-        self.clf.fit(trnM, trnL)
+        LOGGER.debug("Training internal model...")
+        # extract features
+        train_x = [self._feat_extractor.extract_feats(*x_i) for x_i in train_x]
+        train_y = self._digitize_labels(train_y)
+        train_x, train_y, dev_x, dev_y = self._split_data(train_x, train_y)
+        self._clf.fit(train_x, train_y)
+        LOGGER.debug("Internal model trained...")
 
     def predict(self, seg1, seg2, seg3):
         """Predict parsing action for a given set of features.
@@ -68,8 +84,36 @@ class Model(object):
         idxs = np.argsort(predicted_output[0])[::-1]
         return idxs
 
-    def extract_features(self, segment, tree):
-        """Predict parsing action for a given set of features.
+    def _digitize_labels(self, train_y):
+        """Convert action tuples to indices.
+
+        :param list[tuple] train_y: originl list of action tuples
+
+        :return: list of indices
 
         """
-        raise NotImplementedError
+        ret = []
+        for action_i in train_y:
+            if action_i not in self._action2idx:
+                self._action2idx[action_i] = len(self._action2idx)
+            ret.append(self._action2idx[action_i])
+        self._idx2action = {v: k for k, v in iteritems(self._action2idx)}
+        return ret
+
+    def _split_data(self, train_x, train_y):
+        """Provide train/test split and digitize data.
+
+        """
+        n = len(train_x)
+        n_dev = int(n / 15)
+        idcs = list(range(n))
+        np.random.shuffle(idcs)
+
+        def get_split(data, idcs):
+            return [data[i] for i in idcs]
+
+        dev_x = get_split(train_x, idcs[:n_dev])
+        dev_y = get_split(train_y, idcs[:n_dev])
+        train_x = get_split(train_x, idcs[n_dev:])
+        train_y = get_split(train_y, idcs[n_dev:])
+        return train_x, train_y, dev_x, dev_y

@@ -73,6 +73,18 @@ class RSTTree(object):
         """
         return self._tree
 
+    @property
+    def tokendict(self):
+        """ Get the RST tree
+        """
+        return self._conll_doc.tokendict
+
+    @property
+    def edudict(self):
+        """ Get the RST tree
+        """
+        return self._conll_doc.edudict
+
     def parse_dis(self, dis):
         """Parse dis file.
 
@@ -143,17 +155,17 @@ class RSTTree(object):
         samplelist = []
         # Parsing action
         actionlist = self.decodeSRaction()
-        print("actionlist:", repr(actionlist))
         # Initialize queue and stack
         queue = self.get_edu_nodes()
         stack = []
         sr = RSTParser(queue, stack, None)
         # Start simulating the shift-reduce parsing
         for action in actionlist:
-            # Generate features
+            # Generate sample states
             sample = (stack[-1] if len(stack) else None,
                       stack[-2] if len(stack) > 1 else None,
-                      queue[0] if len(queue) else None)
+                      queue[0] if len(queue) else None,
+                      self)
             samplelist.append(sample)
             # Change status of stack/queue
             sr.operate(action)
@@ -398,7 +410,7 @@ class RSTTree(object):
         gidx = 0
         edu_nodes = self.get_edu_nodes()
         edudict = self._conll_doc.edudict
-        tokendict = self._conll_doc.tokendict
+        tokendict = self.tokendict
         for node_i in edu_nodes:
             if node_i.text is None:
                 continue
@@ -417,10 +429,10 @@ class RSTTree(object):
                     else:
                         edudict[edu_id].append(gidx)
                     gidx += 1
-        if gidx != len(self._conll_doc.tokendict):
+        if gidx != len(self.tokendict):
             LOGGER.error(
                 "Different number of tokens in dis and conll files: %d vs %d",
-                gidx, len(self._conll_doc.tokendict)
+                gidx, len(tokendict)
             )
 
     def get_edu_nodes(self):
@@ -432,7 +444,7 @@ class RSTTree(object):
         edulist = [
             node
             for node in self.postorder_DFT(self.tree, [])
-            if True or (node.lnode is None) and (node.rnode is None)
+            if (node.lnode is None) and (node.rnode is None)
         ]
         return edulist
 

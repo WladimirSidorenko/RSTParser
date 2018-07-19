@@ -9,10 +9,17 @@ from __future__ import absolute_import, print_function, unicode_literals
 
 from scipy.sparse import lil_matrix
 import logging
+import os
+
 
 ##################################################################
 # Variables and Constants
 DFLT_ENCODING = "utf-8"
+DFLT_MODEL_PATH = os.path.join(
+    os.path.dirname(__file__),
+    "data",
+    "rstpaser.model"
+)
 LOG_LVL = logging.INFO
 LOGGER = logging.getLogger("RSTParser")
 LOGGER.setLevel(LOG_LVL)
@@ -108,4 +115,4 @@ def getgrams(text, tokendict):
         token = tokendict[text[-2]].word.lower() \
             + ' ' + tokendict[text[-1]].word.lower()
         grams.append(token)
-    return grams
+    return '-%-'.join(grams)

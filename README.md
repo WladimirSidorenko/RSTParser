@@ -4,6 +4,21 @@ This project is a fork of [Ji's shift-reduce RST
 parser](https://github.com/jiyfeng/DPLP), wrapped as a Python package
 and adjusted to the peculiarities of German data.
 
+## Training ##
+
+To train the parser on [PCC
+data](http://angcl.ling.uni-potsdam.de/resources/pcc.html) you can use
+the following command:
+
+```shell
+rst_parser train data/pcc-dis-bhatia/ data/conll/
+```
+
+where `data/pcc-dis-bhatia/` is a directory containing files with RST
+trees in dis format, and `data/conll` contains parse trees of
+corresponding sentences in the CoNLL format. (Note that the
+tokenization of files in both directories should be the same)
+
 ## Modules ##
 
 - tree: any operation about an RST tree is included in this module. For example
