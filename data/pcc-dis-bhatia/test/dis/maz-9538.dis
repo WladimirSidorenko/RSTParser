@@ -30,7 +30,7 @@
           (leaf 4)
           (rel2par span)
           (text
-            _!Der amtierende Landrat Hans Lange ( CDU ) tritt gegen Margarete Vierjahn an ,_!))
+            _!Der amtierende Landrat Hans Lange -LB- CDU -RB- tritt gegen Margarete Vierjahn an ,_!))
         (Satellite
           (leaf 5)
           (rel2par non-contrastive)
