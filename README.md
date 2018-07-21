@@ -19,6 +19,21 @@ trees in dis format, and `data/conll` contains parse trees of
 corresponding sentences in the CoNLL format. (Note that the
 tokenization of files in both directories should be the same)
 
+After you have trained your parser, you can apply it to new data by
+executing the following command:
+
+```shell
+rst_parser test data/pcc-dis-bhatia/test/edu/ data/conll/ data/pcc-dis-bhatia/test/predicted/
+```
+
+where `data/pcc-dis-bhatia/test/edu/` is a directory containing files
+with discourse segments in EDU format (you can use
+[`dsegmneter`](https://github.com/WladimirSidorenko/DiscourseSegmenter)
+to obtain these segments from CoNLL parse trees), `data/conll/`
+comprises syntactic parse trees of the corresponding sentences in the
+CoNLL format, and `data/pcc-dis-bhatia/test/predicted/` is the output
+directory, in which to store the produced RST trees.
+
 ## Modules ##
 
 - tree: any operation about an RST tree is included in this module. For example

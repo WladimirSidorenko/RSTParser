@@ -46,7 +46,10 @@ class RSTParser(object):
         self._queue = queue
         self._stack = stack
         self._mpath = mpath
-        self._model = Model() if mpath is None else self.load(mpath)
+        if mpath is None:
+            self._model = Model()
+        else:
+            self.load(mpath)
 
     @property
     def stack(self):
@@ -84,6 +87,39 @@ class RSTParser(object):
             samples.extend(t_samples)
         self._model.train(samples, actions)
 
+    def parse(self, queue, conll_doc):
+        """Construst an RST tree from a list of EDU nodes.
+
+        :param list[SpanNode] queue: list of input EDUs
+        :param CoNLLDoc conll_doc: list of input EDUs
+
+        """
+        if self.queue or self.stack:
+            LOGGER.warn(
+                "Attempting to parse with non-empty queue and stack."
+            )
+            self.reset()
+        self._queue = queue
+        while not self._endparsing():
+            # Generate features
+            stack_node1 = None if len(self.stack) < 1 else self.stack[-1]
+            stack_node2 = None if len(self.stack) < 2 else self.stack[-2]
+            queue_node = queue[0] if queue else None
+            actions = self._model.predict(stack_node1, stack_node2,
+                                          queue_node, conll_doc)
+            for action in actions:
+                try:
+                    self.operate(action)
+                    break
+                except ActionError:
+                    # print "Parsing action error with {}".format(action)
+                    pass
+            else:
+                raise ActionError("No action could be performed.")
+        tree = self._getparsetree()
+        self.reset()
+        return tree
+
     def save(self, mpath):
         """Save internal model at specifed location.
 
@@ -105,7 +141,7 @@ class RSTParser(object):
 
         """
         LOGGER.debug("Loading model to %s", mpath)
-        with open() as ifile:
+        with open(mpath) as ifile:
             self._model = load(ifile)
         self._model.restore()
         self._mpath = mpath
@@ -175,12 +211,7 @@ class RSTParser(object):
         else:
             raise ValueError("Unrecoginized parsing action: {}".format(action))
 
-    def getstatus(self):
-        """ Return the status of the Queue/Stack
-        """
-        return (self.stack, self.queue)
-
-    def endparsing(self):
+    def _endparsing(self):
         """ Whether we should end parsing
         """
         if (len(self.stack) == 1) and (len(self.queue) == 0):
@@ -190,10 +221,17 @@ class RSTParser(object):
         else:
             return False
 
-    def getparsetree(self):
+    def _getparsetree(self):
         """ Get the entire parsing tree
         """
         if (len(self.stack) == 1) and (len(self.queue) == 0):
             return self.stack[0]
         else:
             return None
+
+    def reset(self):
+        """Clear stack and queue.
+
+        """
+        del self.stack[:]
+        del self.queue[:]

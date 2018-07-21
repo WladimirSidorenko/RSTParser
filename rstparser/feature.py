@@ -13,7 +13,7 @@ from .utils import LOGGER, getgrams
 class FeatureExtractor(object):
     @classmethod
     def extract_feats(cls, stack_node1, stack_node2,
-                      queue_node, tree):
+                      queue_node, conll):
         """Main function to extract features.
 
         :param class cls: pointer to this class
@@ -23,37 +23,37 @@ class FeatureExtractor(object):
         :type stack_node2: SpanNode or None
         :param queue_node: first RST node in the queue
         :type queue_node: SpanNode or None
-        :param tree: first RST node in the queue
-        :type tree: RSTTree
+        :param conll: conll document
+        :type conll: CoNLLDoc
 
         """
         LOGGER.debug("stack_node1: %r", stack_node1)
         LOGGER.debug("stack_node2: %r", stack_node2)
         LOGGER.debug("queue_node: %r", queue_node)
-        LOGGER.debug("tree: %r", tree)
+        LOGGER.debug("conll: %r", conll)
         feats = {}
         # Status features (Basic features)
         cls.extract_status_feats(feats, stack_node1, stack_node2,
-                                 queue_node, tree)
+                                 queue_node, conll)
         # Lexical features
         cls.extract_lex_feats(feats, stack_node1, stack_node2,
-                              queue_node, tree)
+                              queue_node, conll)
         # Structural features
         cls.extract_struct_feats(feats, stack_node1, stack_node2,
-                                 queue_node, tree)
+                                 queue_node, conll)
         # EDU features
         cls.extract_edu_feats(feats, stack_node1, stack_node2,
-                              queue_node, tree)
+                              queue_node, conll)
         # Distributional representation
         cls.extract_distrib_feats(feats, stack_node1, stack_node2,
-                                  queue_node, tree)
+                                  queue_node, conll)
         LOGGER.debug("feats: %r", feats)
         # No Brown clusters
         return feats
 
     @classmethod
     def extract_struct_feats(cls, feats, stack_node1, stack_node2,
-                             queue_node, tree):
+                             queue_node, conll):
         """Main function to extract structural features.
 
         :param class cls: pointer to this class
@@ -64,11 +64,11 @@ class FeatureExtractor(object):
         :type stack_node2: SpanNode or None
         :param queue_node: first RST node in the queue
         :type queue_node: SpanNode or None
-        :param tree: first RST node in the queue
-        :type tree: RSTTree
+        :param conll: conll document
+        :type conll: CoNLLDoc
 
         """
-        doclen = len(tree.edudict)
+        doclen = len(conll.edudict)
         if stack_node1 is not None:
             span = stack_node1
             # Span Length wrt EDUs
@@ -90,7 +90,7 @@ class FeatureExtractor(object):
 
     @classmethod
     def extract_status_feats(cls, feats, stack_node1, stack_node2,
-                             queue_node, tree):
+                             queue_node, conll):
         """Main function to extract status features.
 
         :param class cls: pointer to this class
@@ -101,8 +101,8 @@ class FeatureExtractor(object):
         :type stack_node2: SpanNode or None
         :param queue_node: first RST node in the queue
         :type queue_node: SpanNode or None
-        :param tree: first RST node in the queue
-        :type tree: RSTTree
+        :param conll: conll document
+        :type conll: CoNLLDoc
 
         """
         # Stack
@@ -122,7 +122,7 @@ class FeatureExtractor(object):
 
     @classmethod
     def extract_edu_feats(cls, feats, stack_node1, stack_node2,
-                          queue_node, tree):
+                          queue_node, conll):
         """Main function to extract EDU features.
 
         :param class cls: pointer to this class
@@ -133,11 +133,11 @@ class FeatureExtractor(object):
         :type stack_node2: SpanNode or None
         :param queue_node: first RST node in the queue
         :type queue_node: SpanNode or None
-        :param tree: first RST node in the queue
-        :type tree: RSTTree
+        :param conll: conll document
+        :type conll: CoNLLDoc
 
         """
-        tokendict = tree.tokendict
+        tokendict = conll.tokendict
         # ---------------------------------------
         # EDU length
         if stack_node1 is not None:
@@ -171,7 +171,7 @@ class FeatureExtractor(object):
 
     @classmethod
     def extract_lex_feats(cls, feats, stack_node1, stack_node2,
-                          queue_node, tree):
+                          queue_node, conll):
         """Main function to extract lexical features.
 
         :param class cls: pointer to this class
@@ -182,11 +182,11 @@ class FeatureExtractor(object):
         :type stack_node2: SpanNode or None
         :param queue_node: first RST node in the queue
         :type queue_node: SpanNode or None
-        :param tree: first RST node in the queue
-        :type tree: RSTTree
+        :param conll: conll document
+        :type conll: CoNLLDoc
 
         """
-        tokendict = tree.tokendict
+        tokendict = conll.tokendict
         if stack_node1 is not None:
             span = stack_node1
             # feats[('Top1-Stack', 'nTokens', len(span.text))
@@ -208,7 +208,7 @@ class FeatureExtractor(object):
 
     @classmethod
     def extract_distrib_feats(cls, feats, stack_node1, stack_node2,
-                              queue_node, tree):
+                              queue_node, conll):
         """Main function to extract distributional features.
 
         :param class cls: pointer to this class
@@ -219,12 +219,12 @@ class FeatureExtractor(object):
         :type stack_node2: SpanNode or None
         :param queue_node: first RST node in the queue
         :type queue_node: SpanNode or None
-        :param tree: first RST node in the queue
-        :type tree: RSTTree
+        :param conll: conll document
+        :type conll: CoNLLDoc
 
         """
-        tokendict = tree.tokendict
-        edudict = tree.edudict
+        tokendict = conll.tokendict
+        edudict = conll.edudict
         if stack_node1 is not None:
             eduidx = stack_node1.nucedu
             for gidx in edudict[eduidx]:

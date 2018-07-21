@@ -71,7 +71,7 @@ class Model(object):
         """
         LOGGER.debug("Training internal model...")
         # extract features
-        train_x = [self._feat_extractor.extract_feats(*x_i) for x_i in train_x]
+        train_x = [self.extract_feats(*x_i) for x_i in train_x]
         train_y = self._digitize_labels(train_y)
         train_x, train_y, dev_x, dev_y = self._split_data(train_x, train_y)
         self._clf.fit(train_x, train_y)
@@ -87,14 +87,46 @@ class Model(object):
                     precision, recall, macro_f1, micro_f1)
         LOGGER.debug("Internal model trained...")
 
-    def predict(self, seg1, seg2, seg3):
+    def predict(self, stack_node1, stack_node2, queue_node, conll):
         """Predict parsing action for a given set of features.
 
+        :param stack_node1: first RST node on the stack
+        :type stack_node1: SpanNode or None
+        :param stack_node2: second RST node on the stack
+        :type stack_node2: SpanNode or None
+        :param queue_node: first RST node in the queue
+        :type queue_node: SpanNode or None
+        :param conll: conll document
+        :type conll: CoNLLDoc
+
+        :return: list of predicted decisions sorted in descending order of
+          their scores
+
         """
-        feats = self.extract_features()
-        predicted_output = self.clf.decision_function(feats)
-        idxs = np.argsort(predicted_output[0])[::-1]
-        return idxs
+        feats = self.extract_feats(stack_node1, stack_node2, queue_node, conll)
+        scores = self._clf.decision_function(feats)
+        score_idcs = np.flip(np.argsort(scores)[0], axis=-1)
+        classes = self._clf.classes_
+        ret = [self._idx2action[classes[i]] for i in score_idcs]
+        return ret
+
+    def extract_feats(self, stack_node1, stack_node2,
+                      queue_node, tree):
+        """Main function to extract features.
+
+        :param stack_node1: first RST node on the stack
+        :type stack_node1: SpanNode or None
+        :param stack_node2: second RST node on the stack
+        :type stack_node2: SpanNode or None
+        :param queue_node: first RST node in the queue
+        :type queue_node: SpanNode or None
+        :param tree: first RST node in the queue
+        :type tree: RSTTree
+
+        """
+        return self._feat_extractor.extract_feats(
+            stack_node1, stack_node2, queue_node, tree
+        )
 
     def _digitize_labels(self, train_y):
         """Convert action tuples to indices.

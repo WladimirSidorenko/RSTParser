@@ -5,16 +5,19 @@
 # Imports
 from __future__ import absolute_import, print_function, unicode_literals
 
+from dsegmenter.common import read_segments
 from glob import iglob
+from six import iteritems
 import codecs
 import logging
 import os
 import sys
 
 from rstparser.conll import CoNLLDoc
+from rstparser.node import SpanNode
+from rstparser.parser import RSTParser
 from rstparser.tree import RSTTree
 from rstparser.utils import DFLT_ENCODING, DFLT_MODEL_PATH, LOGGER
-from rstparser.parser import RSTParser
 
 
 ##################################################################
@@ -63,12 +66,57 @@ def read_dis_data(dis_dir, conll_dir):
         )
         if (not os.path.exists(conll_fname)
                 or not os.access(conll_fname, os.R_OK)):
-            LOGGER.debug("Cannot read CoNLLx file %s (skipping)", conll_fname)
+            LOGGER.debug("Cannot read CoNLL file %s (skipping)", conll_fname)
             continue
         with codecs.open(conll_fname, 'r', DFLT_ENCODING) as ifile:
             conll_doc = CoNLLDoc(ifile)
         with codecs.open(dis_fname, 'r', DFLT_ENCODING) as ifile:
-            yield RSTTree(ifile.read(), conll_doc)
+            yield (dis_fname, RSTTree(ifile.read(), conll_doc))
+
+
+def read_edu_data(edu_dir, conll_dir):
+    """Read elementary discourse units and corresponding parse trees from CoNLL.
+
+    :param str edu_dir: path to the directory containing EDU files
+    :param str conll_dir: path to the directoty containing CoNLL files
+
+    """
+    for edu_fname in iglob(os.path.join(edu_dir, "*.edu")):
+        LOGGER.debug("Analyzing EDU file %s", edu_fname)
+        conll_fname = os.path.join(
+            conll_dir,
+            os.path.splitext(os.path.basename(edu_fname))[0] + ".conll"
+        )
+        if (not os.path.exists(conll_fname)
+                or not os.access(conll_fname, os.R_OK)):
+            LOGGER.debug("Cannot read CoNLL file %s (skipping)", conll_fname)
+            continue
+        with codecs.open(conll_fname, 'r', DFLT_ENCODING) as ifile:
+            conll_doc = CoNLLDoc(ifile)
+        with codecs.open(edu_fname, 'r', DFLT_ENCODING) as ifile:
+            toks2segs = read_segments(ifile)
+        # construct a list of segments which will be fed in to the parser
+        queue = [None] * len(toks2segs)
+        n_seg_toks = sum(len(toks) for toks in toks2segs)
+        n_conll_toks = len(conll_doc.tokendict)
+        if n_seg_toks != n_conll_toks:
+            LOGGER.error(
+                "Different number of tokens in dis and conll files: %d vs %d",
+                n_seg_toks, n_conll_toks
+            )
+            sys.exit(1)
+        edudict = conll_doc.edudict
+        for toks, (seg_idx, seg_label) in iteritems(toks2segs):
+            tok_idcs = [tok_idx for tok_idx, _ in toks]
+            seg = SpanNode("")
+            seg.nucedu = seg_idx
+            seg.nucspan = (seg_idx, seg_idx)
+            seg.eduspan = (seg_idx, seg_idx)
+            seg.text = tok_idcs
+            seg.text.sort()
+            queue[seg_idx] = seg
+            edudict[seg_idx] = seg.text[:]
+        yield (edu_fname, queue, conll_doc)
 
 
 def main(argv):
@@ -92,14 +140,22 @@ def main(argv):
     subparsers = argparser.add_subparsers(
         help="type of operation to perform", dest="mode"
     )
+
     parser_train = subparsers.add_parser(
         M_TRAIN, help="train new model on the provided data"
     )
     _add_cmn_options(parser_train)
+
     parser_test = subparsers.add_parser(
         M_TEST, help="test trained model on the supplied data"
     )
-    _add_cmn_options(parser_test)
+    _add_cmn_options(parser_test, "edu_dir",
+                     "directory containing files with EDUs")
+    parser_test.add_argument(
+        "out_dir",
+        help="directory for storing resulting syntactic trees"
+    )
+
     parser_eval = subparsers.add_parser(
         M_EVAL, help="evaluate the results"
     )
@@ -117,17 +173,25 @@ def main(argv):
             handler_i.setLevel(log_lvl)
 
     if args.mode == M_TRAIN:
-        LOGGER.debug("Training RST parser...")
+        LOGGER.info("Training RST parser...")
         parser = RSTParser([], [], None)
         parser.train([rst_tree
-                      for rst_tree in read_data(args.dis_dir, args.conll_dir)])
+                      for _, rst_tree in read_dis_data(
+                              args.dis_dir, args.conll_dir)])
         parser.save(args.model)
-        LOGGER.debug("Training RST parser... done")
+        LOGGER.info("Training RST parser... done")
     elif args.mode == M_TEST:
         LOGGER.debug("Testing RST parser...")
-        parser = RSTParser(args.model)
-        parser.train(args.files)
-        parser.save(args.model)
+        parser = RSTParser([], [], args.model)
+        for edu_fname, edus, conll_doc in read_edu_data(args.edu_dir,
+                                                        args.conll_dir):
+            out_fname = os.path.join(
+                args.out_dir,
+                os.path.splitext(os.path.basename(edu_fname))[0] + ".dis"
+            )
+            with codecs.open(out_fname, 'w', DFLT_ENCODING) as ofile:
+                rst_tree = parser.parse(edus, conll_doc)
+                ofile.write(rst_tree.to_str(conll_doc))
         LOGGER.debug("Testing RST parser... done")
     else:
         raise NotImplementedError

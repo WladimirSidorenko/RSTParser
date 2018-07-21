@@ -1,3 +1,5 @@
 scikit-learn==0.19.1
 scipy==1.1.0
 six==1.11.0
+dsegmenter~=0.2.12
+future~=0.16.0
