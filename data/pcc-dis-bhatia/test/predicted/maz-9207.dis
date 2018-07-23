@@ -1,0 +1,112 @@
+(Root
+(span 0 12)
+(Nucleus
+  (leaf 0)
+  (rel2par non-contrastive)
+  (text _!Fachliche Leistung_!)
+  )
+(Nucleus
+  (span 1 12)
+  (rel2par non-contrastive)
+  (Nucleus
+    (span 1 3)
+    (rel2par non-contrastive)
+    (Nucleus
+      (leaf 1)
+      (rel2par non-contrastive)
+      (text _!Heute verleiht das brandenburgische Umweltministerium den mit 10_000 Mark dotierten Erwin-Strittmatter-Preis an die Schriftstellerin Susanne Paulsen ._!)
+      )
+    (Nucleus
+      (span 2 3)
+      (rel2par non-contrastive)
+      (Nucleus
+        (leaf 2)
+        (rel2par span)
+        (text _!Mit der Auszeichnung sollen " Literatur und Autoren geehrt werden , die sich in Umweltbelange einmischen " ._!)
+        )
+      (Satellite
+        (leaf 3)
+        (rel2par non-contrastive)
+        (text _!Das klingt fast so , als sei Gut-Gemeintes preisverdächtig ._!)
+        )
+      )
+    )
+  (Nucleus
+    (span 4 12)
+    (rel2par non-contrastive)
+    (Nucleus
+      (span 4 9)
+      (rel2par non-contrastive)
+      (Nucleus
+        (leaf 4)
+        (rel2par non-contrastive)
+        (text _!Eine solche Fördermaßnahme für Öko-Literatur verkennt , dass es immer nur gelungene und missratene Texte gibt ._!)
+        )
+      (Nucleus
+        (span 5 9)
+        (rel2par non-contrastive)
+        (Satellite
+          (leaf 5)
+          (rel2par non-contrastive)
+          (text _!Das Verhältnis zur Natur ist für viele Dichter ein großes Thema ._!)
+          )
+        (Nucleus
+          (span 6 9)
+          (rel2par span)
+          (Satellite
+            (span 6 8)
+            (rel2par non-contrastive)
+            (Nucleus
+              (leaf 6)
+              (rel2par span)
+              (text _!Den Literaturpreis haben bisher Schöngeister wie Hanns Cibulka und Wulf Kirsten , Volker Braun und Thomas Rosenlöcher bekommen ._!)
+              )
+            (Satellite
+              (span 7 8)
+              (rel2par non-contrastive)
+              (Nucleus
+                (leaf 7)
+                (rel2par span)
+                (text _!Wer aus ihren Gedichten ein umweltpolitisches Engagement ableitet ,_!)
+                )
+              (Satellite
+                (leaf 8)
+                (rel2par non-contrastive)
+                (text _!instrumentalisiert die Literatur ideologisch ._!)
+                )
+              )
+            )
+          (Nucleus
+            (leaf 9)
+            (rel2par span)
+            (text _!Die Zeiten , da die Literatur Aufklärungs- und Bekenntnisarbeit mitleisten musste , sind zum Glück vorbei ._!)
+            )
+          )
+        )
+      )
+    (Nucleus
+      (span 10 12)
+      (rel2par non-contrastive)
+      (Nucleus
+        (leaf 10)
+        (rel2par span)
+        (text _!Deshalb ist es auch gut , dass das Umweltministerium in diesem Jahr in engerem Sinne auf fachliche Leistungen setzt ._!)
+        )
+      (Satellite
+        (span 11 12)
+        (rel2par non-contrastive)
+        (Nucleus
+          (leaf 11)
+          (rel2par span)
+          (text _!Susanne Paulsen bekommt den Preis für ein erzählendes Sachbuch ,_!)
+          )
+        (Satellite
+          (leaf 12)
+          (rel2par non-contrastive)
+          (text _!das dem Leser die rätselhafte Welt der Pflanzen näherbringt ._!)
+          )
+        )
+      )
+    )
+  )
+)

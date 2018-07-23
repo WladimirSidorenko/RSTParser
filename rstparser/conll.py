@@ -42,7 +42,7 @@ class CoNLLDoc(object):
 class CoNLLToken(object):
     """ Token class
     """
-    def __init__(self, iline):
+    def __init__(self, iline=None):
         # Sentence index, token index (within sent)
         self.sidx = -1          # sentence index within document
         self.tidx = -1          # token index within sentence
@@ -60,6 +60,8 @@ class CoNLLToken(object):
         self._parse(iline)
 
     def _parse(self, iline):
+        if iline is None:
+            return
         iline = iline.strip()
         fields = iline.split('\t')
         self.tidx = int(fields[0]) - 1

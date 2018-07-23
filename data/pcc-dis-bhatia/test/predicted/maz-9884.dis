@@ -1,0 +1,157 @@
+(Root
+(span 0 17)
+(Nucleus
+  (leaf 0)
+  (rel2par non-contrastive)
+  (text _!Dilemma_!)
+  )
+(Nucleus
+  (span 1 17)
+  (rel2par non-contrastive)
+  (Nucleus
+    (span 1 2)
+    (rel2par non-contrastive)
+    (Nucleus
+      (leaf 1)
+      (rel2par non-contrastive)
+      (text _!Verrat , hat Talleyrand einmal zynisch bemerkt , ist nur eine Frage des Datums ._!)
+      )
+    (Nucleus
+      (leaf 2)
+      (rel2par non-contrastive)
+      (text _!Und des Gewissens , möchte man mit Blick auf Schröder und Fischer hinzufügen ._!)
+      )
+    )
+  (Nucleus
+    (span 3 17)
+    (rel2par non-contrastive)
+    (Nucleus
+      (span 3 6)
+      (rel2par non-contrastive)
+      (Satellite
+        (leaf 3)
+        (rel2par contrastive)
+        (text _!Nicht , dass beide eine Mehrheit für ihre Koalition suchten , war das Ärgerliche in den vergangenen Tagen ,_!)
+        )
+      (Nucleus
+        (span 4 6)
+        (rel2par span)
+        (Nucleus
+          (leaf 4)
+          (rel2par span)
+          (text _!sondern das Wie , der Druck auf Abgeordnete ,_!)
+          )
+        (Satellite
+          (span 5 6)
+          (rel2par non-contrastive)
+          (Nucleus
+            (leaf 5)
+            (rel2par non-contrastive)
+            (text _!die kein Regierungsamt haben_!)
+            )
+          (Nucleus
+            (leaf 6)
+            (rel2par non-contrastive)
+            (text _!und ihr Gewissen deshalb auch nicht in den Vorzimmern der Macht abgeben können ._!)
+            )
+          )
+        )
+      )
+    (Nucleus
+      (span 7 17)
+      (rel2par non-contrastive)
+      (Nucleus
+        (span 7 9)
+        (rel2par span)
+        (Nucleus
+          (span 7 8)
+          (rel2par non-contrastive)
+          (Nucleus
+            (leaf 7)
+            (rel2par span)
+            (text _!Gut , dass wir eine rot-grüne Koalition haben , stoßseufzen viele hinter vorgehaltener Hand ,_!)
+            )
+          (Satellite
+            (leaf 8)
+            (rel2par non-contrastive)
+            (text _!andernfalls würde die Republik brennen ._!)
+            )
+          )
+        (Nucleus
+          (leaf 9)
+          (rel2par non-contrastive)
+          (text _!Und das ist das Dilemma der Regierenden ._!)
+          )
+        )
+      (Satellite
+        (span 10 17)
+        (rel2par non-contrastive)
+        (Nucleus
+          (span 10 11)
+          (rel2par non-contrastive)
+          (Satellite
+            (leaf 10)
+            (rel2par non-contrastive)
+            (text _!Wer in der Zeit , da er noch nach Ämtern strebte , mit eben denselben Argumenten , die heute aus dem pazifistischen Lager der Regierung entgegenschallen , Kohl , Genscher und Kinkel verteufelte ,_!)
+            )
+          (Nucleus
+            (leaf 11)
+            (rel2par span)
+            (text _!hat kein Recht , den Kritikern ihr Gewissen abzusprechen ._!)
+            )
+          )
+        (Nucleus
+          (span 12 17)
+          (rel2par non-contrastive)
+          (Nucleus
+            (span 12 15)
+            (rel2par span)
+            (Nucleus
+              (leaf 12)
+              (rel2par span)
+              (text _!Die anfängliche Überreaktion von Kanzler und Außenminister hat eben auch damit zu tun , dass sie als Bekehrte das Misstrauen jener fürchten , die mit Amerika schon kritische Solidarität übten , als Schröder noch Schmidt wegen dessen Amerikahörigkeit beschimpfte und Fischer in Mutlangen gegen die Nachrüstung demonstrierte ._!)
+              )
+            (Satellite
+              (span 13 15)
+              (rel2par non-contrastive)
+              (Satellite
+                (leaf 13)
+                (rel2par non-contrastive)
+                (text _!Es stimmt schon ,_!)
+                )
+              (Nucleus
+                (span 14 15)
+                (rel2par span)
+                (Satellite
+                  (leaf 14)
+                  (rel2par non-contrastive)
+                  (text _!Schmidt , Kohl und Genscher hätten in Washington sehr viel genauer nach Strategie und Zielen fragen können ,_!)
+                  )
+                (Nucleus
+                  (leaf 15)
+                  (rel2par span)
+                  (text _!da sie nicht vor der eigenen Vergangenheit weglaufen mussten ._!)
+                  )
+                )
+              )
+            )
+          (Satellite
+            (span 16 17)
+            (rel2par non-contrastive)
+            (Nucleus
+              (leaf 16)
+              (rel2par non-contrastive)
+              (text _!Wie hat das Bismarck einmal formuliert ?_!)
+              )
+            (Nucleus
+              (leaf 17)
+              (rel2par non-contrastive)
+              (text _!Die Geschichte ist so genau wie die preußische Oberrechnungskammer ._!)
+              )
+            )
+          )
+        )
+      )
+    )
+  )
+)

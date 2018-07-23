@@ -19,6 +19,8 @@ trees in dis format, and `data/conll` contains parse trees of
 corresponding sentences in the CoNLL format. (Note that the
 tokenization of files in both directories should be the same)
 
+## Testing ##
+
 After you have trained your parser, you can apply it to new data by
 executing the following command:
 
@@ -33,6 +35,17 @@ to obtain these segments from CoNLL parse trees), `data/conll/`
 comprises syntactic parse trees of the corresponding sentences in the
 CoNLL format, and `data/pcc-dis-bhatia/test/predicted/` is the output
 directory, in which to store the produced RST trees.
+
+## Evaluation ##
+
+To evalute the results of your parser, you can use the provided
+`evaluate` mode, which will compare gold RST trees with their
+automatically derived counterparts, e.g.:
+
+```shell
+rst_parser evaluate data/pcc-dis-bhatia/test/dis/ data/pcc-dis-bhatia/test/predicted/
+```
+
 
 ## Modules ##
 

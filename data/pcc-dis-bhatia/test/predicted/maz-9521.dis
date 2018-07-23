@@ -1,0 +1,175 @@
+(Root
+(span 0 19)
+(Nucleus
+  (leaf 0)
+  (rel2par non-contrastive)
+  (text _!Posse um Bosse_!)
+  )
+(Nucleus
+  (span 1 19)
+  (rel2par non-contrastive)
+  (Nucleus
+    (leaf 1)
+    (rel2par non-contrastive)
+    (text _!Kichern und Prusten auf dem Fraktionsgestühl ._!)
+    )
+  (Nucleus
+    (span 2 19)
+    (rel2par non-contrastive)
+    (Satellite
+      (span 2 4)
+      (rel2par non-contrastive)
+      (Satellite
+        (span 2 3)
+        (rel2par contrastive)
+        (Satellite
+          (leaf 2)
+          (rel2par contrastive)
+          (text _!Zurecht ,_!)
+          )
+        (Nucleus
+          (leaf 3)
+          (rel2par span)
+          (text _!denn was der Oberbürgermeister den Stadtverordneten gestern bot , war eine konsequent inszenierte Posse ._!)
+          )
+        )
+      (Nucleus
+        (leaf 4)
+        (rel2par span)
+        (text _!Freilich braucht man für derbe Späße ein Opfer ._!)
+        )
+      )
+    (Nucleus
+      (span 5 19)
+      (rel2par span)
+      (Nucleus
+        (leaf 5)
+        (rel2par non-contrastive)
+        (text _!Finanzstadtrat Bosse hatte vor Wochen aus der Zeitung erfahren müssen , dass er im Sommer 2002 zugunsten eines CDU-Kandidaten in die Wüste geschickt wird ._!)
+        )
+      (Nucleus
+        (span 6 19)
+        (rel2par non-contrastive)
+        (Nucleus
+          (span 6 9)
+          (rel2par non-contrastive)
+          (Nucleus
+            (leaf 6)
+            (rel2par non-contrastive)
+            (text _!Gestern nun lobte ihn sein Chef als " alten Fahrensmann "_!)
+            )
+          (Nucleus
+            (span 7 9)
+            (rel2par non-contrastive)
+            (Nucleus
+              (leaf 7)
+              (rel2par span)
+              (text _!und erklärte dem Publikum wortreich , warum schon im Januar ein Nachfolger bestellt sein muss :_!)
+              )
+            (Satellite
+              (span 8 9)
+              (rel2par non-contrastive)
+              (Nucleus
+                (leaf 8)
+                (rel2par span)
+                (text _!Nicht etwa , weil die Regierungsabsprache mit den Christdemokraten soeben perfekt war ;_!)
+                )
+              (Satellite
+                (leaf 9)
+                (rel2par non-contrastive)
+                (text _!davon kein Wort ._!)
+                )
+              )
+            )
+          )
+        (Nucleus
+          (span 10 19)
+          (rel2par non-contrastive)
+          (Nucleus
+            (span 10 16)
+            (rel2par span)
+            (Nucleus
+              (span 10 13)
+              (rel2par span)
+              (Nucleus
+                (span 10 12)
+                (rel2par span)
+                (Nucleus
+                  (leaf 10)
+                  (rel2par non-contrastive)
+                  (text _!Nein , der Neue könne schon mal seinen Umzug nach Potsdam vorbereiten ,_!)
+                  )
+                (Nucleus
+                  (span 11 12)
+                  (rel2par non-contrastive)
+                  (Nucleus
+                    (leaf 11)
+                    (rel2par non-contrastive)
+                    (text _!die Kinderlein umschulen ,_!)
+                    )
+                  (Nucleus
+                    (leaf 12)
+                    (rel2par non-contrastive)
+                    (text _!das Aufgabenfeld ansehen ..._!)
+                    )
+                  )
+                )
+              (Satellite
+                (leaf 13)
+                (rel2par non-contrastive)
+                (text _!Alle spielten die Stegreifkomödie mit ._!)
+                )
+              )
+            (Satellite
+              (span 14 16)
+              (rel2par non-contrastive)
+              (Nucleus
+                (span 14 15)
+                (rel2par span)
+                (Satellite
+                  (leaf 14)
+                  (rel2par non-contrastive)
+                  (text _!Der Preis für die schönste Pointe geht wieder einmal an CDU-Fraktionschef Kapuste :_!)
+                  )
+                (Nucleus
+                  (leaf 15)
+                  (rel2par span)
+                  (text _!Auch Bosse bekomme nun schließlich mehr persönliche Planungssicherheit ._!)
+                  )
+                )
+              (Satellite
+                (leaf 16)
+                (rel2par non-contrastive)
+                (text _!Nur das Opferlamm schmiss seine Rolle ._!)
+                )
+              )
+            )
+          (Satellite
+            (span 17 19)
+            (rel2par non-contrastive)
+            (Nucleus
+              (leaf 17)
+              (rel2par span)
+              (text _!Der Noch-Beigeordnete reichte das Manuskript seiner Haushaltsrede aus ._!)
+              )
+            (Satellite
+              (span 18 19)
+              (rel2par non-contrastive)
+              (Nucleus
+                (leaf 18)
+                (rel2par span)
+                (text _!Es ist mit einer Karikatur verziert :_!)
+                )
+              (Satellite
+                (leaf 19)
+                (rel2par non-contrastive)
+                (text _!Matthias Platzeck trägt das Transparent " Unverschuldet in Not geraten " ._!)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+  )
+)

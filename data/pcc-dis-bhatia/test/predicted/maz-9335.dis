@@ -1,0 +1,157 @@
+(Root
+(span 0 17)
+(Nucleus
+  (leaf 0)
+  (rel2par non-contrastive)
+  (text _!Unökonomisches Angebot_!)
+  )
+(Nucleus
+  (span 1 17)
+  (rel2par non-contrastive)
+  (Nucleus
+    (leaf 1)
+    (rel2par non-contrastive)
+    (text _!Die Stimmung im Pritzwalker Minimal-Markt ist auf einem Tiefpunkt angelangt ._!)
+    )
+  (Nucleus
+    (span 2 17)
+    (rel2par non-contrastive)
+    (Nucleus
+      (leaf 2)
+      (rel2par non-contrastive)
+      (text _!15 feste Mitarbeiter stehen vor der Entlassung ._!)
+      )
+    (Nucleus
+      (span 3 17)
+      (rel2par non-contrastive)
+      (Satellite
+        (span 3 6)
+        (rel2par non-contrastive)
+        (Nucleus
+          (leaf 3)
+          (rel2par span)
+          (text _!Wohl die wenigsten werden ein Übernahmeangebot in einen anderen Markt des Rewe-Konzerns akzeptieren ._!)
+          )
+        (Satellite
+          (span 4 6)
+          (rel2par non-contrastive)
+          (Nucleus
+            (span 4 5)
+            (rel2par span)
+            (Satellite
+              (leaf 4)
+              (rel2par non-contrastive)
+              (text _!Sie werden es nicht akzeptieren können :_!)
+              )
+            (Nucleus
+              (leaf 5)
+              (rel2par span)
+              (text _!Denn zum einen sind es zumeist Frauen mit Kindern , die im Einzelhandel arbeiten ._!)
+              )
+            )
+          (Satellite
+            (leaf 6)
+            (rel2par non-contrastive)
+            (text _!Und die sind nun einmal nicht so mobil , wie es alleinstehende Arbeitnehmer sind ._!)
+            )
+          )
+        )
+      (Nucleus
+        (span 7 17)
+        (rel2par span)
+        (Nucleus
+          (span 7 14)
+          (rel2par span)
+          (Nucleus
+            (span 7 13)
+            (rel2par span)
+            (Nucleus
+              (span 7 11)
+              (rel2par span)
+              (Nucleus
+                (span 7 8)
+                (rel2par span)
+                (Nucleus
+                  (leaf 7)
+                  (rel2par span)
+                  (text _!Zum anderen sind auch die Löhne im Einzelhandel nicht so hoch ,_!)
+                  )
+                (Satellite
+                  (leaf 8)
+                  (rel2par non-contrastive)
+                  (text _!als dass sich täglich eine weite Fahrt zur Arbeit für die Mitarbeiter lohnen würde ._!)
+                  )
+                )
+              (Satellite
+                (span 9 11)
+                (rel2par non-contrastive)
+                (Satellite
+                  (leaf 9)
+                  (rel2par non-contrastive)
+                  (text _!Eine einfache Frage der Ökonomie :_!)
+                  )
+                (Nucleus
+                  (span 10 11)
+                  (rel2par span)
+                  (Satellite
+                    (leaf 10)
+                    (rel2par non-contrastive)
+                    (text _!Frisst der Sprit den Lohn auf ,_!)
+                    )
+                  (Nucleus
+                    (leaf 11)
+                    (rel2par span)
+                    (text _!kann man daheim bleiben ._!)
+                    )
+                  )
+                )
+              )
+            (Satellite
+              (span 12 13)
+              (rel2par non-contrastive)
+              (Nucleus
+                (leaf 12)
+                (rel2par span)
+                (text _!" co op " hat den Beschäftigten kein Übernahmeangebot unterbreitet ._!)
+                )
+              (Satellite
+                (leaf 13)
+                (rel2par non-contrastive)
+                (text _!Unter den Beschäftigten im Minimal wird gemunkelt , dass man dort künftig nur noch geringfügig Beschäftigte anstellen will ._!)
+                )
+              )
+            )
+          (Satellite
+            (leaf 14)
+            (rel2par non-contrastive)
+            (text _!Ob dies den Tatsachen entspricht , bleibt dahingestellt ._!)
+            )
+          )
+        (Satellite
+          (span 15 17)
+          (rel2par non-contrastive)
+          (Satellite
+            (leaf 15)
+            (rel2par contrastive)
+            (text _!Der Konzern will sich heute noch nicht zu seinen Plänen äußern ._!)
+            )
+          (Nucleus
+            (span 16 17)
+            (rel2par span)
+            (Nucleus
+              (leaf 16)
+              (rel2par non-contrastive)
+              (text _!Sicher ist jedoch , dass bei einer Übernahme die alten Verträge übernommen werden müssten ,_!)
+              )
+            (Nucleus
+              (leaf 17)
+              (rel2par non-contrastive)
+              (text _!und der neue Inhaber bei Lohnverhandlungen dann keinen Spielraum hätte ._!)
+              )
+            )
+          )
+        )
+      )
+    )
+  )
+)

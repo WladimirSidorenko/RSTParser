@@ -1,0 +1,103 @@
+(Root
+(span 0 11)
+(Nucleus
+  (leaf 0)
+  (rel2par non-contrastive)
+  (text _!Ernstfall_!)
+  )
+(Nucleus
+  (span 1 11)
+  (rel2par non-contrastive)
+  (Satellite
+    (span 1 5)
+    (rel2par non-contrastive)
+    (Nucleus
+      (span 1 2)
+      (rel2par span)
+      (Satellite
+        (leaf 1)
+        (rel2par non-contrastive)
+        (text _!Der rot-grünen Koalition steht eine Zerreißprobe bevor :_!)
+        )
+      (Nucleus
+        (leaf 2)
+        (rel2par span)
+        (text _!Rund 15 grüne Bundestagsabgeordnete haben erhebliche Zweifel , ob sie der Bereitstellung von Bundeswehrsoldaten für den Anti-Terror-Kampf zustimmen können ._!)
+        )
+      )
+    (Satellite
+      (span 3 5)
+      (rel2par non-contrastive)
+      (Nucleus
+        (span 3 4)
+        (rel2par span)
+        (Satellite
+          (leaf 3)
+          (rel2par non-contrastive)
+          (text _!Da es auch in der SPD Abweichler gibt ,_!)
+          )
+        (Nucleus
+          (leaf 4)
+          (rel2par span)
+          (text _!ist die eigene Mehrheit der Koalition gefährdet ._!)
+          )
+        )
+      (Satellite
+        (leaf 5)
+        (rel2par non-contrastive)
+        (text _!Es ist offensichtlich , dass dieser Bundeswehr-Einsatz bei vielen Grünen an die Wurzeln ihrer Identität rührt ._!)
+        )
+      )
+    )
+  (Nucleus
+    (span 6 11)
+    (rel2par span)
+    (Satellite
+      (leaf 6)
+      (rel2par non-contrastive)
+      (text _!Konnte der Kosovo-Krieg noch mit dem Kampf für die Menschenrechte in Europa begründete werden ,_!)
+      )
+    (Nucleus
+      (span 7 11)
+      (rel2par span)
+      (Nucleus
+        (leaf 7)
+        (rel2par non-contrastive)
+        (text _!geht es nun um die militärische Solidarität mit den USA in einem weit entfernten Dritte-Welt-Land ._!)
+        )
+      (Nucleus
+        (span 8 11)
+        (rel2par non-contrastive)
+        (Nucleus
+          (leaf 8)
+          (rel2par span)
+          (text _!Doch die Kritiker wissen auch , dass sie weder den Krieg in Afghanistan stoppen_!)
+          )
+        (Satellite
+          (span 9 11)
+          (rel2par non-contrastive)
+          (Nucleus
+            (leaf 9)
+            (rel2par span)
+            (text _!noch eine deutsche Beteiligung daran verhindern können ._!)
+            )
+          (Satellite
+            (span 10 11)
+            (rel2par non-contrastive)
+            (Nucleus
+              (leaf 10)
+              (rel2par non-contrastive)
+              (text _!Sie können aber die rot-grüne Regierung in eine schwere Krise treiben ._!)
+              )
+            (Nucleus
+              (leaf 11)
+              (rel2par non-contrastive)
+              (text _!Ein Kanzler , den in einer solch existenziellen Frage die eigene Koalition im Stich lässt , muss sich neue Partner suchen ._!)
+              )
+            )
+          )
+        )
+      )
+    )
+  )
+)

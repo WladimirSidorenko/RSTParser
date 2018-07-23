@@ -1,20 +1,27 @@
-## evaluation.py
-## Author: Yangfeng Ji
-## Date: 08-29-2014
-## Time-stamp: <yangfeng 11/05/2014 19:59:20>
+#!/usr/bin/env python2.7
+# -*- mode: python; coding: utf-8; -*-
 
-""" RST parsing evaluation. 
+""" RST parsing evaluation.
+
 """
+
+##################################################################
+# Imports
+from __future__ import absolute_import, print_function, unicode_literals
 
 import numpy
 
+
+##################################################################
+# Classes
 class Performance(object):
     def __init__(self, percision, recall):
         self.percision = percision
         self.recall = recall
 
+
 class Metrics(object):
-    def __init__(self, levels=['span','nuclearity','relation']):
+    def __init__(self, levels=['span', 'nuclearity', 'relation']):
         """ Initialization
 
         :type levels: list of string
@@ -45,7 +52,8 @@ class Metrics(object):
             elif level == 'relation':
                 self._eval(goldbrackets, predbrackets, idx=3)
             else:
-                raise ValueError("Unrecognized evaluation level: {}".format(level))
+                raise ValueError("Unrecognized evaluation level: {}".format(
+                    level))
 
     def _eval(self, goldbrackets, predbrackets, idx):
         """ Evaluation on each discourse span
@@ -80,14 +88,14 @@ class Metrics(object):
                 p = numpy.array(self.span_perf.percision).mean()
                 r = numpy.array(self.span_perf.recall).mean()
                 f1 = (2 * p * r) / (p + r)
-                print 'F1 score on span level is {0:0.3f}'.format(f1)
+                print('F1 score on span level is {0:0.3f}'.format(f1))
             elif 'nuclearity' == level:
                 p = numpy.array(self.nuc_perf.percision).mean()
                 r = numpy.array(self.nuc_perf.recall).mean()
                 f1 = (2 * p * r) / (p + r)
-                print 'F1 score on nuclearity level is {0:0.3f}'.format(f1)
+                print('F1 score on nuclearity level is {0:0.3f}'.format(f1))
             elif 'relation' == level:
                 p = numpy.array(self.rela_perf.percision).mean()
                 r = numpy.array(self.rela_perf.recall).mean()
                 f1 = (2 * p * r) / (p + r)
-                print 'F1 score on relation level is {0:0.3f}'.format(f1)
+                print('F1 score on relation level is {0:0.3f}'.format(f1))

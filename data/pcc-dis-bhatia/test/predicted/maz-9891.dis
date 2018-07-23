@@ -1,0 +1,148 @@
+(Root
+(span 0 16)
+(Nucleus
+  (leaf 0)
+  (rel2par non-contrastive)
+  (text _!Durchhalten_!)
+  )
+(Nucleus
+  (span 1 16)
+  (rel2par non-contrastive)
+  (Satellite
+    (span 1 8)
+    (rel2par non-contrastive)
+    (Satellite
+      (leaf 1)
+      (rel2par non-contrastive)
+      (text _!Manchmal sind die Zehdenicker zähe Brocken ._!)
+      )
+    (Nucleus
+      (span 2 8)
+      (rel2par span)
+      (Satellite
+        (span 2 3)
+        (rel2par non-contrastive)
+        (Nucleus
+          (leaf 2)
+          (rel2par span)
+          (text _!Jetzt wollen sich die Stadtverordneten sogar mit der Denkmalpflege anlegen ._!)
+          )
+        (Satellite
+          (leaf 3)
+          (rel2par non-contrastive)
+          (text _!Nicht alles einfach so hinnehmen , was Behördenmitarbeiter vorgeben , lautet ihre Devise ._!)
+          )
+        )
+      (Nucleus
+        (span 4 8)
+        (rel2par span)
+        (Nucleus
+          (span 4 6)
+          (rel2par span)
+          (Nucleus
+            (leaf 4)
+            (rel2par span)
+            (text _!Und das ist gut so ._!)
+            )
+          (Satellite
+            (span 5 6)
+            (rel2par non-contrastive)
+            (Satellite
+              (leaf 5)
+              (rel2par non-contrastive)
+              (text _!Denn die Ansicht der Denkmalpfleger ist kaum nachzuvollziehen ._!)
+              )
+            (Nucleus
+              (leaf 6)
+              (rel2par span)
+              (text _!Überall wird darauf gedrängt , historische Orte in ihrem Urzustand zu belassen oder wieder so herzustellen ._!)
+              )
+            )
+          )
+        (Satellite
+          (span 7 8)
+          (rel2par non-contrastive)
+          (Satellite
+            (leaf 7)
+            (rel2par non-contrastive)
+            (text _!Da kommt ein innerstädtischer Straßenbau oft gerade Recht ,_!)
+            )
+          (Nucleus
+            (leaf 8)
+            (rel2par span)
+            (text _!kann man doch dabei auch löchrige Asphaltpisten oder buckliges Pflaster durch ordentlich verlegte passende Pflastersteine ersetzen ._!)
+            )
+          )
+        )
+      )
+    )
+  (Nucleus
+    (span 9 16)
+    (rel2par span)
+    (Nucleus
+      (span 9 10)
+      (rel2par non-contrastive)
+      (Nucleus
+        (leaf 9)
+        (rel2par span)
+        (text _!Warum soll nun aber direkt an der Zehdenicker Kirche , wo das Kopfsteinpflaster derzeit zugegebenermaßen sehr hügelig ist und laute Rollgeräusche verursacht , ein Asphaltbelag drauf ?_!)
+        )
+      (Satellite
+        (leaf 10)
+        (rel2par non-contrastive)
+        (text _!Dass sich die Zehdenicker dagegen wehren , ist mehr als verständlich ._!)
+        )
+      )
+    (Nucleus
+      (span 11 16)
+      (rel2par non-contrastive)
+      (Nucleus
+        (span 11 13)
+        (rel2par span)
+        (Nucleus
+          (span 11 12)
+          (rel2par span)
+          (Nucleus
+            (leaf 11)
+            (rel2par span)
+            (text _!Allerdings müssen sie sich bewusst sein , dass so ein " Kampf " nur durchzustehen ist ,_!)
+            )
+          (Satellite
+            (leaf 12)
+            (rel2par non-contrastive)
+            (text _!wenn sich alle einig sind ._!)
+            )
+          )
+        (Satellite
+          (leaf 13)
+          (rel2par non-contrastive)
+          (text _!Es darf nicht passieren , dass einer oder mehrere Abgeordnete im Nachhinein " umfallen " ._!)
+          )
+        )
+      (Satellite
+        (span 14 16)
+        (rel2par non-contrastive)
+        (Nucleus
+          (span 14 15)
+          (rel2par span)
+          (Nucleus
+            (leaf 14)
+            (rel2par non-contrastive)
+            (text _!Der Kampf kann sehr lange dauern_!)
+            )
+          (Nucleus
+            (leaf 15)
+            (rel2par non-contrastive)
+            (text _!und das Bauvorhaben verzögern ._!)
+            )
+          )
+        (Satellite
+          (leaf 16)
+          (rel2par non-contrastive)
+          (text _!Das muss in Kauf genommen werden ._!)
+          )
+        )
+      )
+    )
+  )
+)

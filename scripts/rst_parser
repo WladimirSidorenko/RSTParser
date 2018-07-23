@@ -6,7 +6,7 @@
 from __future__ import absolute_import, print_function, unicode_literals
 
 from dsegmenter.common import read_segments
-from glob import iglob
+from glob import glob, iglob
 from six import iteritems
 import codecs
 import logging
@@ -14,6 +14,7 @@ import os
 import sys
 
 from rstparser.conll import CoNLLDoc
+from rstparser.evaluation import Metrics
 from rstparser.node import SpanNode
 from rstparser.parser import RSTParser
 from rstparser.tree import RSTTree
@@ -24,7 +25,7 @@ from rstparser.utils import DFLT_ENCODING, DFLT_MODEL_PATH, LOGGER
 # Constants
 M_TRAIN = "train"
 M_TEST = "test"
-M_EVAL = "evauate"
+M_EVAL = "evaluate"
 
 
 ##################################################################
@@ -119,6 +120,21 @@ def read_edu_data(edu_dir, conll_dir):
         yield (edu_fname, queue, conll_doc)
 
 
+def read_trees(data):
+    """Read RST trees fom file or directory.
+
+    :param data: file or directory to read the data from
+
+    """
+    if os.path.isfile(data):
+        flist = [data]
+    else:
+        flist = glob(os.path.join(data, '*'))
+    for fname in flist:
+        with codecs.open(fname, 'r', DFLT_ENCODING) as ifile:
+            yield RSTTree(ifile.read())
+
+
 def main(argv):
     """Main method for training, evaluating, and testing an RST pasrer.
 
@@ -193,6 +209,12 @@ def main(argv):
                 rst_tree = parser.parse(edus, conll_doc)
                 ofile.write(rst_tree.to_str(conll_doc))
         LOGGER.debug("Testing RST parser... done")
+    elif args.mode == M_EVAL:
+        metrics = Metrics()
+        for gld_tree, pred_tree in zip(read_trees(args.gold),
+                                       read_trees(args.predicted)):
+            metrics.eval(gld_tree, pred_tree)
+        metrics.report()
     else:
         raise NotImplementedError
 

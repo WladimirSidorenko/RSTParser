@@ -1,0 +1,184 @@
+(Root
+(span 0 20)
+(Nucleus
+  (leaf 0)
+  (rel2par non-contrastive)
+  (text _!Wendefehler_!)
+  )
+(Nucleus
+  (span 1 20)
+  (rel2par non-contrastive)
+  (Satellite
+    (leaf 1)
+    (rel2par non-contrastive)
+    (text _!Heranwachsende haben seit jeher und überall ein Problem gehabt :_!)
+    )
+  (Nucleus
+    (span 2 20)
+    (rel2par span)
+    (Nucleus
+      (leaf 2)
+      (rel2par non-contrastive)
+      (text _!Sie sind rebellisch und machen dumme Sachen ._!)
+      )
+    (Nucleus
+      (span 3 20)
+      (rel2par non-contrastive)
+      (Nucleus
+        (span 3 4)
+        (rel2par non-contrastive)
+        (Satellite
+          (leaf 3)
+          (rel2par contrastive)
+          (text _!Sie wegzuschließen , scheint eine Lösung zu sein ._!)
+          )
+        (Nucleus
+          (leaf 4)
+          (rel2par span)
+          (text _!Aber nicht alle Jugendlichen lassen sich während schwieriger Lebensphasen einfach wegsperren ._!)
+          )
+        )
+      (Nucleus
+        (span 5 20)
+        (rel2par non-contrastive)
+        (Satellite
+          (leaf 5)
+          (rel2par non-contrastive)
+          (text _!Deshalb ist es sehr lobenswert , dass sich auch in Königs Wusterhausen der Verein Jugendrechtshaus gegründet hat ._!)
+          )
+        (Nucleus
+          (span 6 20)
+          (rel2par span)
+          (Nucleus
+            (leaf 6)
+            (rel2par non-contrastive)
+            (text _!38 Männer und Frauen aus dem Ort erklärten sich bereit ohne Gegenleistung in die Zukunft zu investieren : in Kinder und Jugendliche ._!)
+            )
+          (Nucleus
+            (span 7 20)
+            (rel2par non-contrastive)
+            (Nucleus
+              (span 7 9)
+              (rel2par non-contrastive)
+              (Nucleus
+                (leaf 7)
+                (rel2par non-contrastive)
+                (text _!Sie wollen Rechtsbewusstsein lehren ,_!)
+                )
+              (Nucleus
+                (span 8 9)
+                (rel2par non-contrastive)
+                (Nucleus
+                  (leaf 8)
+                  (rel2par non-contrastive)
+                  (text _!Ansprechpartner sein_!)
+                  )
+                (Nucleus
+                  (leaf 9)
+                  (rel2par non-contrastive)
+                  (text _!und die jungen Leute an die Regeln des menschlichen Zusammenlebens heranführen ._!)
+                  )
+                )
+              )
+            (Nucleus
+              (span 10 20)
+              (rel2par non-contrastive)
+              (Satellite
+                (leaf 10)
+                (rel2par contrastive)
+                (text _!Auch weil Elternhäuser und Schulen dies nicht immer schaffen ._!)
+                )
+              (Nucleus
+                (span 11 20)
+                (rel2par span)
+                (Satellite
+                  (leaf 11)
+                  (rel2par non-contrastive)
+                  (text _!Orientierungslose Menschen gibt es überall ._!)
+                  )
+                (Nucleus
+                  (span 12 20)
+                  (rel2par span)
+                  (Nucleus
+                    (leaf 12)
+                    (rel2par non-contrastive)
+                    (text _!Vielen Ostdeutschen wurde wendebedingt jedoch eingeredet : Ihr habt alles falsch gemacht !_!)
+                    )
+                  (Nucleus
+                    (span 13 20)
+                    (rel2par non-contrastive)
+                    (Satellite
+                      (leaf 13)
+                      (rel2par non-contrastive)
+                      (text _!Und das irritiert ._!)
+                      )
+                    (Nucleus
+                      (span 14 20)
+                      (rel2par span)
+                      (Nucleus
+                        (span 14 15)
+                        (rel2par non-contrastive)
+                        (Nucleus
+                          (leaf 14)
+                          (rel2par span)
+                          (text _!Zudem verlor ein Großteil der ehemaligen DDR-Bürger die Arbeit ,_!)
+                          )
+                        (Satellite
+                          (leaf 15)
+                          (rel2par non-contrastive)
+                          (text _!damit den sozialen Halt ._!)
+                          )
+                        )
+                      (Nucleus
+                        (span 16 20)
+                        (rel2par non-contrastive)
+                        (Nucleus
+                          (span 16 19)
+                          (rel2par span)
+                          (Satellite
+                            (span 16 18)
+                            (rel2par contrastive)
+                            (Nucleus
+                              (span 16 17)
+                              (rel2par span)
+                              (Nucleus
+                                (leaf 16)
+                                (rel2par span)
+                                (text _!Eltern , die selbst um ihr Gleichgewicht kämpfen , haben mit sich selbst zu tun ._!)
+                                )
+                              (Satellite
+                                (leaf 17)
+                                (rel2par non-contrastive)
+                                (text _!Sie können nur bedingt Gesprächspartner und Vorbilder sein ._!)
+                                )
+                              )
+                            (Satellite
+                              (leaf 18)
+                              (rel2par non-contrastive)
+                              (text _!Die Vereinsmitglieder des Jugendrechtshauses wollen zuhören ._!)
+                              )
+                            )
+                          (Nucleus
+                            (leaf 19)
+                            (rel2par span)
+                            (text _!Und das ist ein guter erster Schritt ._!)
+                            )
+                          )
+                        (Satellite
+                          (leaf 20)
+                          (rel2par non-contrastive)
+                          (text _!Hoffentlich folgen weitere ._!)
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+  )
+)

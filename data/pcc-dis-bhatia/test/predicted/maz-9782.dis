@@ -1,0 +1,166 @@
+(Root
+(span 0 18)
+(Nucleus
+  (leaf 0)
+  (rel2par non-contrastive)
+  (text _!Nicht mehr so lax_!)
+  )
+(Nucleus
+  (span 1 18)
+  (rel2par non-contrastive)
+  (Nucleus
+    (span 1 3)
+    (rel2par non-contrastive)
+    (Satellite
+      (leaf 1)
+      (rel2par non-contrastive)
+      (text _!Der Ton macht die Musik ._!)
+      )
+    (Nucleus
+      (span 2 3)
+      (rel2par span)
+      (Nucleus
+        (leaf 2)
+        (rel2par span)
+        (text _!Das zeigt sich wohl auch gerade jetzt ,_!)
+        )
+      (Satellite
+        (leaf 3)
+        (rel2par non-contrastive)
+        (text _!wo die Sache mit den Urlaubsscheinen für Asylbewerber nicht mehr so lax gehandhabt wird ._!)
+        )
+      )
+    )
+  (Nucleus
+    (span 4 18)
+    (rel2par non-contrastive)
+    (Nucleus
+      (span 4 6)
+      (rel2par non-contrastive)
+      (Nucleus
+        (leaf 4)
+        (rel2par span)
+        (text _!Schön ist es ja nun wirklich nicht ,_!)
+        )
+      (Satellite
+        (span 5 6)
+        (rel2par non-contrastive)
+        (Nucleus
+          (leaf 5)
+          (rel2par span)
+          (text _!wenn man als Beamter jemandem einen Konzertbesuch oder eine Geburtstagsfete vermasseln muss ,_!)
+          )
+        (Satellite
+          (leaf 6)
+          (rel2par non-contrastive)
+          (text _!weil die allgemeine Weltlage das gegenwärtig nicht zulässt ._!)
+          )
+        )
+      )
+    (Nucleus
+      (span 7 18)
+      (rel2par non-contrastive)
+      (Satellite
+        (span 7 10)
+        (rel2par non-contrastive)
+        (Nucleus
+          (span 7 8)
+          (rel2par span)
+          (Nucleus
+            (leaf 7)
+            (rel2par non-contrastive)
+            (text _!Da spielt eben auch eine Rolle , wie menschlich man sich in solchen Situationen verhält_!)
+            )
+          (Nucleus
+            (leaf 8)
+            (rel2par non-contrastive)
+            (text _!und mit welchen Worten man das rüberbringt ._!)
+            )
+          )
+        (Satellite
+          (span 9 10)
+          (rel2par non-contrastive)
+          (Satellite
+            (leaf 9)
+            (rel2par non-contrastive)
+            (text _!Dass sich manches auch in Deutschland nach dem 11. September verändert hat ,_!)
+            )
+          (Nucleus
+            (leaf 10)
+            (rel2par span)
+            (text _!dafür gibt es ja auch bei den oft abgeschottet lebenden Asylbewerbern Verständnis ._!)
+            )
+          )
+        )
+      (Nucleus
+        (span 11 18)
+        (rel2par span)
+        (Nucleus
+          (span 11 15)
+          (rel2par span)
+          (Nucleus
+            (leaf 11)
+            (rel2par span)
+            (text _!Schade ist nur bei all diesen strengeren Regelungen , dass es wohl wieder mal zum großen Teil die Falschen trifft ._!)
+            )
+          (Satellite
+            (span 12 15)
+            (rel2par non-contrastive)
+            (Nucleus
+              (leaf 12)
+              (rel2par span)
+              (text _!Nämlich jene , die sich artig an die Spielregeln halten ,_!)
+              )
+            (Satellite
+              (span 13 15)
+              (rel2par non-contrastive)
+              (Nucleus
+                (leaf 13)
+                (rel2par non-contrastive)
+                (text _!sich in Deutschland integrieren wollen_!)
+                )
+              (Nucleus
+                (span 14 15)
+                (rel2par non-contrastive)
+                (Nucleus
+                  (leaf 14)
+                  (rel2par non-contrastive)
+                  (text _!und vorschriftsmäßig ihre geplanten Fahrten bei den zuständigen Stellen ankündigen_!)
+                  )
+                (Nucleus
+                  (leaf 15)
+                  (rel2par non-contrastive)
+                  (text _!und genehmigen lassen wollen ._!)
+                  )
+                )
+              )
+            )
+          )
+        (Satellite
+          (span 16 18)
+          (rel2par non-contrastive)
+          (Nucleus
+            (leaf 16)
+            (rel2par non-contrastive)
+            (text _!Wer durch die Gegend fährt_!)
+            )
+          (Nucleus
+            (span 17 18)
+            (rel2par non-contrastive)
+            (Satellite
+              (leaf 17)
+              (rel2par non-contrastive)
+              (text _!und auf alle nunmal existierenden Vorschriften pfeift ,_!)
+              )
+            (Nucleus
+              (leaf 18)
+              (rel2par span)
+              (text _!wird wohl kaum gemerkt haben , dass irgend etwas anders ist ._!)
+              )
+            )
+          )
+        )
+      )
+    )
+  )
+)

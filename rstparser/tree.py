@@ -17,6 +17,7 @@ from __future__ import absolute_import, print_function, unicode_literals
 
 import re
 
+from .conll import CoNLLToken
 from .node import SpanNode
 from .parser import RSTParser
 from .utils import LOGGER
@@ -61,6 +62,8 @@ class RSTTree(object):
         """
         self.binary = False
         self._tree = None
+        self._edudict = None
+        self._tokendict = None
         self._conll_doc = conll_doc
         self.parse_dis(dis)
         # synchronize internal RST tree with CoNLL information
@@ -77,13 +80,68 @@ class RSTTree(object):
     def tokendict(self):
         """ Get the RST tree
         """
-        return self._conll_doc.tokendict
+        if self._tokendict is not None:
+            pass
+        elif self._conll_doc is not None:
+            self._tokendict = self._conll_doc.tokendict
+        else:
+            tokendict = {}
+            for node_i in self.get_edu_nodes():
+                if node_i.text is None:
+                    continue
+                toks = SPACE_RE.split(node_i.text)
+                for tok_i in toks:
+                    tok_i = tok_i.strip()
+                    if tok_i:
+                        conll_token = CoNLLToken()
+                        gidx = len(tokendict)
+                        conll_token.gidx = gidx
+                        conll_token.word = tok_i
+                        tokendict[gidx] = conll_token
+            self._tokendict = tokendict
+        return self._tokendict
 
     @property
     def edudict(self):
-        """ Get the RST tree
+        """Get mapping from EDU id to global token indices.
+
         """
-        return self._conll_doc.edudict
+        if self._edudict is not None:
+            pass
+        elif self._conll_doc is not None and self._conll_doc.edudict:
+            self._edudict = self._conll_doc.edudict
+        else:
+            gidx = 0
+            edudict = {}
+            tokendict = self.tokendict
+            edu_nodes = self.get_edu_nodes()
+            for node_i in edu_nodes:
+                if node_i.text is None:
+                    continue
+                edu_id = node_i.nucedu
+                toks = SPACE_RE.split(node_i.text)
+                for tok_i in toks:
+                    tok_i = tok_i.strip()
+                    if tok_i:
+                        if tok_i.lower() != tokendict[gidx].word.lower():
+                            LOGGER.warn(
+                                "Different tokens: %r vs %r",
+                                tok_i, tokendict[gidx].word
+                            )
+                        if edu_id not in edudict:
+                            edudict[edu_id] = [gidx]
+                        else:
+                            edudict[edu_id].append(gidx)
+                        gidx += 1
+            if gidx != len(self.tokendict):
+                LOGGER.error(
+                    "Different number of tokens in dis and conll files:"
+                    " %d vs %d", gidx, len(tokendict)
+                )
+            if self._conll_doc is not None:
+                self._conll_doc.edudict = edudict
+            self._edudict = edudict
+        return self._edudict
 
     def parse_dis(self, dis):
         """Parse dis file.
@@ -180,7 +238,7 @@ class RSTTree(object):
         """
         treenodes = self.bin_bft()
         treenodes.reverse()
-        edudict = self._conll_doc.edudict
+        edudict = self.edudict
         for node in treenodes:
             if (node.lnode is not None) and (node.rnode is not None):
                 # Non-leaf node
@@ -402,35 +460,8 @@ class RSTTree(object):
         """Synchronize RST tree with CoNLL information.
 
         """
-        if self._conll_doc is None:
-            return
-        gidx = 0
-        edu_nodes = self.get_edu_nodes()
-        edudict = self._conll_doc.edudict
-        tokendict = self.tokendict
-        for node_i in edu_nodes:
-            if node_i.text is None:
-                continue
-            edu_id = node_i.nucedu
-            toks = SPACE_RE.split(node_i.text)
-            for tok_i in toks:
-                tok_i = tok_i.strip()
-                if tok_i:
-                    if tok_i.lower() != tokendict[gidx].word.lower():
-                        LOGGER.warn(
-                            "Different tokens: %r vs %r",
-                            tok_i, tokendict[gidx].word
-                        )
-                    if edu_id not in edudict:
-                        edudict[edu_id] = [gidx]
-                    else:
-                        edudict[edu_id].append(gidx)
-                    gidx += 1
-        if gidx != len(self.tokendict):
-            LOGGER.error(
-                "Different number of tokens in dis and conll files: %d vs %d",
-                gidx, len(tokendict)
-            )
+        self.tokendict
+        self.edudict
 
     def get_edu_nodes(self):
         """Get all EDU leaves.

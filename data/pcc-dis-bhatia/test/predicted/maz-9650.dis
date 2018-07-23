@@ -1,0 +1,103 @@
+(Root
+(span 0 11)
+(Nucleus
+  (leaf 0)
+  (rel2par non-contrastive)
+  (text _!Wichtige Botschaft_!)
+  )
+(Nucleus
+  (span 1 11)
+  (rel2par non-contrastive)
+  (Satellite
+    (span 1 7)
+    (rel2par non-contrastive)
+    (Satellite
+      (span 1 4)
+      (rel2par non-contrastive)
+      (Satellite
+        (leaf 1)
+        (rel2par contrastive)
+        (text _!Lange hat sich die Europäische Zentralbank gesträubt ._!)
+        )
+      (Nucleus
+        (span 2 4)
+        (rel2par span)
+        (Nucleus
+          (leaf 2)
+          (rel2par non-contrastive)
+          (text _!Doch gestern hat sie auf die schwache Konjunktur mit einer kräftigen Leitzinssenkung um 0,5 Prozentpunkte auf 3,25 Prozent reagiert ._!)
+          )
+        (Nucleus
+          (span 3 4)
+          (rel2par non-contrastive)
+          (Nucleus
+            (leaf 3)
+            (rel2par span)
+            (text _!Auch wenn sich EZB-Chef Wim Duisenberg weiter weigert , das böse R-Wort " Rezession " in den Mund zu nehmen -_!)
+            )
+          (Satellite
+            (leaf 4)
+            (rel2par non-contrastive)
+            (text _!dass die Weltwirtschaft in eine schwere Krise rutscht , bestreitet niemand mehr ._!)
+            )
+          )
+        )
+      )
+    (Nucleus
+      (span 5 7)
+      (rel2par span)
+      (Nucleus
+        (leaf 5)
+        (rel2par span)
+        (text _!Fraglich ist aber , ob niedrige Zinsen und damit billigeres Geld für mehr Investitionen und Konsum und so für den erhofften raschen Aufschwung sorgen ._!)
+        )
+      (Satellite
+        (span 6 7)
+        (rel2par non-contrastive)
+        (Nucleus
+          (leaf 6)
+          (rel2par span)
+          (text _!Die Verunsicherung von Verbrauchern und Unternehmern ist seit dem 11. September weniger ökonomisch als psychologisch begründet ._!)
+          )
+        (Satellite
+          (leaf 7)
+          (rel2par non-contrastive)
+          (text _!Außerdem wirkt Geldpolitik erfahrungsgemäß erst nach einem Jahr ._!)
+          )
+        )
+      )
+    )
+  (Nucleus
+    (span 8 11)
+    (rel2par span)
+    (Satellite
+      (leaf 8)
+      (rel2par non-contrastive)
+      (text _!Die wichtigste Botschaft der Zinsentscheidung ist deshalb eine andere :_!)
+      )
+    (Nucleus
+      (span 9 11)
+      (rel2par span)
+      (Nucleus
+        (leaf 9)
+        (rel2par span)
+        (text _!Die Währungshüter haben ihren Teil getan ,_!)
+        )
+      (Satellite
+        (span 10 11)
+        (rel2par non-contrastive)
+        (Satellite
+          (leaf 10)
+          (rel2par contrastive)
+          (text _!jetzt können die Politiker nicht mehr die Verantwortung abschieben ,_!)
+          )
+        (Nucleus
+          (leaf 11)
+          (rel2par span)
+          (text _!sondern müssen selbst mit ihren Mitteln aktiv werden ._!)
+          )
+        )
+      )
+    )
+  )
+)

@@ -1,0 +1,157 @@
+(Root
+(span 0 17)
+(Nucleus
+  (leaf 0)
+  (rel2par non-contrastive)
+  (text _!Reise ins Ungewisse_!)
+  )
+(Nucleus
+  (span 1 17)
+  (rel2par non-contrastive)
+  (Nucleus
+    (span 1 2)
+    (rel2par non-contrastive)
+    (Nucleus
+      (leaf 1)
+      (rel2par span)
+      (text _!Eine Entscheidung von einiger Tragweite müssen heute die Mitglieder des Prignitzer Kreistages fällen ._!)
+      )
+    (Satellite
+      (leaf 2)
+      (rel2par non-contrastive)
+      (text _!Denn sie besetzen nichts weniger als die oberste Verwaltungsposition im Landkreis ._!)
+      )
+    )
+  (Nucleus
+    (span 3 17)
+    (rel2par non-contrastive)
+    (Satellite
+      (span 3 4)
+      (rel2par non-contrastive)
+      (Nucleus
+        (leaf 3)
+        (rel2par span)
+        (text _!Der amtierende Landrat Hans Lange ( CDU ) tritt gegen Margarete Vierjahn an ,_!)
+        )
+      (Satellite
+        (leaf 4)
+        (rel2par non-contrastive)
+        (text _!die sich die Unterstützung der SPD erworben hat ._!)
+        )
+      )
+    (Nucleus
+      (span 5 17)
+      (rel2par span)
+      (Nucleus
+        (span 5 7)
+        (rel2par non-contrastive)
+        (Nucleus
+          (span 5 6)
+          (rel2par span)
+          (Satellite
+            (leaf 5)
+            (rel2par non-contrastive)
+            (text _!Würde die Position wie die der hauptamtlichen Bürgermeister per Volksabstimmung besetzt ,_!)
+            )
+          (Nucleus
+            (leaf 6)
+            (rel2par span)
+            (text _!wäre das Ergebnis wohl klar ._!)
+            )
+          )
+        (Satellite
+          (leaf 7)
+          (rel2par non-contrastive)
+          (text _!Denn Hans Lange dürfte vor allem im westlichen Teil des Kreises dann mit großer Unterstützung rechnen dürfen ._!)
+          )
+        )
+      (Nucleus
+        (span 8 17)
+        (rel2par non-contrastive)
+        (Nucleus
+          (span 8 12)
+          (rel2par span)
+          (Nucleus
+            (span 8 9)
+            (rel2par span)
+            (Nucleus
+              (leaf 8)
+              (rel2par non-contrastive)
+              (text _!Bei ihm weiß der Bürger , was er hat -_!)
+              )
+            (Nucleus
+              (leaf 9)
+              (rel2par non-contrastive)
+              (text _!oder auch nicht ._!)
+              )
+            )
+          (Satellite
+            (span 10 12)
+            (rel2par non-contrastive)
+            (Satellite
+              (leaf 10)
+              (rel2par contrastive)
+              (text _!Mit einigem Recht kann man aber auch sagen , dass er mit seinem Amt gewachsen ist ._!)
+              )
+            (Nucleus
+              (span 11 12)
+              (rel2par span)
+              (Satellite
+                (leaf 11)
+                (rel2par contrastive)
+                (text _!Margarete Vierjahn hingegen hat zwar ohne Zweifel die Qualifikation für die höhere Verwaltungstätigkeit ._!)
+                )
+              (Nucleus
+                (leaf 12)
+                (rel2par span)
+                (text _!Wofür sie aber letztlich steht , ist zumindest öffentlich noch nicht ganz klar geworden ._!)
+                )
+              )
+            )
+          )
+        (Satellite
+          (span 13 17)
+          (rel2par non-contrastive)
+          (Satellite
+            (span 13 15)
+            (rel2par non-contrastive)
+            (Nucleus
+              (leaf 13)
+              (rel2par non-contrastive)
+              (text _!Die Entscheidung fällt aber nun einmal im Kreistag_!)
+              )
+            (Nucleus
+              (span 14 15)
+              (rel2par non-contrastive)
+              (Nucleus
+                (leaf 14)
+                (rel2par span)
+                (text _!und ist noch offen ,_!)
+                )
+              (Satellite
+                (leaf 15)
+                (rel2par non-contrastive)
+                (text _!zumal angesichts geheimer Wahl ._!)
+                )
+              )
+            )
+          (Nucleus
+            (span 16 17)
+            (rel2par span)
+            (Nucleus
+              (leaf 16)
+              (rel2par non-contrastive)
+              (text _!Dabei kommt den kleinen Fraktionen aufgrund der obwaltenden Konstellation eine Schlüsselrolle zu ._!)
+              )
+            (Nucleus
+              (leaf 17)
+              (rel2par non-contrastive)
+              (text _!Und so steht den Prignitzern vielleicht nicht nur heute eine Reise ins Ungewisse ins Haus ._!)
+              )
+            )
+          )
+        )
+      )
+    )
+  )
+)
