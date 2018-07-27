@@ -110,12 +110,13 @@ def read_edu_data(edu_dir, conll_dir):
         for toks, (seg_idx, seg_label) in iteritems(toks2segs):
             tok_idcs = [tok_idx for tok_idx, _ in toks]
             seg = SpanNode("")
+            queue[seg_idx] = seg
+            seg_idx += 1
             seg.nucedu = seg_idx
             seg.nucspan = (seg_idx, seg_idx)
             seg.eduspan = (seg_idx, seg_idx)
             seg.text = tok_idcs
             seg.text.sort()
-            queue[seg_idx] = seg
             edudict[seg_idx] = seg.text[:]
         yield (edu_fname, queue, conll_doc)
 

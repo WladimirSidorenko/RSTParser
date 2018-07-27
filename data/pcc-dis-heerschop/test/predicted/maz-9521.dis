@@ -2,64 +2,64 @@
 (span 1 20)
 (Nucleus
   (leaf 1)
-  (rel2par non-contrastive)
+  (rel2par other)
   (text _!Posse um Bosse_!)
   )
 (Nucleus
   (span 2 20)
-  (rel2par non-contrastive)
+  (rel2par other)
   (Nucleus
     (leaf 2)
-    (rel2par non-contrastive)
+    (rel2par other)
     (text _!Kichern und Prusten auf dem Fraktionsgestühl ._!)
     )
   (Nucleus
     (span 3 20)
-    (rel2par non-contrastive)
-    (Nucleus
+    (rel2par other)
+    (Satellite
       (span 3 4)
-      (rel2par non-contrastive)
-      (Nucleus
+      (rel2par background)
+      (Satellite
         (leaf 3)
-        (rel2par span)
+        (rel2par other)
         (text _!Zurecht ,_!)
         )
-      (Satellite
+      (Nucleus
         (leaf 4)
-        (rel2par non-contrastive)
+        (rel2par span)
         (text _!denn was der Oberbürgermeister den Stadtverordneten gestern bot , war eine konsequent inszenierte Posse ._!)
         )
       )
     (Nucleus
       (span 5 20)
-      (rel2par non-contrastive)
+      (rel2par span)
       (Nucleus
         (leaf 5)
-        (rel2par non-contrastive)
+        (rel2par other)
         (text _!Freilich braucht man für derbe Späße ein Opfer ._!)
         )
       (Nucleus
         (span 6 20)
-        (rel2par non-contrastive)
+        (rel2par other)
         (Nucleus
           (leaf 6)
-          (rel2par non-contrastive)
+          (rel2par other)
           (text _!Finanzstadtrat Bosse hatte vor Wochen aus der Zeitung erfahren müssen , dass er im Sommer 2002 zugunsten eines CDU-Kandidaten in die Wüste geschickt wird ._!)
           )
         (Nucleus
           (span 7 20)
-          (rel2par non-contrastive)
+          (rel2par other)
           (Nucleus
             (span 7 10)
-            (rel2par non-contrastive)
+            (rel2par span)
             (Nucleus
               (leaf 7)
-              (rel2par non-contrastive)
+              (rel2par other)
               (text _!Gestern nun lobte ihn sein Chef als " alten Fahrensmann "_!)
               )
             (Nucleus
               (span 8 10)
-              (rel2par non-contrastive)
+              (rel2par other)
               (Nucleus
                 (leaf 8)
                 (rel2par span)
@@ -67,34 +67,34 @@
                 )
               (Satellite
                 (span 9 10)
-                (rel2par non-contrastive)
+                (rel2par other)
                 (Nucleus
                   (leaf 9)
-                  (rel2par span)
+                  (rel2par other)
                   (text _!Nicht etwa , weil die Regierungsabsprache mit den Christdemokraten soeben perfekt war ;_!)
                   )
-                (Satellite
+                (Nucleus
                   (leaf 10)
-                  (rel2par non-contrastive)
+                  (rel2par other)
                   (text _!davon kein Wort ._!)
                   )
                 )
               )
             )
-          (Nucleus
+          (Satellite
             (span 11 20)
-            (rel2par non-contrastive)
+            (rel2par other)
             (Nucleus
               (span 11 13)
-              (rel2par non-contrastive)
+              (rel2par other)
               (Nucleus
                 (leaf 11)
-                (rel2par non-contrastive)
+                (rel2par other)
                 (text _!Nein , der Neue könne schon mal seinen Umzug nach Potsdam vorbereiten ,_!)
                 )
               (Nucleus
                 (span 12 13)
-                (rel2par non-contrastive)
+                (rel2par other)
                 (Nucleus
                   (leaf 12)
                   (rel2par span)
@@ -102,28 +102,28 @@
                   )
                 (Satellite
                   (leaf 13)
-                  (rel2par non-contrastive)
+                  (rel2par other)
                   (text _!das Aufgabenfeld ansehen ..._!)
                   )
                 )
               )
             (Nucleus
               (span 14 20)
-              (rel2par non-contrastive)
+              (rel2par other)
               (Nucleus
-                (span 14 16)
-                (rel2par span)
+                (leaf 14)
+                (rel2par other)
+                (text _!Alle spielten die Stegreifkomödie mit ._!)
+                )
+              (Nucleus
+                (span 15 20)
+                (rel2par other)
                 (Nucleus
-                  (leaf 14)
-                  (rel2par span)
-                  (text _!Alle spielten die Stegreifkomödie mit ._!)
-                  )
-                (Satellite
                   (span 15 16)
-                  (rel2par non-contrastive)
+                  (rel2par other)
                   (Satellite
                     (leaf 15)
-                    (rel2par non-contrastive)
+                    (rel2par other)
                     (text _!Der Preis für die schönste Pointe geht wieder einmal an CDU-Fraktionschef Kapuste :_!)
                     )
                   (Nucleus
@@ -132,36 +132,36 @@
                     (text _!Auch Bosse bekomme nun schließlich mehr persönliche Planungssicherheit ._!)
                     )
                   )
-                )
-              (Satellite
-                (span 17 20)
-                (rel2par non-contrastive)
                 (Nucleus
-                  (span 17 18)
-                  (rel2par span)
+                  (span 17 20)
+                  (rel2par other)
                   (Nucleus
-                    (leaf 17)
-                    (rel2par span)
-                    (text _!Nur das Opferlamm schmiss seine Rolle ._!)
-                    )
-                  (Satellite
-                    (leaf 18)
-                    (rel2par non-contrastive)
-                    (text _!Der Noch-Beigeordnete reichte das Manuskript seiner Haushaltsrede aus ._!)
-                    )
-                  )
-                (Satellite
-                  (span 19 20)
-                  (rel2par non-contrastive)
-                  (Satellite
-                    (leaf 19)
-                    (rel2par non-contrastive)
-                    (text _!Es ist mit einer Karikatur verziert :_!)
+                    (span 17 18)
+                    (rel2par other)
+                    (Satellite
+                      (leaf 17)
+                      (rel2par other)
+                      (text _!Nur das Opferlamm schmiss seine Rolle ._!)
+                      )
+                    (Nucleus
+                      (leaf 18)
+                      (rel2par span)
+                      (text _!Der Noch-Beigeordnete reichte das Manuskript seiner Haushaltsrede aus ._!)
+                      )
                     )
                   (Nucleus
-                    (leaf 20)
-                    (rel2par span)
-                    (text _!Matthias Platzeck trägt das Transparent " Unverschuldet in Not geraten " ._!)
+                    (span 19 20)
+                    (rel2par other)
+                    (Satellite
+                      (leaf 19)
+                      (rel2par other)
+                      (text _!Es ist mit einer Karikatur verziert :_!)
+                      )
+                    (Nucleus
+                      (leaf 20)
+                      (rel2par span)
+                      (text _!Matthias Platzeck trägt das Transparent " Unverschuldet in Not geraten " ._!)
+                      )
                     )
                   )
                 )

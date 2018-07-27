@@ -115,4 +115,4 @@ def getgrams(text, tokendict):
         token = tokendict[text[-2]].lemma.lower() \
             + ' ' + tokendict[text[-1]].lemma.lower()
         grams.append(token)
-    return '-%-'.join(grams)
+    return grams

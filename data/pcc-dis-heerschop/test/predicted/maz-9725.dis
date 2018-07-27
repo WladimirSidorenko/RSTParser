@@ -2,18 +2,18 @@
 (span 1 12)
 (Nucleus
   (leaf 1)
-  (rel2par non-contrastive)
+  (rel2par other)
   (text _!Ernstfall_!)
   )
 (Nucleus
   (span 2 12)
-  (rel2par non-contrastive)
+  (rel2par other)
   (Satellite
     (span 2 3)
-    (rel2par non-contrastive)
+    (rel2par background)
     (Satellite
       (leaf 2)
-      (rel2par non-contrastive)
+      (rel2par other)
       (text _!Der rot-grünen Koalition steht eine Zerreißprobe bevor :_!)
       )
     (Nucleus
@@ -27,10 +27,10 @@
     (rel2par span)
     (Nucleus
       (span 4 5)
-      (rel2par non-contrastive)
+      (rel2par other)
       (Satellite
         (leaf 4)
-        (rel2par non-contrastive)
+        (rel2par condition)
         (text _!Da es auch in der SPD Abweichler gibt ,_!)
         )
       (Nucleus
@@ -41,26 +41,26 @@
       )
     (Nucleus
       (span 6 12)
-      (rel2par non-contrastive)
+      (rel2par other)
       (Satellite
         (span 6 8)
-        (rel2par contrastive)
-        (Nucleus
+        (rel2par other)
+        (Satellite
           (leaf 6)
-          (rel2par span)
+          (rel2par other)
           (text _!Es ist offensichtlich , dass dieser Bundeswehr-Einsatz bei vielen Grünen an die Wurzeln ihrer Identität rührt ._!)
           )
-        (Satellite
+        (Nucleus
           (span 7 8)
-          (rel2par non-contrastive)
-          (Satellite
+          (rel2par span)
+          (Nucleus
             (leaf 7)
-            (rel2par non-contrastive)
+            (rel2par span)
             (text _!Konnte der Kosovo-Krieg noch mit dem Kampf für die Menschenrechte in Europa begründete werden ,_!)
             )
-          (Nucleus
+          (Satellite
             (leaf 8)
-            (rel2par span)
+            (rel2par other)
             (text _!geht es nun um die militärische Solidarität mit den USA in einem weit entfernten Dritte-Welt-Land ._!)
             )
           )
@@ -70,30 +70,30 @@
         (rel2par span)
         (Nucleus
           (leaf 9)
-          (rel2par span)
+          (rel2par other)
           (text _!Doch die Kritiker wissen auch , dass sie weder den Krieg in Afghanistan stoppen_!)
           )
-        (Satellite
+        (Nucleus
           (span 10 12)
-          (rel2par non-contrastive)
-          (Nucleus
-            (leaf 10)
-            (rel2par non-contrastive)
-            (text _!noch eine deutsche Beteiligung daran verhindern können ._!)
-            )
-          (Nucleus
-            (span 11 12)
-            (rel2par non-contrastive)
+          (rel2par other)
+          (Satellite
+            (span 10 11)
+            (rel2par other)
             (Satellite
-              (leaf 11)
-              (rel2par non-contrastive)
-              (text _!Sie können aber die rot-grüne Regierung in eine schwere Krise treiben ._!)
+              (leaf 10)
+              (rel2par other)
+              (text _!noch eine deutsche Beteiligung daran verhindern können ._!)
               )
             (Nucleus
-              (leaf 12)
+              (leaf 11)
               (rel2par span)
-              (text _!Ein Kanzler , den in einer solch existenziellen Frage die eigene Koalition im Stich lässt , muss sich neue Partner suchen ._!)
+              (text _!Sie können aber die rot-grüne Regierung in eine schwere Krise treiben ._!)
               )
+            )
+          (Nucleus
+            (leaf 12)
+            (rel2par span)
+            (text _!Ein Kanzler , den in einer solch existenziellen Frage die eigene Koalition im Stich lässt , muss sich neue Partner suchen ._!)
             )
           )
         )

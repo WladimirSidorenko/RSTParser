@@ -2,15 +2,15 @@
 (span 1 19)
 (Nucleus
   (leaf 1)
-  (rel2par non-contrastive)
+  (rel2par other)
   (text _!Nicht mehr so lax_!)
   )
 (Nucleus
   (span 2 19)
-  (rel2par non-contrastive)
+  (rel2par other)
   (Nucleus
     (span 2 4)
-    (rel2par non-contrastive)
+    (rel2par other)
     (Nucleus
       (leaf 2)
       (rel2par span)
@@ -18,7 +18,7 @@
       )
     (Satellite
       (span 3 4)
-      (rel2par non-contrastive)
+      (rel2par other)
       (Nucleus
         (leaf 3)
         (rel2par span)
@@ -26,17 +26,17 @@
         )
       (Satellite
         (leaf 4)
-        (rel2par non-contrastive)
+        (rel2par other)
         (text _!wo die Sache mit den Urlaubsscheinen für Asylbewerber nicht mehr so lax gehandhabt wird ._!)
         )
       )
     )
   (Nucleus
     (span 5 19)
-    (rel2par non-contrastive)
+    (rel2par other)
     (Nucleus
       (span 5 7)
-      (rel2par non-contrastive)
+      (rel2par other)
       (Nucleus
         (leaf 5)
         (rel2par span)
@@ -44,7 +44,7 @@
         )
       (Satellite
         (span 6 7)
-        (rel2par non-contrastive)
+        (rel2par other)
         (Nucleus
           (leaf 6)
           (rel2par span)
@@ -52,100 +52,100 @@
           )
         (Satellite
           (leaf 7)
-          (rel2par non-contrastive)
+          (rel2par other)
           (text _!weil die allgemeine Weltlage das gegenwärtig nicht zulässt ._!)
           )
         )
       )
     (Nucleus
       (span 8 19)
-      (rel2par non-contrastive)
+      (rel2par other)
       (Nucleus
         (span 8 9)
-        (rel2par non-contrastive)
+        (rel2par span)
         (Nucleus
           (leaf 8)
-          (rel2par non-contrastive)
+          (rel2par other)
           (text _!Da spielt eben auch eine Rolle , wie menschlich man sich in solchen Situationen verhält_!)
           )
         (Nucleus
           (leaf 9)
-          (rel2par non-contrastive)
+          (rel2par other)
           (text _!und mit welchen Worten man das rüberbringt ._!)
           )
         )
-      (Nucleus
+      (Satellite
         (span 10 19)
-        (rel2par non-contrastive)
+        (rel2par other)
         (Satellite
-          (span 10 11)
-          (rel2par non-contrastive)
+          (span 10 12)
+          (rel2par other)
           (Satellite
-            (leaf 10)
-            (rel2par non-contrastive)
-            (text _!Dass sich manches auch in Deutschland nach dem 11. September verändert hat ,_!)
+            (span 10 11)
+            (rel2par other)
+            (Satellite
+              (leaf 10)
+              (rel2par other)
+              (text _!Dass sich manches auch in Deutschland nach dem 11. September verändert hat ,_!)
+              )
+            (Nucleus
+              (leaf 11)
+              (rel2par span)
+              (text _!dafür gibt es ja auch bei den oft abgeschottet lebenden Asylbewerbern Verständnis ._!)
+              )
             )
           (Nucleus
-            (leaf 11)
+            (leaf 12)
             (rel2par span)
-            (text _!dafür gibt es ja auch bei den oft abgeschottet lebenden Asylbewerbern Verständnis ._!)
+            (text _!Schade ist nur bei all diesen strengeren Regelungen , dass es wohl wieder mal zum großen Teil die Falschen trifft ._!)
             )
           )
         (Nucleus
-          (span 12 19)
+          (span 13 19)
           (rel2par span)
           (Nucleus
-            (span 12 16)
+            (span 13 16)
             (rel2par span)
             (Nucleus
-              (leaf 12)
+              (leaf 13)
               (rel2par span)
-              (text _!Schade ist nur bei all diesen strengeren Regelungen , dass es wohl wieder mal zum großen Teil die Falschen trifft ._!)
+              (text _!Nämlich jene , die sich artig an die Spielregeln halten ,_!)
               )
             (Satellite
-              (span 13 16)
-              (rel2par non-contrastive)
+              (span 14 16)
+              (rel2par other)
               (Nucleus
-                (leaf 13)
-                (rel2par span)
-                (text _!Nämlich jene , die sich artig an die Spielregeln halten ,_!)
+                (leaf 14)
+                (rel2par other)
+                (text _!sich in Deutschland integrieren wollen_!)
                 )
-              (Satellite
-                (span 14 16)
-                (rel2par non-contrastive)
+              (Nucleus
+                (span 15 16)
+                (rel2par other)
                 (Nucleus
-                  (leaf 14)
-                  (rel2par non-contrastive)
-                  (text _!sich in Deutschland integrieren wollen_!)
+                  (leaf 15)
+                  (rel2par other)
+                  (text _!und vorschriftsmäßig ihre geplanten Fahrten bei den zuständigen Stellen ankündigen_!)
                   )
                 (Nucleus
-                  (span 15 16)
-                  (rel2par non-contrastive)
-                  (Nucleus
-                    (leaf 15)
-                    (rel2par non-contrastive)
-                    (text _!und vorschriftsmäßig ihre geplanten Fahrten bei den zuständigen Stellen ankündigen_!)
-                    )
-                  (Nucleus
-                    (leaf 16)
-                    (rel2par non-contrastive)
-                    (text _!und genehmigen lassen wollen ._!)
-                    )
+                  (leaf 16)
+                  (rel2par other)
+                  (text _!und genehmigen lassen wollen ._!)
                   )
                 )
               )
             )
           (Satellite
             (span 17 19)
-            (rel2par non-contrastive)
+            (rel2par other)
             (Nucleus
               (leaf 17)
-              (rel2par non-contrastive)
+              (rel2par other)
               (text _!Wer durch die Gegend fährt_!)
               )
             (Nucleus
               (span 18 19)
-              (rel2par non-contrastive)
+              (rel2par other)
               (Nucleus
                 (leaf 18)
                 (rel2par span)
@@ -153,7 +153,7 @@
                 )
               (Satellite
                 (leaf 19)
-                (rel2par non-contrastive)
+                (rel2par other)
                 (text _!wird wohl kaum gemerkt haben , dass irgend etwas anders ist ._!)
                 )
               )

@@ -1,0 +1,157 @@
+(Root
+(span 1 18)
+(Nucleus
+  (leaf 1)
+  (rel2par other)
+  (text _!Unökonomisches Angebot_!)
+  )
+(Nucleus
+  (span 2 18)
+  (rel2par other)
+  (Nucleus
+    (leaf 2)
+    (rel2par other)
+    (text _!Die Stimmung im Pritzwalker Minimal-Markt ist auf einem Tiefpunkt angelangt ._!)
+    )
+  (Nucleus
+    (span 3 18)
+    (rel2par other)
+    (Nucleus
+      (leaf 3)
+      (rel2par other)
+      (text _!15 feste Mitarbeiter stehen vor der Entlassung ._!)
+      )
+    (Nucleus
+      (span 4 18)
+      (rel2par other)
+      (Nucleus
+        (leaf 4)
+        (rel2par other)
+        (text _!Wohl die wenigsten werden ein Übernahmeangebot in einen anderen Markt des Rewe-Konzerns akzeptieren ._!)
+        )
+      (Nucleus
+        (span 5 18)
+        (rel2par other)
+        (Satellite
+          (span 5 9)
+          (rel2par background)
+          (Nucleus
+            (span 5 7)
+            (rel2par span)
+            (Nucleus
+              (span 5 6)
+              (rel2par other)
+              (Satellite
+                (leaf 5)
+                (rel2par other)
+                (text _!Sie werden es nicht akzeptieren können :_!)
+                )
+              (Nucleus
+                (leaf 6)
+                (rel2par span)
+                (text _!Denn zum einen sind es zumeist Frauen mit Kindern , die im Einzelhandel arbeiten ._!)
+                )
+              )
+            (Nucleus
+              (leaf 7)
+              (rel2par other)
+              (text _!Und die sind nun einmal nicht so mobil , wie es alleinstehende Arbeitnehmer sind ._!)
+              )
+            )
+          (Satellite
+            (span 8 9)
+            (rel2par other)
+            (Nucleus
+              (leaf 8)
+              (rel2par span)
+              (text _!Zum anderen sind auch die Löhne im Einzelhandel nicht so hoch ,_!)
+              )
+            (Satellite
+              (leaf 9)
+              (rel2par other)
+              (text _!als dass sich täglich eine weite Fahrt zur Arbeit für die Mitarbeiter lohnen würde ._!)
+              )
+            )
+          )
+        (Nucleus
+          (span 10 18)
+          (rel2par span)
+          (Satellite
+            (span 10 15)
+            (rel2par other)
+            (Satellite
+              (span 10 12)
+              (rel2par other)
+              (Satellite
+                (leaf 10)
+                (rel2par other)
+                (text _!Eine einfache Frage der Ökonomie :_!)
+                )
+              (Nucleus
+                (span 11 12)
+                (rel2par span)
+                (Satellite
+                  (leaf 11)
+                  (rel2par condition)
+                  (text _!Frisst der Sprit den Lohn auf ,_!)
+                  )
+                (Nucleus
+                  (leaf 12)
+                  (rel2par span)
+                  (text _!kann man daheim bleiben ._!)
+                  )
+                )
+              )
+            (Nucleus
+              (span 13 15)
+              (rel2par span)
+              (Nucleus
+                (span 13 14)
+                (rel2par span)
+                (Nucleus
+                  (leaf 13)
+                  (rel2par span)
+                  (text _!" co op " hat den Beschäftigten kein Übernahmeangebot unterbreitet ._!)
+                  )
+                (Satellite
+                  (leaf 14)
+                  (rel2par elaboration)
+                  (text _!Unter den Beschäftigten im Minimal wird gemunkelt , dass man dort künftig nur noch geringfügig Beschäftigte anstellen will ._!)
+                  )
+                )
+              (Satellite
+                (leaf 15)
+                (rel2par other)
+                (text _!Ob dies den Tatsachen entspricht , bleibt dahingestellt ._!)
+                )
+              )
+            )
+          (Nucleus
+            (span 16 18)
+            (rel2par span)
+            (Satellite
+              (leaf 16)
+              (rel2par other)
+              (text _!Der Konzern will sich heute noch nicht zu seinen Plänen äußern ._!)
+              )
+            (Nucleus
+              (span 17 18)
+              (rel2par span)
+              (Nucleus
+                (leaf 17)
+                (rel2par other)
+                (text _!Sicher ist jedoch , dass bei einer Übernahme die alten Verträge übernommen werden müssten ,_!)
+                )
+              (Nucleus
+                (leaf 18)
+                (rel2par other)
+                (text _!und der neue Inhaber bei Lohnverhandlungen dann keinen Spielraum hätte ._!)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+  )
+)

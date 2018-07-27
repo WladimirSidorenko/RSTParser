@@ -135,13 +135,13 @@ class RSTParser(object):
         LOGGER.debug("Model saved")
 
     def load(self, mpath):
-        """Save internal model at specifed location.
+        """Save internal model at the specifed location.
 
         :param str mpath: path from which to load the model
 
         """
         LOGGER.debug("Loading model to %s", mpath)
-        with open(mpath) as ifile:
+        with open(mpath, 'rb') as ifile:
             self._model = load(ifile)
         self._model.restore()
         self._mpath = mpath

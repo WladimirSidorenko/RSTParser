@@ -58,9 +58,11 @@ class Metrics(object):
     def _eval(self, goldbrackets, predbrackets, idx):
         """ Evaluation on each discourse span
         """
-        goldspan = [item[:idx] for item in goldbrackets]
-        predspan = [item[:idx] for item in predbrackets]
-        allspan = [span for span in goldspan if span in predspan]
+        goldspan = set([item[:idx] for item in goldbrackets])
+        predspan = set([item[:idx] for item in predbrackets])
+        allspan = [span
+                   for span in goldspan
+                   if span in predspan]
         p, r = 0.0, 0.0
         for span in allspan:
             if span in goldspan:

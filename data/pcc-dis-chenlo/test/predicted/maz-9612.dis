@@ -2,34 +2,34 @@
 (span 1 14)
 (Nucleus
   (leaf 1)
-  (rel2par non-contrastive)
+  (rel2par other)
   (text _!Alle sind es nicht_!)
   )
 (Nucleus
   (span 2 14)
-  (rel2par non-contrastive)
-  (Nucleus
+  (rel2par other)
+  (Satellite
     (leaf 2)
-    (rel2par non-contrastive)
+    (rel2par background)
     (text _!Die Bundeswehr geht davon aus , dass ihre geplanten Aktivitäten aus der Luft " keine relevanten Auswirkungen auf die Entwicklung der Region im touristischen Bereich " haben werden ._!)
     )
   (Nucleus
     (span 3 14)
-    (rel2par non-contrastive)
-    (Nucleus
+    (rel2par span)
+    (Satellite
       (leaf 3)
-      (rel2par non-contrastive)
+      (rel2par background)
       (text _!Jahrelange Erfahrungen in anderen Gebieten der Bundesrepublik hätten gezeigt , dass militärische Einrichtungen durchaus mit den Interessen des Tourismus in Einklang zu bringen seien ._!)
       )
     (Nucleus
       (span 4 14)
-      (rel2par non-contrastive)
-      (Nucleus
+      (rel2par span)
+      (Satellite
         (span 4 5)
-        (rel2par non-contrastive)
+        (rel2par background)
         (Satellite
           (leaf 4)
-          (rel2par non-contrastive)
+          (rel2par other)
           (text _!So jedenfalls steht es in der Erläuterung zum Luft/Bodenschießplatz bei Wittstock ._!)
           )
         (Nucleus
@@ -40,18 +40,18 @@
         )
       (Nucleus
         (span 6 14)
-        (rel2par non-contrastive)
+        (rel2par span)
         (Nucleus
           (leaf 6)
-          (rel2par non-contrastive)
+          (rel2par other)
           (text _!Stopp , die Aussage ist nicht ganz korrekt ._!)
           )
         (Nucleus
           (span 7 14)
-          (rel2par non-contrastive)
+          (rel2par other)
           (Nucleus
             (span 7 8)
-            (rel2par non-contrastive)
+            (rel2par other)
             (Nucleus
               (leaf 7)
               (rel2par span)
@@ -59,56 +59,56 @@
               )
             (Satellite
               (leaf 8)
-              (rel2par non-contrastive)
+              (rel2par other)
               (text _!denn es liegt auf der Hand , dass sich auch wenigstens Teile des ehemaligen Kreises Kyritz darüber Gedanken machen müssen , wie sie mit den Überfliegern klarkommen ._!)
               )
             )
           (Nucleus
             (span 9 14)
-            (rel2par non-contrastive)
+            (rel2par other)
             (Nucleus
               (leaf 9)
-              (rel2par non-contrastive)
+              (rel2par other)
               (text _!Massiver Widerstand hat sich bisher nicht geregt ._!)
               )
             (Nucleus
               (span 10 14)
-              (rel2par non-contrastive)
+              (rel2par other)
               (Nucleus
                 (span 10 11)
                 (rel2par span)
                 (Nucleus
                   (leaf 10)
-                  (rel2par span)
+                  (rel2par other)
                   (text _!Spät werden jetzt vereinzelt Proteste laut ,_!)
                   )
-                (Satellite
+                (Nucleus
                   (leaf 11)
-                  (rel2par non-contrastive)
+                  (rel2par other)
                   (text _!angeregt und unterstützt allerdings auch nur von Einzelpersonen ._!)
                   )
                 )
               (Satellite
                 (span 12 14)
-                (rel2par non-contrastive)
+                (rel2par other)
+                (Satellite
+                  (leaf 12)
+                  (rel2par other)
+                  (text _!Die Kommunen sind bisher sehr gelassen mit dem Problem umgegangen ._!)
+                  )
                 (Nucleus
-                  (span 12 13)
-                  (rel2par non-contrastive)
-                  (Satellite
-                    (leaf 12)
-                    (rel2par non-contrastive)
-                    (text _!Die Kommunen sind bisher sehr gelassen mit dem Problem umgegangen ._!)
-                    )
+                  (span 13 14)
+                  (rel2par span)
                   (Nucleus
                     (leaf 13)
                     (rel2par span)
                     (text _!Sie haben es dem Landkreis Ost-prignitz-Ruppin überlassen , die nichtmilitärische Nutzung der Kyritz-Ruppiner Heide einzufordern ._!)
                     )
-                  )
-                (Nucleus
-                  (leaf 14)
-                  (rel2par non-contrastive)
-                  (text _!Überzeugung oder einfach nur Verdrängung - die Frage bleibt offen ._!)
+                  (Satellite
+                    (leaf 14)
+                    (rel2par other)
+                    (text _!Überzeugung oder einfach nur Verdrängung - die Frage bleibt offen ._!)
+                    )
                   )
                 )
               )

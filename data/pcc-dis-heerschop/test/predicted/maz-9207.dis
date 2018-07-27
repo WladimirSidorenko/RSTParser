@@ -2,71 +2,71 @@
 (span 1 13)
 (Nucleus
   (leaf 1)
-  (rel2par non-contrastive)
+  (rel2par other)
   (text _!Fachliche Leistung_!)
   )
 (Nucleus
   (span 2 13)
-  (rel2par non-contrastive)
+  (rel2par other)
   (Nucleus
-    (span 2 4)
-    (rel2par non-contrastive)
-    (Nucleus
-      (span 2 3)
-      (rel2par span)
+    (span 2 10)
+    (rel2par span)
+    (Satellite
+      (span 2 4)
+      (rel2par background)
       (Nucleus
         (leaf 2)
-        (rel2par span)
+        (rel2par other)
         (text _!Heute verleiht das brandenburgische Umweltministerium den mit 10_000 Mark dotierten Erwin-Strittmatter-Preis an die Schriftstellerin Susanne Paulsen ._!)
         )
-      (Satellite
-        (leaf 3)
-        (rel2par non-contrastive)
-        (text _!Mit der Auszeichnung sollen " Literatur und Autoren geehrt werden , die sich in Umweltbelange einmischen " ._!)
+      (Nucleus
+        (span 3 4)
+        (rel2par other)
+        (Nucleus
+          (leaf 3)
+          (rel2par span)
+          (text _!Mit der Auszeichnung sollen " Literatur und Autoren geehrt werden , die sich in Umweltbelange einmischen " ._!)
+          )
+        (Satellite
+          (leaf 4)
+          (rel2par other)
+          (text _!Das klingt fast so , als sei Gut-Gemeintes preisverdächtig ._!)
+          )
         )
       )
-    (Satellite
-      (leaf 4)
-      (rel2par non-contrastive)
-      (text _!Das klingt fast so , als sei Gut-Gemeintes preisverdächtig ._!)
-      )
-    )
-  (Nucleus
-    (span 5 13)
-    (rel2par non-contrastive)
-    (Satellite
+    (Nucleus
       (span 5 10)
-      (rel2par non-contrastive)
+      (rel2par span)
       (Nucleus
         (leaf 5)
-        (rel2par non-contrastive)
+        (rel2par other)
         (text _!Eine solche Fördermaßnahme für Öko-Literatur verkennt , dass es immer nur gelungene und missratene Texte gibt ._!)
         )
       (Nucleus
         (span 6 10)
-        (rel2par non-contrastive)
+        (rel2par other)
         (Satellite
           (leaf 6)
-          (rel2par non-contrastive)
+          (rel2par background)
           (text _!Das Verhältnis zur Natur ist für viele Dichter ein großes Thema ._!)
           )
         (Nucleus
           (span 7 10)
           (rel2par span)
-          (Satellite
+          (Nucleus
             (span 7 9)
-            (rel2par non-contrastive)
+            (rel2par other)
             (Nucleus
               (leaf 7)
-              (rel2par span)
+              (rel2par other)
               (text _!Den Literaturpreis haben bisher Schöngeister wie Hanns Cibulka und Wulf Kirsten , Volker Braun und Thomas Rosenlöcher bekommen ._!)
               )
-            (Satellite
+            (Nucleus
               (span 8 9)
-              (rel2par non-contrastive)
+              (rel2par other)
               (Satellite
                 (leaf 8)
-                (rel2par non-contrastive)
+                (rel2par condition)
                 (text _!Wer aus ihren Gedichten ein umweltpolitisches Engagement ableitet ,_!)
                 )
               (Nucleus
@@ -78,33 +78,33 @@
             )
           (Nucleus
             (leaf 10)
-            (rel2par span)
+            (rel2par other)
             (text _!Die Zeiten , da die Literatur Aufklärungs- und Bekenntnisarbeit mitleisten musste , sind zum Glück vorbei ._!)
             )
           )
         )
       )
+    )
+  (Satellite
+    (span 11 13)
+    (rel2par other)
     (Nucleus
-      (span 11 13)
+      (leaf 11)
       (rel2par span)
+      (text _!Deshalb ist es auch gut , dass das Umweltministerium in diesem Jahr in engerem Sinne auf fachliche Leistungen setzt ._!)
+      )
+    (Satellite
+      (span 12 13)
+      (rel2par other)
       (Nucleus
-        (leaf 11)
+        (leaf 12)
         (rel2par span)
-        (text _!Deshalb ist es auch gut , dass das Umweltministerium in diesem Jahr in engerem Sinne auf fachliche Leistungen setzt ._!)
+        (text _!Susanne Paulsen bekommt den Preis für ein erzählendes Sachbuch ,_!)
         )
       (Satellite
-        (span 12 13)
-        (rel2par non-contrastive)
-        (Nucleus
-          (leaf 12)
-          (rel2par span)
-          (text _!Susanne Paulsen bekommt den Preis für ein erzählendes Sachbuch ,_!)
-          )
-        (Satellite
-          (leaf 13)
-          (rel2par non-contrastive)
-          (text _!das dem Leser die rätselhafte Welt der Pflanzen näherbringt ._!)
-          )
+        (leaf 13)
+        (rel2par other)
+        (text _!das dem Leser die rätselhafte Welt der Pflanzen näherbringt ._!)
         )
       )
     )

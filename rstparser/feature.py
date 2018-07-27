@@ -85,8 +85,7 @@ class FeatureExtractor(object):
             feats[('Top2-Stack', 'Dist-To-Begin')] = span.eduspan[0]
             feats[('Top2-Stack', 'Dist-To-End')] = doclen - span.eduspan[1]
         if queue_node is not None:
-            span = queue_node
-            feats[('First-Queue', 'Dist-To-Begin')] = span.eduspan[0]
+            feats[('First-Queue', 'Dist-To-Begin')] = queue_node.eduspan[0]
 
     @classmethod
     def extract_status_feats(cls, feats, stack_node1, stack_node2,
@@ -200,9 +199,8 @@ class FeatureExtractor(object):
             for gram in grams:
                 feats[('Top2-Stack', 'nGram', gram)] = 1
         if queue_node is not None:
-            span = queue_node
             # feats[('First-Queue', 'nTokens', len(span.text))
-            grams = getgrams(span.text, tokendict)
+            grams = getgrams(queue_node.text, tokendict)
             for gram in grams:
                 feats[('First-Queue', 'nGram', gram)] = 1
 
