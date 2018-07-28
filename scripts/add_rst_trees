@@ -1,0 +1,193 @@
+#!/usr/bin/env python
+
+##################################################################
+# Imports
+from __future__ import absolute_import, print_function, unicode_literals
+
+from six import iteritems
+import argparse
+import json
+import logging
+import re
+import sys
+
+from rstparser.conll import CoNLLDoc, CoNLLToken
+from rstparser.parser import RSTParser
+from rstparser.node import SpanNode
+
+
+##################################################################
+# Constants
+SPACE_RE = re.compile('\s+')
+RST_TREES = "rst_trees"
+LOG_LVL = logging.INFO
+LOGGER = logging.getLogger("RSTParser")
+LOGGER.setLevel(LOG_LVL)
+formatter = logging.Formatter(
+    "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+)
+sh = logging.StreamHandler()
+sh.setLevel(LOG_LVL)
+sh.setFormatter(formatter)
+LOGGER.addHandler(sh)
+
+
+##################################################################
+# Methods
+def get_edus(tweet, conll_doc):
+    """Generate list of EDUs from given tweet.
+
+    :param dict tweet: input tweet
+    :param CoNLLDoc conll_doc: CoNLL document to populate
+
+    :return: list of EDUs
+    :rtype: list[list[int]]
+
+    """
+    edus = []
+    edudict = conll_doc.edudict
+    for i, e in enumerate(tweet.get("edus", []), 1):
+        edu_i = SpanNode("")
+        edu_i.nucedu = i
+        edu_i.nucspan = (i, i)
+        edu_i.eduspan = (i, i)
+        edu_i.text = e["toks"]
+        edudict[i] = edu_i.text[:]
+        edus.append(edu_i)
+    return edus
+
+
+def get_conll(tweet, conll_doc):
+    """Generate CoNLL document from given tweet.
+
+    :param dict tweet: input tweet
+    :param CoNLLDoc conll_doc: CoNLL document to populate
+
+    :return: list of EDUs
+    :rtype: list[list[int]]
+
+    """
+    edudict = conll_doc.edudict
+    tok2edu = {t: e
+               for e, toks in iteritems(edudict)
+               for t in toks}
+    tokendict = conll_doc.tokendict
+    children = {}
+    active_nodes = set()
+    for i, tok_i in enumerate(tweet["toks"]):
+        conll_tok = CoNLLToken()
+        conll_tok.word = tok_i["form"]
+        conll_tok.lemma = tok_i["lemma"]
+        conll_tok.pos = tok_i["tag"]
+        conll_tok.deplabel = tok_i["rel"]
+        conll_tok.hidx = tok_i["prnt"]
+        conll_tok.eduidx = tok2edu[i]
+        gidx = len(tokendict)
+        if conll_tok.hidx < 0:
+            conll_tok.sidx = len(active_nodes)
+            active_nodes.add(gidx)
+        children[gidx] = tok_i["children"]
+        conll_tok.gidx = gidx
+        tokendict[gidx] = conll_tok
+    # determine sentence indices
+    visited_nodes = set(active_nodes)
+    while active_nodes:
+        gidx = active_nodes.pop()
+        node = tokendict[gidx]
+        sidx = node.sidx
+        assert sidx is not None, \
+            "Unknown sentence index for token: {!r}".format(
+                node
+            )
+        for child_gidx in children[gidx]:
+            if child_gidx in visited_nodes:
+                continue
+            child_node = tokendict[child_gidx]
+            child_node.sidx = sidx
+            visited_nodes.add(child_gidx)
+            active_nodes.add(child_gidx)
+
+
+def tree2dict(node, tree_dict, node_id=-1):
+    """Convert RST tree to dictionary representation.
+
+    :param SpanNode root: root of the RST tree
+    :param dict or None tree_dict: dictionary in which to store the tree
+    :param int node_id: id of an abstract node
+
+    :return: id to assign to the next abstract node
+
+    """
+    tree_dict["rel2par"] = node.relation
+    tree_dict["n/s"] = node.prop
+    tree_dict["children"] = []
+
+    # assign non-negative ids to terminal nodes
+    if node.lnode is None and node.rnode is None:
+        assert len(node.nodelist) == 0, \
+            "Children discovered at terminal node {:d}: {!r}".format(
+                node.nucedu, node.nodelist
+            )
+        tree_dict["id"] = node.nucedu
+    else:
+        tree_dict["id"] = node_id
+        node_id -= 1
+    if node.lnode is None and node.rnode is None:
+        tree_dict["children"] = []
+        return node_id
+    if node.lnode is not None:
+        chld = {}
+        node_id = tree2dict(node.lnode, chld, node_id)
+        tree_dict["children"].append(chld)
+    if node.rnode is not None:
+        chld = {}
+        node_id = tree2dict(node.rnode, chld, node_id)
+        tree_dict["children"].append(chld)
+    return node_id
+
+
+def main(argv):
+    """Main method for adding RST trees to JSON data.
+
+    Args:
+      argv (list[str]): CLI arguments
+
+    Retruns:
+      int: 0 on success, non-0 otherwise
+
+    """
+    argparser = argparse.ArgumentParser(
+        description="Script for adding information about discourse segments"
+        " to JSON files."
+    )
+    argparser.add_argument("name",
+                           help="name of the RST relation scheme used to"
+                           " derive the trees")
+    argparser.add_argument("parser_model",
+                           help="path to the trained RST parser model")
+    argparser.add_argument("json_file",
+                           help="JSON file to which we should add information")
+    args = argparser.parse_args(argv)
+    parser = RSTParser([], [], args.parser_model)
+
+    with open(args.json_file) as ifile:
+        data = json.load(ifile)
+
+    for tweet_i in data["tweets"]:
+        conll_doc = CoNLLDoc()
+        edus = get_edus(tweet_i, conll_doc)
+        get_conll(tweet_i, conll_doc)
+        tree = parser.parse(edus, conll_doc)
+        if RST_TREES not in tweet_i:
+            tweet_i[RST_TREES] = {}
+        tree_dict = {}
+        tree2dict(tree, tree_dict)
+        tweet_i[RST_TREES][args.name] = tree_dict
+    json.dump(data, sys.stdout, indent=1)
+    return 0
+
+
+##################################################################
+# Main
+if __name__ == "__main__":
+    main(sys.argv[1:])
